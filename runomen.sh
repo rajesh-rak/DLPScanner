@@ -1,6 +1,8 @@
 #!/bin/bash
 #
-# Script to run Omen+ for a given set of test cases
+# @Author: Rajesh Kumar R (rajesh.rak@gmail.com)
+# 
+#Script to run Omen+ for a given set of test cases
 # NOTE: All Test class directories must be at the same folder
 #       where this script is present
 # Usage: runomen [-c/-compile] -testdir=<folder name of the test classes>
