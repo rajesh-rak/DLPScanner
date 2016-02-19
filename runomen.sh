@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# @Author: Rajesh Kumar R (rajesh.rak@gmail.com)
+# @Author: Rajesh Kumar R (rajesh.rak@gmail.com) IIIT-B MS2013007
 # 
 #Script to run Omen+ for a given set of test cases
 # NOTE: All Test class directories must be at the same folder
@@ -15,7 +15,12 @@
 # The Lib folder of Omen needs to be copied to the same location where the scripts are
 # With the current version omenfolder must be . (current folder), this parameter kept for
 # future updates
-omenfolder=.
+
+# comment out below line and hard code path if script is not present in the working directory
+# Eg: omenfolder=/home/rajesh/code/DLPScanner
+
+omenfolder=$(pwd)
+
 
 # ---Variables and constants---
 
@@ -29,13 +34,12 @@ isCompile="false"
 testDir="NOT-SPECIFIED"
 inparam=""
 invalue=""
-runclass="RandoopTest"
+runClass="RandoopTest"
 
 # ---Initializions---
 export ANT_OPTS=-Dfile.encoding=ISO-8859-1
 export JAVA_TOOL_OPTIONS=-Dfile.encoding=ISO-8859-1
-export OMEN_CLASSPATH=$omenfolder/lib/sootall-2.3.0.jar:$omenfolder/lib/omen.jar:$omenfolder/lib/concurrent.jar:$omenfolder/lib/randoop.jar:$omenfolder/lib/tools.jar
-export OMEN_CLASSPATH_ALL=$omenfolder/lib/*
+export OMEN_CLASSPATH=$omenfolder:$omenfolder/lib/sootall-2.3.0.jar:$omenfolder/lib/omen.jar:$omenfolder/lib/concurrent.jar:$omenfolder/lib/randoop.jar:$omenfolder/lib/tools.jar:$omenfolder/lib/junit-4.11.jar:$omenfolder/lib/colt-1.2.0.jar:$omenfolder/lib/colt-hep.jar
 
 #---Extract Command Line arguments---"
 echo ""
@@ -55,7 +59,9 @@ do
    		testDir=$invalue
 	elif [ "$inparam" == "-class" ]
 	then
-   		runClass=$invalue
+   		
+		echo "inside -class"		
+		runClass=$invalue
 	else
    		echo "Unrecognized Parameter: $inparam"
 	fi
@@ -96,7 +102,7 @@ fi
 echo ""
 echo "Executing Omen..."
 
-java -Xms2048m -Xmx4096m -ea  -cp $OMEN_CLASSPATH:./$testDir/classes omen.util.OmenDriver --user-specified-test $runClass -omen.runwolf "true" -omen.kappa "5"  -omen-output-dir "./output/$testDir/"
+java -Xms2048m -Xmx4096m -ea  -cp $OMEN_CLASSPATH:./$testDir/classes omen.util.OmenDriver --user-specified-test $runClass -omen.runwolf "false" -omen.kappa "5"  -omen-output-dir "./output/$testDir/"
 
 #Moving opertional files to output logs
 mkdir ./output/$testDir/logs
