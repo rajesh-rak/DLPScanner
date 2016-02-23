@@ -54,6 +54,6 @@ cd $wfolder
 echo ""
 echo "Attempting to generate Randoop Tests..."
 
-java -Xms2048m -Xmx4096m randoop.main.Main gentests --classlist=$listfile --timelimit=60
+java -Xms2048m -Xmx4096m randoop.main.Main gentests --classlist=$listfile --timelimit=30 --inputlimit=50 --outputlimit=40
 cd ..
 echo "...done"
