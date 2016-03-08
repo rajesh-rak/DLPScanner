@@ -58,15 +58,34 @@ echo $wfolder
 if [ "$execfolder" == "NOT-SPECIFIED" ]
 then
 	echo "Executing under current folder"
+	if [ ! -d "$wfolder" ] 
+	then
+		echo "Folder with classlist does not exist...terminating"
+		echo ""
+		exit 0
+	fi
 else 
 	cd $execfolder
 	echo "Executing under folder: $execfolder"
+	if [ ! -d "$execfolder" ] 
+	then
+		echo "Execution folder does not exist...terminating"
+		echo ""
+		exit 0
+	fi
+
+	if [ ! -d "$execfolder/$wfolder" ] 
+	then
+		echo "Folder with classlist does not exist...terminating"
+		echo ""
+		exit 0
+	fi
 fi
 
 
 cd $wfolder
-ls
 echo "PWD:"$(pwd)
+ls
 
 echo ""
 echo "Attempting to generate Randoop Tests..."
@@ -82,3 +101,4 @@ else
 fi
 
 echo "...done"
+exit 0

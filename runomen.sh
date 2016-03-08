@@ -6,7 +6,10 @@
 # NOTE: All Test class directories must be at the same folder
 #       where this script is present
 # Usage: runomen [-c/-compile] -testdir=<folder name of the test classes>
-#                              [-class=class name of the main method/ default: RandoopTest]
+#                              [-class=class name of the main metho
+# 					default: RandoopTest]
+#                              [-execdir=<folder name where the testdir is present>]
+#			       [-dryrun, when specified no execution will be done]
 # Example ./runomen.sh -c -testdir=demo -class=TestAccount
 # Note that test directory and lib folders of omen needs to be at the same location
 # as that of this script
@@ -28,6 +31,8 @@ compileChar1="-c"
 complieChar2="-compile"
 testDirChar="-testdir"
 delim="="
+execfolder="NOT-SPECIFIED"
+dryrun="FALSE"
 
 
 isCompile="false"
@@ -59,9 +64,15 @@ do
    		testDir=$invalue
 	elif [ "$inparam" == "-class" ]
 	then
-   		
 		echo "inside -class"		
 		runClass=$invalue
+	elif [ "$inparam" == "-execfolder" ]
+	then
+		execfolder=$invalue
+	elif [ "$inparam" == "-dryrun" ]
+	then
+		dryrun="TRUE"
+
 	else
    		echo "Unrecognized Parameter: $inparam"
 	fi
@@ -74,33 +85,68 @@ then
 	exit 0
 fi
 
-if [ ! -d "$testDir" ] 
-then
-	echo "Test Case Directory does not exist...terminating"
-	echo ""
-	exit 0
-fi
 
 echo
 echo "Compile $isCompile"
 echo "Test Directory $testDir"
 echo ""
 
+if [ "$execfolder" == "NOT-SPECIFIED" ]
+then
+	echo "Executing under current folder"
+	if [ ! -d "$testDir" ] 
+	then
+		echo "Test Case Directory does not exist...terminating"
+		echo ""
+		exit 0
+	fi
+else 
+	if [ ! -d "$execfolder" ] 
+	then
+		echo "Execution folder does not exist...terminating"
+		echo ""
+		exit 0
+	fi
+	cd $execfolder
+	echo "Executing under folder: $execfolder"
+	
+fi
+
+echo "PWD:"$(pwd)
+
 if [ "$isCompile" == "true" ]
 then
 	echo ""
 	echo "Compiling ..."
 	cd $testDir
+	echo "PWD:"$(pwd)
 	rm -f -r ./classes
 	mkdir classes
-	pwd
-	javac -cp ../$OMEN_CLASSPATH:. -d ./classes *.java
+	echo "PWD:"$(pwd)
+	
+	echo "Dry Run: $dryrun"
+	if [ "$dryrun" == "FALSE" ]
+	then
+	#{
+	javac -cp $OMEN_CLASSPATH:. -d ./classes *.java
+	#}
+	else
+		echo "...dry run...no compile ..."
+	fi
 	cd ..
+	
 fi
+
+
 
 
 echo ""
 echo "Executing Omen..."
+echo "PWD:"$(pwd)
+
+if [ "$dryrun" == "FALSE" ]
+then
+#{
 
 java -Xms2048m -Xmx4096m -ea  -cp $OMEN_CLASSPATH:./$testDir/classes omen.util.OmenDriver --user-specified-test $runClass -omen.runwolf "false" -omen.kappa "5"  -omen-output-dir "./output/$testDir/"
 
@@ -108,6 +154,11 @@ java -Xms2048m -Xmx4096m -ea  -cp $OMEN_CLASSPATH:./$testDir/classes omen.util.O
 mkdir ./output/$testDir/logs
 mv tmp ./output/$testDir/
 mv error.log error.list iidToLine.map iidToLine.map.html omen.wolf.javato.usedids ./output/$testDir/logs
+
+#}
+else
+	echo "...dry run...no exec"
+fi
 
 echo "...Omen Execution done!"
 echo ""
