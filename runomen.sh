@@ -4,7 +4,8 @@
 # 
 #Script to run Omen+ for a given set of test cases
 # NOTE: All Test class directories must be at the same folder
-#       where this script is present
+#       where this script is present. If in a different folder, it must be specified
+#	by the -execdir option
 # Usage: runomen [-c/-compile] -testdir=<folder name of the test classes>
 #                              [-class=class name of the main metho
 # 					default: RandoopTest]
@@ -33,7 +34,7 @@ testDirChar="-testdir"
 delim="="
 execfolder="NOT-SPECIFIED"
 dryrun="FALSE"
-
+outputfolder="./output"
 
 isCompile="false"
 testDir="NOT-SPECIFIED"
@@ -44,7 +45,7 @@ runClass="RandoopTest"
 # ---Initializions---
 export ANT_OPTS=-Dfile.encoding=ISO-8859-1
 export JAVA_TOOL_OPTIONS=-Dfile.encoding=ISO-8859-1
-export OMEN_CLASSPATH=$omenfolder:$omenfolder/lib/sootall-2.3.0.jar:$omenfolder/lib/omen.jar:$omenfolder/lib/concurrent.jar:$omenfolder/lib/randoop.jar:$omenfolder/lib/tools.jar:$omenfolder/lib/junit-4.11.jar:$omenfolder/lib/colt-1.2.0.jar:$omenfolder/lib/colt-hep.jar
+export OMEN_CLASSPATH=$omenfolder/lib/rt.jar:$omenfolder/lib/omen.jar:$omenfolder/lib/sootall-2.3.0.jar:$$omenfolder/lib/concurrent.jar:$omenfolder/lib/randoop.jar:$omenfolder/lib/tools.jar:$omenfolder/lib/junit-4.11.jar:$omenfolder/lib/colt-1.2.0.jar:$omenfolder/lib/colt-hep.jar:$omenfolder
 
 #---Extract Command Line arguments---"
 echo ""
@@ -91,6 +92,7 @@ echo "Compile $isCompile"
 echo "Test Directory $testDir"
 echo ""
 
+
 if [ "$execfolder" == "NOT-SPECIFIED" ]
 then
 	echo "Executing under current folder"
@@ -100,6 +102,8 @@ then
 		echo ""
 		exit 0
 	fi
+	outputfolder="$outputfolder/$testDir"
+	
 else 
 	if [ ! -d "$execfolder" ] 
 	then
@@ -107,10 +111,18 @@ else
 		echo ""
 		exit 0
 	fi
+	if [ ! -d "$execfolder/$testDir" ] 
+	then
+		echo "Test Case folder does not exist @ exec folder...terminating"
+		echo ""
+		exit 0
+	fi
 	cd $execfolder
+	outputfolder="$execfolder/output/$testDir"
 	echo "Executing under folder: $execfolder"
 	
 fi
+echo "Output Folder: $outputfolder"
 
 echo "PWD:"$(pwd)
 
@@ -137,7 +149,18 @@ then
 	
 fi
 
+cd $omenfolder
 
+
+if [ ! "$execfolder" == "NOT-SPECIFIED" ]
+then
+	sourceDir="$execfolder/$testDir"
+	execDir="$omenfolder/x$testDir"
+	echo "Source: $sourceDir Dest: $execDir"
+	cp -a $sourceDir $execDir
+else
+	execDir="./$testDir"
+fi
 
 
 echo ""
@@ -148,12 +171,12 @@ if [ "$dryrun" == "FALSE" ]
 then
 #{
 
-java -Xms2048m -Xmx4096m -ea  -cp $OMEN_CLASSPATH:./$testDir/classes omen.util.OmenDriver --user-specified-test $runClass -omen.runwolf "false" -omen.kappa "5"  -omen-output-dir "./output/$testDir/"
+java -Xms2048m -Xmx4096m -ea  -cp $OMEN_CLASSPATH:$execDir/classes omen.util.OmenDriver --user-specified-test $runClass -omen.runwolf "false" -omen.kappa "5"  -omen-output-dir "$outputfolder/"
 
 #Moving opertional files to output logs
-mkdir ./output/$testDir/logs
-mv tmp ./output/$testDir/
-mv error.log error.list iidToLine.map iidToLine.map.html omen.wolf.javato.usedids ./output/$testDir/logs
+mkdir $outputfolder/logs
+mv tmp $outputfolder
+mv error.log error.list iidToLine.map iidToLine.map.html omen.wolf.javato.usedids  $outputfolder/logs
 
 #}
 else
@@ -161,7 +184,12 @@ else
 fi
 
 echo "...Omen Execution done!"
-echo ""
 
+if [ ! "$execfolder" == "NOT-SPECIFIED" ]
+then
+	echo "...cleanign up exec folder"
+	rm -rdf $execDir
+fi
+echo "Done!"
 
 exit 0
