@@ -26,6 +26,9 @@
 #  in this script
 # NOTE: The lib folder with all the necessary jar files is expected to be present
 # in the current folder for this script to function correctly
+# 
+# This script does not take any parameter, make sure dlpscanner.properties is 
+# in the current directory
 
 pwdir=$(pwd)
 
