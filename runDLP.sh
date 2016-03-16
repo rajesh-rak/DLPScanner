@@ -41,9 +41,62 @@
 #   script
 #
 # --------------------------------------------
-
-# Step-1: Invoking Dead Lock Prediction Scanner to scan 
 #
-./runscanner.sh
+DRY_RUN="ON" 
+inputFile="scanresultfolder.out"
+echo "DLP initiated..."
+execFolder="NOT SPECIFIED"
+pDir="NOT SPECIFIED"
+
+if [ $DRY_RUN == "ON" ];then
+	echo "DRY RUN IS ON...no execution will be done"
+fi
+if [ ! $DRY_RUN == "ON" ];then
+	echo "DRY RUN IS OFF...DLP will execute "
+fi
+
+
+if [ ! $DRY_RUN == "ON" ];then
+	./runscanner.sh
+fi
+
+IFS=$'\n'
+for outFolder in $(cat "./$inputFile")
+do
+	execFolder=$outFolder
+done 
+echo "Processing Folder:...$execFolder"
+
+for dirName in $execFolder/*
+do
+	echo "."
+	echo "."
+	echo "."
+
+	if [ -d ${dirName} ]
+	then
+		pDir=${dirName##*/}
+		echo "--Generating Randoop Test cases for: $pDir--"
+		if [ ! $DRY_RUN == "ON" ];then
+			./genrandoop.sh -dir=$pDir -execfolder=$execFolder 
+		else
+			./genrandoop.sh -dir=$pDir -execfolder=$execFolder -dryrun
+		fi	
+		echo
+		echo
+		echo "--Tests Generated...executing Omen+--"
+		if [ ! $DRY_RUN == "ON" ];then
+			./runomen.sh -c -testdir=$pDir -execfolder=$execFolder 
+		else
+			./runomen.sh -c -testdir=$pDir -execfolder=$execFolder -dryrun
+		fi	
+
+	fi
+done
+
+
+
+
+
 
 

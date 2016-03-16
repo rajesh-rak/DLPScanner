@@ -9,7 +9,7 @@
 # Usage: runomen [-c/-compile] -testdir=<folder name of the test classes>
 #                              [-class=class name of the main metho
 # 					default: RandoopTest]
-#                              [-execdir=<folder name where the testdir is present>]
+#                              [-execfolder=<folder name where the testdir is present>]
 #			       [-dryrun, when specified no execution will be done]
 # Example ./runomen.sh -c -testdir=demo -class=TestAccount
 # Note that test directory and lib folders of omen needs to be at the same location

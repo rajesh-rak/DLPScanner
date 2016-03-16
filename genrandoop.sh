@@ -3,13 +3,17 @@
 # @Author: Rajesh Kumar R (rajesh.rak@gmail.com) IIIT-B MS2013007
 # 
 # Script to generate Randoop Test classes based on a given list of files
-# NOTE: The folder containing the list of classes need to be in the current 
-# directory and the folder name is to be sent as a parameter to this script
 # 
-# Usage: ./genrandoop -dir=<folder name> [-listfile=<class list file name>] [-execfolder=<working folder>] [-dryrun]
+# The folder containing file (passed in the 'dir parameter) with the list of 
+# class names need to be in the current directory or at the 'execfolder' 
+# (passed as parameter) and the folder name specified by the 'dir' parameter 
+# 
+# Usage: ./genrandoop -dir=<folder name> [-listfile=<class list file name>] 
+# 					 [-execfolder=<working folder>] 
+#					 [-dryrun]
 #	the class list file is expected to be contained in the folder specified 
 #	by the -dir parameter. If not specified it will be taken as classlist.txt
-#       wfolder is the parameter to specify a working folder under which the folder
+#       execfolder is the parameter to specify a working folder under which the folder
 #       specified by -dir parameter is present
 # 	if dryrun is specified then the actual execution will not be performed
 pwdir=$(pwd)
