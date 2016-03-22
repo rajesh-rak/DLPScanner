@@ -45,7 +45,7 @@ runClass="RandoopTest"
 # ---Initializions---
 export ANT_OPTS=-Dfile.encoding=ISO-8859-1
 export JAVA_TOOL_OPTIONS=-Dfile.encoding=ISO-8859-1
-export OMEN_CLASSPATH=$omenfolder/lib/rt.jar:$omenfolder/lib/omen.jar:$omenfolder/lib/sootall-2.3.0.jar:$$omenfolder/lib/concurrent.jar:$omenfolder/lib/randoop.jar:$omenfolder/lib/tools.jar:$omenfolder/lib/junit-4.11.jar:$omenfolder/lib/colt-1.2.0.jar:$omenfolder/lib/colt-hep.jar:$omenfolder
+export OMEN_CLASSPATH=$omenfolder/lib/rt.jar:$omenfolder/lib/omen.jar:$omenfolder/lib/sootall-2.3.0.jar:$$omenfolder/lib/concurrent.jar:$omenfolder/lib/randoop.jar:$omenfolder/lib/tools.jar:$omenfolder/lib/junit-4.11.jar:$omenfolder/lib/colt-1.2.0.jar:$omenfolder/lib/colt-hep.jar:$omenfolder/lib/Account.jar:$omenfolder
 
 #---Extract Command Line arguments---"
 echo ""

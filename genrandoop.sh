@@ -54,7 +54,6 @@ then
 	exit 0
 fi
 
-export CLASSPATH=$pwdir:$pwdir/$wfolder:$pwdir/lib/sootall-2.3.0.jar:$pwdir/lib/omen.jar:$pwdir/lib/concurrent.jar:$pwdir/lib/randoop.jar:$pwdir/lib/tools.jar:$pwdir/lib/junit-4.11.jar:$pwdir/lib/colt-1.2.0.jar:$pwdir/lib/colt-hep.jar
 
 echo $listfile
 echo $wfolder
@@ -62,14 +61,15 @@ echo $wfolder
 if [ "$execfolder" == "NOT-SPECIFIED" ]
 then
 	echo "Executing under current folder"
+	execfolder=$pwdir
 	if [ ! -d "$wfolder" ] 
 	then
 		echo "Folder with classlist does not exist...terminating"
 		echo ""
 		exit 0
 	fi
+	
 else 
-	cd $execfolder
 	echo "Executing under folder: $execfolder"
 	if [ ! -d "$execfolder" ] 
 	then
@@ -86,8 +86,12 @@ else
 	fi
 fi
 
+export CLASSPATH=$pwdir:$execfolder/$wfolder:$pwdir/lib/sootall-2.3.0.jar:$pwdir/lib/omen.jar:$pwdir/lib/concurrent.jar:$pwdir/lib/randoop.jar:$pwdir/lib/tools.jar:$pwdir/lib/junit-4.11.jar:$pwdir/lib/colt-1.2.0.jar:$pwdir/lib/colt-hep.jar:$pwdir/lib/Account.jar
 
-cd $wfolder
+echo "Classpath:"
+env | grep CLASSPATH
+
+cd $execfolder/$wfolder
 echo "PWD:"$(pwd)
 ls
 

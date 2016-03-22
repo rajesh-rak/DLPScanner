@@ -38,15 +38,35 @@
 # -------------------------------------------
 # Some things to take care:
 # - Make sure the dlpscanner.properties is in the same folder as that of the
-#   script
+#   script, all behavior of this script it controlled by dlpscanner.properties
 #
 # --------------------------------------------
 #
-DRY_RUN="ON" 
+# Usage ./runDLP.sh [-dryrun], if -dryrun parameter is specified, no actual
+#				execution will be done
+#
+DRY_RUN="OFF" 
 inputFile="scanresultfolder.out"
 echo "DLP initiated..."
 execFolder="NOT SPECIFIED"
 pDir="NOT SPECIFIED"
+
+for var in "$@"
+do
+	inparam=${var%${delim}*}
+	invalue=${var#*${delim}}
+
+	if [ "$inparam" == "-dryrun" ]
+	then
+		DRY_RUN="ON"
+	else
+   		echo "Unrecognized Parameter: $inparam"
+   		echo "Program Terminated"
+   		exit 0
+	fi
+
+done
+
 
 if [ $DRY_RUN == "ON" ];then
 	echo "DRY RUN IS ON...no execution will be done"
@@ -94,7 +114,53 @@ do
 	fi
 done
 
+if [ $DRY_RUN == "ON" ];then
+	echo "DLP Execution Completed! (Dry Run)"
+	exit 0
+fi	
 
+#Summarize Result:
+tresultfile="tmpresult.txt"
+ttestfile="tmptest.txt"
+resultfile="DLP_Result.out"
+cd $execFolder/output
+find . -name Analysis* > $tresultfile
+ls -d Test*/ > $ttestfile
+testcount=0
+positives=0
+
+while read line
+do
+	((testcount++))
+done < $ttestfile
+while read line
+do
+	((positives++))
+done < $tresultfile
+
+
+echo -e "DLP Execution Summary" >> $resultfile
+echo -e "---------------------" >> $resultfile
+echo -e "Total Test(s) executed\t\t: $testcount" 
+echo -e "Total Test(s) executed\t\t: $testcount" >> $resultfile
+
+echo -e "Total Dead-Lock(s) detected\t: $positives"
+echo -e "Total Dead-Lock(s) detected\t: $positives" >> $resultfile
+echo -e "_________________________________________" >> $resultfile
+echo -e "Dead Lock - Positives:" >> $resultfile
+echo -e "----------------------" >> $resultfile
+
+while read line
+do
+	tline=${line#*/}
+	xline=${tline%/*}
+	echo $xline >> $resultfile
+done < $tresultfile
+
+rm -f $tresultfile
+rm -f $ttestfile
+mv $resultfile ../
+echo "DLP Execution Completed!"
 
 
 
