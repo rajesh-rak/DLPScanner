@@ -50,6 +50,8 @@ inputFile="scanresultfolder.out"
 echo "DLP initiated..."
 execFolder="NOT SPECIFIED"
 pDir="NOT SPECIFIED"
+execLogFile="exec_log.txt"
+summaryOutFile="DLP_Execution_Report.csv"
 
 for var in "$@"
 do
@@ -114,10 +116,10 @@ do
 	fi
 done
 
-if [ $DRY_RUN == "ON" ];then
-	echo "DLP Execution Completed! (Dry Run)"
-	exit 0
-fi	
+#if [ $DRY_RUN == "ON" ];then
+#	echo "DLP Execution Completed! (Dry Run)"
+#	exit 0
+#fi	
 
 #Summarize Result:
 tresultfile="tmpresult.txt"
@@ -160,7 +162,52 @@ done < $tresultfile
 rm -f $tresultfile
 rm -f $ttestfile
 mv $resultfile ../
-echo "DLP Execution Completed!"
+
+#Summary Report
+outFolder=${execFolder%/*}
+runID=${execFolder##*/}
+if [ ! -f "$outFolder/$summaryOutFile" ]
+then
+	echo "No Summary File"
+	echo -e "RunID,Tests,Dead_Locks,NH_Depth,NH_Density,Lines_Parsed,Nodes_Parsed,Nodes_Shortlisted,Time_Stamp" >> $outFolder/$summaryOutFile
+fi
+nhDepth=""
+nhDensity=""
+linesParsed=""
+nodesParsed=""
+nodesShortlisted=""
+timeStamp=$(date +%Y.%m.%d-%H.%M.%S)
+
+while read rLine
+do
+	if [[ "$rLine" =~ "Neighbourhood Depth" ]]
+	then
+		nhDepth=${rLine##*:} 
+		nhDepth=${nhDepth//+([[:space:]])/}
+			
+	elif [[ "$rLine" =~ "Neighbourhood Density" ]]
+	then
+		nhDensity=${rLine##*:}
+		
+	elif [[ "$rLine" =~ "Total Lines Processed" ]]
+	then
+		linesParsed=${rLine##*:}
+		
+	elif [[ "$rLine" =~ "Total Nodes Processed" ]]
+	then
+		nodesParsed=${rLine##*:}
+		
+	elif [[ "$rLine" =~ "Total Nodes Selected" ]]
+	then
+		nodesShortlisted=${rLine##*:}
+	
+	fi
+
+	
+done < $execFolder/$execLogFile
+	echo -e "RunID,Tests,Dead_Locks,NH_Depth,NH_Density,Lines_Parsed,Nodes_Parsed,Nodes_Shortlisted,Time_Stamp"
+	echo "$runID,$testcount,$positives,$nhDepth,$nhDensity,$linesParsed,$nodesParsed,$nodesShortlisted,$timeStamp"
+
 
 
 
