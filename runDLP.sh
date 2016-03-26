@@ -116,10 +116,10 @@ do
 	fi
 done
 
-#if [ $DRY_RUN == "ON" ];then
-#	echo "DLP Execution Completed! (Dry Run)"
-#	exit 0
-#fi	
+if [ $DRY_RUN == "ON" ];then
+	echo "DLP Execution Completed! (Dry Run)"
+	exit 0
+fi	
 
 #Summarize Result:
 tresultfile="tmpresult.txt"
@@ -169,29 +169,27 @@ runID=${execFolder##*/}
 if [ ! -f "$outFolder/$summaryOutFile" ]
 then
 	echo "No Summary File"
-	echo -e "RunID,Tests,Dead_Locks,NH_Depth,NH_Density,Lines_Parsed,Nodes_Parsed,Nodes_Shortlisted,Time_Stamp" >> $outFolder/$summaryOutFile
+	echo -e "RunID,Tests,Dead_Locks,NH_Depth,NH_Density,Nodes_Parsed,Nodes_Shortlisted,Time_Stamp" >> $outFolder/$summaryOutFile
 fi
 nhDepth=""
 nhDensity=""
-linesParsed=""
 nodesParsed=""
 nodesShortlisted=""
 timeStamp=$(date +%Y.%m.%d-%H.%M.%S)
+
+shopt -s extglob
 
 while read rLine
 do
 	if [[ "$rLine" =~ "Neighbourhood Depth" ]]
 	then
 		nhDepth=${rLine##*:} 
-		nhDepth=${nhDepth//+([[:space:]])/}
+		echo "NH: depth:$nhDepth"
+		echo "NH: depth:$nhDepth" | tr -d '\t'
 			
 	elif [[ "$rLine" =~ "Neighbourhood Density" ]]
 	then
 		nhDensity=${rLine##*:}
-		
-	elif [[ "$rLine" =~ "Total Lines Processed" ]]
-	then
-		linesParsed=${rLine##*:}
 		
 	elif [[ "$rLine" =~ "Total Nodes Processed" ]]
 	then
@@ -205,8 +203,8 @@ do
 
 	
 done < $execFolder/$execLogFile
-	echo -e "RunID,Tests,Dead_Locks,NH_Depth,NH_Density,Lines_Parsed,Nodes_Parsed,Nodes_Shortlisted,Time_Stamp"
-	echo "$runID,$testcount,$positives,$nhDepth,$nhDensity,$linesParsed,$nodesParsed,$nodesShortlisted,$timeStamp"
+
+		echo "$runID,$testcount,$positives,$nhDepth,$nhDensity,$nodesParsed,$nodesShortlisted,$timeStamp" | tr -d '\t' >> $outFolder/$summaryOutFile
 
 
 
