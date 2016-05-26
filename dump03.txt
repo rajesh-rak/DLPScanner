@@ -1,0 +1,44 @@
+Deadlock Detection:
+
+No deadlocks found.
+
+Thread 13839: (state = BLOCKED)
+
+
+Thread 12291: (state = BLOCKED)
+ - java.lang.Object.wait(long) @bci=0 (Interpreted frame)
+ - java.lang.ref.ReferenceQueue.remove(long) @bci=44, line=135 (Interpreted frame)
+ - java.lang.ref.ReferenceQueue.remove() @bci=2, line=151 (Interpreted frame)
+ - java.lang.ref.Finalizer$FinalizerThread.run() @bci=36, line=209 (Interpreted frame)
+
+
+Thread 11779: (state = BLOCKED)
+ - java.lang.Object.wait(long) @bci=0 (Interpreted frame)
+ - java.lang.Object.wait() @bci=2, line=503 (Interpreted frame)
+ - java.lang.ref.Reference$ReferenceHandler.run() @bci=46, line=133 (Interpreted frame)
+
+
+Thread 2827: (state = IN_JAVA)
+ - java.util.logging.Logger.getEffectiveResourceBundleName() @bci=61, line=1703 (Compiled frame; information may be imprecise)
+ - java.util.logging.Logger.doLog(java.util.logging.LogRecord) @bci=9, line=636 (Interpreted frame)
+ - java.util.logging.Logger.log(java.util.logging.Level, java.lang.String) @bci=34, line=664 (Interpreted frame)
+ - java.util.logging.Logger.info(java.lang.String) @bci=19, line=1182 (Interpreted frame)
+ - RandoopTest0.test7() @bci=1016, line=109 (Interpreted frame)
+ - sun.reflect.NativeMethodAccessorImpl.invoke0(java.lang.reflect.Method, java.lang.Object, java.lang.Object[]) @bci=0 (Interpreted frame)
+ - sun.reflect.NativeMethodAccessorImpl.invoke(java.lang.Object, java.lang.Object[]) @bci=87, line=57 (Interpreted frame)
+ - sun.reflect.DelegatingMethodAccessorImpl.invoke(java.lang.Object, java.lang.Object[]) @bci=6, line=43 (Interpreted frame)
+ - java.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object[]) @bci=57, line=606 (Interpreted frame)
+ - junit.framework.TestCase.runTest() @bci=3183, line=168 (Interpreted frame)
+ - junit.framework.TestCase.runBare() @bci=220, line=134 (Interpreted frame)
+ - junit.framework.TestResult$1.protect() @bci=130, line=110 (Interpreted frame)
+ - junit.framework.TestResult.runProtected(junit.framework.Test, junit.framework.Protectable) @bci=183, line=128 (Interpreted frame)
+ - junit.framework.TestResult.run(junit.framework.TestCase) @bci=538, line=113 (Interpreted frame)
+ - junit.framework.TestCase.run(junit.framework.TestResult) @bci=165, line=124 (Interpreted frame)
+ - junit.framework.TestSuite.runTest(junit.framework.Test, junit.framework.TestResult) @bci=240, line=243 (Interpreted frame)
+ - junit.framework.TestSuite.run(junit.framework.TestResult) @bci=912, line=238 (Interpreted frame)
+ - junit.framework.TestSuite.runTest(junit.framework.Test, junit.framework.TestResult) @bci=240, line=243 (Interpreted frame)
+ - junit.framework.TestSuite.run(junit.framework.TestResult) @bci=912, line=238 (Interpreted frame)
+ - junit.textui.TestRunner.doRun(junit.framework.Test, boolean) @bci=622, line=116 (Interpreted frame)
+ - RandoopTest.main(java.lang.String[]) @bci=392, line=8 (Interpreted frame)
+
+
