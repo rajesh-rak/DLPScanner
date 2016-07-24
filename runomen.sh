@@ -171,7 +171,7 @@ if [ "$dryrun" == "FALSE" ]
 then
 #{
 
-java -Xms2048m -Xmx4096m -ea  -cp $OMEN_CLASSPATH:$execDir/classes omen.util.OmenDriver --user-specified-test $runClass -omen.runwolf "false" -omen.kappa "5"  -omen-output-dir "$outputfolder/"
+java -Xms2048m -Xmx3072m -ea  -cp $OMEN_CLASSPATH:$execDir/classes omen.util.OmenDriver --user-specified-test $runClass -omen.runwolf "false" -omen.kappa "5"  -omen-output-dir "$outputfolder/"
 
 #Moving opertional files to output logs
 mkdir $outputfolder/logs
