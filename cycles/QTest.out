@@ -1,0 +1,20 @@
+
+
+<Cycle-2 locks="Account Account">
+<Thread-1>
+Account.class$ListMXBeanType."init":(For Test)V
+</Thread-1>
+<Thread-2>
+<Account.class>Account.getMappedType:(Ljava/lang/reflect/Type;)Lsun/management/MappedMXBeanType;
+</Thread-2>
+</Cycle-2>
+
+<Cycle-2 locks="hep.aida.bin.DynamicBin1D hep.aida.bin.DynamicBin1D">
+<Thread-1>
+hep.aida.bin.DynamicBin1D.class$ListMXBeanType."init":(For Test)V
+</Thread-1>
+<Thread-2>
+<Account.class>hep.aida.bin.DynamicBin1D.getMappedType:(ForTest);
+</Thread-2>
+</Cycle-2>
+
