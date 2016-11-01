@@ -36,7 +36,7 @@ delim="="
 listfile="classlist.txt"
 wfolder="NOT-SPECIFIED"
 
-export CLASSPATH=$pwdir:$pwdir/lib/*
+export CLASSPATH=$pwdir:$pwdir/lib/commons-io-2.4.jar:$pwdir/lib/*
 
 echo $listfile
 echo $wfolder
