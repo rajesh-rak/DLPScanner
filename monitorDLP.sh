@@ -26,13 +26,14 @@
 # TestDriver, RandoopTest
 
 
-DELAY_SECS=1
+DELAY_SECS=3
 RE_TRIES=3
 pid_file1=pidf1.txt
 pid_file2=pidf2.txt
 count=0
 i=0
 pid[0]=""
+jps_txt=Jps
 
 log_pid_file() {
 	jps -v > $pid_file1
@@ -56,40 +57,51 @@ getFile2Pids() {
     done < "$pid_file2"
 }
 
-check_pid_lock() {
-	
-#	log_pid_file
+check_pid_match() { # populates matchesP and mathesID array if the process ids match
 	getFile1Pids
 	getFile2Pids
+	matchesP=() # Array to hold the process matches
+	matchesID=() # Array to hold the process matches
+	
+	icount1=${#array1[*]}
+	icount2=${#array2[*]}
+	for (( i=0; i < $icount1; i++ ))
+	do
+		pidtxt1=${array1[$i]}
+		idt1=$(echo $pidtxt1|cut -d ' ' -f 1)
+		proc1=$(echo $pidtxt1|cut -d ' ' -f 2)
+		
+		#ignore Jps
+		if [ "$proc1" = "$jps_txt" ] 
+		then
+			continue
+		fi	
 
+		for (( j=0; j < $icount2; j++ ))
+		do
+			pidtxt2=${array2[$j]}
+			idt2=$(echo $pidtxt2|cut -d ' ' -f 1)
+			proc2=$(echo $pidtxt2|cut -d ' ' -f 2)
+			
+			if [ "$proc1" = "$proc2" ] && [ "$idt1" = "$idt2" ]
+			then
+				matchesP+=("$proc1")
+				matchesID+=("idt1")
+			fi
+		done
+	done	
 }
 
 
+log_pid_file
+check_pid_match
+matchPCount=${#matchesP[*]}
+matchIDCount=${#matchesP[*]}
+echo $matchPCount , $matchIDCount
 
-check_pid_lock
 
-icount1=${#array1[*]}
-icount2=${#array2[*]}
-for e in "${array1[@]}"
-do
-    echo $e 
-done
-echo ---
-for e in "${array2[@]}"
-do
-    echo $e 
-done
 
-for (( i=0; i < $icount1; i++ ))
-do
- pidtxt1=${array1[$i]} 
- pidtxt2=${array2[$i]} 
- idt=$(echo $pidtxt1|cut -d ' ' -f 1)
- echo $idt
- echo $pidtxt1|cut -d ' ' -f 1
-done
 
-echo COUNTs $icount2   $icount1
 
 
 
