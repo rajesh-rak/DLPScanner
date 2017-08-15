@@ -86,18 +86,42 @@ check_pid_match() { # populates matchesP and mathesID array if the process ids m
 			if [ "$proc1" = "$proc2" ] && [ "$idt1" = "$idt2" ]
 			then
 				matchesP+=("$proc1")
-				matchesID+=("idt1")
+				matchesID+=("$idt1")
 			fi
 		done
 	done	
 }
 
+logjStack() {
+	jstack -l $1 > jstack1.txt
+	sleep $DELAY_SECS
+	jstack -l $1 > jstack2.txt
+}
 
-log_pid_file
+check_JNI_refs() { #Populates the jniMatchCount array for each of the process ids 
+	# matchIDCount is assumed to be populated before calling this function
+	echo Checking JNI Refs
+	count=${#matchesID[*]}
+	for (( j=0; j < $count; j++ ))
+	do
+		pidtxt=${matchesID[$j]}
+		echo PID: $pidtxt
+		#logjStack $pidtxt
+		jgr1txt=$(grep "JNI global references" jstack1.txt)
+		jgr2txt=$(grep "JNI global references" jstack2.txt)
+		jgr1=$(echo $jgr1txt|cut -d ' ' -f 4)
+		jgr2=$(echo $jgr2txt|cut -d ' ' -f 4)
+	done
+	
+}
+
+
+#log_pid_file
 check_pid_match
 matchPCount=${#matchesP[*]}
-matchIDCount=${#matchesP[*]}
+matchIDCount=${#matchesID[*]}
 echo $matchPCount , $matchIDCount
+check_JNI_refs
 
 
 
