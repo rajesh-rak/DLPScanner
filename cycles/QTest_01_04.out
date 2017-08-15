@@ -1,0 +1,10 @@
+<Cycle-2 locks="hep.aida.bin.DynamicBin1D hep.aida.bin.DynamicBin1D">
+<Thread-1>
+hep.aida.bin.DynamicBin1D.class$ListMXBeanType."init":(For Test)V
+</Thread-1>
+<Thread-2>
+<Account.class>hep.aida.bin.DynamicBin1D.getMappedType:(ForTest);
+</Thread-2>
+</Cycle-2>
+
+

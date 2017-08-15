@@ -1,0 +1,8 @@
+<Cycle-2 locks="Account Account">
+<Thread-1>
+Account.class$ListMXBeanType."init":(For Test)V
+</Thread-1>
+<Thread-2>
+<Account.class>Account.getMappedType:(Ljava/lang/reflect/Type;)Lsun/management/MappedMXBeanType;
+</Thread-2>
+</Cycle-2>

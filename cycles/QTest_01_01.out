@@ -1,0 +1,37 @@
+<Cycle-2 java.util.logging.LogManager java.util.logging.Logger.class>
+    <Thread-1 Option>
+java.util.logging.LogManager.addLogger:(Ljava.util.logging.Logger;)Z
+java.util.logging.Logger.getLogger:(Ljava.lang.String;)Ljava.util.logging.Logger;
+    </Thread-1 Option>
+
+    <Thread-2 Option>
+java.util.logging.Logger.getLogger:(Ljava.lang.String;Ljava.lang.String;)Ljava.util.logging.Logger;
+java.util.logging.LogManager.getLogger:(Ljava.lang.String;)Ljava.util.logging.Logger;
+    </Thread-2 Option>
+
+    <Thread-2 Option>
+java.util.logging.Logger.getLogger:(Ljava.lang.String;Ljava.lang.String;)Ljava.util.logging.Logger;
+java.util.logging.LogManager.addLogger:(Ljava.util.logging.Logger;)Z
+    </Thread-2 Option>
+
+    <Thread-2 Option>
+java.util.logging.Logger.getAnonymousLogger:(Ljava.lang.String;)Ljava.util.logging.Logger;
+java.util.logging.LogManager.getLogger:(Ljava.lang.String;)Ljava.util.logging.Logger;
+    </Thread-2 Option>
+
+    <Thread-2 Option>
+java.util.logging.Logger.getAnonymousLogger:()Ljava.util.logging.Logger;
+java.util.logging.LogManager.getLogger:(Ljava.lang.String;)Ljava.util.logging.Logger;
+    </Thread-2 Option>
+
+    <Thread-2 Option>
+java.util.logging.Logger.getLogger:(Ljava.lang.String;)Ljava.util.logging.Logger;
+java.util.logging.LogManager.getLogger:(Ljava.lang.String;)Ljava.util.logging.Logger;
+    </Thread-2 Option>
+
+    <Thread-2 Option>
+java.util.logging.Logger.getLogger:(Ljava.lang.String;)Ljava.util.logging.Logger;
+java.util.logging.LogManager.addLogger:(Ljava.util.logging.Logger;)Z
+    </Thread-2 Option>
+
+</Cycle-2 java.util.logging.LogManager java.util.logging.Logger.class>
