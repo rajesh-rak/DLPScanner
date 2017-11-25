@@ -25,15 +25,29 @@
 #21119 InstrumentorForActiveTesting -Dfile.encoding=ISO-8859-1
 # TestDriver, RandoopTest
 
-
-DELAY_SECS=3
+DELAY_SECS=5
+JGR_DELAY_SECS=15
+LOOP_WAIT_SECS=10
 RE_TRIES=3
+
 pid_file1=pidf1.txt
 pid_file2=pidf2.txt
 count=0
 i=0
 pid[0]=""
 jps_txt=Jps
+inst=InstrumentorForActiveTesting
+testd=TestDriver
+omen=OmenDriver
+
+run_folder=scanresultfolder.out
+output_folder=outfolder.txt
+
+Y=1
+N=0
+java_running=$Y
+
+lockedPIDs=()
 
 log_pid_file() {
 	jps -v > $pid_file1
@@ -58,6 +72,9 @@ getFile2Pids() {
 }
 
 check_pid_match() { # populates matchesP and mathesID array if the process ids match
+	
+	java_running=$N
+	
 	getFile1Pids
 	getFile2Pids
 	matchesP=() # Array to hold the process matches
@@ -70,12 +87,15 @@ check_pid_match() { # populates matchesP and mathesID array if the process ids m
 		pidtxt1=${array1[$i]}
 		idt1=$(echo $pidtxt1|cut -d ' ' -f 1)
 		proc1=$(echo $pidtxt1|cut -d ' ' -f 2)
+
 		
 		#ignore Jps
 		if [ "$proc1" = "$jps_txt" ] 
 		then
 			continue
 		fi	
+	
+		java_running=$Y
 
 		for (( j=0; j < $icount2; j++ ))
 		do
@@ -94,35 +114,67 @@ check_pid_match() { # populates matchesP and mathesID array if the process ids m
 
 logjStack() {
 	jstack -l $1 > jstack1.txt
-	sleep $DELAY_SECS
+	sleep $JGR_DELAY_SECS
 	jstack -l $1 > jstack2.txt
 }
 
-check_JNI_refs() { #Populates the jniMatchCount array for each of the process ids 
+detect_n_kill_locked_process() { #Populates the jniMatchCount array for each of the process ids 
 	# matchIDCount is assumed to be populated before calling this function
-	echo Checking JNI Refs
 	count=${#matchesID[*]}
 	for (( j=0; j < $count; j++ ))
 	do
 		pidtxt=${matchesID[$j]}
-		echo PID: $pidtxt
-		#logjStack $pidtxt
+		#do not check dead lock for some specific processes
+		if [ "$proc1" = "$inst" ] || [ "$proc1" = "$testd" ] || [ "$proc1" = "$omen" ]
+		then
+			java_running=$Y
+			continue
+		fi	
+		#get java stack trace
+		logjStack $pidtxt
 		jgr1txt=$(grep "JNI global references" jstack1.txt)
 		jgr2txt=$(grep "JNI global references" jstack2.txt)
 		jgr1=$(echo $jgr1txt|cut -d ' ' -f 4)
 		jgr2=$(echo $jgr2txt|cut -d ' ' -f 4)
+		if [ "$jgr1" = "$jgr2" ] 
+		then
+			echo -n "#"
+			echo Process Locked ${matchesP[$j]}
+			kill -9 $pidtxt
+		fi
 	done
 	
 }
 
 
-#log_pid_file
-check_pid_match
-matchPCount=${#matchesP[*]}
-matchIDCount=${#matchesID[*]}
-echo $matchPCount , $matchIDCount
-check_JNI_refs
 
+echo -n "Monitoring Java processes..."
+echo 
+#java_running=0
+while [ $java_running -eq $Y ]
+do
+	echo -n "."
+	lockedPIDs=()
+	loop_count+=1
+	log_pid_file
+	check_pid_match
+	matchPCount=${#matchesP[*]}
+	matchIDCount=${#matchesID[*]}
+	if [ $matchPCount -gt 0 ]
+	then
+		echo -n "*"
+		detect_n_kill_locked_process
+	fi	
+	sleep $LOOP_WAIT_SECS
+done
+echo "."
+echo Cleaning up...
+rm -f $pid_file1
+rm -f $pid_file2
+rm -f jstack1.txt
+rm -f jstack2.txt
+ 
+echo "Done, Monitoring concluded"
 
 
 
