@@ -41,6 +41,7 @@ testDir="NOT-SPECIFIED"
 inparam=""
 invalue=""
 runClass="RandoopTest"
+outfolder_namefile=outfolder.txt
 
 # ---Initializions---
 export ANT_OPTS=-Dfile.encoding=ISO-8859-1
@@ -124,6 +125,8 @@ else
 fi
 echo "Output Folder: $outputfolder"
 
+echo -e $outputfolder >> ../../$outfolder_namefile 
+
 echo "PWD:"$(pwd)
 
 if [ "$isCompile" == "true" ]
@@ -190,6 +193,8 @@ then
 	echo "...cleanign up exec folder"
 	rm -rdf $execDir
 fi
+
+#rm -f $outfolder_namefile
 echo "Done!"
 
 exit 0

@@ -185,7 +185,7 @@ do
 	then
 		nhDepth=${rLine##*:} 
 		echo "NH: depth:$nhDepth"
-		echo "NH: depth:$nhDepth" | tr -d '\t'
+		echo "NH: density:$nhDensity" | tr -d '\t'
 			
 	elif [[ "$rLine" =~ "Neighbourhood Density" ]]
 	then

@@ -1,0 +1,68 @@
+
+<Cycle-2 java.util.Properties java.util.logging.Logger>
+    <Thread-1 Option>
+java.util.Properties.save:(Ljava.io.OutputStream;Ljava.lang.String;)V
+java.util.Properties.store:(Ljava.io.OutputStream;Ljava.lang.String;)V
+java.util.Properties.store0:(Ljava.io.BufferedWriter;Ljava.lang.String;Z)V
+java.util.Date.toString:()Ljava.lang.String;
+java.util.TimeZone.getDisplayName:(ZILjava.util.Locale;)Ljava.lang.String;
+java.util.TimeZone.getDisplayNames:(Ljava.lang.String;Ljava.util.Locale;)[Ljava.lang.String;
+sun.util.TimeZoneNameUtility.retrieveDisplayNames:(Ljava.lang.String;Ljava.util.Locale;)[Ljava.lang.String;
+sun.util.TimeZoneNameUtility.retrieveDisplayNames:(Lsun.util.resources.OpenListResourceBundle;Ljava.lang.String;Ljava.util.Locale;)[Ljava.lang.String;
+sun.util.LocaleServiceProviderPool.getPool:(Ljava.lang.Class;)Lsun.util.LocaleServiceProviderPool;
+sun.util.LocaleServiceProviderPool."<init>":(Ljava.lang.Class;)V
+java.util.logging.Logger.config:(Ljava.lang.String;)V
+java.util.logging.Logger.log:(Ljava.util.logging.Level;Ljava.lang.String;)V
+java.util.logging.Logger.doLog:(Ljava.util.logging.LogRecord;)V
+java.util.logging.Logger.log:(Ljava.util.logging.LogRecord;)V
+java.util.logging.Logger.getHandlers:()[Ljava.util.logging.Handler;
+    </Thread-1 Option>
+
+    <Thread-1 Option>
+java.util.Properties.save:(Ljava.io.OutputStream;Ljava.lang.String;)V
+java.util.Properties.store:(Ljava.io.OutputStream;Ljava.lang.String;)V
+java.util.Properties.store0:(Ljava.io.BufferedWriter;Ljava.lang.String;Z)V
+java.util.Date.toString:()Ljava.lang.String;
+java.util.TimeZone.getDisplayName:(ZILjava.util.Locale;)Ljava.lang.String;
+java.util.TimeZone.getDisplayNames:(Ljava.lang.String;Ljava.util.Locale;)[Ljava.lang.String;
+sun.util.TimeZoneNameUtility.retrieveDisplayNames:(Ljava.lang.String;Ljava.util.Locale;)[Ljava.lang.String;
+sun.util.TimeZoneNameUtility.retrieveDisplayNames:(Lsun.util.resources.OpenListResourceBundle;Ljava.lang.String;Ljava.util.Locale;)[Ljava.lang.String;
+sun.util.LocaleServiceProviderPool.getPool:(Ljava.lang.Class;)Lsun.util.LocaleServiceProviderPool;
+sun.util.LocaleServiceProviderPool."<init>":(Ljava.lang.Class;)V
+java.util.logging.Logger.config:(Ljava.lang.String;)V
+java.util.logging.Logger.log:(Ljava.util.logging.Level;Ljava.lang.String;)V
+java.util.logging.Logger.doLog:(Ljava.util.logging.LogRecord;)V
+java.util.logging.Logger.log:(Ljava.util.logging.LogRecord;)V
+java.util.logging.Logger.getUseParentHandlers:()Z
+    </Thread-1 Option>
+
+    <Thread-1 Option>
+java.util.Properties.save:(Ljava.io.OutputStream;Ljava.lang.String;)V
+java.util.Properties.store:(Ljava.io.OutputStream;Ljava.lang.String;)V
+java.util.Properties.store0:(Ljava.io.BufferedWriter;Ljava.lang.String;Z)V
+java.util.Date.toString:()Ljava.lang.String;
+java.util.TimeZone.getDisplayName:(ZILjava.util.Locale;)Ljava.lang.String;
+java.util.TimeZone.getDisplayNames:(Ljava.lang.String;Ljava.util.Locale;)[Ljava.lang.String;
+sun.util.TimeZoneNameUtility.retrieveDisplayNames:(Ljava.lang.String;Ljava.util.Locale;)[Ljava.lang.String;
+sun.util.TimeZoneNameUtility.retrieveDisplayNames:(Lsun.util.resources.OpenListResourceBundle;Ljava.lang.String;Ljava.util.Locale;)[Ljava.lang.String;
+sun.util.LocaleServiceProviderPool.getPool:(Ljava.lang.Class;)Lsun.util.LocaleServiceProviderPool;
+sun.util.LocaleServiceProviderPool."<init>":(Ljava.lang.Class;)V
+java.util.logging.Logger.config:(Ljava.lang.String;)V
+java.util.logging.Logger.log:(Ljava.util.logging.Level;Ljava.lang.String;)V
+java.util.logging.Logger.doLog:(Ljava.util.logging.LogRecord;)V
+java.util.logging.Logger.findResourceBundle:(Ljava.lang.String;)Ljava.util.ResourceBundle;
+    </Thread-1 Option>
+
+    <Thread-2 Option>
+java.util.logging.Logger.findResourceBundle:(Ljava.lang.String;)Ljava.util.ResourceBundle;
+java.util.ResourceBundle.getBundle:(Ljava.lang.String;Ljava.util.Locale;Ljava.lang.ClassLoader;)Ljava.util.ResourceBundle;
+java.util.ResourceBundle.getBundleImpl:(Ljava.lang.String;Ljava.util.Locale;Ljava.lang.ClassLoader;Ljava.util.ResourceBundle$Control;)Ljava.util.ResourceBundle;
+java.util.ResourceBundle.findBundle:(Ljava.util.ResourceBundle$CacheKey;Ljava.util.List;Ljava.util.List;ILjava.util.ResourceBundle$Control;Ljava.util.ResourceBundle;)Ljava.util.ResourceBundle;
+java.util.ResourceBundle.loadBundle:(Ljava.util.ResourceBundle$CacheKey;Ljava.util.List;Ljava.util.ResourceBundle$Control;Z)Ljava.util.ResourceBundle;
+java.util.ResourceBundle$Control.newBundle:(Ljava.lang.String;Ljava.util.Locale;Ljava.lang.String;Ljava.lang.ClassLoader;Z)Ljava.util.ResourceBundle;
+java.util.PropertyResourceBundle."<init>":(Ljava.io.InputStream;)V
+java.util.Properties.load:(Ljava.io.InputStream;)V
+    </Thread-2 Option>
+
+</Cycle-2 java.util.Properties java.util.logging.Logger>
+
