@@ -77,8 +77,8 @@ check_pid_match() { # populates matchesP and mathesID array if the process ids m
 	
 	getFile1Pids
 	getFile2Pids
-	matchesP=() # Array to hold the process matches
-	matchesID=() # Array to hold the process matches
+	matchesP=() # Array to hold the process name matches
+	matchesID=() # Array to hold the process ID matches
 	
 	icount1=${#array1[*]}
 	icount2=${#array2[*]}
@@ -118,14 +118,37 @@ logjStack() {
 	jstack -l $1 > jstack2.txt
 }
 
+process_report()   {
+    
+    outfolder_present=$([ -f $output_folder ] && echo "Y" || echo "N")
+    if [ "$outfolder_present" = "Y" ]
+    then
+        outfolder=$(head -n 1 $output_folder)
+        count=${#matchesID[*]}
+	    for (( k=0; k < $count; k++ ))
+	    do
+	        pidtxt=${matchesID[$j]}
+		    pname=${matchesP[$j]}
+	    done
+	
+          
+    else 
+        echo Outout Folder not present, cannot process results
+    fi
+
+    #create an Analysis.txt file 
+    #copy all the Java stack traces in the output folder
+}
+
 detect_n_kill_locked_process() { #Populates the jniMatchCount array for each of the process ids 
 	# matchIDCount is assumed to be populated before calling this function
 	count=${#matchesID[*]}
 	for (( j=0; j < $count; j++ ))
 	do
 		pidtxt=${matchesID[$j]}
+		pname=${matchesP[$j]}
 		#do not check dead lock for some specific processes
-		if [ "$proc1" = "$inst" ] || [ "$proc1" = "$testd" ] || [ "$proc1" = "$omen" ]
+		if [ "$pname" = "$inst" ] || [ "$pname" = "$testd" ] || [ "$pname" = "$omen" ]
 		then
 			java_running=$Y
 			continue
@@ -136,10 +159,15 @@ detect_n_kill_locked_process() { #Populates the jniMatchCount array for each of 
 		jgr2txt=$(grep "JNI global references" jstack2.txt)
 		jgr1=$(echo $jgr1txt|cut -d ' ' -f 4)
 		jgr2=$(echo $jgr2txt|cut -d ' ' -f 4)
-		if [ "$jgr1" = "$jgr2" ] 
+		stack_wc1=$(wc jstack1.txt | awk '{print $2}')
+		stack_wc2=$(wc jstack2.txt | awk '{print $2}')
+		stack_bytes1=$(wc jstack1.txt | awk '{print $3}')
+		stack_bytes2=$(wc jstack2.txt | awk '{print $3}')
+
+		if [ "$jgr1" = "$jgr2" ] && [ "$stack_wc1" = "$stack_wc2" ] && [ "$stack_bytes1" = "$stack_bytes2" ] 
 		then
 			echo -n "#"
-			echo Process Locked ${matchesP[$j]}
+			echo Process Locked ${matchesP[$j]}, will be terminated
 			kill -9 $pidtxt
 		fi
 	done
@@ -150,7 +178,12 @@ detect_n_kill_locked_process() { #Populates the jniMatchCount array for each of 
 
 echo -n "Monitoring Java processes..."
 echo 
-#java_running=0
+#uncomment to stop processing this script - for debigging purpose
+java_running=0
+#test code - delete
+process_report
+#test code - delete
+
 while [ $java_running -eq $Y ]
 do
 	echo -n "."
@@ -169,10 +202,10 @@ do
 done
 echo "."
 echo Cleaning up...
-rm -f $pid_file1
-rm -f $pid_file2
-rm -f jstack1.txt
-rm -f jstack2.txt
+# rm -f $pid_file1
+# rm -f $pid_file2
+# rm -f jstack1.txt
+# rm -f jstack2.txt
  
 echo "Done, Monitoring concluded"
 
