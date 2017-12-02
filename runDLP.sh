@@ -125,11 +125,14 @@ fi
 tresultfile="tmpresult.txt"
 ttestfile="tmptest.txt"
 resultfile="DLP_Result.out"
+hunglist="hunglist.txt"
 cd $execFolder/output
 find . -name Analysis* > $tresultfile
+find . -name AnalysisData_w.txt > $hunglist
 ls -d Test*/ > $ttestfile
 testcount=0
 positives=0
+hungcount=0
 
 while read line
 do
@@ -139,7 +142,10 @@ while read line
 do
 	((positives++))
 done < $tresultfile
-
+while read line
+do
+	((hungcount++))
+done < $hunglist
 
 echo -e "DLP Execution Summary" >> $resultfile
 echo -e "---------------------" >> $resultfile
@@ -149,15 +155,29 @@ echo -e "Total Test(s) executed\t\t: $testcount" >> $resultfile
 echo -e "Total Dead-Lock(s) detected\t: $positives"
 echo -e "Total Dead-Lock(s) detected\t: $positives" >> $resultfile
 echo -e "_________________________________________" >> $resultfile
-echo -e "Dead Lock - Positives:" >> $resultfile
-echo -e "----------------------" >> $resultfile
-
-while read line
-do
-	tline=${line#*/}
-	xline=${tline%/*}
-	echo $xline >> $resultfile
-done < $tresultfile
+if [ $positives -gt 0 ]
+then
+    echo -e "Dead Lock - Positives:" >> $resultfile
+    echo -e "----------------------" >> $resultfile
+    while read line
+    do
+    	tline=${line#*/}
+    	xline=${tline%/*}
+    	echo $xline >> $resultfile
+    done < $tresultfile
+    if [ $hungcount -gt 0 ]
+    then
+        echo -e "----------------------" >> $resultfile
+        echo -e "Indefinite waits:" >> $resultfile
+        echo -e "----------------------" >> $resultfile
+        while read line
+        do
+        	htline=${line#*/}
+        	hxline=${htline%/*}
+        	echo $hxline >> $resultfile
+        done < $hunglist
+    fi
+fi
 
 rm -f $tresultfile
 rm -f $ttestfile
@@ -169,7 +189,7 @@ runID=${execFolder##*/}
 if [ ! -f "$outFolder/$summaryOutFile" ]
 then
 	echo "No Summary File"
-	echo -e "RunID,Tests,Dead_Locks,NH_Depth,NH_Density,Nodes_Parsed,Nodes_Shortlisted,Time_Stamp" >> $outFolder/$summaryOutFile
+	echo -e "RunID,Tests,Dead_Locks,Progs_Hung,NH_Depth,NH_Density,Nodes_Parsed,Nodes_Shortlisted,Time_Stamp" >> $outFolder/$summaryOutFile
 fi
 nhDepth=""
 nhDensity=""
@@ -185,11 +205,11 @@ do
 	then
 		nhDepth=${rLine##*:} 
 		echo "NH: depth:$nhDepth"
-		echo "NH: density:$nhDensity" | tr -d '\t'
 			
 	elif [[ "$rLine" =~ "Neighbourhood Density" ]]
 	then
 		nhDensity=${rLine##*:}
+		echo "NH: density:$nhDensity" | tr -d '\t'
 		
 	elif [[ "$rLine" =~ "Total Nodes Processed" ]]
 	then
@@ -204,7 +224,7 @@ do
 	
 done < $execFolder/$execLogFile
 
-		echo "$runID,$testcount,$positives,$nhDepth,$nhDensity,$nodesParsed,$nodesShortlisted,$timeStamp" | tr -d '\t' >> $outFolder/$summaryOutFile
+		echo "$runID,$testcount,$positives,$hungcount,$nhDepth,$nhDensity,$nodesParsed,$nodesShortlisted,$timeStamp" | tr -d '\t' >> $outFolder/$summaryOutFile
 
 
 

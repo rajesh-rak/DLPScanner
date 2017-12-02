@@ -125,7 +125,7 @@ else
 fi
 echo "Output Folder: $outputfolder"
 
-echo -e $outputfolder >> ../../$outfolder_namefile 
+echo $outputfolder > ../../$outfolder_namefile 
 
 echo "PWD:"$(pwd)
 
@@ -194,6 +194,7 @@ then
 	rm -rdf $execDir
 fi
 
+#TODO: Uncomment after testing to clean up file
 #rm -f $outfolder_namefile
 echo "Done!"
 

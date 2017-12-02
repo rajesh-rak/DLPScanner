@@ -1,0 +1,131 @@
+--------------------------------------
+Deadlock 1
+     Thread:  (2)
+         Lock 1290 at TestDriver.java, line 29 (iid is 27) --> 
+         Lock 1982 at hep/aida/bin/Jasmin, line 0 (iid is 495)
+     Thread:  (3)
+         Lock 1982 at TestDriver.java, line 46 (iid is 235) --> 
+         Lock 1290 at hep/aida/bin/Jasmin, line 0 (iid is 495)
+
+--------------------------------------
+Deadlock 2
+     Thread:  (2)
+         Lock 1285 at TestDriver.java, line 83 (iid is 206) --> 
+         Lock 1977 at hep/aida/bin/Jasmin, line 0 (iid is 495)
+     Thread:  (3)
+         Lock 1977 at TestDriver.java, line 100 (iid is 264) --> 
+         Lock 1285 at hep/aida/bin/Jasmin, line 0 (iid is 1562)
+
+--------------------------------------
+Deadlock 3
+     Thread:  (2)
+         Lock 1290 at TestDriver.java, line 83 (iid is 206) --> 
+         Lock 1982 at hep/aida/bin/Jasmin, line 0 (iid is 495)
+     Thread:  (3)
+         Lock 1982 at TestDriver.java, line 100 (iid is 264) --> 
+         Lock 1290 at hep/aida/bin/Jasmin, line 0 (iid is 1570)
+
+--------------------------------------
+Deadlock 4
+     Thread:  (2)
+         Lock 1285 at TestDriver.java, line 83 (iid is 206) --> 
+         Lock 1977 at hep/aida/bin/Jasmin, line 0 (iid is 495)
+     Thread:  (3)
+         Lock 1977 at TestDriver.java, line 100 (iid is 264) --> 
+         Lock 1285 at hep/aida/bin/Jasmin, line 0 (iid is 1578)
+
+--------------------------------------
+Deadlock 5
+     Thread:  (2)
+         Lock 1290 at TestDriver.java, line 83 (iid is 206) --> 
+         Lock 1982 at hep/aida/bin/Jasmin, line 0 (iid is 495)
+     Thread:  (3)
+         Lock 1982 at TestDriver.java, line 100 (iid is 264) --> 
+         Lock 1290 at hep/aida/bin/Jasmin, line 0 (iid is 1586)
+
+--------------------------------------
+Deadlock 6
+     Thread:  (2)
+         Lock 1285 at TestDriver.java, line 83 (iid is 206) --> 
+         Lock 1977 at hep/aida/bin/Jasmin, line 0 (iid is 495)
+     Thread:  (3)
+         Lock 1977 at TestDriver.java, line 100 (iid is 264) --> 
+         Lock 1285 at hep/aida/bin/Jasmin, line 0 (iid is 1594)
+
+--------------------------------------
+Deadlock 7
+     Thread:  (2)
+         Lock 1285 at TestDriver.java, line 83 (iid is 206) --> 
+         Lock 1977 at hep/aida/bin/Jasmin, line 0 (iid is 495)
+     Thread:  (3)
+         Lock 1977 at TestDriver.java, line 100 (iid is 264) --> 
+         Lock 1285 at hep/aida/bin/Jasmin, line 0 (iid is 560)
+
+--------------------------------------
+Deadlock 8
+     Thread:  (2)
+         Lock 1285 at TestDriver.java, line 137 (iid is 56) --> 
+         Lock 1977 at hep/aida/bin/Jasmin, line 0 (iid is 1562)
+     Thread:  (3)
+         Lock 1977 at TestDriver.java, line 154 (iid is 293) --> 
+         Lock 1285 at hep/aida/bin/Jasmin, line 0 (iid is 1562)
+
+--------------------------------------
+Deadlock 9
+     Thread:  (2)
+         Lock 1285 at TestDriver.java, line 137 (iid is 56) --> 
+         Lock 1977 at hep/aida/bin/Jasmin, line 0 (iid is 1562)
+     Thread:  (3)
+         Lock 1977 at TestDriver.java, line 154 (iid is 293) --> 
+         Lock 1285 at hep/aida/bin/Jasmin, line 0 (iid is 1570)
+
+--------------------------------------
+Deadlock 10
+     Thread:  (2)
+         Lock 1290 at TestDriver.java, line 137 (iid is 56) --> 
+         Lock 1982 at hep/aida/bin/Jasmin, line 0 (iid is 1562)
+     Thread:  (3)
+         Lock 1982 at TestDriver.java, line 154 (iid is 293) --> 
+         Lock 1290 at hep/aida/bin/Jasmin, line 0 (iid is 1578)
+
+--------------------------------------
+Deadlock 11
+     Thread:  (2)
+         Lock 1285 at TestDriver.java, line 137 (iid is 56) --> 
+         Lock 1977 at hep/aida/bin/Jasmin, line 0 (iid is 1562)
+     Thread:  (3)
+         Lock 1977 at TestDriver.java, line 154 (iid is 293) --> 
+         Lock 1285 at hep/aida/bin/Jasmin, line 0 (iid is 1586)
+
+--------------------------------------
+Deadlock 12
+     Thread:  (2)
+         Lock 1285 at TestDriver.java, line 137 (iid is 56) --> 
+         Lock 1977 at hep/aida/bin/Jasmin, line 0 (iid is 1562)
+     Thread:  (3)
+         Lock 1977 at TestDriver.java, line 154 (iid is 293) --> 
+         Lock 1285 at hep/aida/bin/Jasmin, line 0 (iid is 1594)
+
+--------------------------------------
+Deadlock 13
+     Thread:  (2)
+         Lock 1285 at TestDriver.java, line 137 (iid is 56) --> 
+         Lock 1977 at hep/aida/bin/Jasmin, line 0 (iid is 1562)
+     Thread:  (3)
+         Lock 1977 at TestDriver.java, line 154 (iid is 293) --> 
+         Lock 1285 at hep/aida/bin/Jasmin, line 0 (iid is 560)
+
+--------------------------------------
+ ANALYSIS SUMMARY: 
+
+ Sequential test analysis time: 77681 msec
+ Test generation time: 14984 msec
+ Deadlock Detection time: 70940 msec
+ Nodes in the lock type graph: 54
+ Trace size: 106054
+ Cycles in the lock type graph: 91
+ Number of concurrent method invocations: 70
+ Number of tests generated: 3
+ 
+ Deadlocks detected: 28
+ Deadlocks reproduced (true positives): 13

@@ -26,9 +26,9 @@
 # TestDriver, RandoopTest
 
 DELAY_SECS=5
-JGR_DELAY_SECS=15
+JGR_DELAY_SECS=8
 LOOP_WAIT_SECS=10
-RE_TRIES=3
+RE_TRIES=2
 
 pid_file1=pidf1.txt
 pid_file2=pidf2.txt
@@ -42,6 +42,7 @@ omen=OmenDriver
 
 run_folder=scanresultfolder.out
 output_folder=outfolder.txt
+analysis_file=AnalysisData_w.txt
 
 Y=1
 N=0
@@ -114,35 +115,45 @@ check_pid_match() { # populates matchesP and mathesID array if the process ids m
 
 logjStack() {
 	jstack -l $1 > jstack1.txt
-	sleep $JGR_DELAY_SECS
+	DELAY=$JGR_DELAY_SECS
+	if [ $RE_TRIES -gt 1 ]
+	then
+        DELAY=$(expr $JGR_DELAY_SECS \* $RE_TRIES)
+	fi
+	echo Delay Seconds: $DELAY
+	sleep $DELAY
 	jstack -l $1 > jstack2.txt
 }
 
 process_report()   {
-    
     outfolder_present=$([ -f $output_folder ] && echo "Y" || echo "N")
     if [ "$outfolder_present" = "Y" ]
     then
         outfolder=$(head -n 1 $output_folder)
+        echo OutFolder $outfolder
+        analysis_outfile=$outfolder/$analysis_file
+        echo "Analysis Output file:" $analysis_outfile
+        echo "Java processes in indefinite wait:" > $analysis_outfile
         count=${#matchesID[*]}
 	    for (( k=0; k < $count; k++ ))
 	    do
-	        pidtxt=${matchesID[$j]}
-		    pname=${matchesP[$j]}
+	        procID=${matchesID[$k]}
+		    procName=${matchesP[$k]}
+		    echo "Process Name: $procName" >> $analysis_outfile
+		    proc_stack_file=$(echo $procName"_stack.txt")
+		    echo Process Stack File: $proc_stack_file
+		    jstack -l $procID > $outfolder/$proc_stack_file
 	    done
 	
           
     else 
-        echo Outout Folder not present, cannot process results
+        echo Outout Folder not present, not processing results!
     fi
-
-    #create an Analysis.txt file 
-    #copy all the Java stack traces in the output folder
 }
 
-detect_n_kill_locked_process() { #Populates the jniMatchCount array for each of the process ids 
-	# matchIDCount is assumed to be populated before calling this function
+detect_n_kill_locked_process() { 
 	count=${#matchesID[*]}
+	report_flag="N"
 	for (( j=0; j < $count; j++ ))
 	do
 		pidtxt=${matchesID[$j]}
@@ -167,6 +178,14 @@ detect_n_kill_locked_process() { #Populates the jniMatchCount array for each of 
 		if [ "$jgr1" = "$jgr2" ] && [ "$stack_wc1" = "$stack_wc2" ] && [ "$stack_bytes1" = "$stack_bytes2" ] 
 		then
 			echo -n "#"
+			#process report if any of the process is hung, to be done only once
+			#as reporting happens for all processes that are running
+			if [ "$report_flag" = "N" ] 
+			then
+			    echo Process hung, Processing report
+			    process_report
+			    report_flag="Y"
+			fi
 			echo Process Locked ${matchesP[$j]}, will be terminated
 			kill -9 $pidtxt
 		fi
@@ -179,10 +198,7 @@ detect_n_kill_locked_process() { #Populates the jniMatchCount array for each of 
 echo -n "Monitoring Java processes..."
 echo 
 #uncomment to stop processing this script - for debigging purpose
-java_running=0
-#test code - delete
-process_report
-#test code - delete
+#java_running=0
 
 while [ $java_running -eq $Y ]
 do
@@ -202,10 +218,11 @@ do
 done
 echo "."
 echo Cleaning up...
-# rm -f $pid_file1
-# rm -f $pid_file2
-# rm -f jstack1.txt
-# rm -f jstack2.txt
+# File clean up
+rm -f $pid_file1
+rm -f $pid_file2
+rm -f jstack1.txt
+rm -f jstack2.txt
  
 echo "Done, Monitoring concluded"
 

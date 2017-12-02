@@ -1,0 +1,23 @@
+--------------------------------------
+Deadlock 1
+     Thread:  (2)
+         Lock 1027 at Account.java, line 8 (iid is 124) --> 
+         Lock 1083 at Account.java, line 10 (iid is 131)
+     Thread:  (3)
+         Lock 1083 at Account.java, line 8 (iid is 124) --> 
+         Lock 1027 at Account.java, line 10 (iid is 131)
+
+--------------------------------------
+ ANALYSIS SUMMARY: 
+
+ Sequential test analysis time: 11109 msec
+ Test generation time: 1562 msec
+ Deadlock Detection time: 4530 msec
+ Nodes in the lock type graph: 9
+ Trace size: 17425
+ Cycles in the lock type graph: 1
+ Number of concurrent method invocations: 1
+ Number of tests generated: 1
+ 
+ Deadlocks detected: 1
+ Deadlocks reproduced (true positives): 1

@@ -1,0 +1,5 @@
+File:		QTest_01_01.out
+Line No:	1
+NH Depth:	2
+NH Density:	2
+Classes	: [java.util.logging.Logger, java.util.logging.LogManager]

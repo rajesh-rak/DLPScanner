@@ -1,0 +1,599 @@
+The cycle length is4
+...F....F..
+F.F..F...F.F..F.F...F.
+Time: 0.639
+There were 10 failures:
+1) test6(RandoopTest0)junit.framework.AssertionFailedError: Contract failed: equals-hashcode on var0 and var5
+	at RandoopTest0.test6(RandoopTest0.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+2) test2(RandoopTest0)junit.framework.AssertionFailedError: Contract failed: equals-hashcode on var0 and var4
+	at RandoopTest0.test2(RandoopTest0.java:37)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+3) test23(RandoopTest0)junit.framework.AssertionFailedError: Contract failed: equals-hashcode on var0 and var4
+	at RandoopTest0.test23(RandoopTest0.java:507)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+4) test22(RandoopTest0)junit.framework.AssertionFailedError: Contract failed: equals-hashcode on var0 and var4
+	at RandoopTest0.test22(RandoopTest0.java:478)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+5) test20(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test20(RandoopTest0.java:442)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+6) test17(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test17(RandoopTest0.java:364)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+7) test16(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test16(RandoopTest0.java:340)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+8) test14(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test14(RandoopTest0.java:293)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+9) test13(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test13(RandoopTest0.java:259)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+10) test10(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test10(RandoopTest0.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+
+FAILURES!!!
+Tests run: 23,  Failures: 10,  Errors: 0
+
+...F....F..
+F.F..F...F.F..F.F...F.
+Time: 0.483
+There were 10 failures:
+1) test6(RandoopTest0)junit.framework.AssertionFailedError: Contract failed: equals-hashcode on var0 and var5
+	at RandoopTest0.test6(RandoopTest0.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+2) test2(RandoopTest0)junit.framework.AssertionFailedError: Contract failed: equals-hashcode on var0 and var4
+	at RandoopTest0.test2(RandoopTest0.java:37)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+3) test23(RandoopTest0)junit.framework.AssertionFailedError: Contract failed: equals-hashcode on var0 and var4
+	at RandoopTest0.test23(RandoopTest0.java:507)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+4) test22(RandoopTest0)junit.framework.AssertionFailedError: Contract failed: equals-hashcode on var0 and var4
+	at RandoopTest0.test22(RandoopTest0.java:478)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+5) test20(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test20(RandoopTest0.java:442)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+6) test17(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test17(RandoopTest0.java:364)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+7) test16(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test16(RandoopTest0.java:340)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+8) test14(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test14(RandoopTest0.java:293)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+9) test13(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test13(RandoopTest0.java:259)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+10) test10(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test10(RandoopTest0.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at omen.util.Initializer.initiateCollection(Initializer.java:52)
+	at omen.util.Initializer.initialize(Initializer.java:455)
+	at TestDriver.cycle1(TestDriver.java:67)
+	at TestDriver.main(TestDriver.java:179)
+
+FAILURES!!!
+Tests run: 23,  Failures: 10,  Errors: 0
+
+Printing cycle1
+The size of deadlocks 6
+The size of deadlocks 6
+# of deadlocks detected 6
+Cycle true
+Node [206, 495]
+Lock [1977]Thread[2] 1
+Node [264, 1562]
+Lock [1285]Thread[3] 1
+Cycle true
+Node [206, 495]
+Lock [1977]Thread[2] 1
+Node [264, 1570]
+Lock [1285]Thread[3] 1
+Cycle true
+Node [206, 495]
+Lock [1977]Thread[2] 1
+Node [264, 1578]
+Lock [1285]Thread[3] 1
+Cycle true
+Node [206, 495]
+Lock [1977]Thread[2] 1
+Node [264, 1586]
+Lock [1285]Thread[3] 1
+Cycle true
+Node [206, 495]
+Lock [1977]Thread[2] 1
+Node [264, 1594]
+Lock [1285]Thread[3] 1
+Cycle true
+Node [206, 495]
+Lock [1977]Thread[2] 1
+Node [264, 560]
+Lock [1285]Thread[3] 1
+Cycle context [1285, 1977]
+1
+1
+Cycle context [1977, 1285]
+1
+1
+WARNING :: There were 1 active at the time
+Trace size is 5064
+CThread 2 Lock 1285omen.wolf.javato.activetesting.igoodlock.Event_object@13cad3a6
+CThread 2 Lock 1977omen.wolf.javato.activetesting.igoodlock.Event_object@690d4170
+CThread 3 Lock 1977omen.wolf.javato.activetesting.igoodlock.Event_object@654355f1
+CThread 3 Lock 1285omen.wolf.javato.activetesting.igoodlock.Event_object@27bf7527
+Building graph
+Edge Deadlock : [2, 1285, 2] [3, 1285, 8]
+Edge Deadlock : [3, 1977, 7] [2, 1977, 3]
+Adding context edges
+Edge Context : [3, 1977, 7] [2, 1977, 3]
+Adding context edges
+Edge Context : [2, 1285, 2] [3, 1285, 8]
+Building graph
+Feasible schedule 4
+Cycle context [1285, 1977]
+1
+1
+Cycle context [1977, 1285]
+1
+1
+WARNING :: There were 1 active at the time
+Trace size is 5064
+CThread 2 Lock 1285omen.wolf.javato.activetesting.igoodlock.Event_object@1319e2db
+CThread 2 Lock 1977omen.wolf.javato.activetesting.igoodlock.Event_object@87ca1a9
+CThread 3 Lock 1977omen.wolf.javato.activetesting.igoodlock.Event_object@2e596299
+CThread 3 Lock 1285omen.wolf.javato.activetesting.igoodlock.Event_object@6e584294
+Building graph
+Edge Deadlock : [2, 1285, 2] [3, 1285, 10]
+Edge Deadlock : [3, 1977, 7] [2, 1977, 3]
+Adding context edges
+Edge Context : [3, 1285, 8] [2, 1285, 2]
+Edge Context : [3, 1977, 7] [2, 1977, 3]
+Adding context edges
+Edge Context : [2, 1285, 2] [3, 1285, 10]
+Building graph
+Feasible schedule 5
+Cycle context [1285, 1977]
+1
+1
+Cycle context [1977, 1285]
+1
+1
+WARNING :: There were 1 active at the time
+Trace size is 5064
+CThread 2 Lock 1285omen.wolf.javato.activetesting.igoodlock.Event_object@10fc11c8
+CThread 2 Lock 1977omen.wolf.javato.activetesting.igoodlock.Event_object@14f36a2e
+CThread 3 Lock 1977omen.wolf.javato.activetesting.igoodlock.Event_object@78bffcc0
+CThread 3 Lock 1285omen.wolf.javato.activetesting.igoodlock.Event_object@46adf2f
+Building graph
+Edge Deadlock : [2, 1285, 2] [3, 1285, 12]
+Edge Deadlock : [3, 1977, 7] [2, 1977, 3]
+Adding context edges
+Edge Context : [3, 1285, 8] [2, 1285, 2]
+Edge Context : [3, 1285, 10] [2, 1285, 2]
+Edge Context : [3, 1977, 7] [2, 1977, 3]
+Adding context edges
+Edge Context : [2, 1285, 2] [3, 1285, 12]
+Building graph
+Feasible schedule 6
+Cycle context [1285, 1977]
+1
+1
+Cycle context [1977, 1285]
+1
+1
+WARNING :: There were 1 active at the time
+Trace size is 5064
+CThread 2 Lock 1285omen.wolf.javato.activetesting.igoodlock.Event_object@7c55d3df
+CThread 2 Lock 1977omen.wolf.javato.activetesting.igoodlock.Event_object@66c9153e
+CThread 3 Lock 1977omen.wolf.javato.activetesting.igoodlock.Event_object@1b91ce2a
+CThread 3 Lock 1285omen.wolf.javato.activetesting.igoodlock.Event_object@176358a
+Building graph
+Edge Deadlock : [2, 1285, 2] [3, 1285, 14]
+Edge Deadlock : [3, 1977, 7] [2, 1977, 3]
+Adding context edges
+Edge Context : [3, 1285, 8] [2, 1285, 2]
+Edge Context : [3, 1285, 10] [2, 1285, 2]
+Edge Context : [3, 1285, 12] [2, 1285, 2]
+Edge Context : [3, 1977, 7] [2, 1977, 3]
+Adding context edges
+Edge Context : [2, 1285, 2] [3, 1285, 14]
+Building graph
+Feasible schedule 7
+Cycle context [1285, 1977]
+1
+1
+Cycle context [1977, 1285]
+1
+1
+WARNING :: There were 1 active at the time
+Trace size is 5064
+CThread 2 Lock 1285omen.wolf.javato.activetesting.igoodlock.Event_object@6619172f
+CThread 2 Lock 1977omen.wolf.javato.activetesting.igoodlock.Event_object@79414306
+CThread 3 Lock 1977omen.wolf.javato.activetesting.igoodlock.Event_object@2b977d1b
+CThread 3 Lock 1285omen.wolf.javato.activetesting.igoodlock.Event_object@66968df8
+Building graph
+Edge Deadlock : [2, 1285, 2] [3, 1285, 16]
+Edge Deadlock : [3, 1977, 7] [2, 1977, 3]
+Adding context edges
+Edge Context : [3, 1285, 8] [2, 1285, 2]
+Edge Context : [3, 1285, 10] [2, 1285, 2]
+Edge Context : [3, 1285, 12] [2, 1285, 2]
+Edge Context : [3, 1285, 14] [2, 1285, 2]
+Edge Context : [3, 1977, 7] [2, 1977, 3]
+Adding context edges
+Edge Context : [2, 1285, 2] [3, 1285, 16]
+Building graph
+Feasible schedule 8
+Cycle context [1285, 1977]
+1
+1
+Cycle context [1977, 1285]
+1
+1
+WARNING :: There were 1 active at the time
+Trace size is 5064
+CThread 2 Lock 1285omen.wolf.javato.activetesting.igoodlock.Event_object@ad62562
+CThread 2 Lock 1977omen.wolf.javato.activetesting.igoodlock.Event_object@71304a7c
+CThread 3 Lock 1977omen.wolf.javato.activetesting.igoodlock.Event_object@196a4cf2
+CThread 3 Lock 1285omen.wolf.javato.activetesting.igoodlock.Event_object@11e1b0e7
+Building graph
+Edge Deadlock : [2, 1285, 2] [3, 1285, 18]
+Edge Deadlock : [3, 1977, 7] [2, 1977, 3]
+Adding context edges
+Edge Context : [3, 1285, 8] [2, 1285, 2]
+Edge Context : [3, 1285, 10] [2, 1285, 2]
+Edge Context : [3, 1285, 12] [2, 1285, 2]
+Edge Context : [3, 1285, 14] [2, 1285, 2]
+Edge Context : [3, 1285, 16] [2, 1285, 2]
+Edge Context : [3, 1977, 7] [2, 1977, 3]
+Adding context edges
+Edge Context : [2, 1285, 2] [3, 1285, 18]
+Building graph
+Feasible schedule 9
+***************************************************************************
+*************************Not unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1562]
+
+
+***************************************************************************
+*************************Not unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1570]
+
+
+***************************************************************************
+*************************Not unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1578]
+
+
+***************************************************************************
+*************************Not unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1586]
+
+
+***************************************************************************
+*************************Not unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1594]
+
+
+***************************************************************************
+*************************Not unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 560]
+
+
+AVERAGE STACK LENGTH IS 6.0
+***************************************************************************
+*************************After Benson Remaining unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1562]
+
+
+***************************************************************************
+*************************After Benson Remaining unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1570]
+
+
+***************************************************************************
+*************************After Benson Remaining unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1578]
+
+
+***************************************************************************
+*************************After Benson Remaining unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1586]
+
+
+***************************************************************************
+*************************After Benson Remaining unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1594]
+
+
+***************************************************************************
+*************************After Benson Remaining unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 560]
+
+
+AVERAGE VERTICES 6
+***************************************************************************
+*************************After Stabler Remaining unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1562]
+
+
+***************************************************************************
+*************************After Stabler Remaining unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1570]
+
+
+***************************************************************************
+*************************After Stabler Remaining unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1578]
+
+
+***************************************************************************
+*************************After Stabler Remaining unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1586]
+
+
+***************************************************************************
+*************************After Stabler Remaining unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 1594]
+
+
+***************************************************************************
+*************************After Stabler Remaining unique with count 1*************************
+***************************************************************************
+ First Thread[206, 495]
+
+ Second Thread[264, 560]
+
+
+IGoodLock returned 6 cycles

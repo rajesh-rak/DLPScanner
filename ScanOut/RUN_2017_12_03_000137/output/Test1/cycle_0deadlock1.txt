@@ -1,0 +1,209 @@
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+...Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+..Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+
+Time: 0.044
+
+OK (20 tests)
+
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+...Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+..Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+.Modifying graph124 for thread 1 graph size is 4
+Modifying graph131 for thread 1 graph size is 4
+
+Time: 0.031
+
+OK (20 tests)
+
+Modifying graph14 for thread 1 graph size is 4
+Modifying graph20 for thread 1 graph size is 4
+Modifying graph124 for thread 2 graph size is 4
+Removing vertex by Thread 2 individual : 2
+ Stack Trace: 
+ omen.wolf.javato.activetesting.analysis.ObserverForActiveTesting.myLockBefore(ObserverForActiveTesting.java:132)
+Account.transfer(Account.java:8)
+TestDriver$1.run(TestDriver.java:30)
+
+Before removing vertex size: 4
+After removing vertex size: 3
+Precedence Given to Thread 3 Index 7 lock 1076 iid 124 at omen.wolf.javato.activetesting.analysis.ObserverForActiveTesting.myLockBefore(ObserverForActiveTesting.java:132)
+Account.transfer(Account.java:8)
+TestDriver$2.run(TestDriver.java:48)
+
+Yielding graph 131
+I am going to wait : Thread 2 lock 1083 iid 131 at TestDriver$1.run(TestDriver.java:30)
+
+Precedence Given to Thread 3 Index 7 lock 1076 iid 124 at omen.wolf.javato.activetesting.analysis.ObserverForActiveTesting.myLockBefore(ObserverForActiveTesting.java:132)
+Account.transfer(Account.java:8)
+TestDriver$2.run(TestDriver.java:48)
+
+Precedence Given to Thread 3 Index 7 lock 1076 iid 124 at omen.wolf.javato.activetesting.analysis.ObserverForActiveTesting.myLockBefore(ObserverForActiveTesting.java:132)
+Account.transfer(Account.java:8)
+TestDriver$2.run(TestDriver.java:48)
+
+Modifying graph124 for thread 3 graph size is 3
+Removing vertex by Thread 3 individual : 7
+ Stack Trace: 
+ omen.wolf.javato.activetesting.analysis.ObserverForActiveTesting.myLockBefore(ObserverForActiveTesting.java:132)
+Account.transfer(Account.java:8)
+TestDriver$2.run(TestDriver.java:48)
+
+Before removing vertex size: 3
+After removing vertex size: 2
+Modifying graph131 for thread 2 graph size is 2
+Removing vertex by Thread 2 individual : 3
+ Stack Trace: 
+ omen.wolf.javato.activetesting.analysis.ObserverForActiveTesting.myLockBefore(ObserverForActiveTesting.java:90)
+Account.transfer(Account.java:9)
+TestDriver$1.run(TestDriver.java:30)
+
+Before removing vertex size: 2
+After removing vertex size: 1
+Reproduced one patter1
+Reproduced one patter0
+##############################################################
+Required Real Deadlock Detected 
+##############################################################
+Thread and lock sets:Thread[Thread-2,5,main]
+##############################################################
+Writing to file : UNIQUE
+Non-Empty deadlock
