@@ -168,7 +168,7 @@ then
     if [ $hungcount -gt 0 ]
     then
         echo -e "----------------------" >> $resultfile
-        echo -e "Indefinite waits:" >> $resultfile
+        echo -e "Hung Programs:" >> $resultfile
         echo -e "----------------------" >> $resultfile
         while read line
         do
