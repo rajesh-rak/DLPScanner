@@ -120,7 +120,6 @@ logjStack() {
 	then
         DELAY=$(expr $JGR_DELAY_SECS \* $RE_TRIES)
 	fi
-	echo Delay Seconds: $DELAY
 	sleep $DELAY
 	jstack -l $1 > jstack2.txt
 }
@@ -130,9 +129,7 @@ process_report()   {
     if [ "$outfolder_present" = "Y" ]
     then
         outfolder=$(head -n 1 $output_folder)
-        echo OutFolder $outfolder
         analysis_outfile=$outfolder/$analysis_file
-        echo "Analysis Output file:" $analysis_outfile
         echo "Java processes in indefinite wait:" > $analysis_outfile
         count=${#matchesID[*]}
 	    for (( k=0; k < $count; k++ ))
@@ -141,11 +138,8 @@ process_report()   {
 		    procName=${matchesP[$k]}
 		    echo "Process Name: $procName" >> $analysis_outfile
 		    proc_stack_file=$(echo $procName"_stack.txt")
-		    echo Process Stack File: $proc_stack_file
 		    jstack -l $procID > $outfolder/$proc_stack_file
 	    done
-	
-          
     else 
         echo Outout Folder not present, not processing results!
     fi
@@ -182,11 +176,9 @@ detect_n_kill_locked_process() {
 			#as reporting happens for all processes that are running
 			if [ "$report_flag" = "N" ] 
 			then
-			    echo Process hung, Processing report
 			    process_report
 			    report_flag="Y"
 			fi
-			echo Process Locked ${matchesP[$j]}, will be terminated
 			kill -9 $pidtxt
 		fi
 	done
@@ -216,7 +208,7 @@ do
 	fi	
 	sleep $LOOP_WAIT_SECS
 done
-echo "."
+echo "No more Java processes to monitor"
 echo Cleaning up...
 # File clean up
 rm -f $pid_file1

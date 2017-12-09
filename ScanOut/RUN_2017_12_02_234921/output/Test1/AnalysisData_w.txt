@@ -1,3 +1,0 @@
-Java processes in indefinite wait:
-Process Name: OmenDriver
-Process Name: RandoopTest

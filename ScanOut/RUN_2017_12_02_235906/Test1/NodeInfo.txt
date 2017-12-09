@@ -1,5 +1,0 @@
-File:		QTest_01_02.out
-Line No:	2
-NH Depth:	14
-NH Density:	7
-Classes	: [java.util.TimeZone, java.util.Properties, java.util.logging.Logger, sun.util.LocaleServiceProviderPool, java.util.ResourceBundle, java.util.Date, sun.util.TimeZoneNameUtility]

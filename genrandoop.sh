@@ -86,7 +86,7 @@ else
 	fi
 fi
 
-export CLASSPATH=$pwdir:$execfolder/$wfolder:$pwdir/lib/sootall-2.3.0.jar:$pwdir/lib/omen.jar:$pwdir/lib/concurrent.jar:$pwdir/lib/randoop.jar:$pwdir/lib/tools.jar:$pwdir/lib/junit-4.11.jar:$pwdir/lib/colt-1.2.0.jar:$pwdir/lib/colt-hep.jar:$pwdir/lib/Account.jar
+export CLASSPATH=$pwdir:$execfolder/$wfolder:$pwdir/lib/sootall-2.3.0.jar:$pwdir/lib/omen.jar:$pwdir/lib/concurrent.jar:$pwdir/lib/randoop.jar:$pwdir/lib/tools.jar:$pwdir/lib/junit-4.11.jar:$pwdir/lib/jaxws-rt-2.2.10.jar:$pwdir/lib/colt-1.2.0.jar:$pwdir/lib/colt-hep.jar:$pwdir/lib/Account.jar
 
 echo "Classpath:"
 env | grep CLASSPATH

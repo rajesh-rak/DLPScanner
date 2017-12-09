@@ -124,7 +124,7 @@ fi
 #Summarize Result:
 tresultfile="tmpresult.txt"
 ttestfile="tmptest.txt"
-resultfile="DLP_Result.out"
+resultfile="DLP_Result.txt"
 hunglist="hunglist.txt"
 cd $execFolder/output
 find . -name Analysis* > $tresultfile
@@ -189,12 +189,15 @@ runID=${execFolder##*/}
 if [ ! -f "$outFolder/$summaryOutFile" ]
 then
 	echo "No Summary File"
-	echo -e "RunID,Tests,Dead_Locks,Progs_Hung,NH_Depth,NH_Density,Nodes_Parsed,Nodes_Shortlisted,Time_Stamp" >> $outFolder/$summaryOutFile
+	echo -e "RunID,Tests,Dead_Locks,Progs_Hung,NH_Depth,NH_Density,Nodes_Parsed,Nodes_Shortlisted,Duplicates,Skipped,Time_Stamp,Scan_Files" > $outFolder/$summaryOutFile
 fi
 nhDepth=""
 nhDensity=""
 nodesParsed=""
 nodesShortlisted=""
+dupNodes=""
+nodesSkipped=0
+filenames=""
 timeStamp=$(date +%Y.%m.%d-%H.%M.%S)
 
 shopt -s extglob
@@ -209,22 +212,30 @@ do
 	elif [[ "$rLine" =~ "Neighbourhood Density" ]]
 	then
 		nhDensity=${rLine##*:}
-		echo "NH: density:$nhDensity" | tr -d '\t'
+		echo "NH: density:$nhDensity"
 		
 	elif [[ "$rLine" =~ "Total Nodes Processed" ]]
 	then
 		nodesParsed=${rLine##*:}
-		
+		nodesParsed=$nodesParsed
 	elif [[ "$rLine" =~ "Total Nodes Selected" ]]
 	then
 		nodesShortlisted=${rLine##*:}
+	    nodesShortlisted=$nodesShortlisted 
+	elif [[ "$rLine" =~ "File" ]]
+	then
+		filenames+=${rLine##*:}
+		filenames+=";"
+	elif [[ "$rLine" =~ "Total Duplicates" ]]
+	then
+		dupNodes+=${rLine##*:}
+	    dupNodes=$dupNodes 
 	
 	fi
-
-	
 done < $execFolder/$execLogFile
 
-		echo "$runID,$testcount,$positives,$hungcount,$nhDepth,$nhDensity,$nodesParsed,$nodesShortlisted,$timeStamp" | tr -d '\t' >> $outFolder/$summaryOutFile
+nodesSkipped=$[$nodesParsed - $nodesShortlisted - $dupNodes]
+		echo "$runID,$testcount,$positives,$hungcount,$nhDepth,$nhDensity,$nodesParsed,$nodesShortlisted,$dupNodes,$nodesSkipped,$timeStamp,$filenames" | tr -d '\t' >> $outFolder/$summaryOutFile
 
 
 

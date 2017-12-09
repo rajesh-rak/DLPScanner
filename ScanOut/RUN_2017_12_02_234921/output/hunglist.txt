@@ -1,1 +1,0 @@
-./Test1/AnalysisData_w.txt
