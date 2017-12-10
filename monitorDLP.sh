@@ -127,6 +127,9 @@ logjStack() {
 }
 
 process_report()   {
+		execfolder=$(head -n 1 $run_folder)
+		dlpTestFolder=$(head -n 1 $testFolder)
+		dlpTestFolder=$(echo "$dlpTestFolder"_x)
     outfolder_present=$([ -f $output_folder ] && echo "Y" || echo "N")
 		testfolder_present=$([ -f $testFolder ] && echo "Y" || echo "N")
 
@@ -139,40 +142,43 @@ process_report()   {
 		if [ "$outfolder_present" = "Y" ]
     then
         testhung_flag="N"
-        outfolder=$(head -n 1 $output_folder)
         echo -n "_"
     else
         testhung_flag="Y"
-        outfolder=$execfolder/output/$dlpTestFolder
+				echo -n "~"
     fi
+		outfolder=$execfolder/output/$dlpTestFolder
 
 	  if [ ! -d "$execfolder" ]
 		then
-	        echo Runfolder does on exist, not processing results!
+	        echo Runfolder does not exist, not processing results!
 	        return 0
 	    elif [ ! -d "$execfolder/output" ]
 		then
-		    mkdir $execfolder/output
+				mkdir $execfolder/output
 		    mkdir $execfolder/output/$dlpTestFolder
 		elif [ ! -d "$execfolder/output/$dlpTestFolder" ]
 		then
-		    mkdir $execfolder/output/$dlpTestFolder
+				mkdir $execfolder/output/$dlpTestFolder
 		fi
 
     analysis_outfile=$outfolder/$analysis_file
     testhung_outfile=$outfolder/$testhung_file
     if [ "$testhung_flag" = "Y" ]
     then
-        echo "Test generation Hung:" >> $analysis_outfile
-        echo "Test generation Hung" >> $testhung_outfile
+				echo "--------------------" >> $analysis_outfile
+				echo "Test generation Hung:" >> $analysis_outfile
+        echo "--------------------" >> $testhung_outfile
+				echo "Test generation Hung" >> $testhung_outfile
     else
-        echo "Test execution Hung:" >> $analysis_outfile
+				echo "--------------------" >> $analysis_outfile
+				echo "Test execution Hung:" >> $analysis_outfile
     fi
 
     count=${#matchesID[*]}
     for (( k=0; k < $count; k++ ))
     do
-      procID=${matchesID[$k]}
+			procID=${matchesID[$k]}
 	    procName=${matchesP[$k]}
 	    echo "Process Name: $procName" >> $analysis_outfile
 	    proc_stack_file=$(echo $procName"_stack.txt")
@@ -224,8 +230,6 @@ monitor_for_deadlock() {
 	while [ $java_running -eq $Y ]
 	do
 		echo -n "."
-		execfolder=$(head -n 1 $run_folder)
-		dlpTestFolder=$(head -n 1 $testFolder)
 		lockedPIDs=()
 		loop_count+=1
 		log_pid_file
@@ -241,12 +245,9 @@ monitor_for_deadlock() {
 	done
 }
 
+#Execution starts here ...
 echo -n "Monitoring Java processes..."
 echo
-#uncomment to stop processing this script - for debigging purpose
-#java_running=0
-execfolder=$(head -n 1 $run_folder)
-dlpTestFolder=$(head -n 1 $testFolder)
 retry_count=0
 while [ $retry_count -lt $RE_TRIES ]
 do

@@ -132,13 +132,21 @@ testhunglist="testhunglist.txt"
 analysis_file="Analysis"
 hung_file="AnalysisData_w.txt"
 testhung_file="TestGenHung.txt"
+outdir=$execFolder/output
+echo Output Dir: $outdir
+if [ ! -d "$outdir" ]
+then
+	echo "Nothing to process...terminating"
+	echo ""
+	exit 0
+fi
 
 cd $execFolder/output
 find . -name $analysis_file* > $tresultfile
 find . -name $hung_file > $hunglist
 find . -name $testhung_file > $testhunglist
 
-ls -d Test*/ > $ttestfile
+ls -d Test* | grep -v _x > $ttestfile
 testcount=0
 positives=0
 hungcount=0
