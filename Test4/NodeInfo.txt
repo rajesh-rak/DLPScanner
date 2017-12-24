@@ -1,5 +1,0 @@
-File:		Test.out
-Line No:	2216
-NH Depth:	1
-NH Density:	1
-Classes	: [hep.aida.bin.DynamicBin1D]

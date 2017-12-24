@@ -1,5 +1,0 @@
-File:		Test.out
-Line No:	774
-NH Depth:	2
-NH Density:	2
-Classes	: [java.util.logging.Logger, java.util.logging.LogManager]
