@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	16404
+NH Depth:	32
+NH Density:	18
+Classes	: [java.util.Properties, javax.xml.transform.TransformerFactory, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, com.sun.xml.internal.ws.server.WSEndpointImpl, java.lang.reflect.Method, javax.xml.transform.FactoryFinder, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, java.util.XMLUtils, sun.reflect.Reflection, java.security.ProtectionDomain, javax.management.MBeanOperationInfo, com.sun.jmx.mbeanserver.Introspector, java.lang.Class, com.sun.naming.internal.ResourceManager, java.lang.Enum]

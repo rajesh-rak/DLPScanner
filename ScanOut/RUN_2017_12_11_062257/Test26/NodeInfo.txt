@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	3008
+NH Depth:	14
+NH Density:	13
+Classes	: [java.util.Currency, java.util.Properties, java.util.Hashtable, java.lang.String, java.lang.System, java.lang.reflect.Proxy, java.io.ObjectInputStream, com.sun.corba.se.impl.activation.ServerManagerImpl, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.ConditionalSpecialCasing, sun.font.FontFamily, com.sun.crypto.provider.JceKeyStore]

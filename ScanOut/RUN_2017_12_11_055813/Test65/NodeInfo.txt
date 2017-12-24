@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	110858
+NH Depth:	17
+NH Density:	18
+Classes	: [java.util.Properties, sun.util.calendar.CalendarSystem, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, java.io.ObjectOutput, java.lang.reflect.Method, com.sun.crypto.provider.SunJCE_z, java.util.Date, java.lang.reflect.Proxy, sun.util.calendar.LocalGregorianCalendar, java.io.ObjectStreamClass, java.io.ObjectInputStream, java.io.ObjectOutputStream, javax.management.relation.RelationService, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, com.sun.crypto.provider.JceKeyStore, java.lang.Enum]

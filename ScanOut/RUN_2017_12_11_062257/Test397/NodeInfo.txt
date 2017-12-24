@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	238158
+NH Depth:	21
+NH Density:	26
+Classes	: [com.sun.org.apache.xalan.internal.xsltc.trax.SmartTransformerFactoryImpl, java.util.Properties, java.util.jar.JarVerifier, javax.crypto.Cipher, com.sun.crypto.provider.SunJCE_z, java.lang.System, java.security.Signature, javax.crypto.SunJCE_b, java.security.Security, javax.crypto.SunJCE_c, java.util.jar.JarFile, java.util.zip.ZipFile, com.sun.crypto.provider.JceKeyStore, sun.security.timestamp.TimestampToken, sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, sun.security.util.SignatureFileVerifier, java.util.Hashtable, sun.misc.VM, java.net.URI, java.lang.ClassLoader, sun.misc.JarIndex, com.sun.org.apache.xalan.internal.utils.ObjectFactory, java.net.URL, sun.security.jca.GetInstance, com.sun.crypto.provider.SunJCE_ad]

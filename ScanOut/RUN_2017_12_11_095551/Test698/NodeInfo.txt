@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	13223
+NH Depth:	36
+NH Density:	18
+Classes	: [sun.rmi.transport.tcp.ConnectionAcceptor, java.security.Permissions, java.net.InetAddress, java.lang.SecurityManager, java.lang.Thread, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, java.net.SocketPermission, java.security.AccessControlContext, java.net.Inet6Address, java.io.ObjectStreamClass, sun.reflect.Reflection, java.io.ObjectOutputStream, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Class, java.net.NetworkInterface]

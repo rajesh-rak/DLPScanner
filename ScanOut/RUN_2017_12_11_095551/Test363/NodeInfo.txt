@@ -1,0 +1,5 @@
+File:		zb11
+Line No:	7599
+NH Depth:	41
+NH Density:	20
+Classes	: [com.sun.org.apache.xpath.internal.res.XPATHErrorResources_de, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, sun.misc.URLClassPath, java.lang.String, sun.util.LocaleServiceProviderPool, java.util.jar.Manifest, java.net.URLStreamHandler, java.lang.ClassLoader, java.util.jar.Attributes, sun.util.CoreResourceBundleControl, com.sun.corba.se.impl.logging.IORSystemException, sun.awt.X11.XInputMethod, java.text.BreakIterator, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.util.logging.Logger, java.util.jar.JarInputStream, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle]

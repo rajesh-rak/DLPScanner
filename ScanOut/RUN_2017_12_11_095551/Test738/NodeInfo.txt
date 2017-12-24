@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	22016
+NH Depth:	37
+NH Density:	28
+Classes	: [java.util.Properties, sun.util.calendar.CalendarSystem, sun.security.x509.CertificateValidity, sun.security.validator.SimpleValidator, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, javax.crypto.Cipher, com.sun.crypto.provider.SunJCE_z, com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl, java.security.Signature, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, sun.util.calendar.ZoneInfo, javax.crypto.SunJCE_h, sun.security.x509.X509CertImpl, com.sun.corba.se.impl.orb.AppletDataCollector, sun.security.validator.Validator, com.sun.crypto.provider.JceKeyStore, sun.util.calendar.BaseCalendar, sun.misc.VMSupport, java.util.SimpleTimeZone, sun.security.validator.EndEntityChecker, java.util.Hashtable, java.util.Date, sun.security.x509.X509CertInfo, sun.util.calendar.LocalGregorianCalendar, com.sun.corba.se.impl.orb.DataCollectorBase, com.sun.crypto.provider.SunJCE_ad, sun.util.calendar.AbstractCalendar]

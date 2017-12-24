@@ -1,0 +1,104 @@
+Execution Summary
+-----------------
+Source Folder:	/Users/rajesh/code/DLPScanner/cycles/zb*
+Output Folder:	/Users/rajesh/code/DLPScanner/ScanOut
+Neighbourhood Depth:	100
+Neighbourhood Density:	100
+Total Files Processed:	13
+Total Lines Processed:	595,542
+Total Nodes Processed:	2671
+Total Nodes Selected:	1765
+Total Duplicates:	906
+Total Processing Time:	11,573ms
+-------------------------------------
+File:			zb10
+Lines Processed:	93,122
+Nodes Processed:	363
+Nodes Selected:		324
+Duplicates skipped:	39
+Processed in: 		1,400ms
+------
+File:			zb11
+Lines Processed:	23,565
+Nodes Processed:	114
+Nodes Selected:		96
+Duplicates skipped:	18
+Processed in: 		418ms
+------
+File:			zb12
+Lines Processed:	18,362
+Nodes Processed:	98
+Nodes Selected:		65
+Duplicates skipped:	33
+Processed in: 		533ms
+------
+File:			zb14
+Lines Processed:	39,231
+Nodes Processed:	143
+Nodes Selected:		101
+Duplicates skipped:	42
+Processed in: 		720ms
+------
+File:			zb15
+Lines Processed:	25,722
+Nodes Processed:	108
+Nodes Selected:		67
+Duplicates skipped:	41
+Processed in: 		462ms
+------
+File:			zb17
+Lines Processed:	135,657
+Nodes Processed:	612
+Nodes Selected:		436
+Duplicates skipped:	176
+Processed in: 		2,531ms
+------
+File:			zb18
+Lines Processed:	92,589
+Nodes Processed:	421
+Nodes Selected:		286
+Duplicates skipped:	135
+Processed in: 		1,848ms
+------
+File:			zb19
+Lines Processed:	87,055
+Nodes Processed:	408
+Nodes Selected:		137
+Duplicates skipped:	271
+Processed in: 		1,812ms
+------
+File:			zb20
+Lines Processed:	31,579
+Nodes Processed:	160
+Nodes Selected:		92
+Duplicates skipped:	68
+Processed in: 		650ms
+------
+File:			zb21
+Lines Processed:	366
+Nodes Processed:	4
+Nodes Selected:		1
+Duplicates skipped:	3
+Processed in: 		9ms
+------
+File:			zb22
+Lines Processed:	15,656
+Nodes Processed:	69
+Nodes Selected:		38
+Duplicates skipped:	31
+Processed in: 		319ms
+------
+File:			zbLast
+Lines Processed:	31,652
+Nodes Processed:	160
+Nodes Selected:		121
+Duplicates skipped:	39
+Processed in: 		816ms
+------
+File:			zbTzZ
+Lines Processed:	986
+Nodes Processed:	11
+Nodes Selected:		1
+Duplicates skipped:	10
+Processed in: 		31ms
+------

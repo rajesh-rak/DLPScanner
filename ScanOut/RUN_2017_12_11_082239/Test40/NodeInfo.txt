@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	23192
+NH Depth:	18
+NH Density:	19
+Classes	: [java.util.Currency, java.util.Properties, sun.font.FontManager, java.util.Hashtable, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, sun.util.LocaleServiceProviderPool, java.lang.String, java.util.logging.Logging, java.lang.reflect.Proxy, java.io.ObjectInputStream, java.text.BreakIterator, java.util.logging.Logger, java.util.Formatter, java.lang.ConditionalSpecialCasing, java.text.DecimalFormatSymbols, com.sun.corba.se.impl.naming.cosnaming.TransientNameService, sun.font.FontFamily, com.sun.crypto.provider.JceKeyStore]

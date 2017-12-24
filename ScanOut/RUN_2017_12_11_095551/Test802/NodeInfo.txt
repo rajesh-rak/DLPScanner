@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	37613
+NH Depth:	19
+NH Density:	23
+Classes	: [java.util.TimeZone, com.sun.corba.se.spi.servicecontext.ServiceContexts, java.util.Properties, java.lang.SecurityManager, com.sun.corba.se.impl.protocol.SharedCDRClientRequestDispatcherImpl, com.sun.corba.se.impl.encoding.BufferManagerFactory, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, sun.awt.X11.XWindowPeer, sun.util.LocaleServiceProviderPool, java.security.AccessController, java.security.Policy, java.util.Date, sun.util.TimeZoneNameUtility, java.lang.ClassLoader, java.security.AccessControlContext, com.sun.corba.se.impl.protocol.CorbaClientRequestDispatcherImpl, java.util.logging.Logger, java.security.ProtectionDomain, com.sun.corba.se.impl.logging.ORBUtilSystemException, com.sun.naming.internal.ResourceManager, sun.net.www.MimeTable, com.sun.jmx.trace.TraceManager]

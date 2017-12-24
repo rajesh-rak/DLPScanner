@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	17479
+NH Depth:	34
+NH Density:	21
+Classes	: [java.lang.reflect.Constructor, javax.crypto.Mac, java.security.Permissions, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, javax.crypto.Cipher, com.sun.crypto.provider.SunJCE_z, java.security.AccessControlContext, javax.crypto.SunJCE_d, javax.crypto.SunJCE_e, javax.crypto.SunJCE_b, sun.reflect.Reflection, javax.crypto.SunJCE_c, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Class, com.sun.crypto.provider.SunJCE_ad, com.sun.crypto.provider.JceKeyStore, com.sun.net.ssl.internal.ssl.JsseJce]

@@ -1,0 +1,38 @@
+..F................F..F...F....
+Time: 0.098
+There were 4 failures:
+1) test26(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test26(RandoopTest0.java:522)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test10(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test10(RandoopTest0.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test8(RandoopTest0)junit.framework.AssertionFailedError: Expected: <null> but was: [Ljava.lang.String;@c907ff
+	at RandoopTest0.test8(RandoopTest0.java:138)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+4) test5(RandoopTest0)junit.framework.AssertionFailedError: '/Users/rajesh/code/DLPScanner/hi!' != '/Users/rajesh/code/DLPScanner/ScanOut/RUN_2017_12_11_062257/Test172/hi!'
+	at RandoopTest0.test5(RandoopTest0.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 27,  Failures: 4,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 24859
+Exiting analysis

@@ -1,0 +1,25 @@
+.....E.........................
+Time: 0.077
+There was 1 error:
+1) test26(RandoopTest0)java.lang.NullPointerException
+	at java.util.concurrent.ConcurrentHashMap.hash(ConcurrentHashMap.java:333)
+	at java.util.concurrent.ConcurrentHashMap.get(ConcurrentHashMap.java:988)
+	at java.util.TimeZone.getDisplayNames(TimeZone.java:442)
+	at java.util.TimeZone.getDisplayName(TimeZone.java:409)
+	at java.util.TimeZone.getDisplayName(TimeZone.java:371)
+	at RandoopTest0.test26(RandoopTest0.java:386)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 30,  Failures: 0,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 20119
+Exiting analysis

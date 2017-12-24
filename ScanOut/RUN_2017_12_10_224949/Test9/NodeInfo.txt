@@ -1,0 +1,5 @@
+File:		kkzb.xml
+Line No:	741
+NH Depth:	4
+NH Density:	3
+Classes	: [java.util.Stack, java.util.Vector, java.lang.ClassLoader]

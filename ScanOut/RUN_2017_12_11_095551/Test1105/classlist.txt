@@ -1,0 +1,13 @@
+sun.reflect.annotation.AnnotationParser
+java.util.Hashtable
+com.sun.xml.internal.ws.server.WSEndpointImpl
+com.sun.jmx.mbeanserver.Repository
+java.lang.reflect.Method
+javax.management.ObjectName
+java.lang.reflect.Proxy
+java.io.ObjectInputStream
+javax.management.MBeanOperationInfo
+com.sun.jmx.mbeanserver.Introspector
+java.lang.Class
+com.sun.crypto.provider.JceKeyStore
+java.lang.Enum

@@ -1,0 +1,13 @@
+java.net.InetAddress
+java.util.Hashtable
+java.lang.Package
+com.sun.jmx.mbeanserver.Repository
+java.net.URLStreamHandler
+com.sun.crypto.provider.SunJCE_z
+java.lang.ClassLoader
+javax.management.ObjectName
+javax.crypto.SunJCE_b
+javax.crypto.SunJCE_c
+javax.crypto.SunJCE_h
+java.net.URL
+com.sun.crypto.provider.JceKeyStore

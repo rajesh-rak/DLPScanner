@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	116614
+NH Depth:	46
+NH Density:	21
+Classes	: [java.text.SimpleDateFormat, java.awt.KeyboardFocusManager, java.util.Currency, java.awt.Window, java.net.URLClassLoader, sun.rmi.transport.tcp.TCPEndpoint, java.awt.GraphicsDevice, java.lang.Package, sun.awt.im.InputMethodContext, sun.awt.im.InputContext, javax.swing.JFrame, java.lang.ClassLoader, java.awt.Component, sun.awt.im.CompositionArea, sun.awt.im.CompositionAreaHandler, sun.rmi.transport.tcp.TCPTransport, java.text.MessageFormat, java.text.DecimalFormatSymbols, java.awt.Dialog, java.awt.Container, java.text.NumberFormat]

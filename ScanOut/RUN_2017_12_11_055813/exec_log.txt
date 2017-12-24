@@ -1,0 +1,20 @@
+Execution Summary
+-----------------
+Source Folder:	/Users/rajesh/code/DLPScanner/cycles/azb16
+Output Folder:	/Users/rajesh/code/DLPScanner/ScanOut
+Neighbourhood Depth:	20
+Neighbourhood Density:	20
+Total Files Processed:	1
+Total Lines Processed:	598,619
+Total Nodes Processed:	2025
+Total Nodes Selected:	104
+Total Duplicates:	279
+Total Processing Time:	4,679ms
+-------------------------------------
+File:			azb16
+Lines Processed:	598,619
+Nodes Processed:	2025
+Nodes Selected:		104
+Duplicates skipped:	279
+Processed in: 		4,674ms
+------

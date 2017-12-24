@@ -1,0 +1,14 @@
+com.sun.jndi.ldap.pool.Pool
+java.util.Map
+com.sun.jndi.ldap.DigestClientId
+java.lang.SecurityManager
+java.lang.reflect.Method
+java.security.Policy
+java.security.AccessController
+com.sun.jndi.ldap.ClientId
+java.security.AccessControlContext
+sun.reflect.Reflection
+java.security.ProtectionDomain
+java.util.WeakHashMap
+java.lang.Class
+com.sun.jndi.ldap.SimpleClientId

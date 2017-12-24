@@ -1,0 +1,32 @@
+.thread -1
+....thread -1
+....thread -1
+.....thread -1
+...thread -1
+...thread -1
+....F.thread -1
+.thread -1
+.
+Time: 0.087
+There was 1 failure:
+1) test4(RandoopTest0)junit.framework.AssertionFailedError: 'java.security.Permissions@7e6d3209 (
+)
+' != 'java.security.Permissions@17a220d7 (
+)
+'
+	at RandoopTest0.test4(RandoopTest0.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 27,  Failures: 1,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 19018
+Exiting analysis

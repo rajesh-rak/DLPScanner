@@ -1,0 +1,44 @@
+.........E..........E.....E.......
+Time: 0.084
+There were 3 errors:
+1) test23(RandoopTest0)java.io.FileNotFoundException: hi! (Is a directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:110)
+	at java.util.Formatter.<init>(Formatter.java:1976)
+	at RandoopTest0.test23(RandoopTest0.java:346)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test13(RandoopTest0)java.io.FileNotFoundException: hi! (Is a directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:110)
+	at java.util.Formatter.<init>(Formatter.java:1976)
+	at RandoopTest0.test13(RandoopTest0.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test8(RandoopTest0)java.io.FileNotFoundException: hi! (Is a directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:110)
+	at java.util.Formatter.<init>(Formatter.java:1976)
+	at RandoopTest0.test8(RandoopTest0.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 31,  Failures: 0,  Errors: 3
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 24796
+Exiting analysis

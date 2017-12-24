@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	322242
+NH Depth:	34
+NH Density:	29
+Classes	: [java.util.Calendar, sun.util.calendar.CalendarSystem, java.util.jar.JarVerifier, java.lang.SecurityManager, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.util.GregorianCalendar, sun.util.calendar.ZoneInfo, javax.crypto.SunJCE_h, java.lang.Class, com.sun.naming.internal.ResourceManager, java.util.zip.ZipFile, java.util.jar.JarFile, com.sun.crypto.provider.JceKeyStore, sun.security.timestamp.TimestampToken, sun.util.calendar.BaseCalendar, sun.security.util.DerInputStream, java.util.SimpleTimeZone, sun.security.util.SignatureFileVerifier, java.util.Hashtable, sun.security.util.DerInputBuffer, java.security.Policy, java.util.Date, sun.misc.JarIndex, java.security.AccessControlContext, java.security.ProtectionDomain, sun.util.calendar.Gregorian]

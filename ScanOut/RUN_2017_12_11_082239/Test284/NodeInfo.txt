@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	43101
+NH Depth:	20
+NH Density:	14
+Classes	: [java.util.Properties, java.lang.SecurityManager, javax.xml.transform.TransformerFactory, javax.xml.transform.FactoryFinder, sun.misc.VM, java.security.AccessController, java.security.Policy, java.lang.System, java.lang.ClassLoader, java.security.AccessControlContext, java.util.XMLUtils, java.security.ProtectionDomain, java.lang.Class, com.sun.naming.internal.ResourceManager]

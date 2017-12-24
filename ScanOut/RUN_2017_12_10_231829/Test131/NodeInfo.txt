@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	27049
+NH Depth:	21
+NH Density:	17
+Classes	: [sun.rmi.server.UnicastServerRef, sun.util.calendar.CalendarSystem, java.lang.SecurityManager, java.util.Hashtable, com.sun.org.apache.xerces.internal.impl.xpath.regex.RegexParser, java.lang.String, java.lang.StringBuilder, java.security.Policy, java.security.AccessController, java.io.PrintStream, java.util.Date, com.sun.org.apache.xerces.internal.impl.xpath.regex.RangeToken, java.security.AccessControlContext, java.security.ProtectionDomain, java.lang.Class, com.sun.org.apache.xerces.internal.impl.xpath.regex.Token, com.sun.naming.internal.ResourceManager]

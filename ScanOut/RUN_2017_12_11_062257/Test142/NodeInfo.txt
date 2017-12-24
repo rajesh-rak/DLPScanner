@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	93509
+NH Depth:	32
+NH Density:	26
+Classes	: [java.text.SimpleDateFormat, com.sun.corba.se.spi.servicecontext.ServiceContexts, com.sun.corba.se.impl.protocol.SharedCDRClientRequestDispatcherImpl, com.sun.corba.se.impl.encoding.BufferManagerFactory, java.util.Hashtable, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, java.lang.String, sun.util.LocaleServiceProviderPool, java.util.jar.Manifest, java.net.URLStreamHandler, com.sun.crypto.provider.SunJCE_z, java.util.jar.Attributes, java.util.logging.Logging, com.sun.crypto.provider.SunJCE, com.sun.crypto.provider.SunJCE_b, java.text.BreakIterator, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, java.lang.ConditionalSpecialCasing, java.util.jar.JarFile, com.sun.crypto.provider.JceKeyStore, java.text.DateFormat, java.text.NumberFormat]

@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	78183
+NH Depth:	35
+NH Density:	33
+Classes	: [java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, sun.awt.X11.XComponentPeer, sun.util.LocaleServiceProviderPool, java.io.PrintStream, java.net.URLStreamHandler, sun.util.CoreResourceBundleControl, sun.security.provider.JavaKeyStore, java.security.Security, com.sun.org.apache.xml.internal.res.XMLErrorResources, java.util.regex.Pattern, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore, sun.security.util.Debug, java.security.MessageDigest, java.util.Hashtable, sun.misc.URLClassPath, java.lang.String, java.lang.ClassLoader, java.security.AccessControlContext, sun.net.util.IPAddressUtil, java.net.URL, java.util.logging.Logger, java.lang.Exception, java.math.BigDecimal, java.security.cert.CertificateFactory, java.lang.ConditionalSpecialCasing, sun.security.jca.GetInstance]

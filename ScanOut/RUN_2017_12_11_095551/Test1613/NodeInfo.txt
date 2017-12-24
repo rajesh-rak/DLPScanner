@@ -1,0 +1,5 @@
+File:		zb22
+Line No:	2403
+NH Depth:	28
+NH Density:	39
+Classes	: [javax.swing.plaf.synth.SynthInternalFrameTitlePane, com.sun.java.swing.plaf.motif.MotifInternalFrameTitlePane, javax.swing.JFormattedTextField, javax.swing.plaf.basic.BasicComboBoxRenderer, javax.swing.JToolBar, javax.swing.JTable, javax.swing.JRadioButtonMenuItem, javax.swing.JButton, javax.swing.JPanel, javax.swing.JRootPane, javax.swing.JToggleButton, javax.swing.JProgressBar, javax.swing.GroupLayout, java.awt.Component, javax.swing.JOptionPane, javax.swing.JSeparator, javax.swing.JLabel, javax.swing.JMenuBar, javax.swing.JList, javax.swing.JSplitPane, javax.swing.JComboBox, javax.swing.JTree, javax.swing.JComponent, javax.swing.JColorChooser, com.sun.java.swing.plaf.windows.WindowsInternalFrameTitlePane, javax.swing.JInternalFrame, javax.swing.JToolTip, javax.swing.JCheckBox, javax.swing.JScrollPane, javax.swing.RepaintManager, javax.swing.AbstractButton, com.sun.java.swing.SwingUtilities3, javax.swing.JTextArea, javax.swing.JFileChooser, sun.awt.im.CompositionArea, javax.swing.JViewport, javax.swing.JTextField, javax.swing.JCheckBoxMenuItem, javax.swing.plaf.basic.BasicArrowButton]

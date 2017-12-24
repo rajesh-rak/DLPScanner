@@ -1,0 +1,7 @@
+com.sun.jmx.mbeanserver.StandardMBeanIntrospector
+java.lang.SecurityManager
+java.security.ProtectionDomain
+java.lang.Class
+java.security.Policy
+java.security.AccessController
+java.security.AccessControlContext

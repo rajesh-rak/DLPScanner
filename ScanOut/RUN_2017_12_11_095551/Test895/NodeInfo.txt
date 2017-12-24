@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	80328
+NH Depth:	36
+NH Density:	31
+Classes	: [sun.rmi.transport.tcp.ConnectionAcceptor, sun.util.calendar.CalendarSystem, java.lang.SecurityManager, java.lang.reflect.Method, java.lang.Thread, java.lang.StringBuilder, java.security.AccessController, java.io.PrintStream, java.io.ObjectStreamClass, sun.util.calendar.ZoneInfo, java.io.ObjectOutputStream, sun.security.provider.PolicyFile, java.lang.Throwable, java.lang.Class, sun.util.calendar.BaseCalendar, sun.security.util.Debug, sun.rmi.server.UnicastServerRef, java.security.Permissions, java.util.SimpleTimeZone, java.net.InetAddress, java.lang.String, java.security.Policy, java.util.Date, java.security.AccessControlContext, java.net.SocketPermission, java.net.Inet6Address, sun.reflect.Reflection, java.security.ProtectionDomain, java.lang.Exception, sun.util.calendar.AbstractCalendar, java.net.NetworkInterface]

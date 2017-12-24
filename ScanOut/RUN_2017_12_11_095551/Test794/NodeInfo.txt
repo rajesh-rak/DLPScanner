@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	36165
+NH Depth:	38
+NH Density:	23
+Classes	: [com.sun.corba.se.spi.servicecontext.ServiceContexts, com.sun.corba.se.impl.protocol.SharedCDRClientRequestDispatcherImpl, sun.jkernel.Bundle, com.sun.corba.se.impl.encoding.BufferManagerFactory, sun.jkernel.DownloadManager, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, sun.awt.X11.XWindowPeer, sun.misc.URLClassPath, java.lang.String, sun.util.LocaleServiceProviderPool, java.net.URLStreamHandler, java.lang.ClassLoader, java.text.BreakIterator, com.sun.corba.se.impl.protocol.CorbaClientRequestDispatcherImpl, sun.net.util.IPAddressUtil, java.util.regex.Pattern, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, java.lang.Class, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, com.sun.jmx.trace.TraceManager]

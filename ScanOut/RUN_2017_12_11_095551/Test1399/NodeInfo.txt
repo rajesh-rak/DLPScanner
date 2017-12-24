@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	11609
+NH Depth:	29
+NH Density:	16
+Classes	: [java.util.XMLUtils, sun.reflect.Reflection, java.util.Properties, sun.reflect.annotation.AnnotationParser, java.lang.SecurityManager, java.security.ProtectionDomain, javax.xml.transform.TransformerFactory, java.util.Hashtable, java.lang.Class, javax.xml.transform.FactoryFinder, java.lang.reflect.Method, java.security.AccessController, java.security.Policy, com.sun.naming.internal.ResourceManager, java.security.AccessControlContext, java.lang.Enum]

@@ -1,0 +1,15 @@
+java.util.Properties
+java.util.Hashtable
+sun.font.FontManager
+java.lang.String
+java.lang.System
+javax.management.relation.RelationSupport
+java.lang.reflect.Proxy
+sun.rmi.transport.proxy.RMIMasterSocketFactory
+javax.swing.text.DefaultStyledDocument
+java.util.Vector
+javax.management.relation.RelationService
+com.sun.corba.se.impl.activation.ServerManagerImpl
+java.lang.ConditionalSpecialCasing
+sun.rmi.server.Util
+sun.font.FontFamily

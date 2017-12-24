@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	13807
+NH Depth:	31
+NH Density:	18
+Classes	: [java.security.Permissions, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, java.io.ObjectOutput, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, java.security.AccessControlContext, java.io.ObjectStreamClass, java.io.ObjectInputStream, sun.reflect.Reflection, java.io.ObjectOutputStream, java.security.ProtectionDomain, java.lang.Class, com.sun.crypto.provider.JceKeyStore, java.lang.Enum]

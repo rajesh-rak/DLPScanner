@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	219444
+NH Depth:	34
+NH Density:	35
+Classes	: [java.util.Properties, sun.util.calendar.CalendarSystem, sun.security.x509.CertificateValidity, sun.security.validator.SimpleValidator, sun.reflect.annotation.AnnotationParser, java.lang.reflect.Method, com.sun.crypto.provider.SunJCE_z, java.lang.System, sun.security.provider.JavaKeyStore, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, sun.util.calendar.ZoneInfo, javax.crypto.SunJCE_h, com.sun.corba.se.impl.activation.ServerManagerImpl, java.security.SecureRandom, sun.security.x509.X509CertImpl, com.sun.xml.internal.ws.handler.HandlerChainsModel, sun.security.validator.Validator, com.sun.crypto.provider.JceKeyStore, sun.util.calendar.BaseCalendar, java.util.SimpleTimeZone, sun.security.validator.EndEntityChecker, javax.xml.transform.TransformerFactory, java.util.Hashtable, javax.xml.transform.FactoryFinder, java.lang.String, java.util.Date, sun.security.x509.X509CertInfo, sun.security.provider.KeyProtector, java.lang.reflect.Proxy, sun.util.calendar.LocalGregorianCalendar, java.util.XMLUtils, java.security.Provider, java.lang.ConditionalSpecialCasing, sun.font.FontFamily]

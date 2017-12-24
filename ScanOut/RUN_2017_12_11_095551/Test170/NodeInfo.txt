@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	39709
+NH Depth:	56
+NH Density:	21
+Classes	: [java.rmi.server.UnicastRemoteObject, sun.rmi.transport.tcp.TCPChannel, java.awt.KeyboardFocusManager, sun.awt.X11.XToolkit, java.awt.Window, java.awt.LightweightDispatcher, javax.swing.Popup, sun.rmi.transport.tcp.TCPEndpoint, java.awt.GraphicsDevice, sun.awt.X11.XWindowPeer, sun.awt.AppContext, java.awt.EventQueue, java.awt.Component, javax.swing.text.DefaultStyledDocument, java.util.Vector, sun.rmi.transport.tcp.TCPTransport, sun.awt.SunToolkit, java.awt.Dialog, java.awt.Container, sun.awt.X11.XEmbedServerTester, sun.awt.X11.XFramePeer]

@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	29622
+NH Depth:	13
+NH Density:	12
+Classes	: [sun.awt.X11.XEmbedClientHelper, sun.rmi.transport.tcp.TCPChannel, sun.awt.X11.XEmbedHelper, sun.awt.AppContext, javax.swing.text.DefaultStyledDocument, sun.awt.X11.XToolkit, java.util.Vector, sun.awt.X11.XEmbedChildProxyPeer, sun.rmi.transport.tcp.TCPTransport, javax.swing.text.AsyncBoxView, javax.swing.text.LayoutQueue, sun.awt.X11.XEmbeddingContainer]

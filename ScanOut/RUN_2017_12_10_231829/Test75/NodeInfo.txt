@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	11007
+NH Depth:	17
+NH Density:	23
+Classes	: [java.util.TimeZone, javax.naming.spi.DirectoryManager, java.util.Properties, java.lang.SecurityManager, java.util.Hashtable, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, sun.util.LocaleServiceProviderPool, java.security.Policy, java.security.AccessController, java.util.jar.Manifest, java.util.Date, sun.util.TimeZoneNameUtility, java.util.jar.Attributes, java.security.AccessControlContext, javax.naming.spi.NamingManager, java.security.ProtectionDomain, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, com.sun.jndi.rmi.registry.RegistryContext, com.sun.naming.internal.ResourceManager, com.sun.jndi.ldap.Obj, sun.net.www.MimeTable]

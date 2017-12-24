@@ -1,0 +1,5 @@
+File:		zb22
+Line No:	15238
+NH Depth:	39
+NH Density:	28
+Classes	: [com.sun.org.apache.xalan.internal.xsltc.compiler.FunctionAvailableCall, java.lang.SecurityManager, java.security.AccessController, java.lang.System, sun.security.provider.JavaKeyStore, java.security.Security, sun.security.provider.PolicyFile, java.lang.Class, com.sun.crypto.provider.JceKeyStore, sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, java.security.Permissions, java.security.MessageDigest, java.net.InetAddress, sun.security.provider.PolicySpiFile, java.util.Hashtable, sun.misc.VM, java.security.Policy, com.sun.org.apache.xalan.internal.utils.ObjectFactory, java.lang.ClassLoader, java.security.AccessControlContext, java.net.SocketPermission, java.security.UnresolvedPermissionCollection, java.net.Inet6Address, java.security.ProtectionDomain, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, java.net.NetworkInterface]

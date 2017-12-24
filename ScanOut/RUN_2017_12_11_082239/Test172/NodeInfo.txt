@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	324
+NH Depth:	11
+NH Density:	6
+Classes	: [sun.misc.Launcher, sun.jkernel.Bundle, sun.jkernel.DownloadManager, java.lang.Class, java.lang.ClassLoader, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor]

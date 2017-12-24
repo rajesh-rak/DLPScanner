@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	21874
+NH Depth:	30
+NH Density:	22
+Classes	: [java.util.Currency, java.net.URLClassLoader, com.sun.corba.se.impl.encoding.BufferManagerFactory, java.util.Hashtable, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, sun.util.LocaleServiceProviderPool, java.lang.String, java.net.SocketPermission, java.util.logging.Logging, java.lang.reflect.Proxy, java.io.ObjectInputStream, java.text.BreakIterator, sun.net.util.IPAddressUtil, java.util.regex.Pattern, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, java.util.Formatter, java.lang.ConditionalSpecialCasing, java.text.DecimalFormatSymbols, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore]

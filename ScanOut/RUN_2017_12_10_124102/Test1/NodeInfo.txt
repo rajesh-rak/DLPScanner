@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	2
+NH Depth:	3
+NH Density:	1
+Classes	: [sun.management.MappedMXBeanType]

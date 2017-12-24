@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	29226
+NH Depth:	39
+NH Density:	29
+Classes	: [java.util.Properties, sun.reflect.annotation.AnnotationParser, java.util.logging.LogManager, java.lang.reflect.Method, sun.util.LocaleServiceProviderPool, com.sun.xml.internal.ws.api.server.WSEndpoint, com.sun.xml.internal.ws.server.EndpointFactory, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.util.regex.Pattern, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.util.ResourceBundle, java.security.SecureClassLoader, javax.xml.transform.TransformerFactory, java.net.URLClassLoader, java.util.Hashtable, sun.font.FontManager, javax.xml.transform.FactoryFinder, java.lang.String, java.net.SocketPermission, java.lang.reflect.Proxy, java.util.XMLUtils, java.text.BreakIterator, sun.net.util.IPAddressUtil, java.util.logging.Logger, com.sun.xml.internal.ws.model.RuntimeModeler, java.lang.ConditionalSpecialCasing, java.lang.reflect.AccessibleObject, sun.font.FontFamily, com.sun.xml.internal.txw2.ContainerElement]

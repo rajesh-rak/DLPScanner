@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	2510
+NH Depth:	18
+NH Density:	15
+Classes	: [javax.crypto.Mac, java.util.Hashtable, java.lang.String, javax.crypto.Cipher, com.sun.crypto.provider.SunJCE_z, javax.crypto.SunJCE_d, javax.crypto.SunJCE_e, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.net.URL, java.io.StreamTokenizer, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.SunJCE_ad, com.sun.crypto.provider.JceKeyStore, com.sun.net.ssl.internal.ssl.JsseJce]

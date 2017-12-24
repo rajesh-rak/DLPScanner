@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	43366
+NH Depth:	36
+NH Density:	29
+Classes	: [com.sun.corba.se.spi.logging.LogWrapperBase, java.lang.SecurityManager, java.security.AccessController, sun.util.LocaleServiceProviderPool, javax.swing.text.AsyncBoxView, java.util.regex.Pattern, sun.security.provider.PolicyFile, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Class, java.security.SecureClassLoader, sun.awt.X11.XToolkit, com.sun.corba.se.impl.logging.ActivationSystemException, java.security.Permissions, java.net.InetAddress, java.net.URLClassLoader, java.security.Policy, java.lang.String, java.lang.ClassLoader, javax.swing.text.LayoutQueue, java.net.SocketPermission, java.security.AccessControlContext, java.net.Inet6Address, sun.awt.AppContext, java.text.BreakIterator, sun.net.util.IPAddressUtil, java.security.ProtectionDomain, java.util.logging.Logger, java.lang.ConditionalSpecialCasing, java.net.NetworkInterface]

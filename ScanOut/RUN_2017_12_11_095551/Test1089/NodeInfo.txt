@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	134537
+NH Depth:	23
+NH Density:	15
+Classes	: [java.util.Hashtable, sun.font.FontManager, sun.awt.X11.XWindowPeer, sun.misc.URLClassPath, java.lang.String, sun.util.LocaleServiceProviderPool, com.sun.crypto.provider.SunJCE_z, java.lang.ClassLoader, sun.net.util.URLUtil, java.text.BreakIterator, java.util.logging.Logger, com.sun.crypto.provider.SunJCE_f, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore]

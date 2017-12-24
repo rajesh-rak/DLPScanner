@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	5147
+NH Depth:	21
+NH Density:	25
+Classes	: [sun.security.util.Debug, java.lang.SecurityManager, java.lang.Runtime, com.sun.security.sasl.util.AbstractSaslImpl, java.util.Hashtable, java.lang.Thread, java.lang.String, java.security.AccessController, java.io.PrintStream, java.lang.System, sun.misc.ProxyGenerator, java.security.AccessControlContext, java.lang.reflect.Proxy, java.io.ObjectInputStream, com.sun.security.sasl.digest.DigestMD5Base, java.lang.Exception, java.lang.Throwable, java.math.BigDecimal, java.util.Formatter, sun.security.krb5.internal.Krb5, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, sun.security.krb5.KrbException, java.lang.StringCoding, java.io.ByteArrayOutputStream]

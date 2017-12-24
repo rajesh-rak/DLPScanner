@@ -1,0 +1,17 @@
+java.net.InetAddress
+java.net.URLClassLoader
+java.util.Hashtable
+java.lang.String
+com.sun.crypto.provider.SunJCE_z
+java.net.URLStreamHandler
+java.net.SocketPermission
+java.security.CodeSource
+javax.crypto.SunJCE_b
+javax.crypto.SunJCE_c
+javax.crypto.SunJCE_h
+java.util.regex.Pattern
+sun.net.util.IPAddressUtil
+java.net.URL
+java.lang.ConditionalSpecialCasing
+java.security.SecureClassLoader
+com.sun.crypto.provider.JceKeyStore

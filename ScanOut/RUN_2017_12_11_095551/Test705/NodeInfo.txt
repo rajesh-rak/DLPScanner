@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	14634
+NH Depth:	27
+NH Density:	17
+Classes	: [java.security.Permissions, java.lang.SecurityManager, java.util.Hashtable, java.lang.Thread, javax.crypto.Cipher, java.security.Policy, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, java.security.AccessControlContext, java.security.Signature, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, java.net.URL, java.security.ProtectionDomain, com.sun.crypto.provider.SunJCE_ad, com.sun.crypto.provider.JceKeyStore]

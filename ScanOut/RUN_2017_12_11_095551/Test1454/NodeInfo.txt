@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	38709
+NH Depth:	38
+NH Density:	19
+Classes	: [sun.util.calendar.CalendarSystem, java.security.Permissions, java.net.InetAddress, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, java.util.Date, java.security.AccessControlContext, java.net.SocketPermission, java.security.UnresolvedPermissionCollection, java.net.Inet6Address, sun.security.provider.JavaKeyStore, java.sql.Date, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Class, com.sun.crypto.provider.JceKeyStore, java.net.NetworkInterface]

@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	10364
+NH Depth:	8
+NH Density:	6
+Classes	: [com.sun.jmx.snmp.daemon.SnmpResponseHandler, com.sun.jmx.snmp.daemon.SnmpSession, com.sun.jmx.snmp.daemon.SnmpQManager, com.sun.jmx.snmp.daemon.WaitQ, com.sun.jmx.snmp.daemon.SnmpSocket, com.sun.jmx.snmp.daemon.SnmpInformRequest]

@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	89586
+NH Depth:	15
+NH Density:	9
+Classes	: [java.io.ObjectStreamClass, sun.reflect.annotation.AnnotationType, java.io.ObjectOutputStream, sun.reflect.annotation.AnnotationParser, java.lang.Class, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.reflect.Method, java.lang.reflect.Proxy, java.beans.beancontext.BeanContextSupport]

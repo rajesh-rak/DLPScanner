@@ -1,0 +1,22 @@
+......thread -1
+.....thread -1
+................F......
+Time: 0.089
+There was 1 failure:
+1) test7(RandoopTest0)junit.framework.AssertionFailedError: '{sun.jvm.args=-Dfile.encoding=ISO-8859-1, sun.jvm.flags=, sun.java.command=RandoopTest}' != '{sun.jvm.args=-Xms2048m -Xmx4096m, sun.jvm.flags=, sun.java.command=randoop.main.Main gentests --classlist=classlist.txt --timelimit=30 --inputlimit=50 --outputlimit=40}'
+	at RandoopTest0.test7(RandoopTest0.java:99)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 33,  Failures: 1,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 22235
+Exiting analysis

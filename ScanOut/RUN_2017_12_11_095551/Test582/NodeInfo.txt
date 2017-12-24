@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	37126
+NH Depth:	31
+NH Density:	27
+Classes	: [java.util.Properties, java.lang.SecurityManager, java.lang.Thread, sun.util.LocaleServiceProviderPool, java.security.AccessController, javax.xml.parsers.DocumentBuilderFactory, java.io.PrintStream, java.lang.SecurityException, java.util.regex.Pattern, com.sun.xml.internal.fastinfoset.algorithm.LongEncodingAlgorithm, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.util.ResourceBundle, javax.xml.parsers.FactoryFinder, javax.xml.transform.TransformerFactory, javax.xml.transform.FactoryFinder, com.sun.xml.internal.messaging.saaj.soap.SOAPFactoryImpl, java.lang.String, java.util.XMLUtils, java.text.BreakIterator, java.util.logging.Logger, java.lang.RuntimeException, java.lang.Exception, java.math.BigDecimal, java.lang.ConditionalSpecialCasing, com.sun.xml.internal.fastinfoset.algorithm.BuiltInEncodingAlgorithm]

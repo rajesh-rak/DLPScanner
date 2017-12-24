@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	219633
+NH Depth:	23
+NH Density:	15
+Classes	: [java.util.XMLUtils, java.text.BreakIterator, java.util.Properties, java.util.logging.Logger, sun.reflect.annotation.AnnotationParser, javax.xml.transform.TransformerFactory, com.sun.xml.internal.ws.handler.HandlerChainsModel, javax.xml.transform.FactoryFinder, java.lang.reflect.Method, java.lang.String, sun.util.LocaleServiceProviderPool, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, sun.font.FontFamily, java.lang.reflect.Proxy]

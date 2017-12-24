@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	116026
+NH Depth:	22
+NH Density:	13
+Classes	: [java.awt.KeyboardFocusManager, java.awt.Component, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.awt.Window, java.net.URLClassLoader, sun.rmi.transport.tcp.TCPEndpoint, java.lang.Package, sun.rmi.transport.tcp.TCPTransport, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, java.awt.Dialog, java.lang.ClassLoader]

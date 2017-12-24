@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	278929
+NH Depth:	21
+NH Density:	17
+Classes	: [sun.reflect.annotation.AnnotationParser, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, javax.crypto.Cipher, com.sun.crypto.provider.SunJCE_z, java.lang.System, java.security.AccessControlContext, java.lang.reflect.Proxy, javax.crypto.SunJCE_h, java.security.ProtectionDomain, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Class, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.SunJCE_ad, com.sun.crypto.provider.JceKeyStore]

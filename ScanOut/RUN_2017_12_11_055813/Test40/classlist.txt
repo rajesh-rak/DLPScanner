@@ -1,0 +1,16 @@
+java.util.Currency
+java.util.Properties
+java.util.Hashtable
+java.lang.String
+javax.xml.parsers.DocumentBuilderFactory
+java.lang.System
+com.sun.corba.se.impl.resolver.FileResolverImpl
+java.lang.reflect.Proxy
+java.util.XMLUtils
+com.sun.corba.se.impl.orb.DataCollectorBase
+java.io.ObjectInputStream
+com.sun.corba.se.impl.activation.ServerManagerImpl
+java.util.Formatter
+java.text.DecimalFormatSymbols
+com.sun.crypto.provider.JceKeyStore
+javax.xml.parsers.FactoryFinder

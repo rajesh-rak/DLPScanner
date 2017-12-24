@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	3143
+NH Depth:	16
+NH Density:	12
+Classes	: [java.util.TimeZone, java.util.Properties, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, sun.util.LocaleServiceProviderPool, java.util.jar.Manifest, java.util.Date, sun.util.TimeZoneNameUtility, java.util.jar.Attributes, sun.net.www.MimeTable]

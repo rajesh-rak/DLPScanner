@@ -1,0 +1,13 @@
+......F....
+Time: 0.13
+There was 1 failure:
+1) test3(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test3(RandoopTest0.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 10,  Failures: 1,  Errors: 0
+

@@ -1,0 +1,5 @@
+File:		1.5.0.NewLst
+Line No:	8
+NH Depth:	2
+NH Density:	2
+Classes	: [java.util.logging.Logger, java.util.logging.LogManager]

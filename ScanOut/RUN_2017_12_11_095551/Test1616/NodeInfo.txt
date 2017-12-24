@@ -1,0 +1,5 @@
+File:		zb22
+Line No:	4563
+NH Depth:	37
+NH Density:	19
+Classes	: [java.lang.reflect.Constructor, java.security.Permissions, java.security.UnresolvedPermission, java.net.InetAddress, java.lang.SecurityManager, sun.security.provider.PolicySpiFile, java.security.Policy, java.security.AccessController, javax.management.MBeanServerInvocationHandler, java.security.AccessControlContext, java.net.SocketPermission, java.net.Inet6Address, sun.reflect.Reflection, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Class, com.sun.jmx.mbeanserver.MXBeanIntrospector, com.sun.jmx.mbeanserver.MBeanAnalyzer, java.net.NetworkInterface]

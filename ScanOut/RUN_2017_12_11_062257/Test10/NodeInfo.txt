@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	474
+NH Depth:	28
+NH Density:	7
+Classes	: [com.sun.jmx.mbeanserver.StandardMBeanIntrospector, java.lang.SecurityManager, java.security.ProtectionDomain, java.lang.Class, java.security.Policy, java.security.AccessController, java.security.AccessControlContext]

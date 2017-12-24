@@ -1,0 +1,3 @@
+sun.reflect.annotation.AnnotationType
+sun.reflect.annotation.AnnotationParser
+java.lang.Class

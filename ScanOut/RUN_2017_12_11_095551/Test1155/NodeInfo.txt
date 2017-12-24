@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	18679
+NH Depth:	24
+NH Density:	12
+Classes	: [sun.net.util.URLUtil, java.text.BreakIterator, com.sun.org.apache.xml.internal.res.XMLErrorResources, java.util.logging.Logger, sun.awt.X11.XComponentPeer, java.lang.String, sun.util.LocaleServiceProviderPool, sun.misc.URLClassPath, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, java.lang.ClassLoader, sun.util.CoreResourceBundleControl]

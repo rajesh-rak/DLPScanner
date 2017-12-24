@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	285
+NH Depth:	11
+NH Density:	6
+Classes	: [sun.misc.Launcher, sun.reflect.misc.MethodUtil, sun.jkernel.Bundle, sun.jkernel.DownloadManager, java.lang.Class, java.lang.ClassLoader]

@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	648
+NH Depth:	11
+NH Density:	12
+Classes	: [sun.awt.X11.XEmbedClientHelper, sun.awt.X11.XEmbedHelper, sun.awt.X11.XToolkit, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, com.sun.jndi.ldap.Connection, sun.awt.X11.XWindowPeer, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, sun.awt.X11.MotifDnDDragSourceProtocol, sun.awt.X11.XEmbedServerTester]

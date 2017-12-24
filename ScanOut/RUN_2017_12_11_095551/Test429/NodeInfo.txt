@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	1934
+NH Depth:	22
+NH Density:	17
+Classes	: [sun.security.util.Debug, java.lang.SecurityManager, java.lang.Thread, sun.awt.X11.XWindowPeer, java.security.AccessController, sun.util.LocaleServiceProviderPool, java.io.PrintStream, java.lang.ClassLoader, java.security.AccessControlContext, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, sun.awt.X11.XWMHints, java.util.Formatter, java.math.BigDecimal, java.text.DecimalFormatSymbols, sun.awt.X11.XFramePeer]

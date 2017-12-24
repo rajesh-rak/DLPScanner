@@ -1,0 +1,5 @@
+File:		zb22
+Line No:	13112
+NH Depth:	28
+NH Density:	30
+Classes	: [java.util.Currency, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, sun.security.provider.JavaKeyStore, java.security.Security, java.io.ObjectOutputStream, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.jmx.mbeanserver.MXBeanIntrospector, com.sun.crypto.provider.JceKeyStore, sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, sun.security.util.Debug, java.security.MessageDigest, java.util.Hashtable, java.lang.String, java.security.Policy, javax.management.MBeanServerInvocationHandler, java.security.AccessControlContext, java.security.ProtectionDomain, java.lang.Exception, java.lang.ConditionalSpecialCasing, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, sun.font.FontFamily, com.sun.jmx.mbeanserver.MBeanAnalyzer]

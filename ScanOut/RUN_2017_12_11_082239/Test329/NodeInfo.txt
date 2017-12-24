@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	15812
+NH Depth:	12
+NH Density:	10
+Classes	: [com.sun.jndi.ldap.pool.Pool, java.io.ObjectInputStream, com.sun.jndi.ldap.LdapPoolManager, java.util.Hashtable, java.util.Formatter, java.text.DecimalFormatSymbols, java.io.PrintStream, com.sun.crypto.provider.JceKeyStore, java.lang.reflect.Proxy, com.sun.jndi.ldap.pool.Connections]

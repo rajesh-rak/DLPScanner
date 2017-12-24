@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	117113
+NH Depth:	25
+NH Density:	28
+Classes	: [java.util.Properties, sun.util.calendar.CalendarSystem, sun.security.x509.CertificateValidity, java.lang.SecurityManager, sun.security.validator.SimpleValidator, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl, sun.security.provider.JavaKeyStore, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, java.lang.Class, com.sun.corba.se.impl.orb.AppletDataCollector, sun.security.x509.X509CertImpl, com.sun.naming.internal.ResourceManager, sun.security.validator.Validator, com.sun.crypto.provider.JceKeyStore, sun.misc.VMSupport, sun.security.validator.EndEntityChecker, java.util.Hashtable, java.security.Policy, java.util.Date, sun.security.x509.X509CertInfo, java.security.AccessControlContext, com.sun.corba.se.impl.orb.DataCollectorBase, java.security.ProtectionDomain]

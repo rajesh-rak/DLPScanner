@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	227206
+NH Depth:	22
+NH Density:	18
+Classes	: [java.lang.reflect.Constructor, java.util.jar.JarVerifier, sun.security.util.SignatureFileVerifier, sun.reflect.annotation.AnnotationParser, java.lang.reflect.Field, javax.crypto.Cipher, sun.misc.JarIndex, sun.security.x509.X509CertInfo, javax.crypto.SunJCE_b, sun.reflect.annotation.AnnotationType, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, sun.security.pkcs.PKCS7, sun.security.x509.CertificateExtensions, sun.security.x509.X509CertImpl, java.lang.Class, java.util.zip.ZipFile, java.util.jar.JarFile]

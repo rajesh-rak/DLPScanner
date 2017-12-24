@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	71591
+NH Depth:	23
+NH Density:	30
+Classes	: [java.util.Currency, java.util.Properties, java.lang.SecurityManager, java.lang.Thread, sun.util.LocaleServiceProviderPool, java.security.AccessController, javax.xml.parsers.DocumentBuilderFactory, java.io.PrintStream, java.lang.SecurityException, com.sun.servicetag.RegistrationDocument, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, java.util.ResourceBundle, javax.xml.parsers.FactoryFinder, com.sun.corba.se.impl.logging.ActivationSystemException, javax.xml.transform.TransformerFactory, sun.font.FontManager, javax.xml.transform.FactoryFinder, java.lang.String, java.util.XMLUtils, com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl, java.text.BreakIterator, java.util.logging.Logger, java.lang.RuntimeException, java.lang.Exception, java.lang.ConditionalSpecialCasing, sun.font.FontFamily]

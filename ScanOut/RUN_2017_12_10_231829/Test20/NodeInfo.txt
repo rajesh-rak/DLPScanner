@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	948
+NH Depth:	23
+NH Density:	18
+Classes	: [java.util.TimeZone, sun.security.util.Debug, sun.rmi.server.UnicastServerRef, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, sun.util.LocaleServiceProviderPool, java.lang.String, java.lang.StringBuilder, java.io.PrintStream, java.util.Date, java.lang.ClassLoader, sun.util.TimeZoneNameUtility, java.security.AccessControlContext, java.awt.Component, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable]

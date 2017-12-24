@@ -1,0 +1,32 @@
+..........F.F...................F
+Time: 5.281
+There were 3 failures:
+1) test21(RandoopTest0)junit.framework.AssertionFailedError: 'java.awt.Panel[panel0,0,0,0x0,invalid,layout=java.awt.FlowLayout]' != 'java.awt.Panel[panel2,0,0,0var5,invalid,layout=java.awt.FlowLayout]'
+	at RandoopTest0.test21(RandoopTest0.java:407)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test20(RandoopTest0)junit.framework.AssertionFailedError: 'java.awt.Panel[panel1,0,0,0x0,invalid,layout=java.awt.FlowLayout]' != 'java.awt.Panel[panel1,0,0,0var5,invalid,layout=java.awt.FlowLayout]'
+	at RandoopTest0.test20(RandoopTest0.java:381)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test1(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test1(RandoopTest0.java:16)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 30,  Failures: 3,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 24820
+Exiting analysis

@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	41198
+NH Depth:	25
+NH Density:	15
+Classes	: [java.net.InetAddress, java.util.Hashtable, javax.crypto.Cipher, java.lang.String, com.sun.crypto.provider.SunJCE_z, java.net.URLStreamHandler, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.net.URL, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.SunJCE_ad, com.sun.crypto.provider.JceKeyStore]

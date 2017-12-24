@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	49443
+NH Depth:	29
+NH Density:	25
+Classes	: [sun.security.util.Debug, java.awt.Window, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, com.sun.xml.internal.ws.server.WSEndpointImpl, java.lang.reflect.Method, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.security.AccessControlContext, java.io.ObjectStreamClass, sun.rmi.transport.proxy.RMIMasterSocketFactory, sun.reflect.Reflection, java.io.ObjectOutputStream, java.util.Vector, javax.management.MBeanOperationInfo, java.lang.Exception, java.lang.Throwable, com.sun.jmx.mbeanserver.Introspector, java.lang.Class, java.math.BigDecimal, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.Enum]

@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	44551
+NH Depth:	23
+NH Density:	18
+Classes	: [java.util.Currency, java.security.Permissions, java.lang.SecurityManager, java.lang.Runtime, java.util.Hashtable, java.lang.String, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, java.lang.reflect.Proxy, com.sun.corba.se.impl.activation.ServerTableEntry, java.io.ObjectInputStream, java.security.ProtectionDomain, com.sun.corba.se.impl.activation.ServerManagerImpl, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.ProcessBuilder, com.sun.crypto.provider.JceKeyStore]

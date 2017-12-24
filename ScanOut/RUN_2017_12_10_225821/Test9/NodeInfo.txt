@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	343
+NH Depth:	8
+NH Density:	5
+Classes	: [java.awt.Component, javax.swing.JFileChooser, javax.swing.SwingUtilities, java.awt.dnd.DropTarget, javax.swing.JComponent]

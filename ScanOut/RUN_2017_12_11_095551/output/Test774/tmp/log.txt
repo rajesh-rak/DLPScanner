@@ -1,0 +1,2526 @@
+........................
+Time: 0.155
+
+OK (24 tests)
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 19880
+Exiting analysis
+g.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:855)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:860)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test24(RandoopTest0.java:861)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:860)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.badDigitInFixed
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 233  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7603)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7621)
+	at RandoopTest0.test24(RandoopTest0.java:862)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test24(RandoopTest0.java:861)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:860)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.orbInitializerType
+org.omg.CORBA.DATA_CONVERSION:   vmcid: SUN  minor code: 218  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbInitializerType(ORBUtilSystemException.java:3150)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbInitializerType(ORBUtilSystemException.java:3173)
+	at RandoopTest0.test24(RandoopTest0.java:863)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:866)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:871)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:876)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test24(RandoopTest0.java:877)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:876)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.couldNotCreateArray
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 214  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1496)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1517)
+	at RandoopTest0.test24(RandoopTest0.java:878)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:871)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:883)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test24(RandoopTest0.java:884)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:883)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.locationforwardError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 215  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.locationforwardError(ORBUtilSystemException.java:4039)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.locationforwardError(ORBUtilSystemException.java:4057)
+	at RandoopTest0.test24(RandoopTest0.java:885)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test24(RandoopTest0.java:884)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:883)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:888)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:893)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test24(RandoopTest0.java:894)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:893)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.badDigitInFixed
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 233  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7603)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7621)
+	at RandoopTest0.test24(RandoopTest0.java:895)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test24(RandoopTest0.java:894)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:893)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.interruptedJoinCallWhileClosingThreadPool
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 331  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.interruptedJoinCallWhileClosingThreadPool(ORBUtilSystemException.java:6688)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.interruptedJoinCallWhileClosingThreadPool(ORBUtilSystemException.java:6708)
+	at RandoopTest0.test24(RandoopTest0.java:896)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test24(RandoopTest0.java:884)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:883)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.valuehandlerReadException
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 211  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.valuehandlerReadException(ORBUtilSystemException.java:7004)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.valuehandlerReadException(ORBUtilSystemException.java:7022)
+	at RandoopTest0.test24(RandoopTest0.java:897)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test24(RandoopTest0.java:894)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:893)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:902)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:907)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test24(RandoopTest0.java:908)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:907)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.couldNotCreateArray
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 214  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1496)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1517)
+	at RandoopTest0.test24(RandoopTest0.java:909)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:902)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test24
+WARNING: ORBUTIL.badAdapterId
+org.omg.CORBA.OBJECT_NOT_EXIST:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badAdapterId(ORBUtilSystemException.java:8749)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badAdapterId(ORBUtilSystemException.java:8767)
+	at RandoopTest0.test24(RandoopTest0.java:910)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 214  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1496)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1517)
+	at RandoopTest0.test24(RandoopTest0.java:909)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test24(RandoopTest0.java:902)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:728)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:733)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:738)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test22(RandoopTest0.java:739)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:738)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.couldNotCreateArray
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 214  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1496)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1517)
+	at RandoopTest0.test22(RandoopTest0.java:740)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:733)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:745)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test22(RandoopTest0.java:746)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:745)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.locationforwardError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 215  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.locationforwardError(ORBUtilSystemException.java:4039)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.locationforwardError(ORBUtilSystemException.java:4057)
+	at RandoopTest0.test22(RandoopTest0.java:747)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test22(RandoopTest0.java:746)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:745)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:750)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:755)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test22(RandoopTest0.java:756)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:755)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.badDigitInFixed
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 233  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7603)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7621)
+	at RandoopTest0.test22(RandoopTest0.java:757)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test22(RandoopTest0.java:756)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:755)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.interruptedJoinCallWhileClosingThreadPool
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 331  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.interruptedJoinCallWhileClosingThreadPool(ORBUtilSystemException.java:6688)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.interruptedJoinCallWhileClosingThreadPool(ORBUtilSystemException.java:6708)
+	at RandoopTest0.test22(RandoopTest0.java:758)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test22(RandoopTest0.java:746)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test22(RandoopTest0.java:745)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test22
+WARNING: ORBUTIL.nullOutCall
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.nullOutCall(ORBUtilSystemException.java:7349)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.nullOutCall(ORBUtilSystemException.java:7371)
+	at RandoopTest0.test22(RandoopTest0.java:759)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test21
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test21(RandoopTest0.java:636)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test21
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test21(RandoopTest0.java:641)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test21
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test21(RandoopTest0.java:642)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test21(RandoopTest0.java:641)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test21
+WARNING: ORBUTIL.couldNotCreateArray
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 214  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1496)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1517)
+	at RandoopTest0.test21(RandoopTest0.java:643)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test21(RandoopTest0.java:636)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test21
+WARNING: ORBUTIL.errorInitBadserveridhandler
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 262  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.errorInitBadserveridhandler(ORBUtilSystemException.java:5276)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.errorInitBadserveridhandler(ORBUtilSystemException.java:5298)
+	at RandoopTest0.test21(RandoopTest0.java:644)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test21
+WARNING: ORBUTIL.cannotReadOrbidDb
+org.omg.CORBA.INITIALIZE:   vmcid: SUN  minor code: 202  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.cannotReadOrbidDb(ORBUtilSystemException.java:3531)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.cannotReadOrbidDb(ORBUtilSystemException.java:3553)
+	at RandoopTest0.test21(RandoopTest0.java:645)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test21
+WARNING: ORBUTIL.badContactInfoListFactory
+org.omg.CORBA.DATA_CONVERSION:   vmcid: SUN  minor code: 223  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badContactInfoListFactory(ORBUtilSystemException.java:3294)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badContactInfoListFactory(ORBUtilSystemException.java:3313)
+	at RandoopTest0.test21(RandoopTest0.java:646)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INITIALIZE:   vmcid: SUN  minor code: 202  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.cannotReadOrbidDb(ORBUtilSystemException.java:3531)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.cannotReadOrbidDb(ORBUtilSystemException.java:3553)
+	at RandoopTest0.test21(RandoopTest0.java:645)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test21
+WARNING: ORBUTIL.recursiveTypecodeError
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 243  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.recursiveTypecodeError(ORBUtilSystemException.java:7857)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.recursiveTypecodeError(ORBUtilSystemException.java:7879)
+	at RandoopTest0.test21(RandoopTest0.java:649)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test21
+WARNING: ORBUTIL.threadGroupHasActiveThreadsInClose
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 328  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.threadGroupHasActiveThreadsInClose(ORBUtilSystemException.java:6599)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.threadGroupHasActiveThreadsInClose(ORBUtilSystemException.java:6623)
+	at RandoopTest0.test21(RandoopTest0.java:650)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test21
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test21(RandoopTest0.java:655)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test21
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test21(RandoopTest0.java:656)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test21(RandoopTest0.java:655)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test21
+WARNING: ORBUTIL.invalidBtcConverterName
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 272  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.invalidBtcConverterName(ORBUtilSystemException.java:5560)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.invalidBtcConverterName(ORBUtilSystemException.java:5583)
+	at RandoopTest0.test21(RandoopTest0.java:657)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test19(RandoopTest0.java:517)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test19(RandoopTest0.java:522)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test19(RandoopTest0.java:523)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test19(RandoopTest0.java:522)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.badDigitInFixed
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 233  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7603)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7621)
+	at RandoopTest0.test19(RandoopTest0.java:524)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test19(RandoopTest0.java:523)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test19(RandoopTest0.java:522)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test19(RandoopTest0.java:529)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test19(RandoopTest0.java:534)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test19(RandoopTest0.java:535)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test19(RandoopTest0.java:534)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.couldNotCreateArray
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 214  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1496)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1517)
+	at RandoopTest0.test19(RandoopTest0.java:536)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test19(RandoopTest0.java:529)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.errorInitBadserveridhandler
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 262  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.errorInitBadserveridhandler(ORBUtilSystemException.java:5276)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.errorInitBadserveridhandler(ORBUtilSystemException.java:5298)
+	at RandoopTest0.test19(RandoopTest0.java:537)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.cannotReadOrbidDb
+org.omg.CORBA.INITIALIZE:   vmcid: SUN  minor code: 202  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.cannotReadOrbidDb(ORBUtilSystemException.java:3531)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.cannotReadOrbidDb(ORBUtilSystemException.java:3553)
+	at RandoopTest0.test19(RandoopTest0.java:538)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.abstractFromNonAbstract
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 203  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.abstractFromNonAbstract(ORBUtilSystemException.java:1183)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.abstractFromNonAbstract(ORBUtilSystemException.java:1205)
+	at RandoopTest0.test19(RandoopTest0.java:539)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.badFixed
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 252  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badFixed(ORBUtilSystemException.java:8114)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badFixed(ORBUtilSystemException.java:8138)
+	at RandoopTest0.test19(RandoopTest0.java:542)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test19
+WARNING: ORBUTIL.bufferReadManagerTimeout
+org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 217  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.bufferReadManagerTimeout(ORBUtilSystemException.java:2661)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.bufferReadManagerTimeout(ORBUtilSystemException.java:2683)
+	at RandoopTest0.test19(RandoopTest0.java:544)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test17
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test17(RandoopTest0.java:423)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test17
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test17(RandoopTest0.java:428)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test17
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test17(RandoopTest0.java:429)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test17(RandoopTest0.java:428)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test17
+WARNING: ORBUTIL.badDigitInFixed
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 233  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7603)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7621)
+	at RandoopTest0.test17(RandoopTest0.java:430)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test17(RandoopTest0.java:429)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test17(RandoopTest0.java:428)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test17
+WARNING: ORBUTIL.orbInitializerType
+org.omg.CORBA.DATA_CONVERSION:   vmcid: SUN  minor code: 218  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbInitializerType(ORBUtilSystemException.java:3150)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbInitializerType(ORBUtilSystemException.java:3173)
+	at RandoopTest0.test17(RandoopTest0.java:431)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test17
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test17(RandoopTest0.java:434)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test17
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test17(RandoopTest0.java:439)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test17
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test17(RandoopTest0.java:440)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test17(RandoopTest0.java:439)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test17
+WARNING: ORBUTIL.badDigitInFixed
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 233  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7603)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7621)
+	at RandoopTest0.test17(RandoopTest0.java:441)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test17(RandoopTest0.java:440)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test17(RandoopTest0.java:439)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test17
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4477)
+	at RandoopTest0.test17(RandoopTest0.java:442)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 233  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7603)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badDigitInFixed(ORBUtilSystemException.java:7621)
+	at RandoopTest0.test17(RandoopTest0.java:441)
+	... 16 more
+Caused by: org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test17(RandoopTest0.java:440)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test17(RandoopTest0.java:439)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:253)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.customWrapperWithCodebase
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.customWrapperWithCodebase(ORBUtilSystemException.java:7434)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.customWrapperWithCodebase(ORBUtilSystemException.java:7452)
+	at RandoopTest0.test16(RandoopTest0.java:254)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:253)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:259)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:264)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test16(RandoopTest0.java:265)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:264)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.couldNotCreateArray
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 214  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1496)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1517)
+	at RandoopTest0.test16(RandoopTest0.java:266)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:259)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:271)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:276)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test16(RandoopTest0.java:277)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:276)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.couldNotCreateArray
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 214  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1496)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1517)
+	at RandoopTest0.test16(RandoopTest0.java:278)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:271)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.errorInitBadserveridhandler
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 262  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.errorInitBadserveridhandler(ORBUtilSystemException.java:5276)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.errorInitBadserveridhandler(ORBUtilSystemException.java:5298)
+	at RandoopTest0.test16(RandoopTest0.java:279)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.badCustomSocketFactory
+org.omg.CORBA.DATA_CONVERSION:   vmcid: SUN  minor code: 214  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badCustomSocketFactory(ORBUtilSystemException.java:3032)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badCustomSocketFactory(ORBUtilSystemException.java:3055)
+	at RandoopTest0.test16(RandoopTest0.java:280)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:285)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test16(RandoopTest0.java:286)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:285)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.adapterIdNotAvailable
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 201  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.adapterIdNotAvailable(ORBUtilSystemException.java:75)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.adapterIdNotAvailable(ORBUtilSystemException.java:93)
+	at RandoopTest0.test16(RandoopTest0.java:287)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:285)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:293)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:298)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test16(RandoopTest0.java:299)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:298)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test16
+WARNING: ORBUTIL.couldNotCreateArray
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 214  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1496)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1517)
+	at RandoopTest0.test16(RandoopTest0.java:300)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test16(RandoopTest0.java:293)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test15
+WARNING: ORBUTIL.recursiveTypecodeError
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 243  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.recursiveTypecodeError(ORBUtilSystemException.java:7857)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.recursiveTypecodeError(ORBUtilSystemException.java:7879)
+	at RandoopTest0.test15(RandoopTest0.java:230)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test15
+WARNING: ORBUTIL.nullObjectReference
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 207  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.nullObjectReference(ORBUtilSystemException.java:1295)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.nullObjectReference(ORBUtilSystemException.java:1317)
+	at RandoopTest0.test15(RandoopTest0.java:231)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test13
+WARNING: ORBUTIL.orbTargetAddrPreferenceInExtractObjectkeyInvalid
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test13(RandoopTest0.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test13
+WARNING: ORBUTIL.wrongInterfaceDef
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 206  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8981)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.wrongInterfaceDef(ORBUtilSystemException.java:8999)
+	at RandoopTest0.test13(RandoopTest0.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 231  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4459)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.orbTargetAddrPreferenceInExtractObjectkeyInvalid(ORBUtilSystemException.java:4481)
+	at RandoopTest0.test13(RandoopTest0.java:184)
+	... 16 more
+
+Dec 11, 2017 3:47:41 PM RandoopTest0 test13
+WARNING: ORBUTIL.noProfilePresent
+org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 202  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.noProfilePresent(ORBUtilSystemException.java:3471)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.noProfilePresent(ORBUtilSystemException.java:3493)
+	at RandoopTest0.test13(RandoopTest0.java:186)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+

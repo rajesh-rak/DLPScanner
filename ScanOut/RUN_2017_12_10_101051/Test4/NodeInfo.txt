@@ -1,0 +1,5 @@
+File:		1.5.0.NewerLst
+Line No:	340
+NH Depth:	17
+NH Density:	16
+Classes	: [java.lang.SecurityManager, java.lang.Thread, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, java.io.PrintStream, java.security.AccessControlContext, java.io.ObjectStreamClass, sun.reflect.Reflection, java.util.Random, java.io.ObjectOutputStream, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Exception, java.lang.Throwable, java.lang.Class]

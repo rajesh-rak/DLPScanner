@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	27359
+NH Depth:	22
+NH Density:	18
+Classes	: [com.sun.corba.se.impl.logging.ActivationSystemException, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, java.lang.String, sun.util.LocaleServiceProviderPool, sun.awt.X11.XComponentPeer, sun.misc.URLClassPath, java.net.URLStreamHandler, java.lang.ClassLoader, sun.util.CoreResourceBundleControl, sun.net.www.MimeLauncher, java.text.BreakIterator, com.sun.org.apache.xml.internal.res.XMLErrorResources, java.util.logging.Logger, java.net.URL, java.util.Locale, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle]

@@ -1,0 +1,99 @@
+.E...javax.swing.JEditorPane[,0,0,0x0,invalid,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@1d75249c,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=javax.swing.plaf.ColorUIResource[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=javax.swing.JEditorPane$PlainEditorKit@2352fd52,typeHandlers=]
+...javax.swing.JEditorPane[,0,0,0x0,invalid,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@1d75249c,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=javax.swing.plaf.ColorUIResource[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=javax.swing.JEditorPane$PlainEditorKit@6eaaf8f2,typeHandlers=]
+......E....E............
+Time: 0.487
+There were 3 errors:
+1) test29(RandoopTest0)java.lang.NullPointerException
+	at sun.font.FontDesignMetrics.getDefaultFrc(FontDesignMetrics.java:153)
+	at sun.font.FontDesignMetrics.getMetrics(FontDesignMetrics.java:278)
+	at sun.swing.SwingUtilities2.getFontMetrics(SwingUtilities2.java:1030)
+	at javax.swing.JComponent.getFontMetrics(JComponent.java:1625)
+	at javax.swing.text.WrappedPlainView.updateMetrics(WrappedPlainView.java:318)
+	at javax.swing.text.WrappedPlainView.updateChildren(WrappedPlainView.java:297)
+	at javax.swing.text.WrappedPlainView.insertUpdate(WrappedPlainView.java:463)
+	at javax.swing.plaf.basic.BasicTextUI$RootView.insertUpdate(BasicTextUI.java:1602)
+	at javax.swing.plaf.basic.BasicTextUI$UpdateHandler.insertUpdate(BasicTextUI.java:1861)
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(AbstractDocument.java:202)
+	at javax.swing.text.AbstractDocument.handleInsertString(AbstractDocument.java:749)
+	at javax.swing.text.AbstractDocument.insertString(AbstractDocument.java:708)
+	at javax.swing.text.PlainDocument.insertString(PlainDocument.java:130)
+	at javax.swing.text.AbstractDocument.replace(AbstractDocument.java:670)
+	at javax.swing.text.JTextComponent.replaceSelection(JTextComponent.java:1379)
+	at javax.swing.JEditorPane.replaceSelection(JEditorPane.java:1163)
+	at javax.swing.plaf.basic.BasicTextUI$TextTransferHandler.handleReaderImport(BasicTextUI.java:2354)
+	at javax.swing.plaf.basic.BasicTextUI$TextTransferHandler.importData(BasicTextUI.java:2494)
+	at javax.swing.TransferHandler.importData(TransferHandler.java:826)
+	at javax.swing.plaf.basic.BasicTextUI$TextTransferHandler.importData(BasicTextUI.java:2432)
+	at javax.swing.TransferHandler$TransferAction.actionPerformedImpl(TransferHandler.java:1758)
+	at javax.swing.TransferHandler$TransferAction.access$700(TransferHandler.java:1684)
+	at javax.swing.TransferHandler$TransferAction$1.run(TransferHandler.java:1707)
+	at javax.swing.TransferHandler$TransferAction$1.run(TransferHandler.java:1705)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at javax.swing.TransferHandler$TransferAction$2.run(TransferHandler.java:1722)
+	at javax.swing.TransferHandler$TransferAction$2.run(TransferHandler.java:1720)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at javax.swing.TransferHandler$TransferAction.actionPerformed(TransferHandler.java:1719)
+	at javax.swing.text.JTextComponent.invokeAction(JTextComponent.java:1513)
+	at javax.swing.text.JTextComponent.paste(JTextComponent.java:1491)
+	at RandoopTest0.test29(RandoopTest0.java:529)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test17(RandoopTest0)java.lang.NullPointerException
+	at sun.font.FontDesignMetrics.getDefaultFrc(FontDesignMetrics.java:153)
+	at sun.font.FontDesignMetrics.getMetrics(FontDesignMetrics.java:278)
+	at sun.swing.SwingUtilities2.getFontMetrics(SwingUtilities2.java:1030)
+	at javax.swing.JComponent.getFontMetrics(JComponent.java:1625)
+	at javax.swing.text.WrappedPlainView.updateMetrics(WrappedPlainView.java:318)
+	at javax.swing.text.WrappedPlainView.updateChildren(WrappedPlainView.java:297)
+	at javax.swing.text.WrappedPlainView.insertUpdate(WrappedPlainView.java:463)
+	at javax.swing.plaf.basic.BasicTextUI$RootView.insertUpdate(BasicTextUI.java:1602)
+	at javax.swing.plaf.basic.BasicTextUI$UpdateHandler.insertUpdate(BasicTextUI.java:1861)
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(AbstractDocument.java:202)
+	at javax.swing.text.AbstractDocument.handleInsertString(AbstractDocument.java:749)
+	at javax.swing.text.AbstractDocument.insertString(AbstractDocument.java:708)
+	at javax.swing.text.PlainDocument.insertString(PlainDocument.java:130)
+	at javax.swing.text.DefaultEditorKit.read(DefaultEditorKit.java:273)
+	at javax.swing.JEditorPane.setText(JEditorPane.java:1415)
+	at RandoopTest0.test17(RandoopTest0.java:293)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test13(RandoopTest0)java.lang.NullPointerException
+	at sun.font.FontDesignMetrics.getDefaultFrc(FontDesignMetrics.java:153)
+	at sun.font.FontDesignMetrics.getMetrics(FontDesignMetrics.java:278)
+	at sun.swing.SwingUtilities2.getFontMetrics(SwingUtilities2.java:1030)
+	at javax.swing.JComponent.getFontMetrics(JComponent.java:1625)
+	at javax.swing.text.WrappedPlainView.updateMetrics(WrappedPlainView.java:318)
+	at javax.swing.text.WrappedPlainView.updateChildren(WrappedPlainView.java:297)
+	at javax.swing.text.WrappedPlainView.insertUpdate(WrappedPlainView.java:463)
+	at javax.swing.plaf.basic.BasicTextUI$RootView.insertUpdate(BasicTextUI.java:1602)
+	at javax.swing.plaf.basic.BasicTextUI$UpdateHandler.insertUpdate(BasicTextUI.java:1861)
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(AbstractDocument.java:202)
+	at javax.swing.text.AbstractDocument.handleInsertString(AbstractDocument.java:749)
+	at javax.swing.text.AbstractDocument.insertString(AbstractDocument.java:708)
+	at javax.swing.text.PlainDocument.insertString(PlainDocument.java:130)
+	at javax.swing.text.DefaultEditorKit.read(DefaultEditorKit.java:273)
+	at javax.swing.JEditorPane.setText(JEditorPane.java:1415)
+	at javax.swing.JEditorPane.<init>(JEditorPane.java:293)
+	at RandoopTest0.test13(RandoopTest0.java:240)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 29,  Failures: 0,  Errors: 3
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 30380
+Exiting analysis

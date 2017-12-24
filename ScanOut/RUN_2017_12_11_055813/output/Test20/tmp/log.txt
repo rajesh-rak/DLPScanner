@@ -1,0 +1,44 @@
+......F...F...F.......F.F..............
+Time: 5.354
+There were 5 failures:
+1) test29(RandoopTest0)junit.framework.AssertionFailedError: Expected: <null> but was: 1.0
+	at RandoopTest0.test29(RandoopTest0.java:511)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test26(RandoopTest0)junit.framework.AssertionFailedError: Expected exception of type java.lang.NoClassDefFoundError
+	at RandoopTest0.test26(RandoopTest0.java:458)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test23(RandoopTest0)junit.framework.AssertionFailedError: Expected exception of type java.lang.NoClassDefFoundError
+	at RandoopTest0.test23(RandoopTest0.java:392)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+4) test16(RandoopTest0)junit.framework.AssertionFailedError: Expected exception of type java.lang.NoClassDefFoundError
+	at RandoopTest0.test16(RandoopTest0.java:262)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+5) test15(RandoopTest0)junit.framework.AssertionFailedError: Expected exception of type java.lang.NoClassDefFoundError
+	at RandoopTest0.test15(RandoopTest0.java:238)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 34,  Failures: 5,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 29807
+Exiting analysis

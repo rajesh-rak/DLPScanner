@@ -1,0 +1,34 @@
+........F.....F.F.....thread -1
+....thread -1
+.............
+Time: 0.081
+There were 3 failures:
+1) test29(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test29(RandoopTest0.java:443)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test24(RandoopTest0)junit.framework.AssertionFailedError: 'RandoopTest0' != 'MethodReflectionCode'
+	at RandoopTest0.test24(RandoopTest0.java:372)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test23(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test23(RandoopTest0.java:341)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 36,  Failures: 3,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 27040
+Exiting analysis

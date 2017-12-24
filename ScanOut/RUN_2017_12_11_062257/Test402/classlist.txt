@@ -1,0 +1,17 @@
+java.net.InetAddress
+java.lang.SecurityManager
+java.util.Hashtable
+javax.crypto.Cipher
+java.security.Policy
+java.security.AccessController
+com.sun.crypto.provider.SunJCE_z
+java.net.URLStreamHandler
+java.security.AccessControlContext
+javax.crypto.SunJCE_b
+java.security.Signature
+javax.crypto.SunJCE_c
+java.net.URL
+java.security.ProtectionDomain
+com.sun.naming.internal.ResourceManager
+com.sun.crypto.provider.SunJCE_ad
+com.sun.crypto.provider.JceKeyStore

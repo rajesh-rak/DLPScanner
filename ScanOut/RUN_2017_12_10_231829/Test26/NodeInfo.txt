@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	1655
+NH Depth:	9
+NH Density:	4
+Classes	: [com.sun.jmx.snmp.daemon.SnmpAdaptorServer, java.net.DatagramSocket, java.net.DatagramPacket, com.sun.jndi.dns.DnsClient]

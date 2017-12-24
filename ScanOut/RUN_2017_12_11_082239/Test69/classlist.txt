@@ -1,0 +1,3 @@
+com.sun.media.sound.JSSecurityManager
+java.lang.Thread
+java.lang.ThreadGroup

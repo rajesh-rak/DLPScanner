@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	45071
+NH Depth:	20
+NH Density:	16
+Classes	: [sun.reflect.annotation.AnnotationParser, java.lang.Runtime, java.util.Hashtable, java.lang.reflect.Method, java.lang.String, java.lang.reflect.Proxy, com.sun.corba.se.impl.activation.ServerTableEntry, java.io.ObjectInputStream, java.util.regex.Pattern, com.sun.corba.se.impl.activation.ServerManagerImpl, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.lang.ConditionalSpecialCasing, java.lang.ProcessBuilder, com.sun.crypto.provider.JceKeyStore, java.lang.Enum]

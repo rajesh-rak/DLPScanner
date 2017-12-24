@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	34250
+NH Depth:	20
+NH Density:	14
+Classes	: [java.lang.Runtime, java.util.Hashtable, java.lang.String, com.sun.corba.se.impl.activation.ServerTableEntry, sun.rmi.transport.proxy.RMIMasterSocketFactory, com.sun.jndi.ldap.LdapClient, java.util.regex.Pattern, com.sun.jndi.ldap.LdapCtx, java.util.Vector, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.ConditionalSpecialCasing, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, java.lang.ProcessBuilder]

@@ -1,0 +1,45 @@
+.E............E.....E.....F......
+Time: 5.174
+There were 3 errors:
+1) test29(RandoopTest0)java.lang.NullPointerException
+	at sun.security.x509.X509CertImpl.isSelfIssued(X509CertImpl.java:1881)
+	at sun.security.x509.X509CertImpl.isSelfSigned(X509CertImpl.java:1892)
+	at RandoopTest0.test29(RandoopTest0.java:546)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test17(RandoopTest0)java.lang.NullPointerException
+	at sun.security.x509.X509CertImpl.isSelfIssued(X509CertImpl.java:1881)
+	at RandoopTest0.test17(RandoopTest0.java:295)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test12(RandoopTest0)java.lang.IllegalArgumentException: missing provider
+	at sun.security.jca.GetInstance.getService(GetInstance.java:79)
+	at javax.crypto.JceSecurity.getInstance(JceSecurity.java:97)
+	at javax.crypto.KeyAgreement.getInstance(KeyAgreement.java:223)
+	at RandoopTest0.test12(RandoopTest0.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+There was 1 failure:
+1) test7(RandoopTest0)junit.framework.AssertionFailedError: Expected exception of type java.lang.NoClassDefFoundError
+	at RandoopTest0.test7(RandoopTest0.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 29,  Failures: 1,  Errors: 3
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 26029
+Exiting analysis

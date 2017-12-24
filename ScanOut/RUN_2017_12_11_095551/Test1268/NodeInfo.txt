@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	52711
+NH Depth:	37
+NH Density:	15
+Classes	: [java.security.Permissions, java.lang.SecurityManager, java.lang.Thread, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, javax.swing.text.AsyncBoxView, javax.swing.text.LayoutQueue, java.security.AccessControlContext, java.security.UnresolvedPermissionCollection, java.io.ObjectStreamClass, sun.reflect.Reflection, java.io.ObjectOutputStream, java.security.ProtectionDomain, java.lang.Class]

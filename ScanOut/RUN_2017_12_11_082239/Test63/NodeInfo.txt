@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	86009
+NH Depth:	12
+NH Density:	16
+Classes	: [java.util.Properties, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.lang.reflect.Method, javax.xml.parsers.DocumentBuilderFactory, java.lang.System, java.lang.reflect.Proxy, java.util.XMLUtils, java.io.ObjectInputStream, com.sun.corba.se.impl.activation.ServerManagerImpl, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder, java.lang.Enum]

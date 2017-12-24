@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	36412
+NH Depth:	24
+NH Density:	26
+Classes	: [sun.awt.X11.XEmbedClientHelper, sun.awt.X11.XEmbedHelper, java.util.Currency, sun.awt.image.ImageFetcher, sun.awt.X11.XToolkit, java.lang.SecurityManager, java.util.Hashtable, java.lang.String, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, java.lang.reflect.Proxy, java.io.ObjectInputStream, javax.swing.plaf.basic.BasicDirectoryModel, javax.swing.JFileChooser, java.util.Vector, java.security.ProtectionDomain, javax.swing.filechooser.FileSystemView, sun.awt.X11.XEmbedChildProxyPeer, java.util.Formatter, java.io.File, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, java.lang.ThreadGroup, sun.awt.X11.XEmbeddingContainer]

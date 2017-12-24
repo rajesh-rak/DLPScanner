@@ -1,0 +1,28 @@
+....................F.E.............
+Time: 5.198
+There was 1 error:
+1) test14(RandoopTest0)java.lang.NullPointerException: X.509 cert is incomplete
+	at sun.security.x509.X509CertInfo.toString(X509CertInfo.java:301)
+	at RandoopTest0.test14(RandoopTest0.java:220)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+There was 1 failure:
+1) test15(RandoopTest0)junit.framework.AssertionFailedError: Expected exception of type java.lang.NoClassDefFoundError
+	at RandoopTest0.test15(RandoopTest0.java:233)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 34,  Failures: 1,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 23476
+Exiting analysis

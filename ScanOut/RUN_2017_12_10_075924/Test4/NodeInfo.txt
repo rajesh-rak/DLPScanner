@@ -1,0 +1,5 @@
+File:		1.4.2.10.NewLst
+Line No:	91342
+NH Depth:	16
+NH Density:	12
+Classes	: [java.io.ObjectStreamClass, java.util.Random, sun.reflect.Reflection, java.io.ObjectOutputStream, sun.security.provider.PolicyFile, java.lang.SecurityManager, java.security.ProtectionDomain, java.lang.reflect.Method, java.lang.Class, java.security.AccessController, java.security.Policy, java.security.AccessControlContext]

@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	5367
+NH Depth:	22
+NH Density:	24
+Classes	: [java.text.SimpleDateFormat, java.util.Currency, sun.security.util.Debug, java.lang.SecurityManager, sun.awt.X11.XWindowPeer, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, java.lang.Thread, java.security.AccessController, sun.util.LocaleServiceProviderPool, java.io.PrintStream, java.lang.ClassLoader, java.security.AccessControlContext, com.sun.corba.se.impl.logging.NamingSystemException, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, sun.awt.X11.XWMHints, java.math.BigDecimal, java.util.Formatter, java.text.DecimalFormatSymbols, sun.awt.X11.XFramePeer, java.text.DateFormat, java.text.NumberFormat]

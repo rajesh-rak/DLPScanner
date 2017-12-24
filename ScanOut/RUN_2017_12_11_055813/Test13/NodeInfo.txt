@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	2340
+NH Depth:	13
+NH Density:	10
+Classes	: [sun.font.Type1Font, java.awt.GraphicsEnvironment, sun.font.FontManager, sun.java2d.SunGraphicsEnvironment, sun.font.TrueTypeFont, java.awt.Font, sun.font.TrueTypeGlyphMapper, sun.font.CompositeFont, sun.font.FileFont, sun.font.Type1GlyphMapper]

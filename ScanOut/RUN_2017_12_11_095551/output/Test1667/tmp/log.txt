@@ -1,0 +1,374 @@
+............................
+Time: 0.13
+
+OK (28 tests)
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 17510
+Exiting analysis
+.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:420)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP00710227: (INTERNAL) byte to character converter failure"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:422)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP00010203: (UNKNOWN) Unknown exception or error thrown by the ORB or application"
+org.omg.CORBA.UNKNOWN:   vmcid: SUN  minor code: 203  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.unknownServerError(ORBUtilSystemException.java:8897)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.unknownServerError(ORBUtilSystemException.java:8915)
+	at RandoopTest0.test27(RandoopTest0.java:423)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:422)
+	... 16 more
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP00710227: (INTERNAL) byte to character converter failure"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:425)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP00710227: (INTERNAL) byte to character converter failure"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:427)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP00710289: (INTERNAL) Tried to write exception of type 0 that was not declared on method"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 289  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.writeUndeclaredException(ORBUtilSystemException.java:6014)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.writeUndeclaredException(ORBUtilSystemException.java:6033)
+	at RandoopTest0.test27(RandoopTest0.java:428)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:427)
+	... 16 more
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP00710227: (INTERNAL) byte to character converter failure"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:430)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP00710253: (INTERNAL) Bad CompletionStatus   in reply"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 253  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badCompletionStatusInReply(ORBUtilSystemException.java:5079)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badCompletionStatusInReply(ORBUtilSystemException.java:5102)
+	at RandoopTest0.test27(RandoopTest0.java:431)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP00710227: (INTERNAL) byte to character converter failure"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:433)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP00710227: (INTERNAL) byte to character converter failure"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:435)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP00710289: (INTERNAL) Tried to write exception of type 0 that was not declared on method"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 289  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.writeUndeclaredException(ORBUtilSystemException.java:6014)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.writeUndeclaredException(ORBUtilSystemException.java:6033)
+	at RandoopTest0.test27(RandoopTest0.java:436)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:435)
+	... 16 more
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP01210213: (BAD_OPERATION) Fixed type does not match typecode"
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 213  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.fixedNotMatch(ORBUtilSystemException.java:389)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.fixedNotMatch(ORBUtilSystemException.java:407)
+	at RandoopTest0.test27(RandoopTest0.java:437)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:435)
+	... 16 more
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP00510202: (INV_OBJREF) No profile in IOR"
+org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 202  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.noProfilePresent(ORBUtilSystemException.java:3471)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.noProfilePresent(ORBUtilSystemException.java:3489)
+	at RandoopTest0.test27(RandoopTest0.java:438)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 213  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.fixedNotMatch(ORBUtilSystemException.java:389)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.fixedNotMatch(ORBUtilSystemException.java:407)
+	at RandoopTest0.test27(RandoopTest0.java:437)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:435)
+	... 16 more
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test27
+WARNING: "IOP02510205: (OBJECT_NOT_EXIST) No object adapter factory"
+org.omg.CORBA.OBJECT_NOT_EXIST:   vmcid: SUN  minor code: 205  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.noObjectAdapterFactory(ORBUtilSystemException.java:8721)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.noObjectAdapterFactory(ORBUtilSystemException.java:8739)
+	at RandoopTest0.test27(RandoopTest0.java:439)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 213  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.fixedNotMatch(ORBUtilSystemException.java:389)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.fixedNotMatch(ORBUtilSystemException.java:407)
+	at RandoopTest0.test27(RandoopTest0.java:437)
+	... 16 more
+Caused by: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4347)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.btcConverterFailure(ORBUtilSystemException.java:4369)
+	at RandoopTest0.test27(RandoopTest0.java:435)
+	... 16 more
+
+Dec 11, 2017 12:49:28 PM RandoopTest0 test21
+WARNING: Thu Feb 08 00:00:00 IST 2001

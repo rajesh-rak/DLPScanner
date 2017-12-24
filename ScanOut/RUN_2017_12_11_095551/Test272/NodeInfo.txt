@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	72939
+NH Depth:	29
+NH Density:	28
+Classes	: [java.util.Properties, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.lang.reflect.Method, java.lang.Thread, java.security.AccessController, java.io.PrintStream, sun.security.provider.JavaKeyStore, java.security.SecureRandom, java.lang.Throwable, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.util.Formatter, sun.security.krb5.internal.Krb5, java.text.DecimalFormatSymbols, sun.security.util.Debug, javax.xml.transform.TransformerFactory, java.util.Hashtable, javax.xml.transform.FactoryFinder, java.lang.String, java.security.AccessControlContext, sun.security.provider.KeyProtector, java.util.XMLUtils, java.security.Provider, sun.reflect.Reflection, java.lang.Exception, sun.security.krb5.KrbException, java.lang.Enum]

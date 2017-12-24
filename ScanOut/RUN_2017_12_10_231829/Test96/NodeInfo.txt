@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	16682
+NH Depth:	27
+NH Density:	23
+Classes	: [java.awt.KeyboardFocusManager, sun.reflect.misc.MethodUtil, sun.reflect.annotation.AnnotationParser, sun.rmi.transport.tcp.TCPEndpoint, java.lang.reflect.Method, javax.swing.JRootPane, javax.swing.JPanel, sun.awt.im.InputMethodContext, sun.awt.im.InputContext, javax.swing.JFrame, com.sun.xml.internal.ws.server.EndpointFactory, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.lang.reflect.Proxy, java.awt.Component, javax.swing.UIDefaults, sun.awt.im.CompositionAreaHandler, javax.management.MBeanOperationInfo, sun.awt.im.InputMethodJFrame, sun.rmi.transport.tcp.TCPTransport, com.sun.jmx.mbeanserver.Introspector, com.sun.xml.internal.ws.handler.HandlerChainsModel, javax.swing.UIManager, java.awt.Container]

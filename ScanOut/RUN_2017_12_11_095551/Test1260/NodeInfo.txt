@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	49704
+NH Depth:	31
+NH Density:	27
+Classes	: [sun.swing.plaf.synth.SynthFileChooserUI, java.awt.Window, java.lang.SecurityManager, java.lang.Thread, java.lang.reflect.Method, java.security.AccessController, java.io.ObjectStreamClass, com.sun.jndi.ldap.LdapClient, java.io.ObjectOutputStream, com.sun.jndi.ldap.LdapCtx, java.util.Vector, java.lang.Class, com.sun.naming.internal.ResourceManager, javax.naming.ldap.ControlFactory, sun.awt.image.ImageFetcher, java.security.Permissions, java.util.Hashtable, java.security.Policy, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, sun.rmi.transport.proxy.RMIMasterSocketFactory, javax.swing.plaf.basic.BasicDirectoryModel, javax.swing.JFileChooser, sun.reflect.Reflection, java.security.ProtectionDomain, javax.swing.filechooser.FileSystemView, java.io.File]

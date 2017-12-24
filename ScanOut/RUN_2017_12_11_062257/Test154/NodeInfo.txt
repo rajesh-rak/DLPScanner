@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	99478
+NH Depth:	27
+NH Density:	25
+Classes	: [sun.misc.HexDumpEncoder, java.security.Permissions, java.lang.SecurityManager, java.lang.Runtime, java.util.Hashtable, java.security.Policy, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, java.lang.System, java.lang.ClassLoader, sun.misc.CharacterEncoder, sun.misc.ProxyGenerator, java.security.AccessControlContext, java.lang.reflect.Proxy, java.security.UnresolvedPermissionCollection, sun.misc.Launcher, java.io.ObjectInputStream, com.sun.crypto.provider.RC2Parameters, java.net.URL, java.security.ProtectionDomain, java.io.File, sun.net.www.ParseUtil, com.sun.crypto.provider.JceKeyStore, java.lang.StringCoding, java.io.ByteArrayOutputStream]

@@ -1,0 +1,48 @@
+Execution Summary
+-----------------
+Source Folder:	/Users/rajesh/code/DLPScanner/cycles/1.4.2*
+Output Folder:	/Users/rajesh/code/DLPScanner/ScanOut
+Neighbourhood Depth:	100
+Neighbourhood Density:	100
+Total Files Processed:	5
+Total Lines Processed:	108,819
+Total Nodes Processed:	72
+Total Nodes Selected:	23
+Total Duplicates:	49
+Total Processing Time:	329ms
+-------------------------------------
+File:			1.4.2.10.NewLst
+Lines Processed:	93,659
+Nodes Processed:	14
+Nodes Selected:		12
+Duplicates skipped:	2
+Processed in: 		159ms
+------
+File:			1.4.2.NewLst
+Lines Processed:	2,965
+Nodes Processed:	14
+Nodes Selected:		3
+Duplicates skipped:	11
+Processed in: 		36ms
+------
+File:			1.4.2_04.NewerLst
+Lines Processed:	6,115
+Nodes Processed:	17
+Nodes Selected:		6
+Duplicates skipped:	11
+Processed in: 		83ms
+------
+File:			1.4.2_04.NewLst
+Lines Processed:	3,233
+Nodes Processed:	13
+Nodes Selected:		0
+Duplicates skipped:	13
+Processed in: 		23ms
+------
+File:			1.4.2_12.NewLst
+Lines Processed:	2,847
+Nodes Processed:	14
+Nodes Selected:		2
+Duplicates skipped:	12
+Processed in: 		23ms
+------

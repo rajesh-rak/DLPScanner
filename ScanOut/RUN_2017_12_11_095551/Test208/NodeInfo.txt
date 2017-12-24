@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	50010
+NH Depth:	21
+NH Density:	25
+Classes	: [sun.security.util.Debug, java.util.Properties, java.lang.SecurityManager, java.util.Hashtable, java.lang.Thread, java.lang.String, java.security.AccessController, java.security.Policy, javax.xml.parsers.DocumentBuilderFactory, java.io.PrintStream, sun.security.provider.KeyProtector, java.security.AccessControlContext, java.util.XMLUtils, sun.security.provider.JavaKeyStore, java.security.Provider, java.security.ProtectionDomain, java.security.SecureRandom, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.util.Formatter, sun.security.krb5.internal.Krb5, java.text.DecimalFormatSymbols, sun.security.krb5.KrbException, javax.xml.parsers.FactoryFinder]

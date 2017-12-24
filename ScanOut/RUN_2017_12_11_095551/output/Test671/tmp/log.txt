@@ -1,0 +1,30 @@
+........E.......F.....................
+Time: 5.155
+There was 1 error:
+1) test29(RandoopTest0)java.security.NoSuchProviderException: no such provider: -1.0
+	at sun.security.jca.GetInstance.getService(GetInstance.java:83)
+	at javax.crypto.JceSecurity.getInstance(JceSecurity.java:97)
+	at javax.crypto.KeyAgreement.getInstance(KeyAgreement.java:223)
+	at RandoopTest0.test29(RandoopTest0.java:487)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+There was 1 failure:
+1) test22(RandoopTest0)junit.framework.AssertionFailedError: Expected exception of type java.lang.NoClassDefFoundError
+	at RandoopTest0.test22(RandoopTest0.java:370)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 36,  Failures: 1,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 25639
+Exiting analysis

@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	99309
+NH Depth:	21
+NH Density:	24
+Classes	: [sun.security.util.Debug, java.util.Currency, java.lang.SecurityManager, java.net.URLClassLoader, java.lang.Thread, sun.awt.X11.XWindowPeer, java.security.AccessController, java.lang.String, sun.util.LocaleServiceProviderPool, java.net.URLStreamHandler, java.io.PrintStream, java.lang.ClassLoader, java.security.AccessControlContext, java.util.HashMap, java.security.CodeSource, java.text.BreakIterator, java.net.URL, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, java.util.Formatter, java.lang.ConditionalSpecialCasing, java.text.DecimalFormatSymbols, java.security.SecureClassLoader]

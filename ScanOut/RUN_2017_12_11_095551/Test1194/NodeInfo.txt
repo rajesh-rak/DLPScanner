@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	30817
+NH Depth:	15
+NH Density:	13
+Classes	: [sun.awt.X11.XEmbedHelper, sun.awt.X11.XToolkit, java.awt.Window, sun.reflect.annotation.AnnotationParser, com.sun.xml.internal.ws.server.WSEndpointImpl, java.lang.reflect.Method, java.lang.reflect.Proxy, java.io.ObjectStreamClass, java.io.ObjectOutputStream, java.util.Vector, javax.management.MBeanOperationInfo, com.sun.jmx.mbeanserver.Introspector, sun.rmi.server.Util]

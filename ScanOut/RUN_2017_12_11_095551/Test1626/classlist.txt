@@ -1,0 +1,17 @@
+sun.awt.X11.XEmbedClientHelper
+sun.awt.X11.XEmbedHelper
+sun.awt.X11.XToolkit
+sun.awt.X11.XEmbeddedFramePeer
+java.awt.Window
+sun.reflect.annotation.AnnotationParser
+java.lang.reflect.Method
+sun.awt.X11.XWindowPeer
+com.sun.xml.internal.ws.server.EndpointFactory
+java.lang.reflect.Proxy
+com.sun.xml.internal.ws.util.HandlerAnnotationProcessor
+java.io.ObjectStreamClass
+java.io.ObjectOutputStream
+java.util.Vector
+com.sun.xml.internal.ws.handler.HandlerChainsModel
+sun.awt.X11.XEmbedCanvasPeer
+sun.awt.X11.XEmbedServerTester

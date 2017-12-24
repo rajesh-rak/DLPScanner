@@ -1,0 +1,28 @@
+......E.......E.................
+Time: 0.137
+There were 2 errors:
+1) test25(RandoopTest0)java.lang.NullPointerException
+	at java.util.Properties.loadFromXML(Properties.java:867)
+	at RandoopTest0.test25(RandoopTest0.java:436)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test18(RandoopTest0)java.lang.NullPointerException
+	at java.util.Properties.loadFromXML(Properties.java:867)
+	at RandoopTest0.test18(RandoopTest0.java:281)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 30,  Failures: 0,  Errors: 2
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 22693
+Exiting analysis

@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	92216
+NH Depth:	25
+NH Density:	28
+Classes	: [java.util.Properties, sun.util.LocaleServiceProviderPool, java.lang.System, sun.security.provider.JavaKeyStore, java.security.Security, java.security.SecureRandom, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore, com.sun.net.ssl.internal.ssl.JsseJce, sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, java.security.MessageDigest, java.util.Hashtable, java.net.URI, sun.misc.VM, java.lang.String, sun.security.jca.ProviderList, java.lang.ClassLoader, sun.security.provider.KeyProtector, java.security.Provider, com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl, java.text.BreakIterator, java.security.cert.CertPathBuilder, java.net.URL, java.util.logging.Logger, java.security.cert.CertificateFactory, java.lang.ConditionalSpecialCasing, sun.security.jca.GetInstance]

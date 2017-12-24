@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	31477
+NH Depth:	21
+NH Density:	18
+Classes	: [java.util.Currency, java.lang.SecurityManager, java.lang.Runtime, java.util.Hashtable, java.lang.String, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, java.lang.reflect.Proxy, com.sun.corba.se.impl.activation.ServerTableEntry, java.io.ObjectInputStream, java.security.ProtectionDomain, com.sun.corba.se.impl.activation.ServerManagerImpl, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, java.lang.ProcessBuilder, com.sun.crypto.provider.JceKeyStore]

@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	24774
+NH Depth:	37
+NH Density:	20
+Classes	: [sun.awt.X11.XToolkit, sun.jkernel.Bundle, com.sun.corba.se.impl.encoding.BufferManagerFactory, sun.jkernel.DownloadManager, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, sun.misc.URLClassPath, java.lang.String, sun.util.LocaleServiceProviderPool, java.net.URLStreamHandler, java.lang.ClassLoader, sun.util.CoreResourceBundleControl, java.text.BreakIterator, sun.net.util.IPAddressUtil, java.util.regex.Pattern, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, java.lang.Class, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle]

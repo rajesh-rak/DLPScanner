@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	67192
+NH Depth:	22
+NH Density:	32
+Classes	: [sun.security.x509.ExtendedKeyUsageExtension, java.security.cert.X509Certificate, javax.crypto.Cipher, com.sun.crypto.provider.SunJCE_z, javax.crypto.SunJCE_d, javax.crypto.SunJCE_e, javax.crypto.SunJCE_b, java.security.Signature, com.sun.jndi.ldap.LdapClient, javax.crypto.SunJCE_c, java.util.regex.Pattern, com.sun.jndi.ldap.LdapCtx, javax.crypto.SunJCE_h, java.util.Vector, javax.crypto.SunJCE_g, sun.security.x509.X509CertImpl, sun.security.validator.Validator, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, java.util.jar.JarFile, java.util.zip.ZipFile, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore, sun.security.validator.EndEntityChecker, java.net.URLClassLoader, java.util.Hashtable, java.lang.String, java.net.SocketPermission, sun.net.util.IPAddressUtil, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.SunJCE_ad, sun.font.FontFamily]

@@ -1,0 +1,3 @@
+java.beans.IndexedPropertyDescriptor
+java.beans.PropertyDescriptor
+java.beans.Introspector

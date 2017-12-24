@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	85689
+NH Depth:	33
+NH Density:	26
+Classes	: [java.lang.SecurityManager, javax.crypto.Cipher, sun.util.LocaleServiceProviderPool, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, javax.crypto.SunJCE_d, javax.crypto.SunJCE_e, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, com.sun.crypto.provider.JceKeyStore, com.sun.net.ssl.internal.ssl.JsseJce, java.security.Permissions, java.util.Hashtable, sun.awt.X11.XWindowPeer, java.lang.String, java.security.Policy, java.lang.ClassLoader, java.security.AccessControlContext, javax.crypto.KeyAgreement, java.text.BreakIterator, java.util.logging.Logger, java.security.ProtectionDomain, java.io.StreamTokenizer, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.SunJCE_ad, com.sun.net.ssl.internal.ssl.ECDHCrypt]

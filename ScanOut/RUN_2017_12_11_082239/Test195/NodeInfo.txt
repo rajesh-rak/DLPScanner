@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	22640
+NH Depth:	12
+NH Density:	17
+Classes	: [java.util.Properties, sun.misc.VMSupport, java.security.MessageDigest, java.util.Hashtable, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, sun.misc.VM, com.sun.crypto.provider.SunJCE_z, com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl, java.lang.System, java.lang.ClassLoader, sun.security.provider.JavaKeyStore, com.sun.corba.se.impl.orb.DataCollectorBase, java.security.Security, com.sun.corba.se.impl.orb.AppletDataCollector, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore]

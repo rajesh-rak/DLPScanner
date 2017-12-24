@@ -1,0 +1,95 @@
+2017-12-11 14:16:18
+Full thread dump Java HotSpot(TM) 64-Bit Server VM (24.79-b02 mixed mode):
+
+"Attach Listener" daemon prio=5 tid=0x00007ff378a1d000 nid=0x4903 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"process reaper" daemon prio=5 tid=0x00007ff378a1c800 nid=0xf07 runnable [0x00007000056f7000]
+   java.lang.Thread.State: RUNNABLE
+	at java.lang.UNIXProcess.waitForProcessExit(Native Method)
+	at java.lang.UNIXProcess.access$500(UNIXProcess.java:54)
+	at java.lang.UNIXProcess$4.run(UNIXProcess.java:225)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+
+   Locked ownable synchronizers:
+	- <0x00000007d04b4ea0> (a java.util.concurrent.ThreadPoolExecutor$Worker)
+
+"Service Thread" daemon prio=5 tid=0x00007ff37584b000 nid=0x4503 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"C2 CompilerThread1" daemon prio=5 tid=0x00007ff374803800 nid=0x4303 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"C2 CompilerThread0" daemon prio=5 tid=0x00007ff375029800 nid=0x4103 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"Signal Dispatcher" daemon prio=5 tid=0x00007ff375031000 nid=0x3f07 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"Finalizer" daemon prio=5 tid=0x00007ff37582a800 nid=0x3203 in Object.wait() [0x0000700005fea000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007e5608658> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:135)
+	- locked <0x00000007e5608658> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:151)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+
+   Locked ownable synchronizers:
+	- None
+
+"Reference Handler" daemon prio=5 tid=0x00007ff375829800 nid=0x3003 in Object.wait() [0x0000700005ee7000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007e5608700> (a java.lang.ref.Reference$Lock)
+	at java.lang.Object.wait(Object.java:503)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:133)
+	- locked <0x00000007e5608700> (a java.lang.ref.Reference$Lock)
+
+   Locked ownable synchronizers:
+	- None
+
+"main" prio=5 tid=0x00007ff374808800 nid=0x1a03 in Object.wait() [0x00007000058d5000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007d04b2ba0> (a java.lang.UNIXProcess)
+	at java.lang.Object.wait(Object.java:503)
+	at java.lang.UNIXProcess.waitFor(UNIXProcess.java:261)
+	- locked <0x00000007d04b2ba0> (a java.lang.UNIXProcess)
+	at omen.util.OmenDriver.cycleDetection(OmenDriver.java:206)
+	at omen.util.OmenDriver.main(OmenDriver.java:114)
+
+   Locked ownable synchronizers:
+	- None
+
+"VM Thread" prio=5 tid=0x00007ff375827000 nid=0x2e03 runnable 
+
+"GC task thread#0 (ParallelGC)" prio=5 tid=0x00007ff374814000 nid=0x2607 runnable 
+
+"GC task thread#1 (ParallelGC)" prio=5 tid=0x00007ff374814800 nid=0x2803 runnable 
+
+"GC task thread#2 (ParallelGC)" prio=5 tid=0x00007ff374815000 nid=0x2a03 runnable 
+
+"GC task thread#3 (ParallelGC)" prio=5 tid=0x00007ff375002800 nid=0x2c03 runnable 
+
+"VM Periodic Task Thread" prio=5 tid=0x00007ff37584b800 nid=0x4703 waiting on condition 
+
+JNI global references: 201
+

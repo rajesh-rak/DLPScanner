@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	133235
+NH Depth:	20
+NH Density:	16
+Classes	: [sun.reflect.annotation.AnnotationParser, java.lang.Runtime, java.util.Hashtable, java.lang.String, javax.crypto.Cipher, com.sun.crypto.provider.SunJCE_z, java.lang.reflect.Proxy, com.sun.corba.se.impl.activation.ServerTableEntry, java.util.regex.Pattern, javax.crypto.SunJCE_h, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Class, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.SunJCE_ad, java.lang.ProcessBuilder, com.sun.crypto.provider.JceKeyStore]

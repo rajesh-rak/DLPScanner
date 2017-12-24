@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	16255
+NH Depth:	37
+NH Density:	36
+Classes	: [java.text.SimpleDateFormat, java.util.Currency, sun.font.Font2D, javax.swing.JPanel, javax.swing.JRootPane, sun.awt.im.InputContext, javax.swing.JFrame, java.awt.Component, sun.rmi.transport.tcp.TCPTransport, javax.swing.Timer, java.text.MessageFormat, java.text.DecimalFormatSymbols, javax.swing.TimerQueue, java.text.NumberFormat, javax.swing.JComponent, java.awt.KeyboardFocusManager, java.net.URLClassLoader, sun.rmi.transport.tcp.TCPEndpoint, java.lang.Package, sun.font.FontManager, javax.swing.DebugGraphics, sun.awt.im.InputMethodContext, java.awt.Font, java.lang.ClassLoader, java.awt.EventQueue, sun.awt.AppContext, sun.awt.im.CompositionAreaHandler, sun.awt.im.CompositionArea, java.awt.font.TextLayout, sun.awt.im.InputMethodJFrame, javax.swing.SwingUtilities, sun.awt.SunToolkit, javax.swing.Autoscroller, java.awt.Container, javax.swing.UIManager, sun.font.FontFamily]

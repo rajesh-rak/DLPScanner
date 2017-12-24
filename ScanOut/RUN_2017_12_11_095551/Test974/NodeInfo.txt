@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	99998
+NH Depth:	22
+NH Density:	25
+Classes	: [sun.security.util.Debug, java.util.Currency, java.lang.SecurityManager, java.net.URLClassLoader, java.util.Hashtable, java.lang.Thread, java.security.AccessController, javax.crypto.Cipher, java.lang.String, com.sun.crypto.provider.SunJCE_z, java.io.PrintStream, java.security.AccessControlContext, java.net.SocketPermission, javax.crypto.SunJCE_h, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.lang.Exception, java.lang.Throwable, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.SunJCE_ad, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore, sun.font.FontFamily]

@@ -1,0 +1,15 @@
+sun.awt.X11.XInputMethod
+java.text.BreakIterator
+sun.net.util.IPAddressUtil
+java.util.regex.Pattern
+java.util.logging.Logger
+com.sun.org.apache.xpath.internal.res.XPATHErrorResources_de
+sun.util.LocaleServiceProviderPool
+sun.misc.URLClassPath
+java.lang.String
+java.lang.ConditionalSpecialCasing
+java.util.ResourceBundle
+java.net.URLStreamHandler
+java.lang.ClassLoader
+sun.net.spi.DefaultProxySelector
+sun.util.CoreResourceBundleControl

@@ -1,0 +1,6 @@
+sun.misc.Launcher
+com.sun.xml.internal.bind.v2.ContextFactory
+sun.jkernel.DownloadManager
+sun.jkernel.Bundle
+java.lang.Class
+java.lang.ClassLoader

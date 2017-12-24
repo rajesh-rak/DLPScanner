@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	117848
+NH Depth:	19
+NH Density:	15
+Classes	: [java.awt.KeyboardFocusManager, java.awt.Window, java.net.URLClassLoader, sun.rmi.transport.tcp.TCPEndpoint, javax.swing.Popup, java.lang.Package, javax.swing.JScrollPane, java.lang.ClassLoader, sun.awt.AppContext, java.awt.EventQueue, java.awt.Component, javax.swing.ToolTipManager, sun.rmi.transport.tcp.TCPTransport, sun.awt.SunToolkit, java.awt.Dialog]

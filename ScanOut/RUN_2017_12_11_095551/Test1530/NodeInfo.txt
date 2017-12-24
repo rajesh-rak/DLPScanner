@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	8776
+NH Depth:	39
+NH Density:	38
+Classes	: [java.util.Currency, java.security.CodeSigner, sun.util.calendar.CalendarSystem, java.lang.SecurityManager, java.lang.Thread, java.lang.StringBuilder, java.security.AccessController, java.io.PrintStream, java.lang.System, java.util.HashMap, java.security.CodeSource, sun.util.calendar.ZoneInfo, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, java.security.Timestamp, java.security.SecureClassLoader, com.sun.jmx.mbeanserver.MXBeanIntrospector, sun.util.calendar.BaseCalendar, sun.security.util.Debug, java.net.InetAddress, java.util.SimpleTimeZone, java.net.URLClassLoader, java.lang.String, java.security.Policy, java.util.Date, javax.management.MBeanServerInvocationHandler, java.net.SocketPermission, java.security.AccessControlContext, java.net.Inet6Address, java.security.ProtectionDomain, java.lang.Exception, sun.util.calendar.AbstractCalendar, com.sun.jmx.mbeanserver.MBeanAnalyzer, java.net.NetworkInterface]

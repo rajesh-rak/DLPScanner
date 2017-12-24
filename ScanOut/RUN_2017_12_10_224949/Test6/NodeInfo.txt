@@ -1,0 +1,5 @@
+File:		kkzb.xml
+Line No:	413
+NH Depth:	4
+NH Density:	2
+Classes	: [java.util.Vector, com.sun.jmx.snmp.SnmpVarBindList]

@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	38695
+NH Depth:	19
+NH Density:	22
+Classes	: [sun.security.util.Debug, java.util.Currency, java.net.InetAddress, java.net.URLClassLoader, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.security.Policy, java.net.URLStreamHandler, java.io.PrintStream, java.util.HashMap, java.security.AccessControlContext, java.security.CodeSource, java.net.URL, java.security.ProtectionDomain, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.math.BigDecimal, java.util.Formatter, java.text.DecimalFormatSymbols, java.security.SecureClassLoader]

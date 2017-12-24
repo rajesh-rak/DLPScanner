@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	59947
+NH Depth:	37
+NH Density:	17
+Classes	: [java.lang.reflect.Constructor, java.security.Permissions, java.security.UnresolvedPermission, java.lang.SecurityManager, com.sun.jmx.mbeanserver.StandardMBeanSupport, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, java.security.UnresolvedPermissionCollection, java.io.ObjectStreamClass, sun.reflect.Reflection, java.io.ObjectOutputStream, java.security.ProtectionDomain, sun.rmi.server.LoaderHandler, java.lang.Class]

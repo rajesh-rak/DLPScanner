@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	21983
+NH Depth:	19
+NH Density:	21
+Classes	: [sun.security.util.Debug, java.util.Currency, sun.awt.X11.XToolkit, java.lang.SecurityManager, sun.awt.X11.XWindowPeer, java.lang.Thread, java.security.AccessController, java.io.PrintStream, com.sun.jndi.ldap.NamingEventNotifier, java.security.AccessControlContext, sun.awt.X11.XWindow, sun.awt.X11.XPopupMenuPeer, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, java.lang.Exception, java.lang.Throwable, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.jndi.ldap.EventSupport, sun.awt.X11.XFramePeer]

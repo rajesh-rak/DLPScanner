@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	8734
+NH Depth:	23
+NH Density:	17
+Classes	: [java.util.Properties, javax.xml.transform.TransformerFactory, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, java.lang.reflect.Method, javax.xml.transform.FactoryFinder, java.lang.System, com.sun.xml.internal.ws.api.server.WSEndpoint, com.sun.xml.internal.ws.server.EndpointFactory, java.lang.reflect.Proxy, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.util.XMLUtils, com.sun.corba.se.impl.activation.ServerManagerImpl, com.sun.xml.internal.ws.model.RuntimeModeler, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.reflect.AccessibleObject, com.sun.xml.internal.txw2.ContainerElement]

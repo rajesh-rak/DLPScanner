@@ -1,2 +1,0 @@
-DLP Scanner
-# DLPScanner

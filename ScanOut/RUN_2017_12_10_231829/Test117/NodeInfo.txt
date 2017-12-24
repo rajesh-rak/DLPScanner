@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	22399
+NH Depth:	31
+NH Density:	30
+Classes	: [sun.awt.X11.XEmbedHelper, java.lang.reflect.Constructor, java.lang.SecurityManager, sun.awt.X11.XMSelection, java.lang.Thread, java.security.AccessController, javax.swing.text.AsyncBoxView, sun.awt.X11.XSelection, sun.security.provider.PolicyFile, java.util.Vector, java.lang.Class, sun.awt.X11.XEmbedServerTester, sun.awt.X11.XEmbeddingContainer, java.security.Permissions, sun.awt.X11.XToolkit, sun.awt.X11.XWindowPeer, java.security.Policy, java.lang.ClassLoader, javax.swing.text.LayoutQueue, java.security.AccessControlContext, sun.awt.X11.XPanelPeer, sun.awt.AppContext, javax.swing.plaf.basic.BasicDirectoryModel, javax.swing.JFileChooser, sun.reflect.Reflection, java.security.ProtectionDomain, javax.swing.filechooser.FileSystemView, sun.awt.X11.XEmbedChildProxyPeer, java.io.File, sun.awt.X11.XEmbedCanvasPeer]

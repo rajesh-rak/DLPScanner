@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	20422
+NH Depth:	22
+NH Density:	11
+Classes	: [com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl, sun.net.util.URLUtil, java.text.BreakIterator, javax.imageio.ImageReader, java.util.logging.Logger, java.lang.String, sun.util.LocaleServiceProviderPool, sun.misc.URLClassPath, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, java.lang.ClassLoader]

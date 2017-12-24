@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	17563
+NH Depth:	35
+NH Density:	27
+Classes	: [java.util.Currency, com.sun.corba.se.spi.logging.LogWrapperBase, java.lang.SecurityManager, java.lang.Thread, sun.util.LocaleServiceProviderPool, java.security.AccessController, java.io.PrintStream, java.util.regex.Pattern, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, java.util.Formatter, java.text.DecimalFormatSymbols, java.security.SecureClassLoader, sun.security.util.Debug, com.sun.corba.se.impl.logging.ActivationSystemException, java.net.URLClassLoader, sun.awt.X11.XWindowPeer, java.lang.String, java.lang.ClassLoader, java.net.SocketPermission, java.security.AccessControlContext, java.text.BreakIterator, sun.net.util.IPAddressUtil, java.util.logging.Logger, java.lang.Exception, java.lang.ConditionalSpecialCasing, sun.font.FontFamily]

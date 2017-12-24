@@ -1,0 +1,14 @@
+...........................
+Time: 0.11
+
+OK (27 tests)
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 16362
+Exiting analysis
+test18
+INFO: Sun Dec 09 22:59:10 IST 1900

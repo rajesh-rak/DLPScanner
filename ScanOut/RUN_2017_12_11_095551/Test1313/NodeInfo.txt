@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	69033
+NH Depth:	23
+NH Density:	29
+Classes	: [java.util.Currency, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.net.URLStreamHandler, java.util.HashMap, java.security.CodeSource, sun.security.provider.JavaKeyStore, java.security.Security, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore, sun.security.util.Debug, java.security.MessageDigest, java.net.URLClassLoader, java.util.Hashtable, java.lang.String, java.security.AccessControlContext, sun.net.www.MimeLauncher, java.net.URL, java.lang.Exception, java.math.BigDecimal, java.security.cert.CertificateFactory, java.lang.ConditionalSpecialCasing, sun.security.jca.GetInstance]

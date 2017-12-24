@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	2256
+NH Depth:	24
+NH Density:	13
+Classes	: [java.util.XMLUtils, javax.naming.spi.DirectoryManager, java.util.Properties, java.lang.SecurityManager, java.security.ProtectionDomain, java.lang.Class, java.security.AccessController, java.security.Policy, javax.xml.parsers.DocumentBuilderFactory, com.sun.naming.internal.ResourceManager, com.sun.jndi.toolkit.dir.HierMemDirCtx, javax.xml.parsers.FactoryFinder, java.security.AccessControlContext]

@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	122243
+NH Depth:	34
+NH Density:	24
+Classes	: [java.util.Properties, sun.misc.VMSupport, java.net.InetAddress, java.util.Hashtable, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, sun.awt.X11.XWindowPeer, java.lang.String, sun.util.LocaleServiceProviderPool, com.sun.crypto.provider.SunJCE_z, com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl, java.net.URLStreamHandler, com.sun.corba.se.impl.orb.DataCollectorBase, javax.crypto.SunJCE_b, java.text.BreakIterator, javax.crypto.SunJCE_c, sun.net.util.IPAddressUtil, java.util.regex.Pattern, javax.crypto.SunJCE_h, java.util.logging.Logger, java.net.URL, com.sun.corba.se.impl.orb.AppletDataCollector, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore]

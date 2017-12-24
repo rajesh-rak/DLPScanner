@@ -1,0 +1,3 @@
+sun.awt.im.InputMethodManager
+sun.awt.im.InputContext
+sun.awt.im.ExecutableInputMethodManager

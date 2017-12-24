@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	10578
+NH Depth:	22
+NH Density:	13
+Classes	: [java.io.ObjectInputStream, sun.awt.X11.XToolkit, java.text.BreakIterator, java.util.Properties, java.util.logging.Logger, java.util.Hashtable, java.util.Formatter, java.lang.String, sun.util.LocaleServiceProviderPool, java.text.DecimalFormatSymbols, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore]

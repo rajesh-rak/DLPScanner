@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	6072
+NH Depth:	31
+NH Density:	18
+Classes	: [sun.awt.datatransfer.DataTransferer, javax.naming.spi.DirectoryManager, java.util.Properties, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, javax.xml.parsers.DocumentBuilderFactory, java.lang.System, java.security.AccessControlContext, com.sun.jndi.cosnaming.CNCtx, javax.naming.spi.NamingManager, java.util.XMLUtils, java.security.ProtectionDomain, java.lang.Class, com.sun.naming.internal.ResourceManager, javax.xml.parsers.FactoryFinder, com.sun.jndi.cosnaming.ExceptionMapper]

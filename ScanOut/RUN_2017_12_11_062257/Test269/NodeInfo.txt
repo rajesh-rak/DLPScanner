@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	159744
+NH Depth:	17
+NH Density:	23
+Classes	: [sun.awt.X11.XToolkit, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, sun.awt.X11.XWindowPeer, java.io.ObjectOutput, java.lang.reflect.Method, com.sun.crypto.provider.SunJCE_z, java.lang.reflect.Proxy, java.io.ObjectStreamClass, java.io.ObjectInputStream, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.io.ObjectOutputStream, java.util.Vector, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, sun.awt.X11.XEmbedCanvasPeer, com.sun.naming.internal.ResourceManager, javax.naming.ldap.ControlFactory, sun.awt.X11.XFramePeer, com.sun.crypto.provider.JceKeyStore, sun.awt.X11.XEmbeddingContainer, java.lang.Enum]

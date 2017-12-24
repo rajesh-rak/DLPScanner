@@ -1,0 +1,5 @@
+com.sun.net.ssl.internal.ssl.SSLEngineImpl
+com.sun.net.ssl.internal.ssl.HandshakeOutStream
+com.sun.net.ssl.internal.ssl.ClientHandshaker
+com.sun.net.ssl.internal.ssl.Handshaker
+com.sun.net.ssl.internal.ssl.SSLSocketImpl

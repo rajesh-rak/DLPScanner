@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	1277
+NH Depth:	19
+NH Density:	14
+Classes	: [java.lang.SecurityManager, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, sun.awt.X11.XWindowPeer, java.lang.Thread, sun.awt.X11.XComponentPeer, java.security.AccessController, java.util.Formatter, sun.util.LocaleServiceProviderPool, java.text.DecimalFormatSymbols, java.io.PrintStream, java.lang.ClassLoader, sun.awt.X11.XWindow]

@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	22161
+NH Depth:	16
+NH Density:	12
+Classes	: [javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, com.sun.jndi.ldap.LdapClient, javax.crypto.SunJCE_h, com.sun.jndi.ldap.LdapCtx, java.util.Hashtable, com.sun.crypto.provider.SunJCE_z, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, java.util.jar.JarFile, java.util.zip.ZipFile, com.sun.crypto.provider.JceKeyStore]

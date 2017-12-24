@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	64203
+NH Depth:	33
+NH Density:	21
+Classes	: [java.security.Permissions, java.util.Properties, sun.reflect.annotation.AnnotationParser, java.lang.SecurityManager, javax.xml.transform.TransformerFactory, java.util.Hashtable, java.lang.reflect.Method, javax.xml.transform.FactoryFinder, java.security.AccessController, java.security.Policy, java.security.AccessControlContext, sun.security.provider.KeyProtector, sun.security.provider.JavaKeyStore, java.util.XMLUtils, java.security.Provider, sun.reflect.Reflection, java.security.ProtectionDomain, java.security.SecureRandom, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.lang.Enum]

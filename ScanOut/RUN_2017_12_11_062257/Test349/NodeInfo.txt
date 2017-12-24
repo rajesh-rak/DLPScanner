@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	213270
+NH Depth:	24
+NH Density:	29
+Classes	: [javax.naming.spi.DirectoryManager, java.util.Properties, java.lang.SecurityManager, java.util.logging.LogManager, sun.util.LocaleServiceProviderPool, java.security.AccessController, javax.xml.parsers.DocumentBuilderFactory, com.sun.crypto.provider.SunJCE_z, sun.security.provider.JavaKeyStore, com.sun.crypto.provider.SunJCE_f, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder, java.util.Hashtable, java.lang.String, java.security.Policy, java.lang.ClassLoader, java.security.AccessControlContext, com.sun.corba.se.impl.resolver.FileResolverImpl, java.util.XMLUtils, com.sun.corba.se.impl.orb.DataCollectorBase, java.io.ObjectInputStream, java.text.BreakIterator, java.util.logging.Logger, java.security.ProtectionDomain, java.lang.ConditionalSpecialCasing, com.sun.jndi.ldap.Obj]

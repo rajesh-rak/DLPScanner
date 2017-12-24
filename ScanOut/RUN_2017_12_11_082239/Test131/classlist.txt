@@ -1,0 +1,7 @@
+java.io.ObjectStreamClass
+java.io.ObjectOutputStream
+sun.reflect.annotation.AnnotationParser
+com.sun.xml.internal.ws.server.WSEndpointImpl
+java.lang.reflect.Method
+java.lang.reflect.Proxy
+java.beans.beancontext.BeanContextSupport

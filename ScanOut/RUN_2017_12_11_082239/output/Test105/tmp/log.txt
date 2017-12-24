@@ -1,0 +1,83 @@
+.....E.......thread -1
+....E.E.....E.thread -1
+.
+Time: 0.853
+There were 4 errors:
+1) test20(RandoopTest0)java.lang.NullPointerException
+	at sun.font.FontDesignMetrics.getDefaultFrc(FontDesignMetrics.java:153)
+	at sun.font.FontDesignMetrics.getMetrics(FontDesignMetrics.java:278)
+	at sun.swing.SwingUtilities2.getFontMetrics(SwingUtilities2.java:1030)
+	at javax.swing.JComponent.getFontMetrics(JComponent.java:1625)
+	at javax.swing.plaf.basic.BasicLabelUI.getPreferredSize(BasicLabelUI.java:227)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1661)
+	at javax.swing.plaf.basic.BasicListUI.updateLayoutState(BasicListUI.java:1363)
+	at javax.swing.plaf.basic.BasicListUI.maybeUpdateLayoutState(BasicListUI.java:1311)
+	at javax.swing.plaf.basic.BasicListUI.getCellBounds(BasicListUI.java:952)
+	at javax.swing.JList.getCellBounds(JList.java:1633)
+	at javax.swing.JList.ensureIndexIsVisible(JList.java:1149)
+	at RandoopTest0.test20(RandoopTest0.java:480)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test9(RandoopTest0)java.lang.NullPointerException
+	at sun.font.FontDesignMetrics.getDefaultFrc(FontDesignMetrics.java:153)
+	at sun.font.FontDesignMetrics.getMetrics(FontDesignMetrics.java:278)
+	at sun.swing.SwingUtilities2.getFontMetrics(SwingUtilities2.java:1030)
+	at javax.swing.JComponent.getFontMetrics(JComponent.java:1625)
+	at javax.swing.plaf.basic.BasicLabelUI.getPreferredSize(BasicLabelUI.java:227)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1661)
+	at javax.swing.plaf.basic.BasicListUI.getBaseline(BasicListUI.java:502)
+	at javax.swing.JComponent.getBaseline(JComponent.java:2561)
+	at RandoopTest0.test9(RandoopTest0.java:212)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test8(RandoopTest0)java.lang.NullPointerException
+	at sun.font.FontDesignMetrics.getDefaultFrc(FontDesignMetrics.java:153)
+	at sun.font.FontDesignMetrics.getMetrics(FontDesignMetrics.java:278)
+	at sun.swing.SwingUtilities2.getFontMetrics(SwingUtilities2.java:1030)
+	at javax.swing.JComponent.getFontMetrics(JComponent.java:1625)
+	at javax.swing.plaf.basic.BasicLabelUI.getPreferredSize(BasicLabelUI.java:227)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1661)
+	at javax.swing.JList.updateFixedCellSize(JList.java:591)
+	at javax.swing.JList.setPrototypeCellValue(JList.java:657)
+	at RandoopTest0.test8(RandoopTest0.java:198)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+4) test3(RandoopTest0)java.lang.NullPointerException
+	at sun.font.FontDesignMetrics.getDefaultFrc(FontDesignMetrics.java:153)
+	at sun.font.FontDesignMetrics.getMetrics(FontDesignMetrics.java:278)
+	at sun.swing.SwingUtilities2.getFontMetrics(SwingUtilities2.java:1030)
+	at javax.swing.JComponent.getFontMetrics(JComponent.java:1625)
+	at javax.swing.plaf.basic.BasicLabelUI.getPreferredSize(BasicLabelUI.java:227)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1661)
+	at javax.swing.plaf.basic.BasicListUI.updateLayoutState(BasicListUI.java:1363)
+	at javax.swing.plaf.basic.BasicListUI.maybeUpdateLayoutState(BasicListUI.java:1311)
+	at javax.swing.plaf.basic.BasicListUI$Handler.valueChanged(BasicListUI.java:2623)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:184)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:164)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:211)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:405)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:415)
+	at javax.swing.DefaultListSelectionModel.setSelectionInterval(DefaultListSelectionModel.java:459)
+	at javax.swing.JList.setSelectionInterval(JList.java:2067)
+	at RandoopTest0.test3(RandoopTest0.java:74)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 24,  Failures: 0,  Errors: 4
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 27978
+Exiting analysis

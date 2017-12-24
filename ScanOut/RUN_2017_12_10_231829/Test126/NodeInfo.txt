@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	24825
+NH Depth:	39
+NH Density:	32
+Classes	: [java.lang.reflect.Constructor, java.lang.SecurityManager, java.security.AccessController, sun.util.LocaleServiceProviderPool, java.lang.StringBuilder, javax.swing.text.AsyncBoxView, java.util.HashMap, sun.font.AttributeValues, java.awt.Component, java.util.regex.Pattern, sun.security.provider.PolicyFile, java.lang.Class, java.security.SecureClassLoader, sun.font.EAttribute, java.security.Permissions, java.net.URLClassLoader, java.security.Policy, java.lang.String, java.awt.Font, java.lang.ClassLoader, javax.swing.text.LayoutQueue, java.net.SocketPermission, java.security.AccessControlContext, sun.font.FontDesignMetrics, sun.awt.AppContext, sun.reflect.Reflection, java.text.BreakIterator, sun.net.util.IPAddressUtil, java.security.ProtectionDomain, java.util.logging.Logger, java.lang.ConditionalSpecialCasing, sun.font.FontFamily]

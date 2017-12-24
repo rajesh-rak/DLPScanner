@@ -1,0 +1,91 @@
+...F............F................
+Time: 0.165
+There were 2 failures:
+1) test29(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test29(RandoopTest0.java:433)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test17(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test17(RandoopTest0.java:265)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 31,  Failures: 2,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 22556
+Exiting analysis
+(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Throwable: aa
+	at RandoopTest0.test30(RandoopTest0.java:443)
+	... 16 more
+
+Dec 11, 2017 2:36:51 PM RandoopTest0 test28
+WARNING: "IOP00710404: (INTERNAL) Unable to start server process"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 404  completed: No
+	at com.sun.corba.se.impl.logging.ActivationSystemException.unableToStartProcess(ActivationSystemException.java:179)
+	at com.sun.corba.se.impl.logging.ActivationSystemException.unableToStartProcess(ActivationSystemException.java:197)
+	at RandoopTest0.test28(RandoopTest0.java:409)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Throwable: aa
+	at RandoopTest0.test28(RandoopTest0.java:408)
+	... 16 more
+
+Dec 11, 2017 2:36:51 PM RandoopTest0 test28
+WARNING: "IOP00910402: (INITIALIZE) Cannot add initial naming"
+org.omg.CORBA.INITIALIZE:   vmcid: SUN  minor code: 402  completed: No
+	at com.sun.corba.se.impl.logging.ActivationSystemException.cannotAddInitialNaming(ActivationSystemException.java:91)
+	at com.sun.corba.se.impl.logging.ActivationSystemException.cannotAddInitialNaming(ActivationSystemException.java:113)
+	at RandoopTest0.test28(RandoopTest0.java:410)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:36:51 PM RandoopTest0 test18
+INFO: ff
+null: 4 

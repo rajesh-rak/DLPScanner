@@ -1,0 +1,1007 @@
+......E.................
+Time: 0.151
+There was 1 error:
+1) test18(RandoopTest0)java.io.FileNotFoundException: hi! (Is a directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:110)
+	at java.io.PrintStream.<init>(PrintStream.java:208)
+	at RandoopTest0.test18(RandoopTest0.java:777)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 23,  Failures: 0,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 21100
+Exiting analysis
+work.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test20(RandoopTest0.java:875)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test20
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test20(RandoopTest0.java:880)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test20(RandoopTest0.java:879)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test20
+WARNING: ORBUTIL.setExceptionCalledNullArgs
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 223  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:445)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:463)
+	at RandoopTest0.test20(RandoopTest0.java:881)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test20(RandoopTest0.java:880)
+	... 16 more
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test20(RandoopTest0.java:879)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test20
+WARNING: ORBUTIL.typecodeNotSupported
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 257  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.typecodeNotSupported(ORBUtilSystemException.java:5192)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.typecodeNotSupported(ORBUtilSystemException.java:5214)
+	at RandoopTest0.test20(RandoopTest0.java:882)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test19
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test19(RandoopTest0.java:807)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test19(RandoopTest0.java:806)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test19
+WARNING: ORBUTIL.noClientScClass
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 204  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.noClientScClass(ORBUtilSystemException.java:3759)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.noClientScClass(ORBUtilSystemException.java:3781)
+	at RandoopTest0.test19(RandoopTest0.java:808)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test19
+WARNING: ORBUTIL.badHexDigit
+org.omg.CORBA.DATA_CONVERSION:   vmcid: SUN  minor code: 205  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badHexDigit(ORBUtilSystemException.java:2805)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badHexDigit(ORBUtilSystemException.java:2827)
+	at RandoopTest0.test19(RandoopTest0.java:809)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test19
+WARNING: ORBUTIL.badReservedLength
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 235  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badReservedLength(ORBUtilSystemException.java:7659)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badReservedLength(ORBUtilSystemException.java:7677)
+	at RandoopTest0.test19(RandoopTest0.java:810)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.DATA_CONVERSION:   vmcid: SUN  minor code: 205  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badHexDigit(ORBUtilSystemException.java:2805)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badHexDigit(ORBUtilSystemException.java:2827)
+	at RandoopTest0.test19(RandoopTest0.java:809)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test17
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test17(RandoopTest0.java:740)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test17(RandoopTest0.java:739)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test17
+WARNING: ORBUTIL.giopVersionError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 221  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.giopVersionError(ORBUtilSystemException.java:4179)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.giopVersionError(ORBUtilSystemException.java:4201)
+	at RandoopTest0.test17(RandoopTest0.java:741)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test17
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test17(RandoopTest0.java:745)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test17(RandoopTest0.java:744)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test17
+WARNING: ORBUTIL.giopVersionError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 221  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.giopVersionError(ORBUtilSystemException.java:4179)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.giopVersionError(ORBUtilSystemException.java:4201)
+	at RandoopTest0.test17(RandoopTest0.java:746)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test17
+WARNING: ORBUTIL.unknownCodeset
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 216  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.unknownCodeset(ORBUtilSystemException.java:7147)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.unknownCodeset(ORBUtilSystemException.java:7170)
+	at RandoopTest0.test17(RandoopTest0.java:747)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test16
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test16(RandoopTest0.java:618)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test16(RandoopTest0.java:617)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test16
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test16(RandoopTest0.java:622)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test16(RandoopTest0.java:621)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test16
+WARNING: ORBUTIL.setExceptionCalledNullArgs
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 223  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:445)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:463)
+	at RandoopTest0.test16(RandoopTest0.java:623)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test16(RandoopTest0.java:622)
+	... 16 more
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test16(RandoopTest0.java:621)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test16
+WARNING: ORBUTIL.badHelperReadMethod
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 287  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badHelperReadMethod(ORBUtilSystemException.java:5956)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badHelperReadMethod(ORBUtilSystemException.java:5975)
+	at RandoopTest0.test16(RandoopTest0.java:642)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 238  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setDelegateRequiresStub(ORBUtilSystemException.java:871)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setDelegateRequiresStub(ORBUtilSystemException.java:889)
+	at RandoopTest0.test16(RandoopTest0.java:641)
+	... 16 more
+Caused by: org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.errorInSettingDynamicStubFactoryFactory(ORBUtilSystemException.java:1879)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.errorInSettingDynamicStubFactoryFactory(ORBUtilSystemException.java:1898)
+	at RandoopTest0.test16(RandoopTest0.java:640)
+	... 16 more
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test16(RandoopTest0.java:628)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test16
+WARNING: ORBUTIL.invalidCodeSetString
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 270  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.invalidCodeSetString(ORBUtilSystemException.java:5502)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.invalidCodeSetString(ORBUtilSystemException.java:5525)
+	at RandoopTest0.test16(RandoopTest0.java:650)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test15
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test15(RandoopTest0.java:539)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test15(RandoopTest0.java:538)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test15
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test15(RandoopTest0.java:543)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test15(RandoopTest0.java:542)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test15
+WARNING: ORBUTIL.setExceptionCalledNullArgs
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 223  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:445)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:463)
+	at RandoopTest0.test15(RandoopTest0.java:544)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test15(RandoopTest0.java:543)
+	... 16 more
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test15(RandoopTest0.java:542)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test15
+WARNING: ORBUTIL.noPoa
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 264  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.noPoa(ORBUtilSystemException.java:5332)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.noPoa(ORBUtilSystemException.java:5350)
+	at RandoopTest0.test15(RandoopTest0.java:546)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.NO_IMPLEMENT:   vmcid: SUN  minor code: 203  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.getinterfaceNotImplemented(ORBUtilSystemException.java:8433)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.getinterfaceNotImplemented(ORBUtilSystemException.java:8455)
+	at RandoopTest0.test15(RandoopTest0.java:545)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test14
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test14(RandoopTest0.java:452)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test14(RandoopTest0.java:451)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test14
+WARNING: ORBUTIL.giopVersionError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 221  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.giopVersionError(ORBUtilSystemException.java:4179)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.giopVersionError(ORBUtilSystemException.java:4201)
+	at RandoopTest0.test14(RandoopTest0.java:453)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test14
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test14(RandoopTest0.java:459)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test14(RandoopTest0.java:458)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test14
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test14(RandoopTest0.java:463)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test14(RandoopTest0.java:462)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test14
+WARNING: ORBUTIL.setExceptionCalledNullArgs
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 223  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:445)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:463)
+	at RandoopTest0.test14(RandoopTest0.java:464)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test14(RandoopTest0.java:463)
+	... 16 more
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test14(RandoopTest0.java:462)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test14
+WARNING: ORBUTIL.socketFactoryAndContactInfoListAtSameTime
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 221  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.socketFactoryAndContactInfoListAtSameTime(ORBUtilSystemException.java:1702)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.socketFactoryAndContactInfoListAtSameTime(ORBUtilSystemException.java:1720)
+	at RandoopTest0.test14(RandoopTest0.java:465)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 223  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:445)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:463)
+	at RandoopTest0.test14(RandoopTest0.java:464)
+	... 16 more
+Caused by: org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test14(RandoopTest0.java:463)
+	... 16 more
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test14(RandoopTest0.java:462)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test14
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test14(RandoopTest0.java:469)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test14(RandoopTest0.java:468)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test12
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test12(RandoopTest0.java:237)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test12(RandoopTest0.java:236)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test12
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test12(RandoopTest0.java:241)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test12(RandoopTest0.java:240)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test12
+WARNING: ORBUTIL.setExceptionCalledNullArgs
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 223  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:445)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:463)
+	at RandoopTest0.test12(RandoopTest0.java:242)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test12(RandoopTest0.java:241)
+	... 16 more
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test12(RandoopTest0.java:240)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test12
+WARNING: ORBUTIL.couldNotCreateArray
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 214  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1496)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.couldNotCreateArray(ORBUtilSystemException.java:1517)
+	at RandoopTest0.test12(RandoopTest0.java:295)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 227  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.errorInSettingDynamicStubFactoryFactory(ORBUtilSystemException.java:1879)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.errorInSettingDynamicStubFactoryFactory(ORBUtilSystemException.java:1898)
+	at RandoopTest0.test12(RandoopTest0.java:258)
+	... 16 more
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test12(RandoopTest0.java:246)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test11
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test11(RandoopTest0.java:201)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test11(RandoopTest0.java:200)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test11
+WARNING: ORBUTIL.setExceptionCalledBadType
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test11(RandoopTest0.java:205)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test11(RandoopTest0.java:204)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test11
+WARNING: ORBUTIL.setExceptionCalledNullArgs
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 223  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:445)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledNullArgs(ORBUtilSystemException.java:463)
+	at RandoopTest0.test11(RandoopTest0.java:206)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 224  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:473)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.setExceptionCalledBadType(ORBUtilSystemException.java:491)
+	at RandoopTest0.test11(RandoopTest0.java:205)
+	... 16 more
+Caused by: java.lang.Exception: hi!
+	at RandoopTest0.test11(RandoopTest0.java:204)
+	... 16 more
+
+Dec 11, 2017 2:46:56 PM RandoopTest0 test11
+WARNING: ORBUTIL.writeLocalObject
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 225  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.writeLocalObject(ORBUtilSystemException.java:7377)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.writeLocalObject(ORBUtilSystemException.java:7399)
+	at RandoopTest0.test11(RandoopTest0.java:207)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+

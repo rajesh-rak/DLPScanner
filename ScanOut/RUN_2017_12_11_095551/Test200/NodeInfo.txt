@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	47104
+NH Depth:	24
+NH Density:	21
+Classes	: [java.security.Permissions, java.lang.SecurityManager, sun.font.FontManager, java.util.Hashtable, java.security.AccessController, java.security.Policy, sun.util.LocaleServiceProviderPool, java.lang.String, java.lang.ClassLoader, java.security.AccessControlContext, sun.security.provider.JavaKeyStore, com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl, java.io.ObjectInputStream, java.text.BreakIterator, java.security.ProtectionDomain, java.util.logging.Logger, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.JceKeyStore]

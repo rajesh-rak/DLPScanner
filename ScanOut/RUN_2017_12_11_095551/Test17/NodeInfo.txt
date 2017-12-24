@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	1997
+NH Depth:	13
+NH Density:	6
+Classes	: [com.sun.jmx.snmp.daemon.SnmpAdaptorServer, java.net.DatagramSocket, java.net.DatagramPacket, com.sun.jndi.dns.DnsClient, com.sun.jmx.snmp.daemon.SnmpRequestHandler, sun.security.krb5.internal.UDPClient]

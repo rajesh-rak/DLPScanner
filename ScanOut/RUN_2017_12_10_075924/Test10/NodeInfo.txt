@@ -1,0 +1,5 @@
+File:		1.4.2.10.NewLst
+Line No:	93603
+NH Depth:	4
+NH Density:	2
+Classes	: [java.lang.StringBuffer, java.lang.FloatingDecimal]

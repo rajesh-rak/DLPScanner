@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	9238
+NH Depth:	22
+NH Density:	18
+Classes	: [javax.naming.spi.DirectoryManager, java.util.Properties, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, sun.misc.VM, javax.xml.parsers.DocumentBuilderFactory, java.lang.System, java.lang.ClassLoader, java.security.AccessControlContext, com.sun.jndi.cosnaming.CNCtx, javax.naming.spi.NamingManager, java.util.XMLUtils, java.security.ProtectionDomain, com.sun.naming.internal.ResourceManager, com.sun.jndi.cosnaming.ExceptionMapper, javax.xml.parsers.FactoryFinder]

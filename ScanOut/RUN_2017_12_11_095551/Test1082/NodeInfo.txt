@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	131881
+NH Depth:	25
+NH Density:	22
+Classes	: [java.util.jar.JavaUtilJarAccessImpl, sun.security.pkcs.PKCS9Attributes, java.util.jar.JarVerifier, java.net.InetAddress, sun.security.util.SignatureFileVerifier, java.lang.SecurityManager, java.util.Hashtable, java.lang.String, com.sun.crypto.provider.SunJCE_z, java.net.SocketPermission, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.util.regex.Pattern, sun.net.util.IPAddressUtil, javax.crypto.SunJCE_h, sun.security.pkcs.PKCS7, sun.security.pkcs.SigningCertificateInfo, sun.security.x509.IPAddressName, java.lang.ConditionalSpecialCasing, java.util.zip.ZipFile, java.util.jar.JarFile, com.sun.crypto.provider.JceKeyStore]

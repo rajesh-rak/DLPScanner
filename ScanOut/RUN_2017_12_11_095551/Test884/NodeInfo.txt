@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	74126
+NH Depth:	24
+NH Density:	30
+Classes	: [sun.swing.plaf.synth.SynthFileChooserUI, sun.awt.X11.XEmbedHelper, java.util.Currency, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, javax.naming.ldap.ControlFactory, sun.awt.X11.XEmbedServerTester, sun.awt.image.ImageFetcher, sun.security.util.Debug, sun.awt.X11.XToolkit, java.security.Policy, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, javax.swing.plaf.basic.BasicDirectoryModel, javax.swing.JFileChooser, java.security.ProtectionDomain, javax.swing.filechooser.FileSystemView, java.lang.Exception, java.io.File, java.lang.ThreadGroup]

@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	31391
+NH Depth:	25
+NH Density:	20
+Classes	: [com.sun.org.apache.xalan.internal.xsltc.trax.SmartTransformerFactoryImpl, javax.naming.spi.DirectoryManager, java.util.Properties, java.lang.SecurityManager, java.util.Hashtable, java.net.URI, java.security.Policy, java.security.AccessController, sun.misc.VM, javax.xml.parsers.DocumentBuilderFactory, java.lang.System, com.sun.org.apache.xalan.internal.utils.ObjectFactory, java.lang.ClassLoader, java.security.AccessControlContext, java.util.XMLUtils, java.net.URL, java.security.ProtectionDomain, com.sun.naming.internal.ResourceManager, com.sun.jndi.ldap.Obj, javax.xml.parsers.FactoryFinder]

@@ -1,0 +1,83 @@
+..thread -1
+......thread -1
+...thread -1
+...F...........
+Time: 0.082
+There was 1 failure:
+1) test12(RandoopTest0)junit.framework.AssertionFailedError: 'ProtectionDomain  (file:/Users/rajesh/code/DLPScanner/tmp/tmpclasses/ <no signer certificates>)
+ sun.misc.Launcher$AppClassLoader@40914272
+ <no principals>
+ java.security.Permissions@771f0efa (
+ ("java.net.SocketPermission" "localhost:1099" "listen,resolve")
+ ("java.net.SocketPermission" "localhost:0" "listen,resolve")
+ ("java.io.FilePermission" "/Users/rajesh/code/DLPScanner/tmp/tmpclasses/-" "read")
+ ("java.util.PropertyPermission" "line.separator" "read")
+ ("java.util.PropertyPermission" "java.vm.version" "read")
+ ("java.util.PropertyPermission" "java.vm.specification.version" "read")
+ ("java.util.PropertyPermission" "java.vm.specification.vendor" "read")
+ ("java.util.PropertyPermission" "java.vendor.url" "read")
+ ("java.util.PropertyPermission" "java.vm.name" "read")
+ ("java.util.PropertyPermission" "os.name" "read")
+ ("java.util.PropertyPermission" "java.vm.vendor" "read")
+ ("java.util.PropertyPermission" "path.separator" "read")
+ ("java.util.PropertyPermission" "java.specification.name" "read")
+ ("java.util.PropertyPermission" "os.version" "read")
+ ("java.util.PropertyPermission" "os.arch" "read")
+ ("java.util.PropertyPermission" "java.class.version" "read")
+ ("java.util.PropertyPermission" "java.version" "read")
+ ("java.util.PropertyPermission" "file.separator" "read")
+ ("java.util.PropertyPermission" "java.vendor" "read")
+ ("java.util.PropertyPermission" "java.vm.specification.name" "read")
+ ("java.util.PropertyPermission" "java.specification.version" "read")
+ ("java.util.PropertyPermission" "java.specification.vendor" "read")
+ ("java.lang.RuntimePermission" "stopThread")
+ ("java.lang.RuntimePermission" "exitVM")
+)
+
+' != 'ProtectionDomain  (file:/Users/rajesh/code/DLPScanner/lib/randoop.jar <no signer certificates>)
+ sun.misc.Launcher$AppClassLoader@338bd37a
+ <no principals>
+ java.security.Permissions@51b69500 (
+ ("java.net.SocketPermission" "localhost:1099" "listen,resolve")
+ ("java.net.SocketPermission" "localhost:0" "listen,resolve")
+ ("java.io.FilePermission" "/Users/rajesh/code/DLPScanner/lib/randoop.jar" "read")
+ ("java.util.PropertyPermission" "line.separator" "read")
+ ("java.util.PropertyPermission" "java.vm.version" "read")
+ ("java.util.PropertyPermission" "java.vm.specification.version" "read")
+ ("java.util.PropertyPermission" "java.vm.specification.vendor" "read")
+ ("java.util.PropertyPermission" "java.vendor.url" "read")
+ ("java.util.PropertyPermission" "java.vm.name" "read")
+ ("java.util.PropertyPermission" "os.name" "read")
+ ("java.util.PropertyPermission" "java.vm.vendor" "read")
+ ("java.util.PropertyPermission" "path.separator" "read")
+ ("java.util.PropertyPermission" "java.specification.name" "read")
+ ("java.util.PropertyPermission" "os.version" "read")
+ ("java.util.PropertyPermission" "os.arch" "read")
+ ("java.util.PropertyPermission" "java.class.version" "read")
+ ("java.util.PropertyPermission" "java.version" "read")
+ ("java.util.PropertyPermission" "file.separator" "read")
+ ("java.util.PropertyPermission" "java.vendor" "read")
+ ("java.util.PropertyPermission" "java.vm.specification.name" "read")
+ ("java.util.PropertyPermission" "java.specification.version" "read")
+ ("java.util.PropertyPermission" "java.specification.vendor" "read")
+ ("java.lang.RuntimePermission" "stopThread")
+ ("java.lang.RuntimePermission" "exitVM")
+)
+
+'
+	at RandoopTest0.test12(RandoopTest0.java:212)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 25,  Failures: 1,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 25854
+Exiting analysis

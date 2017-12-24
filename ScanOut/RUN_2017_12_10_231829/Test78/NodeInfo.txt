@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	11911
+NH Depth:	25
+NH Density:	32
+Classes	: [java.util.Properties, javax.naming.spi.DirectoryManager, sun.reflect.annotation.AnnotationParser, java.lang.SecurityManager, java.lang.Runtime, java.lang.reflect.Method, java.security.AccessController, java.lang.StringBuilder, java.lang.System, com.sun.xml.internal.ws.server.EndpointFactory, sun.misc.ProxyGenerator, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, javax.naming.spi.NamingManager, com.sun.security.sasl.digest.DigestMD5Base, javax.management.MBeanOperationInfo, com.sun.jndi.rmi.registry.RegistryContext, com.sun.jmx.mbeanserver.Introspector, com.sun.xml.internal.ws.handler.HandlerChainsModel, com.sun.naming.internal.ResourceManager, java.lang.StringCoding, java.io.ByteArrayOutputStream, com.sun.security.sasl.digest.DigestMD5Server, javax.xml.transform.TransformerFactory, java.util.Hashtable, javax.xml.transform.FactoryFinder, java.lang.String, java.security.Policy, java.security.AccessControlContext, java.lang.reflect.Proxy, java.util.XMLUtils, java.security.ProtectionDomain, com.sun.jndi.ldap.Obj]

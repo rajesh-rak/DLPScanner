@@ -1,0 +1,15 @@
+java.util.Properties
+java.util.Hashtable
+sun.misc.VM
+java.lang.System
+java.lang.ClassLoader
+sun.rmi.transport.proxy.RMIMasterSocketFactory
+java.awt.EventQueue
+javax.swing.plaf.basic.BasicDirectoryModel
+com.sun.jndi.ldap.LdapClient
+com.sun.jndi.ldap.LdapCtx
+java.util.Vector
+java.awt.Toolkit
+javax.swing.SwingUtilities
+javax.naming.ldap.ControlFactory
+com.sun.naming.internal.ResourceManager

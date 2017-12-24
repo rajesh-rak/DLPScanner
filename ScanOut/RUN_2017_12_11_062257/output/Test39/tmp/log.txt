@@ -1,0 +1,29 @@
+.E........................thread -1
+.......
+Time: 0.318
+There was 1 error:
+1) test32(RandoopTest0)java.lang.NullPointerException
+	at java.awt.Window.initGC(Window.java:467)
+	at java.awt.Window.init(Window.java:487)
+	at java.awt.Window.<init>(Window.java:536)
+	at java.awt.Frame.<init>(Frame.java:420)
+	at java.awt.Frame.<init>(Frame.java:385)
+	at javax.swing.SwingUtilities$SharedOwnerFrame.<init>(SwingUtilities.java:1757)
+	at javax.swing.SwingUtilities.getSharedOwnerFrame(SwingUtilities.java:1832)
+	at javax.swing.JOptionPane.getRootFrame(JOptionPane.java:1697)
+	at RandoopTest0.test32(RandoopTest0.java:463)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 32,  Failures: 0,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 21616
+Exiting analysis

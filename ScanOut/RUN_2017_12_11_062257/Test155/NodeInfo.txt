@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	99827
+NH Depth:	22
+NH Density:	27
+Classes	: [java.util.Properties, javax.naming.spi.DirectoryManager, java.lang.Runtime, java.lang.SecurityManager, java.security.AccessController, javax.xml.parsers.DocumentBuilderFactory, com.sun.crypto.provider.SunJCE_z, java.lang.System, sun.misc.ProxyGenerator, com.sun.crypto.provider.RC2Parameters, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, java.lang.StringCoding, javax.xml.parsers.FactoryFinder, java.io.ByteArrayOutputStream, sun.misc.HexDumpEncoder, java.util.Hashtable, java.security.Policy, sun.misc.CharacterEncoder, java.security.AccessControlContext, java.lang.reflect.Proxy, com.sun.corba.se.impl.resolver.FileResolverImpl, java.util.XMLUtils, com.sun.corba.se.impl.orb.DataCollectorBase, java.io.ObjectInputStream, java.security.ProtectionDomain, com.sun.jndi.ldap.Obj]

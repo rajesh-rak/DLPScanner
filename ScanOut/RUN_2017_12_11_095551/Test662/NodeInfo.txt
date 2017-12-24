@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	1767
+NH Depth:	24
+NH Density:	26
+Classes	: [java.util.Currency, java.lang.SecurityManager, java.lang.Thread, java.lang.reflect.Method, java.security.AccessController, java.io.PrintStream, java.lang.System, java.io.ObjectStreamClass, java.io.ObjectOutputStream, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, java.security.SecureClassLoader, sun.security.util.Debug, java.net.InetAddress, java.net.URLClassLoader, java.net.SocketPermission, java.security.AccessControlContext, java.net.Inet6Address, sun.reflect.Reflection, java.lang.Exception, java.net.NetworkInterface, java.beans.beancontext.BeanContextSupport]

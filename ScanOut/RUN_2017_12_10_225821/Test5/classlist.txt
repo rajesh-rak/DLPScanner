@@ -1,0 +1,5 @@
+java.awt.EventQueue
+sun.awt.PostEventQueue
+java.awt.SentEvent
+sun.awt.SunToolkit
+java.awt.Dialog

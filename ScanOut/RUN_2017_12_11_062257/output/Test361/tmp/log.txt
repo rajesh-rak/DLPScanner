@@ -1,0 +1,20 @@
+..................................F
+Time: 0.117
+There was 1 failure:
+1) test1(RandoopTest0)junit.framework.AssertionFailedError: Expected: <null> but was: Font family: hi! plain=null bold=null italic=null bolditalic=null
+	at RandoopTest0.test1(RandoopTest0.java:16)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 34,  Failures: 1,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 23408
+Exiting analysis

@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	12788
+NH Depth:	26
+NH Density:	32
+Classes	: [java.util.Properties, javax.naming.spi.DirectoryManager, com.sun.security.sasl.util.AbstractSaslImpl, java.lang.Runtime, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.lang.reflect.Method, java.security.AccessController, com.sun.xml.internal.ws.api.server.WSEndpoint, java.lang.System, com.sun.xml.internal.ws.server.EndpointFactory, sun.misc.ProxyGenerator, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, javax.naming.spi.NamingManager, com.sun.security.sasl.gsskerb.GssKrb5Server, com.sun.xml.internal.ws.handler.HandlerChainsModel, com.sun.naming.internal.ResourceManager, java.lang.StringCoding, com.sun.jndi.cosnaming.ExceptionMapper, java.io.ByteArrayOutputStream, javax.xml.transform.TransformerFactory, java.util.Hashtable, javax.xml.transform.FactoryFinder, java.security.Policy, java.security.AccessControlContext, java.lang.reflect.Proxy, com.sun.jndi.cosnaming.CNCtx, java.util.XMLUtils, java.security.ProtectionDomain, com.sun.xml.internal.ws.model.RuntimeModeler, java.lang.reflect.AccessibleObject, com.sun.xml.internal.txw2.ContainerElement]

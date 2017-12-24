@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	1127
+NH Depth:	21
+NH Density:	10
+Classes	: [java.util.TimeZone, java.awt.Component, java.util.Properties, java.util.logging.Logger, java.util.Hashtable, sun.util.LocaleServiceProviderPool, java.util.ResourceBundle, java.util.Date, sun.util.TimeZoneNameUtility, sun.net.www.MimeTable]

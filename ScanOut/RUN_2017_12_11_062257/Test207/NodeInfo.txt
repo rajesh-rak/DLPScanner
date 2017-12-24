@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	119173
+NH Depth:	29
+NH Density:	21
+Classes	: [java.awt.KeyboardFocusManager, java.awt.Window, sun.reflect.annotation.AnnotationParser, sun.rmi.transport.tcp.TCPEndpoint, java.beans.PropertyChangeSupport, java.util.Hashtable, java.io.ObjectOutput, java.lang.reflect.Method, com.sun.crypto.provider.SunJCE_z, java.lang.reflect.Proxy, java.io.ObjectStreamClass, java.awt.Component, java.io.ObjectInputStream, java.io.ObjectOutputStream, sun.rmi.transport.tcp.TCPTransport, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.awt.Dialog, java.awt.Container, com.sun.crypto.provider.JceKeyStore, java.lang.Enum]

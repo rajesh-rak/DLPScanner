@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	11526
+NH Depth:	39
+NH Density:	37
+Classes	: [java.util.Currency, sun.util.calendar.CalendarSystem, java.security.CodeSigner, java.lang.SecurityManager, java.lang.Thread, java.lang.StringBuilder, java.security.AccessController, java.io.PrintStream, java.lang.System, java.util.HashMap, java.security.CodeSource, sun.util.calendar.ZoneInfo, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, java.security.Timestamp, java.security.SecureClassLoader, sun.util.calendar.BaseCalendar, sun.security.util.Debug, java.net.InetAddress, java.util.SimpleTimeZone, java.net.URLClassLoader, java.lang.String, java.security.Policy, java.util.Date, java.net.SocketPermission, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, java.net.Inet6Address, java.security.ProtectionDomain, java.lang.Exception, java.math.BigDecimal, sun.util.calendar.AbstractCalendar, java.net.NetworkInterface]

@@ -1,0 +1,25 @@
+DLP Execution Summary
+---------------------
+Total Test(s) executed		: 53
+Total Dead-Lock(s) detected	: 4
+_________________________________________
+Dead Lock - Positives:
+----------------------
+Test20_x
+Test35_x
+Test5_x
+Test9_x
+----------------------
+Hung Programs:
+----------------------
+Test20_x
+Test35_x
+Test5_x
+Test9_x
+----------------------
+Hung Test Generations:
+----------------------
+Test20_x
+Test35_x
+Test5_x
+Test9_x

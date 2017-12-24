@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	48907
+NH Depth:	26
+NH Density:	18
+Classes	: [java.util.Properties, sun.util.calendar.CalendarSystem, java.lang.SecurityManager, javax.xml.transform.TransformerFactory, java.util.Hashtable, javax.xml.transform.FactoryFinder, java.security.AccessController, java.security.Policy, java.util.Date, java.security.AccessControlContext, sun.util.calendar.LocalGregorianCalendar, sun.security.provider.JavaKeyStore, java.util.XMLUtils, java.sql.Date, java.security.ProtectionDomain, java.lang.Class, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore]

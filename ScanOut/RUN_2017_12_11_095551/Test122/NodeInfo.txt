@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	27687
+NH Depth:	23
+NH Density:	23
+Classes	: [java.util.Properties, sun.reflect.annotation.AnnotationParser, javax.xml.transform.TransformerFactory, java.lang.SecurityManager, java.lang.Runtime, com.sun.security.sasl.util.AbstractSaslImpl, javax.xml.transform.FactoryFinder, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, java.lang.System, sun.misc.ProxyGenerator, java.security.AccessControlContext, java.lang.reflect.Proxy, java.util.XMLUtils, com.sun.security.sasl.digest.DigestMD5Base, com.sun.jndi.ldap.LdapCtx, java.security.ProtectionDomain, com.sun.xml.internal.ws.handler.HandlerChainsModel, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, java.lang.StringCoding, java.io.ByteArrayOutputStream]

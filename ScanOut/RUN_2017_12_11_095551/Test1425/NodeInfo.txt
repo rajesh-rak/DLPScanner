@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	26545
+NH Depth:	42
+NH Density:	17
+Classes	: [sun.awt.X11.XToolkit, sun.jkernel.DownloadManager, sun.jkernel.Bundle, sun.util.LocaleServiceProviderPool, java.lang.String, sun.misc.URLClassPath, java.net.URLStreamHandler, java.lang.ClassLoader, sun.util.CoreResourceBundleControl, sun.misc.Launcher, java.text.BreakIterator, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.util.logging.Logger, java.lang.Class, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle]

@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	56469
+NH Depth:	27
+NH Density:	22
+Classes	: [sun.font.Type1Font, java.util.TimeZone, java.util.Properties, java.util.Calendar, javax.xml.transform.TransformerFactory, sun.font.FontManager, java.util.Hashtable, javax.xml.transform.FactoryFinder, java.util.logging.LogManager, sun.misc.VM, sun.util.LocaleServiceProviderPool, javax.xml.parsers.DocumentBuilderFactory, java.util.Date, java.lang.System, java.lang.ClassLoader, sun.util.TimeZoneNameUtility, java.util.XMLUtils, java.util.logging.Logger, sun.print.PathGraphics, java.util.ResourceBundle, sun.font.CompositeFont, javax.xml.parsers.FactoryFinder]

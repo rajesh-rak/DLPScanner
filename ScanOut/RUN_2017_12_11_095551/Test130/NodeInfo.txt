@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	29814
+NH Depth:	38
+NH Density:	19
+Classes	: [sun.jkernel.Bundle, sun.jkernel.DownloadManager, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, sun.misc.URLClassPath, java.lang.String, sun.util.LocaleServiceProviderPool, java.net.URLStreamHandler, java.lang.ClassLoader, com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl, javax.imageio.ImageReader, java.text.BreakIterator, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.util.logging.Logger, java.lang.Class, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, com.sun.corba.se.impl.naming.cosnaming.TransientNameService]

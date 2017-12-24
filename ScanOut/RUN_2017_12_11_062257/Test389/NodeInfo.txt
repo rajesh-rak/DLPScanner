@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	231867
+NH Depth:	22
+NH Density:	22
+Classes	: [java.lang.SecurityManager, java.util.Hashtable, java.util.logging.LogManager, java.security.AccessController, sun.util.LocaleServiceProviderPool, java.lang.String, java.security.Policy, com.sun.crypto.provider.SunJCE_z, java.net.URLStreamHandler, java.lang.ClassLoader, java.security.AccessControlContext, sun.net.www.MimeLauncher, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.text.BreakIterator, javax.crypto.SunJCE_h, java.util.logging.Logger, java.net.URL, java.security.ProtectionDomain, java.lang.ConditionalSpecialCasing, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore]

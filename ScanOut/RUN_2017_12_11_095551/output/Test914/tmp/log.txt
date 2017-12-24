@@ -1,0 +1,40 @@
+..........E....F...........F......
+Time: 5.191
+There was 1 error:
+1) test22(RandoopTest0)java.lang.IllegalArgumentException: missing provider
+	at sun.security.jca.GetInstance.getService(GetInstance.java:79)
+	at javax.crypto.JceSecurity.getInstance(JceSecurity.java:97)
+	at javax.crypto.KeyAgreement.getInstance(KeyAgreement.java:223)
+	at RandoopTest0.test22(RandoopTest0.java:381)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+There were 2 failures:
+1) test18(RandoopTest0)junit.framework.AssertionFailedError: 'java.security.Permissions@617de0a8 (
+)
+' != 'java.security.Permissions@601f60dd (
+)
+'
+	at RandoopTest0.test18(RandoopTest0.java:320)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test7(RandoopTest0)junit.framework.AssertionFailedError: Expected exception of type java.lang.NoClassDefFoundError
+	at RandoopTest0.test7(RandoopTest0.java:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 31,  Failures: 2,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 24785
+Exiting analysis

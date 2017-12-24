@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	214622
+NH Depth:	38
+NH Density:	23
+Classes	: [java.util.Properties, java.net.InetAddress, java.util.Hashtable, java.lang.String, sun.util.LocaleServiceProviderPool, javax.xml.parsers.DocumentBuilderFactory, com.sun.crypto.provider.SunJCE_z, java.net.URLStreamHandler, com.sun.corba.se.impl.resolver.FileResolverImpl, java.util.XMLUtils, com.sun.corba.se.impl.orb.DataCollectorBase, javax.crypto.SunJCE_b, java.text.BreakIterator, javax.crypto.SunJCE_c, sun.net.util.IPAddressUtil, java.util.regex.Pattern, javax.crypto.SunJCE_h, java.util.logging.Logger, java.net.URL, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder]

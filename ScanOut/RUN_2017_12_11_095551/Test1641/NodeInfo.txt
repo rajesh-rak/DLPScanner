@@ -1,0 +1,5 @@
+File:		zb22
+Line No:	14758
+NH Depth:	39
+NH Density:	16
+Classes	: [sun.rmi.transport.tcp.ConnectionAcceptor, java.security.Permissions, java.net.InetAddress, java.lang.SecurityManager, sun.security.provider.PolicySpiFile, java.lang.Thread, java.security.Policy, java.security.AccessController, java.net.SocketPermission, java.security.AccessControlContext, java.net.Inet6Address, java.security.UnresolvedPermissionCollection, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Class, java.net.NetworkInterface]

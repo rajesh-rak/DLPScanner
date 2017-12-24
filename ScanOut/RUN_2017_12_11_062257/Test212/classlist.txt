@@ -1,0 +1,16 @@
+java.io.ObjectInputStream
+java.security.Permissions
+java.lang.reflect.Constructor
+sun.reflect.Reflection
+java.security.UnresolvedPermission
+java.lang.SecurityManager
+java.security.ProtectionDomain
+javax.management.relation.RelationService
+java.util.Hashtable
+java.lang.Class
+java.security.AccessController
+java.security.Policy
+com.sun.naming.internal.ResourceManager
+com.sun.crypto.provider.JceKeyStore
+java.security.AccessControlContext
+java.lang.reflect.Proxy

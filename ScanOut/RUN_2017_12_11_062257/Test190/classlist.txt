@@ -1,0 +1,16 @@
+java.lang.SecurityManager
+java.util.Hashtable
+java.security.Policy
+java.security.AccessController
+java.lang.System
+javax.management.relation.RelationSupport
+java.security.AccessControlContext
+java.lang.reflect.Proxy
+java.io.ObjectInputStream
+java.security.ProtectionDomain
+javax.management.relation.RelationService
+com.sun.corba.se.impl.activation.ServerManagerImpl
+java.lang.Class
+com.sun.naming.internal.ResourceManager
+com.sun.crypto.provider.JceKeyStore
+sun.rmi.server.Util

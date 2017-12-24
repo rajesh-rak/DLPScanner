@@ -1,0 +1,30 @@
+................F...E.............
+Time: 0.121
+There was 1 error:
+1) test14(RandoopTest0)java.lang.NullPointerException
+	at com.sun.jndi.toolkit.dir.HierMemDirCtx.doList(HierMemDirCtx.java:339)
+	at com.sun.jndi.toolkit.dir.HierMemDirCtx.list(HierMemDirCtx.java:335)
+	at com.sun.jndi.toolkit.dir.HierMemDirCtx.list(HierMemDirCtx.java:330)
+	at RandoopTest0.test14(RandoopTest0.java:201)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+There was 1 failure:
+1) test17(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test17(RandoopTest0.java:234)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 32,  Failures: 1,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 22992
+Exiting analysis

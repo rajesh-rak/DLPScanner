@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	5338
+NH Depth:	18
+NH Density:	25
+Classes	: [com.sun.corba.se.spi.servicecontext.ServiceContexts, com.sun.corba.se.impl.protocol.SharedCDRClientRequestDispatcherImpl, com.sun.corba.se.impl.encoding.BufferManagerFactory, sun.font.FontManager, java.util.Hashtable, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, java.lang.String, sun.util.LocaleServiceProviderPool, java.util.jar.Manifest, com.sun.crypto.provider.SunJCE_z, java.util.logging.Logging, java.util.jar.Attributes, javax.crypto.SunJCE_b, com.sun.corba.se.impl.protocol.CorbaClientRequestDispatcherImpl, java.text.BreakIterator, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, com.sun.crypto.provider.SunJCE_f, java.lang.ConditionalSpecialCasing, java.util.jar.JarFile, com.sun.crypto.provider.JceKeyStore, com.sun.jmx.trace.TraceManager]

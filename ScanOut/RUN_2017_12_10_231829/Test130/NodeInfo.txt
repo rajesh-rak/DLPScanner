@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	26721
+NH Depth:	22
+NH Density:	30
+Classes	: [sun.util.calendar.CalendarSystem, java.util.Properties, javax.naming.spi.DirectoryManager, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.lang.StringBuilder, javax.xml.parsers.DocumentBuilderFactory, java.io.PrintStream, java.lang.SecurityException, javax.naming.spi.NamingManager, java.lang.Throwable, com.sun.jndi.rmi.registry.RegistryContext, java.lang.Class, com.sun.naming.internal.ResourceManager, javax.xml.parsers.FactoryFinder, sun.rmi.server.UnicastServerRef, javax.xml.transform.TransformerFactory, java.util.Hashtable, javax.xml.transform.FactoryFinder, java.security.Policy, java.lang.String, java.util.Date, java.security.AccessControlContext, java.util.XMLUtils, com.sun.org.apache.xml.internal.security.transforms.implementations.TransformXSLT, java.security.ProtectionDomain, java.lang.RuntimeException, java.lang.Exception, com.sun.jndi.ldap.Obj]

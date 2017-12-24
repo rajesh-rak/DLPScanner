@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	119310
+NH Depth:	68
+NH Density:	24
+Classes	: [java.awt.KeyboardFocusManager, java.awt.Window, sun.rmi.transport.tcp.TCPEndpoint, java.awt.GraphicsDevice, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, java.lang.reflect.Field, java.awt.event.InputEvent, java.security.AccessControlContext, java.lang.reflect.Proxy, java.io.ObjectInputStream, java.awt.Component, sun.reflect.Reflection, java.security.ProtectionDomain, java.awt.AWTEvent, sun.rmi.transport.tcp.TCPTransport, java.lang.Class, java.awt.event.MouseWheelEvent, com.sun.naming.internal.ResourceManager, java.awt.Dialog, java.awt.Container, com.sun.crypto.provider.JceKeyStore]

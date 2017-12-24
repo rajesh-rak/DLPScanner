@@ -1,0 +1,9 @@
+java.awt.KeyboardFocusManager
+java.awt.Component
+sun.awt.im.CompositionAreaHandler
+java.awt.Window
+java.awt.LightweightDispatcher
+sun.awt.im.InputMethodContext
+sun.awt.im.InputContext
+javax.swing.JFrame
+java.awt.Container

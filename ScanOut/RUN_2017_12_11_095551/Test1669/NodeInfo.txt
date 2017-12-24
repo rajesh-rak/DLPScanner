@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	4700
+NH Depth:	20
+NH Density:	10
+Classes	: [sun.misc.HexDumpEncoder, com.sun.java.util.jar.pack.BandStructure, java.io.BufferedWriter, com.sun.net.ssl.internal.ssl.ClientHandshaker, com.sun.net.ssl.internal.ssl.Handshaker, java.io.Writer, sun.nio.cs.StreamEncoder, java.io.PrintStream, java.io.OutputStreamWriter, sun.net.www.http.ChunkedOutputStream]

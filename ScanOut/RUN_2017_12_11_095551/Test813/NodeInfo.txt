@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	40785
+NH Depth:	29
+NH Density:	19
+Classes	: [sun.rmi.transport.tcp.TCPChannel, java.awt.KeyboardFocusManager, javax.swing.plaf.basic.BasicComboPopup, sun.reflect.annotation.AnnotationParser, sun.rmi.transport.tcp.TCPEndpoint, java.lang.reflect.Method, java.lang.reflect.Proxy, java.io.ObjectStreamClass, sun.awt.AppContext, java.awt.EventQueue, java.awt.Component, java.io.ObjectOutputStream, javax.management.MBeanOperationInfo, sun.rmi.transport.tcp.TCPTransport, com.sun.xml.internal.ws.handler.HandlerChainsModel, com.sun.jmx.mbeanserver.Introspector, sun.awt.SunToolkit, javax.management.MBeanConstructorInfo, java.beans.beancontext.BeanContextSupport]

@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	8266
+NH Depth:	38
+NH Density:	22
+Classes	: [java.security.Permissions, java.security.MessageDigest, java.net.InetAddress, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, java.net.SocketPermission, java.security.UnresolvedPermissionCollection, java.net.Inet6Address, sun.security.provider.JavaKeyStore, java.io.ObjectInputStream, java.security.Security, java.io.ObjectOutputStream, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Class, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore, java.net.NetworkInterface]

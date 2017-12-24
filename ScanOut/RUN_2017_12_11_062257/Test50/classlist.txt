@@ -1,0 +1,14 @@
+sun.awt.X11.XToolkit
+sun.awt.X11.XWindowPeer
+javax.swing.JEditorPane
+javax.management.relation.RelationSupport
+java.lang.reflect.Proxy
+javax.swing.text.Document
+javax.swing.text.html.HTMLDocument
+javax.swing.text.DefaultStyledDocument
+java.util.Vector
+javax.management.relation.RelationService
+sun.awt.X11.XEmbedCanvasPeer
+sun.rmi.server.Util
+sun.awt.X11.XFramePeer
+sun.awt.X11.XEmbeddingContainer

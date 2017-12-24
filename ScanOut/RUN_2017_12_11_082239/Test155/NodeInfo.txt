@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	2387
+NH Depth:	10
+NH Density:	7
+Classes	: [sun.font.Type1Font, java.awt.GraphicsEnvironment, sun.font.FontManager, sun.java2d.SunGraphicsEnvironment, sun.font.TrueTypeGlyphMapper, sun.font.CompositeFont, sun.font.Type1GlyphMapper]

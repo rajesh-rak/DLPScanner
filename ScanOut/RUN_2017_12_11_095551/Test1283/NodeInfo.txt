@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	59156
+NH Depth:	35
+NH Density:	21
+Classes	: [java.security.Permissions, java.net.InetAddress, java.net.URLClassLoader, java.lang.SecurityManager, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, javax.swing.text.AsyncBoxView, java.net.URLStreamHandler, javax.swing.text.LayoutQueue, java.util.HashMap, java.security.AccessControlContext, java.security.CodeSource, java.io.ObjectStreamClass, sun.awt.AppContext, sun.reflect.Reflection, java.io.ObjectOutputStream, java.net.URL, java.security.ProtectionDomain, java.lang.Class, java.security.SecureClassLoader]

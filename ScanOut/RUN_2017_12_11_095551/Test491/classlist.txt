@@ -1,0 +1,6 @@
+sun.font.FontManager
+sun.java2d.SunGraphicsEnvironment
+sun.font.TrueTypeFont
+sun.font.TrueTypeGlyphMapper
+sun.font.CompositeFont
+sun.font.FileFont

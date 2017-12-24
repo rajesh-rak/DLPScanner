@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	44387
+NH Depth:	35
+NH Density:	20
+Classes	: [java.security.Permissions, java.lang.SecurityManager, java.lang.Runtime, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, javax.swing.text.AsyncBoxView, javax.swing.text.LayoutQueue, java.security.AccessControlContext, java.io.ObjectStreamClass, sun.awt.AppContext, com.sun.corba.se.impl.activation.ServerTableEntry, javax.swing.text.View, sun.reflect.Reflection, java.io.ObjectOutputStream, java.security.ProtectionDomain, com.sun.corba.se.impl.activation.ServerManagerImpl, sun.rmi.server.LoaderHandler, java.lang.Class, java.lang.ProcessBuilder]

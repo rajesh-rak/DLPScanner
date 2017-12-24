@@ -1,0 +1,14 @@
+java.awt.KeyboardFocusManager
+java.awt.Window
+sun.rmi.transport.tcp.TCPEndpoint
+java.net.URLClassLoader
+java.lang.Package
+java.lang.ClassLoader
+java.awt.Component
+com.sun.jndi.ldap.LdapClient
+com.sun.jndi.ldap.LdapCtx
+com.sun.jndi.ldap.Connection
+sun.rmi.transport.tcp.TCPTransport
+java.awt.Dialog
+com.sun.naming.internal.ResourceManager
+javax.naming.ldap.ControlFactory

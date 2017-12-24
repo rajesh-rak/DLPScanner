@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	9866
+NH Depth:	27
+NH Density:	19
+Classes	: [java.security.Permissions, java.security.MessageDigest, java.lang.SecurityManager, java.util.Hashtable, sun.misc.VM, java.security.AccessController, java.security.Policy, com.sun.org.apache.xalan.internal.xsltc.cmdline.Transform, java.lang.System, java.lang.ClassLoader, java.security.AccessControlContext, sun.security.provider.JavaKeyStore, java.security.Security, java.security.ProtectionDomain, javax.xml.parsers.SAXParserFactory, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder]

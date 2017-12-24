@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	83893
+NH Depth:	31
+NH Density:	29
+Classes	: [java.util.Currency, java.util.Properties, java.lang.SecurityManager, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.lang.reflect.Method, java.security.AccessController, javax.xml.parsers.DocumentBuilderFactory, java.lang.System, java.io.ObjectStreamClass, com.sun.jndi.ldap.LdapCtx, java.io.ObjectOutputStream, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder, java.util.Hashtable, java.lang.String, java.security.Policy, java.security.AccessControlContext, java.lang.reflect.Proxy, java.util.XMLUtils, java.io.ObjectInputStream, sun.reflect.Reflection, java.security.ProtectionDomain, java.beans.beancontext.BeanContextSupport]

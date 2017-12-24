@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	62933
+NH Depth:	33
+NH Density:	32
+Classes	: [java.util.Currency, java.lang.SecurityManager, java.lang.reflect.Method, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.lang.System, java.io.ObjectStreamClass, sun.security.provider.JavaKeyStore, java.security.Security, java.io.ObjectOutputStream, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, sun.security.util.Debug, java.security.Permissions, java.security.MessageDigest, java.util.Hashtable, java.security.Policy, java.security.AccessControlContext, sun.reflect.Reflection, java.security.ProtectionDomain, java.lang.Exception, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, java.beans.beancontext.BeanContextSupport]

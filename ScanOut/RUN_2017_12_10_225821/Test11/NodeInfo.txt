@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	375
+NH Depth:	11
+NH Density:	5
+Classes	: [sun.nio.cs.StreamDecoder, java.io.BufferedReader, java.io.InputStreamReader, java.io.Reader, org.jcp.xml.dsig.internal.dom.DOMSignedInfo]

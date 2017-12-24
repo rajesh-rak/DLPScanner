@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	21511
+NH Depth:	34
+NH Density:	39
+Classes	: [com.sun.jndi.ldap.pool.Pool, sun.util.calendar.CalendarSystem, java.util.Properties, java.util.Map, java.lang.SecurityManager, java.lang.Thread, java.lang.reflect.Method, java.security.AccessController, javax.xml.parsers.DocumentBuilderFactory, java.io.PrintStream, com.sun.jndi.ldap.ClientId, sun.security.provider.JavaKeyStore, sun.util.calendar.ZoneInfo, java.security.SecureRandom, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder, sun.util.calendar.BaseCalendar, sun.security.util.Debug, com.sun.jndi.ldap.DigestClientId, java.util.SimpleTimeZone, com.sun.jmx.mbeanserver.StandardMBeanSupport, java.util.Hashtable, java.security.Policy, java.util.Date, sun.security.provider.KeyProtector, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, sun.util.calendar.LocalGregorianCalendar, java.util.XMLUtils, java.security.Provider, sun.reflect.Reflection, java.security.ProtectionDomain, java.util.WeakHashMap, java.lang.Exception, com.sun.jndi.ldap.SimpleClientId]

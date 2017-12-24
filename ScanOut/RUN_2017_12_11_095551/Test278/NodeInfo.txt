@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	75668
+NH Depth:	31
+NH Density:	26
+Classes	: [java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.lang.Thread, java.lang.reflect.Method, java.security.AccessController, java.io.PrintStream, java.lang.Throwable, java.lang.Class, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.util.Formatter, sun.security.krb5.internal.Krb5, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, sun.security.util.Debug, com.sun.jmx.mbeanserver.StandardMBeanSupport, java.util.Hashtable, java.lang.String, java.security.Policy, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, java.io.ObjectInputStream, sun.reflect.Reflection, java.security.ProtectionDomain, java.lang.Exception, sun.security.krb5.KrbException, java.lang.Enum]

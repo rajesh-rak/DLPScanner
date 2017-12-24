@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	9589
+NH Depth:	36
+NH Density:	20
+Classes	: [java.lang.reflect.Constructor, java.security.Permissions, java.security.UnresolvedPermission, java.net.InetAddress, java.lang.SecurityManager, com.sun.naming.internal.FactoryEnumeration, java.security.Policy, java.security.AccessController, javax.management.MBeanServerInvocationHandler, java.security.AccessControlContext, java.net.SocketPermission, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, java.net.Inet6Address, sun.reflect.Reflection, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Class, com.sun.jmx.mbeanserver.MXBeanIntrospector, com.sun.jmx.mbeanserver.MBeanAnalyzer, java.net.NetworkInterface]

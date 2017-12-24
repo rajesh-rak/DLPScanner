@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	24926
+NH Depth:	20
+NH Density:	27
+Classes	: [com.sun.security.sasl.util.AbstractSaslImpl, java.lang.Runtime, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.lang.System, sun.misc.ProxyGenerator, com.sun.security.sasl.digest.DigestMD5Base, java.lang.Throwable, java.lang.Class, sun.security.krb5.internal.Krb5, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, java.lang.StringCoding, java.io.ByteArrayOutputStream, sun.security.util.Debug, java.util.Hashtable, java.security.Policy, java.lang.String, java.security.AccessControlContext, java.lang.reflect.Proxy, java.io.ObjectInputStream, java.security.ProtectionDomain, java.lang.Exception, sun.security.krb5.KrbException]

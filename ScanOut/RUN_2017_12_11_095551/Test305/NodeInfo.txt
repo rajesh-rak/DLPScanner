@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	86117
+NH Depth:	31
+NH Density:	22
+Classes	: [java.util.Properties, sun.reflect.annotation.AnnotationParser, java.lang.SecurityManager, java.util.Hashtable, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.lang.reflect.Method, java.security.AccessController, java.security.Policy, javax.xml.parsers.DocumentBuilderFactory, java.security.AccessControlContext, java.util.XMLUtils, java.io.ObjectInputStream, sun.reflect.Reflection, com.sun.jndi.ldap.LdapCtx, java.security.ProtectionDomain, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder, java.lang.Enum]

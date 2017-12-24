@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	117999
+NH Depth:	48
+NH Density:	22
+Classes	: [java.awt.KeyboardFocusManager, sun.awt.X11.XToolkit, java.awt.Window, sun.rmi.transport.tcp.TCPEndpoint, java.awt.GraphicsDevice, sun.awt.X11.XWindowPeer, javax.swing.JEditorPane, sun.awt.AppContext, java.awt.EventQueue, javax.swing.text.html.HTMLDocument, javax.swing.text.Document, java.awt.Component, javax.swing.text.DefaultStyledDocument, sun.security.tools.ToolDialog, java.util.Vector, sun.rmi.transport.tcp.TCPTransport, sun.awt.SunToolkit, sun.awt.X11.XEmbedCanvasPeer, java.awt.Dialog, java.awt.Container, sun.awt.X11.XFramePeer, sun.awt.X11.XEmbeddingContainer]

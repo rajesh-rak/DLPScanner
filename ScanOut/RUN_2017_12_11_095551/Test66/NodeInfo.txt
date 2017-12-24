@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	11032
+NH Depth:	33
+NH Density:	15
+Classes	: [java.security.Permissions, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, java.lang.reflect.Method, java.security.AccessController, java.security.Policy, java.security.AccessControlContext, java.io.ObjectInputStream, sun.reflect.Reflection, java.security.ProtectionDomain, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, com.sun.crypto.provider.JceKeyStore, java.lang.Enum]

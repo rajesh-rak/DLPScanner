@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	310
+NH Depth:	11
+NH Density:	6
+Classes	: [sun.misc.Launcher, sun.jkernel.DownloadManager, sun.jkernel.Bundle, java.lang.Class, javax.xml.bind.ContextFinder, java.lang.ClassLoader]

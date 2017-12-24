@@ -1,0 +1,14 @@
+java.lang.Runtime
+java.util.Hashtable
+java.lang.String
+javax.management.relation.RelationSupport
+java.lang.reflect.Proxy
+com.sun.corba.se.impl.activation.ServerTableEntry
+java.io.ObjectInputStream
+java.util.regex.Pattern
+javax.management.relation.RelationService
+com.sun.corba.se.impl.activation.ServerManagerImpl
+java.lang.ConditionalSpecialCasing
+com.sun.crypto.provider.JceKeyStore
+sun.rmi.server.Util
+java.lang.ProcessBuilder

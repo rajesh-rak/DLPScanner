@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	14451
+NH Depth:	24
+NH Density:	24
+Classes	: [sun.security.util.Debug, java.lang.SecurityManager, java.lang.Thread, sun.awt.X11.XWindowPeer, sun.util.LocaleServiceProviderPool, java.security.Policy, java.security.AccessController, java.io.PrintStream, java.lang.ClassLoader, javax.management.MBeanServerInvocationHandler, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, java.util.logging.Logger, java.security.ProtectionDomain, java.lang.Exception, java.lang.Throwable, java.lang.Class, sun.awt.X11.XWMHints, java.util.Formatter, java.math.BigDecimal, java.text.DecimalFormatSymbols, com.sun.jmx.mbeanserver.MXBeanIntrospector, sun.awt.X11.XFramePeer, com.sun.jmx.mbeanserver.MBeanAnalyzer]

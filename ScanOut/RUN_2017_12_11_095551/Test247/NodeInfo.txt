@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	64409
+NH Depth:	24
+NH Density:	18
+Classes	: [java.security.Permissions, java.util.Properties, java.lang.SecurityManager, com.sun.jmx.mbeanserver.StandardMBeanSupport, java.util.Hashtable, java.security.AccessController, java.security.Policy, javax.xml.parsers.DocumentBuilderFactory, java.security.AccessControlContext, sun.security.provider.KeyProtector, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, sun.security.provider.JavaKeyStore, java.util.XMLUtils, java.security.Provider, java.security.ProtectionDomain, java.security.SecureRandom, java.lang.Class, javax.xml.parsers.FactoryFinder]

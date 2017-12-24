@@ -1,0 +1,14 @@
+com.sun.jndi.ldap.pool.Pool
+sun.reflect.annotation.AnnotationParser
+java.lang.reflect.Method
+com.sun.xml.internal.ws.api.server.WSEndpoint
+com.sun.xml.internal.ws.server.EndpointFactory
+java.lang.reflect.Proxy
+com.sun.xml.internal.ws.util.HandlerAnnotationProcessor
+com.sun.jndi.ldap.pool.PooledConnectionFactory
+com.sun.jndi.ldap.Connection
+com.sun.xml.internal.ws.model.RuntimeModeler
+com.sun.jndi.ldap.LdapClientFactory
+com.sun.xml.internal.ws.handler.HandlerChainsModel
+java.lang.reflect.AccessibleObject
+com.sun.xml.internal.txw2.ContainerElement

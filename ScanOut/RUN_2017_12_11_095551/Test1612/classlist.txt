@@ -1,0 +1,10 @@
+java.util.XMLUtils
+java.util.Properties
+com.sun.org.apache.xalan.internal.xsltc.compiler.FunctionAvailableCall
+javax.xml.transform.TransformerFactory
+java.util.Hashtable
+javax.xml.transform.FactoryFinder
+sun.misc.VM
+java.lang.System
+com.sun.org.apache.xalan.internal.utils.ObjectFactory
+java.lang.ClassLoader

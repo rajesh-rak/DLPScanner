@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	54133
+NH Depth:	37
+NH Density:	26
+Classes	: [java.lang.SecurityManager, java.lang.reflect.Method, java.util.logging.LogManager, sun.awt.X11.XComponentPeer, java.security.AccessController, sun.util.LocaleServiceProviderPool, java.io.ObjectStreamClass, java.io.ObjectOutputStream, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, java.security.Permissions, java.util.Hashtable, sun.font.FontManager, java.security.Policy, java.lang.String, java.lang.ClassLoader, java.security.AccessControlContext, java.security.UnresolvedPermissionCollection, java.io.ObjectInputStream, sun.reflect.Reflection, java.text.BreakIterator, java.security.ProtectionDomain, java.util.logging.Logger, java.lang.ConditionalSpecialCasing]

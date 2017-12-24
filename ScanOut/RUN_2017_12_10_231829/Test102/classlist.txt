@@ -1,0 +1,17 @@
+java.security.Permissions
+java.lang.reflect.Constructor
+java.lang.SecurityManager
+java.lang.Runtime
+java.security.Policy
+java.security.AccessController
+javax.swing.text.AsyncBoxView
+javax.swing.text.LayoutQueue
+java.security.AccessControlContext
+sun.awt.AppContext
+com.sun.corba.se.impl.activation.ServerTableEntry
+sun.reflect.Reflection
+java.security.ProtectionDomain
+sun.security.provider.PolicyFile
+com.sun.corba.se.impl.activation.ServerManagerImpl
+java.lang.Class
+java.lang.ProcessBuilder

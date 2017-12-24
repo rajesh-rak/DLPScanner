@@ -1,0 +1,15 @@
+java.util.Properties
+javax.xml.transform.TransformerFactory
+sun.reflect.annotation.AnnotationParser
+sun.awt.X11.XWindowPeer
+java.lang.reflect.Method
+javax.xml.transform.FactoryFinder
+com.sun.jmx.remote.util.ClassLogger
+java.lang.reflect.Proxy
+java.util.XMLUtils
+java.util.logging.Logger
+javax.management.MBeanOperationInfo
+com.sun.xml.internal.ws.handler.HandlerChainsModel
+com.sun.jmx.mbeanserver.Introspector
+java.util.ResourceBundle
+javax.management.MBeanConstructorInfo

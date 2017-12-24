@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	248
+NH Depth:	11
+NH Density:	5
+Classes	: [sun.misc.Launcher, sun.jkernel.Bundle, sun.jkernel.DownloadManager, java.lang.Class, java.lang.ClassLoader]

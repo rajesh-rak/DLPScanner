@@ -1,0 +1,5 @@
+File:		1.4.2_12.NewLst
+Line No:	1424
+NH Depth:	12
+NH Density:	6
+Classes	: [java.io.ObjectStreamClass, sun.reflect.MethodAccessorGenerator, java.lang.StringBuffer, java.io.ObjectInputStream, java.lang.reflect.Constructor, sun.reflect.ReflectionFactory]

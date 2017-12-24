@@ -1,0 +1,5 @@
+.....F.........TOOL_OPTIONS: -Dfile.encoding=ISO-8859-1
+Dec 11, 2017 6:28:20 AM RandoopTest0 test28
+SEVERE: 1.0
+Dec 11, 2017 6:28:20 AM RandoopTest0 test28
+SEVERE: 1.0

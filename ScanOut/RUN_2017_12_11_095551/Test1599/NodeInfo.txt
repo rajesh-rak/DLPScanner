@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	30276
+NH Depth:	22
+NH Density:	19
+Classes	: [javax.crypto.Mac, java.net.InetAddress, java.net.URLClassLoader, java.util.Hashtable, javax.crypto.Cipher, java.lang.String, com.sun.crypto.provider.SunJCE_z, java.net.URLStreamHandler, java.net.SocketPermission, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.net.URL, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.SunJCE_ad, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore, com.sun.net.ssl.internal.ssl.JsseJce]

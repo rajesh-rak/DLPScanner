@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	20399
+NH Depth:	36
+NH Density:	25
+Classes	: [java.util.TimeZone, sun.awt.datatransfer.DataTransferer, sun.rmi.server.UnicastServerRef, java.util.Map, java.lang.SecurityManager, java.util.Hashtable, java.lang.Thread, java.lang.String, java.lang.StringBuilder, com.sun.org.apache.xerces.internal.impl.xpath.regex.RegexParser, java.security.Policy, java.security.AccessController, java.util.Date, java.io.PrintStream, com.sun.org.apache.xerces.internal.impl.xpath.regex.RangeToken, java.lang.System, java.security.AccessControlContext, java.util.concurrent.ConcurrentHashMap, java.util.concurrent.locks.AbstractQueuedSynchronizer, java.security.ProtectionDomain, com.sun.org.apache.xerces.internal.impl.xpath.regex.ParserForXMLSchema, java.util.concurrent.locks.ReentrantLock, java.lang.Class, com.sun.org.apache.xerces.internal.impl.xpath.regex.Token, com.sun.naming.internal.ResourceManager]

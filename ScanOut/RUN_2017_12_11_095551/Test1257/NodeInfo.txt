@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	48984
+NH Depth:	34
+NH Density:	20
+Classes	: [java.security.Permissions, java.awt.Window, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, com.sun.xml.internal.ws.server.WSEndpointImpl, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, java.io.ObjectStreamClass, sun.rmi.transport.proxy.RMIMasterSocketFactory, sun.reflect.Reflection, java.io.ObjectOutputStream, java.util.Vector, java.security.ProtectionDomain, javax.management.MBeanOperationInfo, com.sun.jmx.mbeanserver.Introspector, java.lang.Class, java.lang.Enum]

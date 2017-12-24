@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	2961
+NH Depth:	20
+NH Density:	8
+Classes	: [java.io.ObjectInputStream, java.util.regex.Pattern, java.lang.Package, java.util.Hashtable, java.lang.String, java.util.Formatter, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.JceKeyStore]

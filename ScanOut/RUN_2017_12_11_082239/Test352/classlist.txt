@@ -1,0 +1,12 @@
+sun.reflect.annotation.AnnotationType
+sun.reflect.annotation.AnnotationParser
+com.sun.xml.internal.ws.model.RuntimeModeler
+com.sun.xml.internal.ws.handler.HandlerChainsModel
+java.lang.reflect.Method
+java.lang.Class
+com.sun.xml.internal.ws.api.server.WSEndpoint
+java.lang.reflect.AccessibleObject
+com.sun.xml.internal.ws.server.EndpointFactory
+com.sun.xml.internal.txw2.ContainerElement
+com.sun.xml.internal.ws.util.HandlerAnnotationProcessor
+java.lang.Enum

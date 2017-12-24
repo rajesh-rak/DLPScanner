@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	198744
+NH Depth:	24
+NH Density:	23
+Classes	: [sun.util.calendar.CalendarSystem, sun.security.x509.CertificateValidity, sun.security.validator.EndEntityChecker, sun.security.validator.SimpleValidator, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, javax.crypto.Cipher, com.sun.crypto.provider.SunJCE_z, java.util.Date, sun.security.x509.X509CertInfo, java.security.AccessControlContext, java.security.Signature, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.security.ProtectionDomain, sun.security.x509.X509CertImpl, java.lang.Class, sun.security.validator.Validator, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.SunJCE_ad, com.sun.crypto.provider.JceKeyStore]

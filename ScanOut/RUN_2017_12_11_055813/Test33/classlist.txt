@@ -1,0 +1,14 @@
+java.util.Currency
+java.lang.Runtime
+java.util.Hashtable
+java.lang.String
+java.lang.reflect.Proxy
+com.sun.corba.se.impl.activation.ServerTableEntry
+java.io.ObjectInputStream
+java.util.regex.Pattern
+com.sun.corba.se.impl.activation.ServerManagerImpl
+java.util.Formatter
+java.text.DecimalFormatSymbols
+java.lang.ConditionalSpecialCasing
+java.lang.ProcessBuilder
+com.sun.crypto.provider.JceKeyStore

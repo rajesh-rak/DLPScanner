@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	33992
+NH Depth:	34
+NH Density:	26
+Classes	: [java.util.Currency, sun.util.calendar.CalendarSystem, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, sun.util.calendar.ZoneInfo, java.util.Vector, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, sun.awt.X11.XEmbedServerTester, sun.util.calendar.BaseCalendar, sun.security.util.Debug, sun.awt.X11.XToolkit, java.util.SimpleTimeZone, sun.awt.X11.XWindowPeer, java.util.Date, java.security.AccessControlContext, java.lang.reflect.Proxy, javax.swing.text.DefaultStyledDocument, java.lang.Exception, javax.management.relation.RelationService, sun.rmi.server.Util, sun.awt.X11.XFramePeer]

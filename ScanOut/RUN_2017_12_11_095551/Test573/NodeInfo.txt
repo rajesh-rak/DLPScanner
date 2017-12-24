@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	33741
+NH Depth:	31
+NH Density:	24
+Classes	: [sun.util.calendar.CalendarSystem, java.util.Calendar, java.util.Properties, javax.naming.spi.DirectoryManager, java.lang.SecurityManager, java.util.Hashtable, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.security.AccessController, java.security.Policy, javax.xml.parsers.DocumentBuilderFactory, java.util.Date, com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl, java.security.AccessControlContext, com.sun.corba.se.impl.resolver.FileResolverImpl, com.sun.corba.se.impl.orb.PropertyOnlyDataCollector, sun.security.provider.JavaKeyStore, java.util.XMLUtils, com.sun.corba.se.impl.orb.DataCollectorBase, java.util.GregorianCalendar, java.security.ProtectionDomain, java.lang.Class, com.sun.naming.internal.ResourceManager, com.sun.jndi.toolkit.dir.HierMemDirCtx, javax.xml.parsers.FactoryFinder]

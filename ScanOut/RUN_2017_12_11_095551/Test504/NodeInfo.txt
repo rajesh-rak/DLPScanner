@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	5002
+NH Depth:	19
+NH Density:	15
+Classes	: [java.util.Properties, sun.font.FontManager, java.util.Hashtable, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, sun.util.LocaleServiceProviderPool, java.lang.String, java.util.logging.Logging, sun.security.provider.JavaKeyStore, java.text.BreakIterator, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, sun.awt.FontConfiguration, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.JceKeyStore]

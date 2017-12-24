@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	99316
+NH Depth:	28
+NH Density:	20
+Classes	: [sun.misc.HexDumpEncoder, java.lang.SecurityManager, java.lang.Runtime, java.util.Hashtable, java.security.Policy, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, java.lang.System, sun.misc.CharacterEncoder, sun.misc.ProxyGenerator, java.security.AccessControlContext, java.lang.reflect.Proxy, java.io.ObjectInputStream, com.sun.crypto.provider.RC2Parameters, java.security.ProtectionDomain, java.lang.Class, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, java.lang.StringCoding, java.io.ByteArrayOutputStream]

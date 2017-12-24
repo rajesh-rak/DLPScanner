@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	50188
+NH Depth:	24
+NH Density:	27
+Classes	: [java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, sun.util.LocaleServiceProviderPool, java.io.PrintStream, sun.security.provider.JavaKeyStore, java.lang.Throwable, java.lang.Class, sun.security.krb5.internal.Krb5, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, sun.security.util.Debug, java.util.Hashtable, sun.font.FontManager, java.security.Policy, java.lang.String, java.lang.ClassLoader, java.security.AccessControlContext, com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl, java.io.ObjectInputStream, java.text.BreakIterator, java.security.ProtectionDomain, java.util.logging.Logger, java.lang.Exception, java.lang.ConditionalSpecialCasing, sun.security.krb5.KrbException]

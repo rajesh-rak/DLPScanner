@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	614
+NH Depth:	12
+NH Density:	5
+Classes	: [sun.nio.cs.StreamDecoder, org.jcp.xml.dsig.internal.dom.DOMSignatureMethod, java.io.InputStreamReader, java.io.Reader, org.jcp.xml.dsig.internal.dom.DOMSignedInfo]

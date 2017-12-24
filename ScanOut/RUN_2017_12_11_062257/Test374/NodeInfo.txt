@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	224618
+NH Depth:	37
+NH Density:	31
+Classes	: [java.util.Properties, sun.util.calendar.CalendarSystem, sun.security.x509.CertificateValidity, java.lang.SecurityManager, sun.security.validator.SimpleValidator, java.security.AccessController, javax.crypto.Cipher, javax.xml.parsers.DocumentBuilderFactory, com.sun.crypto.provider.SunJCE_z, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, sun.util.calendar.ZoneInfo, javax.crypto.SunJCE_h, sun.security.x509.X509CertImpl, java.lang.Class, sun.security.validator.Validator, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder, sun.util.calendar.BaseCalendar, java.util.SimpleTimeZone, sun.security.validator.EndEntityChecker, java.util.Hashtable, java.security.Policy, java.util.Date, sun.security.x509.X509CertInfo, java.security.AccessControlContext, sun.util.calendar.LocalGregorianCalendar, java.util.XMLUtils, java.security.ProtectionDomain, com.sun.crypto.provider.SunJCE_ad]

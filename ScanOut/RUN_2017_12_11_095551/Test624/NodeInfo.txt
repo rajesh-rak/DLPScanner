@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	15335
+NH Depth:	30
+NH Density:	18
+Classes	: [java.security.Permissions, java.lang.reflect.Constructor, java.security.MessageDigest, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, sun.security.provider.JavaKeyStore, java.security.Security, sun.reflect.Reflection, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Class, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore, java.security.PermissionsHash]

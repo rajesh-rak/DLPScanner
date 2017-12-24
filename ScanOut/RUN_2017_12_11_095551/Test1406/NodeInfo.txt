@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	16100
+NH Depth:	22
+NH Density:	11
+Classes	: [sun.net.util.URLUtil, sun.awt.X11.XToolkit, java.text.BreakIterator, java.util.logging.Logger, java.lang.String, sun.util.LocaleServiceProviderPool, sun.misc.URLClassPath, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, java.lang.ClassLoader, sun.util.CoreResourceBundleControl]

@@ -1,0 +1,465 @@
+2017-12-11 09:29:25
+Full thread dump Java HotSpot(TM) 64-Bit Server VM (24.79-b02 mixed mode):
+
+"DestroyJavaVM" prio=5 tid=0x00007ff27a1c8000 nid=0x1a03 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007ff279a70800 nid=0x1323 waiting for monitor entry [0x000070001104b000]
+   java.lang.Thread.State: BLOCKED (on object monitor)
+	at java.awt.Component.setFont(Component.java:1878)
+	- waiting to lock <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.setFont(Container.java:1743)
+	at javax.swing.JComponent.setFont(JComponent.java:2751)
+	at javax.swing.LookAndFeel.installColorsAndFont(LookAndFeel.java:208)
+	at javax.swing.plaf.basic.BasicPanelUI.installDefaults(BasicPanelUI.java:66)
+	at javax.swing.plaf.basic.BasicPanelUI.installUI(BasicPanelUI.java:56)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JPanel.setUI(JPanel.java:153)
+	at javax.swing.JPanel.updateUI(JPanel.java:126)
+	at javax.swing.JPanel.<init>(JPanel.java:86)
+	at javax.swing.JPanel.<init>(JPanel.java:95)
+	at com.apple.laf.AquaFileChooserUI.installUI(AquaFileChooserUI.java:138)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JFileChooser.updateUI(JFileChooser.java:1803)
+	at javax.swing.JFileChooser.setup(JFileChooser.java:370)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:352)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:311)
+	at sun.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at randoop.util.ConstructorReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007ff27ac22000 nid=0xa00f waiting for monitor entry [0x000070001039e000]
+   java.lang.Thread.State: BLOCKED (on object monitor)
+	at java.awt.Component.setFont(Component.java:1878)
+	- waiting to lock <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.setFont(Container.java:1743)
+	at javax.swing.JComponent.setFont(JComponent.java:2751)
+	at javax.swing.LookAndFeel.installColorsAndFont(LookAndFeel.java:208)
+	at javax.swing.plaf.basic.BasicPanelUI.installDefaults(BasicPanelUI.java:66)
+	at javax.swing.plaf.basic.BasicPanelUI.installUI(BasicPanelUI.java:56)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JPanel.setUI(JPanel.java:153)
+	at javax.swing.JPanel.updateUI(JPanel.java:126)
+	at javax.swing.JPanel.<init>(JPanel.java:86)
+	at javax.swing.JPanel.<init>(JPanel.java:95)
+	at com.apple.laf.AquaFileChooserUI.installUI(AquaFileChooserUI.java:138)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JFileChooser.updateUI(JFileChooser.java:1803)
+	at javax.swing.JFileChooser.setup(JFileChooser.java:370)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:352)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:311)
+	at sun.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at randoop.util.ConstructorReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007ff27997c000 nid=0x10803 waiting for monitor entry [0x0000700010f48000]
+   java.lang.Thread.State: BLOCKED (on object monitor)
+	at java.awt.Component.setFont(Component.java:1878)
+	- waiting to lock <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.setFont(Container.java:1743)
+	at javax.swing.JComponent.setFont(JComponent.java:2751)
+	at javax.swing.LookAndFeel.installColorsAndFont(LookAndFeel.java:208)
+	at javax.swing.plaf.basic.BasicPanelUI.installDefaults(BasicPanelUI.java:66)
+	at javax.swing.plaf.basic.BasicPanelUI.installUI(BasicPanelUI.java:56)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JPanel.setUI(JPanel.java:153)
+	at javax.swing.JPanel.updateUI(JPanel.java:126)
+	at javax.swing.JPanel.<init>(JPanel.java:86)
+	at javax.swing.JPanel.<init>(JPanel.java:95)
+	at com.apple.laf.AquaFileChooserUI.installUI(AquaFileChooserUI.java:138)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JFileChooser.updateUI(JFileChooser.java:1803)
+	at javax.swing.JFileChooser.setup(JFileChooser.java:370)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:352)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:311)
+	at sun.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at randoop.util.ConstructorReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"Attach Listener" daemon prio=5 tid=0x00007ff279b1e800 nid=0x6307 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007ff27a1c9800 nid=0x6207 waiting for monitor entry [0x000070000f571000]
+   java.lang.Thread.State: BLOCKED (on object monitor)
+	at java.awt.Component.setFont(Component.java:1878)
+	- waiting to lock <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.setFont(Container.java:1743)
+	at javax.swing.JComponent.setFont(JComponent.java:2751)
+	at javax.swing.LookAndFeel.installColorsAndFont(LookAndFeel.java:208)
+	at javax.swing.plaf.basic.BasicPanelUI.installDefaults(BasicPanelUI.java:66)
+	at javax.swing.plaf.basic.BasicPanelUI.installUI(BasicPanelUI.java:56)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JPanel.setUI(JPanel.java:153)
+	at javax.swing.JPanel.updateUI(JPanel.java:126)
+	at javax.swing.JPanel.<init>(JPanel.java:86)
+	at javax.swing.JPanel.<init>(JPanel.java:95)
+	at com.apple.laf.AquaFileChooserUI.installUI(AquaFileChooserUI.java:138)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JFileChooser.updateUI(JFileChooser.java:1803)
+	at javax.swing.JFileChooser.setup(JFileChooser.java:370)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:352)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:311)
+	at sun.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at randoop.util.ConstructorReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007ff27a24d800 nid=0x1207 waiting for monitor entry [0x0000700010cbf000]
+   java.lang.Thread.State: BLOCKED (on object monitor)
+	at java.awt.Component.setFont(Component.java:1878)
+	- waiting to lock <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.setFont(Container.java:1743)
+	at javax.swing.JComponent.setFont(JComponent.java:2751)
+	at javax.swing.LookAndFeel.installColorsAndFont(LookAndFeel.java:208)
+	at javax.swing.plaf.basic.BasicPanelUI.installDefaults(BasicPanelUI.java:66)
+	at javax.swing.plaf.basic.BasicPanelUI.installUI(BasicPanelUI.java:56)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JPanel.setUI(JPanel.java:153)
+	at javax.swing.JPanel.updateUI(JPanel.java:126)
+	at javax.swing.JPanel.<init>(JPanel.java:86)
+	at javax.swing.JPanel.<init>(JPanel.java:95)
+	at com.apple.laf.AquaFileChooserUI.installUI(AquaFileChooserUI.java:138)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JFileChooser.updateUI(JFileChooser.java:1803)
+	at javax.swing.JFileChooser.setup(JFileChooser.java:370)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:352)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:311)
+	at sun.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at randoop.util.ConstructorReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007ff27ac1a800 nid=0xd74b waiting for monitor entry [0x00007000107af000]
+   java.lang.Thread.State: BLOCKED (on object monitor)
+	at com.apple.laf.AquaFileSystemModel.getRowCount(AquaFileSystemModel.java:194)
+	- waiting to lock <0x00000007c7464d00> (a java.lang.Object)
+	at javax.swing.JTable.getRowCount(JTable.java:2662)
+	at javax.swing.plaf.basic.BasicTableUI.createTableSize(BasicTableUI.java:1692)
+	at javax.swing.plaf.basic.BasicTableUI.getPreferredSize(BasicTableUI.java:1733)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1661)
+	at javax.swing.ScrollPaneLayout.preferredLayoutSize(ScrollPaneLayout.java:495)
+	at java.awt.Container.preferredSize(Container.java:1788)
+	- locked <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.getPreferredSize(Container.java:1773)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1663)
+	at java.awt.BorderLayout.preferredLayoutSize(BorderLayout.java:719)
+	- locked <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.preferredSize(Container.java:1788)
+	- locked <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.getPreferredSize(Container.java:1773)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1663)
+	at java.awt.BorderLayout.preferredLayoutSize(BorderLayout.java:719)
+	- locked <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.preferredSize(Container.java:1788)
+	- locked <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.getPreferredSize(Container.java:1773)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1663)
+	at javax.swing.BoxLayout.checkRequests(BoxLayout.java:483)
+	at javax.swing.BoxLayout.preferredLayoutSize(BoxLayout.java:300)
+	- locked <0x00000007c7451930> (a javax.swing.BoxLayout)
+	at java.awt.Container.preferredSize(Container.java:1788)
+	- locked <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at randoop.util.MethodReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"TimerQueue" daemon prio=5 tid=0x00007ff27a254800 nid=0x10a17 waiting on condition [0x0000700010bbc000]
+   java.lang.Thread.State: WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x00000007d00982f0> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:186)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2043)
+	at java.util.concurrent.DelayQueue.take(DelayQueue.java:209)
+	at javax.swing.TimerQueue.run(TimerQueue.java:171)
+	at java.lang.Thread.run(Thread.java:745)
+
+   Locked ownable synchronizers:
+	- <0x00000007d0098380> (a java.util.concurrent.locks.ReentrantLock$NonfairSync)
+
+"AWT-EventQueue-0" prio=5 tid=0x00007ff2790b8800 nid=0xfbd3 waiting for monitor entry [0x0000700010ab8000]
+   java.lang.Thread.State: BLOCKED (on object monitor)
+	at java.awt.Component.invalidate(Component.java:2920)
+	- waiting to lock <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.invalidate(Container.java:1580)
+	at javax.swing.JComponent.revalidate(JComponent.java:4862)
+	at javax.swing.JTable.tableRowsInserted(JTable.java:4482)
+	at javax.swing.JTable.tableChanged(JTable.java:4407)
+	at javax.swing.table.AbstractTableModel.fireTableChanged(AbstractTableModel.java:296)
+	at javax.swing.table.AbstractTableModel.fireTableRowsInserted(AbstractTableModel.java:231)
+	at com.apple.laf.AquaFileSystemModel$DoChangeContents.run(AquaFileSystemModel.java:458)
+	- locked <0x00000007c7464d00> (a java.lang.Object)
+	- locked <0x00000007c786f388> (a java.lang.Object)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:312)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:745)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:715)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+
+   Locked ownable synchronizers:
+	- None
+
+"Java2D Disposer" daemon prio=5 tid=0x00007ff27910d800 nid=0xe50f in Object.wait() [0x00007000109b6000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007d0098a20> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:135)
+	- locked <0x00000007d0098a20> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:151)
+	at sun.java2d.Disposer.run(Disposer.java:145)
+	at java.lang.Thread.run(Thread.java:745)
+
+   Locked ownable synchronizers:
+	- None
+
+"Java2D Queue Flusher" daemon prio=5 tid=0x00007ff2799c3800 nid=0xdd07 in Object.wait() [0x00007000108b3000]
+   java.lang.Thread.State: TIMED_WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007d0098ac0> (a sun.java2d.opengl.OGLRenderQueue$QueueFlusher)
+	at sun.java2d.opengl.OGLRenderQueue$QueueFlusher.run(OGLRenderQueue.java:206)
+	- locked <0x00000007d0098ac0> (a sun.java2d.opengl.OGLRenderQueue$QueueFlusher)
+
+   Locked ownable synchronizers:
+	- None
+
+"AWT-Shutdown" prio=5 tid=0x00007ff27997f800 nid=0x772b in Object.wait() [0x00007000104a4000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007d00984f0> (a java.lang.Object)
+	at java.lang.Object.wait(Object.java:503)
+	at sun.awt.AWTAutoShutdown.run(AWTAutoShutdown.java:296)
+	- locked <0x00000007d00984f0> (a java.lang.Object)
+	at java.lang.Thread.run(Thread.java:745)
+
+   Locked ownable synchronizers:
+	- None
+
+"AppKit Thread" daemon prio=5 tid=0x00007ff27a885000 nid=0x307 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"Service Thread" daemon prio=5 tid=0x00007ff279850000 nid=0x4603 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"C2 CompilerThread1" daemon prio=5 tid=0x00007ff27984d000 nid=0x4403 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"C2 CompilerThread0" daemon prio=5 tid=0x00007ff279023000 nid=0x4203 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"Signal Dispatcher" daemon prio=5 tid=0x00007ff27901c000 nid=0x4003 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"Finalizer" daemon prio=5 tid=0x00007ff27901a800 nid=0x3203 in Object.wait() [0x000070000fd8c000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007d0092d60> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:135)
+	- locked <0x00000007d0092d60> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:151)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+
+   Locked ownable synchronizers:
+	- None
+
+"Reference Handler" daemon prio=5 tid=0x00007ff27a802000 nid=0x3003 in Object.wait() [0x000070000fc89000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007d0092ee8> (a java.lang.ref.Reference$Lock)
+	at java.lang.Object.wait(Object.java:503)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:133)
+	- locked <0x00000007d0092ee8> (a java.lang.ref.Reference$Lock)
+
+   Locked ownable synchronizers:
+	- None
+
+"VM Thread" prio=5 tid=0x00007ff279004000 nid=0x2e03 runnable 
+
+"GC task thread#0 (ParallelGC)" prio=5 tid=0x00007ff279811800 nid=0x2607 runnable 
+
+"GC task thread#1 (ParallelGC)" prio=5 tid=0x00007ff279812000 nid=0x2803 runnable 
+
+"GC task thread#2 (ParallelGC)" prio=5 tid=0x00007ff279813000 nid=0x2a03 runnable 
+
+"GC task thread#3 (ParallelGC)" prio=5 tid=0x00007ff279813800 nid=0x2c03 runnable 
+
+"VM Periodic Task Thread" prio=5 tid=0x00007ff279858800 nid=0x4803 waiting on condition 
+
+JNI global references: 252
+
+
+Found one Java-level deadlock:
+=============================
+"":
+  waiting to lock monitor 0x00007ff27a39c7b8 (object 0x00000007d008b518, a java.awt.Component$AWTTreeLock),
+  which is held by ""
+"":
+  waiting to lock monitor 0x00007ff27ac82eb8 (object 0x00000007c7464d00, a java.lang.Object),
+  which is held by "AWT-EventQueue-0"
+"AWT-EventQueue-0":
+  waiting to lock monitor 0x00007ff27a39c7b8 (object 0x00000007d008b518, a java.awt.Component$AWTTreeLock),
+  which is held by ""
+
+Java stack information for the threads listed above:
+===================================================
+"":
+	at java.awt.Component.setFont(Component.java:1878)
+	- waiting to lock <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.setFont(Container.java:1743)
+	at javax.swing.JComponent.setFont(JComponent.java:2751)
+	at javax.swing.LookAndFeel.installColorsAndFont(LookAndFeel.java:208)
+	at javax.swing.plaf.basic.BasicPanelUI.installDefaults(BasicPanelUI.java:66)
+	at javax.swing.plaf.basic.BasicPanelUI.installUI(BasicPanelUI.java:56)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JPanel.setUI(JPanel.java:153)
+	at javax.swing.JPanel.updateUI(JPanel.java:126)
+	at javax.swing.JPanel.<init>(JPanel.java:86)
+	at javax.swing.JPanel.<init>(JPanel.java:95)
+	at com.apple.laf.AquaFileChooserUI.installUI(AquaFileChooserUI.java:138)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JFileChooser.updateUI(JFileChooser.java:1803)
+	at javax.swing.JFileChooser.setup(JFileChooser.java:370)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:352)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:311)
+	at sun.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at randoop.util.ConstructorReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+"":
+	at com.apple.laf.AquaFileSystemModel.getRowCount(AquaFileSystemModel.java:194)
+	- waiting to lock <0x00000007c7464d00> (a java.lang.Object)
+	at javax.swing.JTable.getRowCount(JTable.java:2662)
+	at javax.swing.plaf.basic.BasicTableUI.createTableSize(BasicTableUI.java:1692)
+	at javax.swing.plaf.basic.BasicTableUI.getPreferredSize(BasicTableUI.java:1733)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1661)
+	at javax.swing.ScrollPaneLayout.preferredLayoutSize(ScrollPaneLayout.java:495)
+	at java.awt.Container.preferredSize(Container.java:1788)
+	- locked <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.getPreferredSize(Container.java:1773)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1663)
+	at java.awt.BorderLayout.preferredLayoutSize(BorderLayout.java:719)
+	- locked <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.preferredSize(Container.java:1788)
+	- locked <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.getPreferredSize(Container.java:1773)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1663)
+	at java.awt.BorderLayout.preferredLayoutSize(BorderLayout.java:719)
+	- locked <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.preferredSize(Container.java:1788)
+	- locked <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.getPreferredSize(Container.java:1773)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1663)
+	at javax.swing.BoxLayout.checkRequests(BoxLayout.java:483)
+	at javax.swing.BoxLayout.preferredLayoutSize(BoxLayout.java:300)
+	- locked <0x00000007c7451930> (a javax.swing.BoxLayout)
+	at java.awt.Container.preferredSize(Container.java:1788)
+	- locked <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at randoop.util.MethodReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+"AWT-EventQueue-0":
+	at java.awt.Component.invalidate(Component.java:2920)
+	- waiting to lock <0x00000007d008b518> (a java.awt.Component$AWTTreeLock)
+	at java.awt.Container.invalidate(Container.java:1580)
+	at javax.swing.JComponent.revalidate(JComponent.java:4862)
+	at javax.swing.JTable.tableRowsInserted(JTable.java:4482)
+	at javax.swing.JTable.tableChanged(JTable.java:4407)
+	at javax.swing.table.AbstractTableModel.fireTableChanged(AbstractTableModel.java:296)
+	at javax.swing.table.AbstractTableModel.fireTableRowsInserted(AbstractTableModel.java:231)
+	at com.apple.laf.AquaFileSystemModel$DoChangeContents.run(AquaFileSystemModel.java:458)
+	- locked <0x00000007c7464d00> (a java.lang.Object)
+	- locked <0x00000007c786f388> (a java.lang.Object)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:312)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:745)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:715)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+
+Found 1 deadlock.
+

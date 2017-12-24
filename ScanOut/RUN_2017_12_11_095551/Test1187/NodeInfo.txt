@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	29914
+NH Depth:	12
+NH Density:	11
+Classes	: [java.io.ObjectInputStream, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, sun.rmi.transport.DGCImpl, java.util.Vector, java.util.Hashtable, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, sun.rmi.transport.Target, java.lang.reflect.Proxy]

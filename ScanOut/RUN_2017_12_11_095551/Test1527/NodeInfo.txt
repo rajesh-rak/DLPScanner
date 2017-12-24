@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	7973
+NH Depth:	21
+NH Density:	23
+Classes	: [sun.swing.plaf.synth.SynthFileChooserUI, sun.awt.image.ImageFetcher, sun.security.util.Debug, java.util.Currency, sun.awt.X11.XToolkit, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, sun.awt.X11.XClipboard, java.io.PrintStream, java.lang.ClassLoader, java.security.AccessControlContext, javax.swing.plaf.basic.BasicDirectoryModel, javax.swing.JFileChooser, java.util.Vector, javax.swing.filechooser.FileSystemView, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.io.File, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.ThreadGroup]

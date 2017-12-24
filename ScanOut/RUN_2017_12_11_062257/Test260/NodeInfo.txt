@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	155282
+NH Depth:	20
+NH Density:	27
+Classes	: [java.util.Properties, java.util.jar.JarVerifier, com.sun.crypto.provider.SunJCE_z, java.lang.System, javax.crypto.SunJCE_b, com.sun.jndi.ldap.LdapClient, javax.crypto.SunJCE_c, com.sun.jndi.ldap.LdapCtx, javax.crypto.SunJCE_h, java.util.Vector, com.sun.corba.se.impl.activation.ServerManagerImpl, sun.security.x509.CertificateExtensions, sun.security.x509.X509CertImpl, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, java.util.jar.JarFile, java.util.zip.ZipFile, com.sun.crypto.provider.JceKeyStore, sun.security.util.DerInputStream, sun.security.util.SignatureFileVerifier, java.util.Hashtable, java.lang.String, sun.misc.JarIndex, sun.security.x509.X509CertInfo, sun.security.pkcs.PKCS7, java.lang.ConditionalSpecialCasing, sun.font.FontFamily]

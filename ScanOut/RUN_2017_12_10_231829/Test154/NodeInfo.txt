@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	32356
+NH Depth:	23
+NH Density:	23
+Classes	: [sun.reflect.misc.MethodUtil, java.security.CodeSigner, java.util.Properties, sun.util.calendar.CalendarSystem, java.net.URLClassLoader, javax.xml.transform.TransformerFactory, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, java.lang.reflect.Method, javax.xml.transform.FactoryFinder, java.util.Date, java.util.HashMap, com.sun.xml.internal.ws.server.EndpointFactory, java.security.CodeSource, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.lang.reflect.Proxy, sun.util.calendar.LocalGregorianCalendar, java.util.XMLUtils, javax.management.MBeanOperationInfo, com.sun.jmx.mbeanserver.Introspector, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.security.Timestamp, java.security.SecureClassLoader]

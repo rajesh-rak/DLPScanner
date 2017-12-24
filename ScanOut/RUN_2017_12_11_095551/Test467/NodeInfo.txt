@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	13537
+NH Depth:	16
+NH Density:	30
+Classes	: [java.util.Properties, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, sun.security.provider.JavaKeyStore, java.security.Security, java.security.SecureRandom, java.lang.Throwable, java.util.Formatter, sun.security.krb5.internal.Krb5, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, com.sun.net.ssl.internal.ssl.JsseJce, sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, sun.security.util.Debug, java.security.MessageDigest, java.util.Hashtable, java.lang.String, sun.security.jca.ProviderList, java.security.AccessControlContext, sun.security.provider.KeyProtector, java.security.Provider, java.lang.Exception, sun.security.action.PutAllAction, java.math.BigDecimal, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, sun.security.krb5.KrbException]

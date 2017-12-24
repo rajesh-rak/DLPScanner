@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	118729
+NH Depth:	24
+NH Density:	21
+Classes	: [java.util.Properties, sun.misc.VMSupport, java.lang.SecurityManager, java.util.Hashtable, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.security.AccessController, java.security.Policy, com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl, com.sun.crypto.provider.SunJCE_z, java.security.AccessControlContext, com.sun.crypto.provider.SunJCE, com.sun.crypto.provider.SunJCE_b, com.sun.corba.se.impl.orb.DataCollectorBase, java.net.URL, java.security.ProtectionDomain, java.lang.Class, com.sun.corba.se.impl.orb.AppletDataCollector, java.security.cert.CertificateFactory, com.sun.naming.internal.ResourceManager, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore]

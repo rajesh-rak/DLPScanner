@@ -1,0 +1,5 @@
+File:		1.5.0.NewerLst
+Line No:	1828
+NH Depth:	15
+NH Density:	17
+Classes	: [java.lang.SecurityManager, java.lang.reflect.Method, java.security.AccessController, java.lang.String, java.lang.StringBuilder, java.security.Policy, java.io.PrintStream, java.security.AccessControlContext, java.io.ObjectStreamClass, sun.reflect.Reflection, java.io.ObjectOutputStream, java.security.ProtectionDomain, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.lang.Character, java.lang.AbstractStringBuilder]

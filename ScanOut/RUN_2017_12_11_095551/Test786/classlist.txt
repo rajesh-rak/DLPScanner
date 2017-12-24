@@ -1,0 +1,15 @@
+java.security.Permissions
+java.lang.SecurityManager
+java.util.Hashtable
+java.lang.Thread
+java.security.Policy
+java.security.AccessController
+javax.crypto.Cipher
+com.sun.crypto.provider.SunJCE_z
+java.security.AccessControlContext
+com.sun.corba.se.impl.orbutil.threadpool.ThreadPoolManagerImpl
+javax.crypto.SunJCE_h
+java.security.ProtectionDomain
+com.sun.crypto.provider.SunJCE_ad
+com.sun.crypto.provider.JceKeyStore
+java.lang.ThreadGroup

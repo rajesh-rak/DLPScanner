@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	88364
+NH Depth:	14
+NH Density:	18
+Classes	: [java.util.Currency, java.util.Properties, java.util.Hashtable, java.lang.String, sun.misc.VM, java.net.URI, javax.xml.parsers.DocumentBuilderFactory, java.lang.System, java.lang.ClassLoader, java.lang.reflect.Proxy, java.util.XMLUtils, java.io.ObjectInputStream, java.net.URL, com.sun.corba.se.impl.activation.ServerManagerImpl, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder]

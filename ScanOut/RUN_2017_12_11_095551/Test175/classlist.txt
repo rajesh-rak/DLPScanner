@@ -1,0 +1,17 @@
+sun.rmi.transport.tcp.TCPChannel
+java.lang.reflect.Constructor
+java.security.Permissions
+java.security.UnresolvedPermission
+java.lang.SecurityManager
+java.util.Hashtable
+java.security.Policy
+java.security.AccessController
+java.security.AccessControlContext
+java.lang.reflect.Proxy
+java.io.ObjectInputStream
+sun.reflect.Reflection
+java.security.ProtectionDomain
+javax.management.relation.RelationService
+sun.rmi.transport.tcp.TCPTransport
+java.lang.Class
+com.sun.crypto.provider.JceKeyStore

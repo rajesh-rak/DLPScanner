@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	188734
+NH Depth:	25
+NH Density:	19
+Classes	: [java.security.Permissions, java.lang.SecurityManager, java.security.Policy, java.security.AccessController, javax.swing.text.AsyncBoxView, java.lang.System, javax.swing.text.LayoutQueue, java.lang.ClassLoader, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, sun.misc.Launcher, sun.awt.AppContext, java.security.ProtectionDomain, java.net.URL, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Class, java.io.File, sun.net.www.ParseUtil, com.sun.naming.internal.ResourceManager]

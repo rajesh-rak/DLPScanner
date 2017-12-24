@@ -1,0 +1,36 @@
+......E....E..............E.......
+Time: 0.127
+There were 3 errors:
+1) test26(RandoopTest0)java.lang.NullPointerException
+	at sun.security.x509.X509CertImpl.isSelfIssued(X509CertImpl.java:1881)
+	at RandoopTest0.test26(RandoopTest0.java:506)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test22(RandoopTest0)java.lang.NullPointerException
+	at sun.security.x509.CertificateValidity.valid(CertificateValidity.java:268)
+	at sun.security.x509.CertificateValidity.valid(CertificateValidity.java:247)
+	at RandoopTest0.test22(RandoopTest0.java:445)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test8(RandoopTest0)java.lang.NullPointerException
+	at sun.security.x509.CertificateValidity.valid(CertificateValidity.java:268)
+	at RandoopTest0.test8(RandoopTest0.java:133)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 31,  Failures: 0,  Errors: 3
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 25693
+Exiting analysis

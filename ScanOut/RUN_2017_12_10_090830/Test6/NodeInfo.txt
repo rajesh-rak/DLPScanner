@@ -1,0 +1,5 @@
+File:		1.4.2.10.NewLst
+Line No:	91399
+NH Depth:	5
+NH Density:	3
+Classes	: [sun.awt.im.InputMethodManager, sun.awt.im.InputContext, sun.awt.im.ExecutableInputMethodManager]

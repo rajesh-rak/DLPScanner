@@ -1,0 +1,271 @@
+2017-12-11 14:15:30
+Full thread dump Java HotSpot(TM) 64-Bit Server VM (24.79-b02 mixed mode):
+
+"Attach Listener" daemon prio=5 tid=0x00007fd47501c000 nid=0xbd03 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"DestroyJavaVM" prio=5 tid=0x00007fd47584c000 nid=0x1a03 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"text-layout" prio=5 tid=0x00007fd475015800 nid=0xbb03 in Object.wait() [0x000070000680d000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007ba39eb68> (a javax.swing.text.LayoutQueue)
+	at java.lang.Object.wait(Object.java:503)
+	at javax.swing.text.LayoutQueue.waitForWork(LayoutQueue.java:96)
+	- locked <0x00000007ba39eb68> (a javax.swing.text.LayoutQueue)
+	at javax.swing.text.LayoutQueue$LayoutThread.run(LayoutQueue.java:119)
+
+   Locked ownable synchronizers:
+	- None
+
+"text-layout" prio=5 tid=0x00007fd4771a8800 nid=0xb903 in Object.wait() [0x000070000670a000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007b91aa170> (a javax.swing.text.LayoutQueue)
+	at java.lang.Object.wait(Object.java:503)
+	at javax.swing.text.LayoutQueue.waitForWork(LayoutQueue.java:96)
+	- locked <0x00000007b91aa170> (a javax.swing.text.LayoutQueue)
+	at javax.swing.text.LayoutQueue$LayoutThread.run(LayoutQueue.java:119)
+
+   Locked ownable synchronizers:
+	- None
+
+"text-layout" prio=5 tid=0x00007fd4771b0000 nid=0xb703 in Object.wait() [0x0000700006607000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007b78037a8> (a javax.swing.text.LayoutQueue)
+	at java.lang.Object.wait(Object.java:503)
+	at javax.swing.text.LayoutQueue.waitForWork(LayoutQueue.java:96)
+	- locked <0x00000007b78037a8> (a javax.swing.text.LayoutQueue)
+	at javax.swing.text.LayoutQueue$LayoutThread.run(LayoutQueue.java:119)
+
+   Locked ownable synchronizers:
+	- None
+
+"text-layout" prio=5 tid=0x00007fd4771af000 nid=0xb503 in Object.wait() [0x0000700006504000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007b660ed80> (a javax.swing.text.LayoutQueue)
+	at java.lang.Object.wait(Object.java:503)
+	at javax.swing.text.LayoutQueue.waitForWork(LayoutQueue.java:96)
+	- locked <0x00000007b660ed80> (a javax.swing.text.LayoutQueue)
+	at javax.swing.text.LayoutQueue$LayoutThread.run(LayoutQueue.java:119)
+
+   Locked ownable synchronizers:
+	- None
+
+"text-layout" prio=5 tid=0x00007fd4768d1000 nid=0xb303 in Object.wait() [0x0000700006401000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007b4c68468> (a javax.swing.text.LayoutQueue)
+	at java.lang.Object.wait(Object.java:503)
+	at javax.swing.text.LayoutQueue.waitForWork(LayoutQueue.java:96)
+	- locked <0x00000007b4c68468> (a javax.swing.text.LayoutQueue)
+	at javax.swing.text.LayoutQueue$LayoutThread.run(LayoutQueue.java:119)
+
+   Locked ownable synchronizers:
+	- None
+
+"text-layout" prio=5 tid=0x00007fd4768cf800 nid=0x1207 in Object.wait() [0x00007000062fe000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007b3a73a40> (a javax.swing.text.LayoutQueue)
+	at java.lang.Object.wait(Object.java:503)
+	at javax.swing.text.LayoutQueue.waitForWork(LayoutQueue.java:96)
+	- locked <0x00000007b3a73a40> (a javax.swing.text.LayoutQueue)
+	at javax.swing.text.LayoutQueue$LayoutThread.run(LayoutQueue.java:119)
+
+   Locked ownable synchronizers:
+	- None
+
+"text-layout" prio=5 tid=0x00007fd4768cc800 nid=0x890b in Object.wait() [0x00007000061fb000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007b235dba8> (a javax.swing.text.LayoutQueue)
+	at java.lang.Object.wait(Object.java:503)
+	at javax.swing.text.LayoutQueue.waitForWork(LayoutQueue.java:96)
+	- locked <0x00000007b235dba8> (a javax.swing.text.LayoutQueue)
+	at javax.swing.text.LayoutQueue$LayoutThread.run(LayoutQueue.java:119)
+
+   Locked ownable synchronizers:
+	- None
+
+"text-layout" prio=5 tid=0x00007fd47505e000 nid=0x881b in Object.wait() [0x00007000060f8000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007af2a13b0> (a javax.swing.text.LayoutQueue)
+	at java.lang.Object.wait(Object.java:503)
+	at javax.swing.text.LayoutQueue.waitForWork(LayoutQueue.java:96)
+	- locked <0x00000007af2a13b0> (a javax.swing.text.LayoutQueue)
+	at javax.swing.text.LayoutQueue$LayoutThread.run(LayoutQueue.java:119)
+
+   Locked ownable synchronizers:
+	- None
+
+"text-layout" prio=5 tid=0x00007fd475015000 nid=0x3907 in Object.wait() [0x0000700005ff5000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007ad148af8> (a javax.swing.text.LayoutQueue)
+	at java.lang.Object.wait(Object.java:503)
+	at javax.swing.text.LayoutQueue.waitForWork(LayoutQueue.java:96)
+	- locked <0x00000007ad148af8> (a javax.swing.text.LayoutQueue)
+	at javax.swing.text.LayoutQueue$LayoutThread.run(LayoutQueue.java:119)
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007fd476dc9000 nid=0x9f8b waiting for monitor entry [0x0000700005ef1000]
+   java.lang.Thread.State: BLOCKED (on object monitor)
+	at sun.awt.AppContext$3.run(AppContext.java:315)
+	- waiting to lock <0x00000007cab90630> (a sun.awt.AppContext$GetAppContextLock)
+	at sun.awt.AppContext$3.run(AppContext.java:301)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.awt.AppContext.getAppContext(AppContext.java:300)
+	at javax.swing.text.LayoutQueue.setDefaultQueue(LayoutQueue.java:73)
+	- locked <0x00000007cab90698> (a java.lang.Object)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at randoop.util.MethodReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"AWT-Shutdown" prio=5 tid=0x00007fd4761a9800 nid=0x7c2b in Object.wait() [0x0000700005def000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007cab805c0> (a java.lang.Object)
+	at java.lang.Object.wait(Object.java:503)
+	at sun.awt.AWTAutoShutdown.run(AWTAutoShutdown.java:296)
+	- locked <0x00000007cab805c0> (a java.lang.Object)
+	at java.lang.Thread.run(Thread.java:745)
+
+   Locked ownable synchronizers:
+	- None
+
+"AWT-AppKit" daemon prio=5 tid=0x00007fd475056000 nid=0x307 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007fd47506d000 nid=0x4b53 runnable [0x0000700005be2000]
+   java.lang.Thread.State: RUNNABLE
+	at java.lang.ClassLoader$NativeLibrary.load(Native Method)
+	at java.lang.ClassLoader.loadLibrary1(ClassLoader.java:1965)
+	- locked <0x00000007cab90918> (a java.util.Vector)
+	- locked <0x00000007cab90938> (a java.util.Vector)
+	at java.lang.ClassLoader.loadLibrary0(ClassLoader.java:1890)
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1851)
+	at java.lang.Runtime.load0(Runtime.java:795)
+	- locked <0x00000007cab909e8> (a java.lang.Runtime)
+	at java.lang.System.load(System.java:1062)
+	at java.lang.ClassLoader$NativeLibrary.load(Native Method)
+	at java.lang.ClassLoader.loadLibrary1(ClassLoader.java:1965)
+	- locked <0x00000007cab90918> (a java.util.Vector)
+	- locked <0x00000007cab90938> (a java.util.Vector)
+	at java.lang.ClassLoader.loadLibrary0(ClassLoader.java:1890)
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1872)
+	at java.lang.Runtime.loadLibrary0(Runtime.java:849)
+	- locked <0x00000007cab909e8> (a java.lang.Runtime)
+	at java.lang.System.loadLibrary(System.java:1088)
+	at sun.security.action.LoadLibraryAction.run(LoadLibraryAction.java:67)
+	at sun.security.action.LoadLibraryAction.run(LoadLibraryAction.java:47)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.awt.Toolkit.loadLibraries(Toolkit.java:1653)
+	at java.awt.Toolkit.<clinit>(Toolkit.java:1682)
+	at sun.awt.AppContext$2.run(AppContext.java:274)
+	at sun.awt.AppContext$2.run(AppContext.java:263)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.awt.AppContext.initMainAppContext(AppContext.java:263)
+	at sun.awt.AppContext.access$400(AppContext.java:133)
+	at sun.awt.AppContext$3.run(AppContext.java:318)
+	- locked <0x00000007cab90630> (a sun.awt.AppContext$GetAppContextLock)
+	at sun.awt.AppContext$3.run(AppContext.java:301)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.awt.AppContext.getAppContext(AppContext.java:300)
+	at javax.swing.text.LayoutQueue.getDefaultQueue(LayoutQueue.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at randoop.util.MethodReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"Service Thread" daemon prio=5 tid=0x00007fd47680e000 nid=0x4503 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"C2 CompilerThread1" daemon prio=5 tid=0x00007fd476066000 nid=0x4303 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"C2 CompilerThread0" daemon prio=5 tid=0x00007fd47580e800 nid=0x4103 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"Signal Dispatcher" daemon prio=5 tid=0x00007fd475815800 nid=0x3f0b runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"Finalizer" daemon prio=5 tid=0x00007fd475009000 nid=0x3203 in Object.wait() [0x00007000054d1000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007cab91ec0> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:135)
+	- locked <0x00000007cab91ec0> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:151)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+
+   Locked ownable synchronizers:
+	- None
+
+"Reference Handler" daemon prio=5 tid=0x00007fd476802800 nid=0x3003 in Object.wait() [0x00007000053ce000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007cabc60f8> (a java.lang.ref.Reference$Lock)
+	at java.lang.Object.wait(Object.java:503)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:133)
+	- locked <0x00000007cabc60f8> (a java.lang.ref.Reference$Lock)
+
+   Locked ownable synchronizers:
+	- None
+
+"VM Thread" prio=5 tid=0x00007fd475008800 nid=0x2e03 runnable 
+
+"GC task thread#0 (ParallelGC)" prio=5 tid=0x00007fd476012000 nid=0x2607 runnable 
+
+"GC task thread#1 (ParallelGC)" prio=5 tid=0x00007fd476012800 nid=0x2803 runnable 
+
+"GC task thread#2 (ParallelGC)" prio=5 tid=0x00007fd476013000 nid=0x2a03 runnable 
+
+"GC task thread#3 (ParallelGC)" prio=5 tid=0x00007fd476013800 nid=0x2c03 runnable 
+
+"VM Periodic Task Thread" prio=5 tid=0x00007fd476817000 nid=0x4703 waiting on condition 
+
+JNI global references: 205
+

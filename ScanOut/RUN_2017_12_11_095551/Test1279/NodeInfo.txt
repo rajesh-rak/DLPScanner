@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	57582
+NH Depth:	35
+NH Density:	26
+Classes	: [java.lang.reflect.Constructor, java.lang.SecurityManager, java.lang.reflect.Method, java.lang.Thread, java.util.logging.LogManager, sun.awt.X11.XComponentPeer, java.security.AccessController, sun.util.LocaleServiceProviderPool, java.io.PrintStream, java.io.ObjectStreamClass, java.io.ObjectOutputStream, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, sun.security.util.Debug, java.security.Permissions, java.security.UnresolvedPermission, java.security.Policy, java.lang.ClassLoader, java.security.AccessControlContext, sun.reflect.Reflection, java.security.ProtectionDomain, java.util.logging.Logger, java.lang.Exception, java.math.BigDecimal]

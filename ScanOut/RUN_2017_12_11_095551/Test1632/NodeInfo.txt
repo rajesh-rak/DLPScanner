@@ -1,0 +1,5 @@
+File:		zb22
+Line No:	11569
+NH Depth:	22
+NH Density:	19
+Classes	: [sun.security.util.Debug, java.util.Currency, java.net.URLClassLoader, java.lang.SecurityManager, java.lang.Package, java.lang.Thread, java.security.AccessController, sun.awt.X11.XNETProtocol, java.io.PrintStream, java.lang.ClassLoader, java.security.AccessControlContext, com.sun.jmx.remote.util.ClassLogger, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, sun.awt.X11.XWM, java.util.Formatter, java.text.DecimalFormatSymbols, sun.awt.X11.XDecoratedPeer]

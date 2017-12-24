@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	5605
+NH Depth:	26
+NH Density:	34
+Classes	: [sun.swing.plaf.synth.SynthFileChooserUI, sun.security.x509.ExtendedKeyUsageExtension, java.lang.SecurityManager, java.security.cert.X509Certificate, java.lang.Thread, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, javax.crypto.SunJCE_d, javax.crypto.SunJCE_e, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, java.util.Vector, javax.crypto.SunJCE_g, java.lang.Class, sun.security.x509.X509CertImpl, sun.security.validator.Validator, java.util.jar.JarFile, java.util.zip.ZipFile, com.sun.crypto.provider.JceKeyStore, sun.awt.image.ImageFetcher, java.security.Permissions, sun.security.validator.EndEntityChecker, java.util.Hashtable, java.security.Policy, java.lang.ClassLoader, java.security.AccessControlContext, sun.rmi.transport.proxy.RMIMasterSocketFactory, javax.swing.plaf.basic.BasicDirectoryModel, javax.swing.JFileChooser, java.security.ProtectionDomain, javax.swing.filechooser.FileSystemView, java.io.File, java.lang.ThreadGroup]

@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	30645
+NH Depth:	23
+NH Density:	21
+Classes	: [sun.reflect.annotation.AnnotationParser, java.lang.SecurityManager, java.util.Hashtable, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, com.sun.xml.internal.ws.api.server.WSEndpoint, com.sun.xml.internal.ws.server.EndpointFactory, java.security.AccessControlContext, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.lang.reflect.Proxy, java.io.ObjectStreamClass, java.io.ObjectInputStream, java.io.ObjectOutputStream, java.security.ProtectionDomain, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, sun.rmi.server.Util, java.lang.Enum]

@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	16482
+NH Depth:	11
+NH Density:	4
+Classes	: [sun.font.FontManager, sun.java2d.SunGraphicsEnvironment, sun.font.TrueTypeFont, sun.font.TrueTypeGlyphMapper]

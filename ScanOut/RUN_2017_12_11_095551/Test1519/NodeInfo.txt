@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	3614
+NH Depth:	28
+NH Density:	35
+Classes	: [javax.swing.JToolBar, javax.swing.plaf.basic.BasicComboBoxRenderer, javax.swing.JRadioButtonMenuItem, javax.swing.JButton, javax.swing.JPanel, javax.swing.JToggleButton, javax.swing.JEditorPane, javax.swing.JProgressBar, javax.swing.plaf.basic.BasicInternalFrameTitlePane, sun.swing.WindowsPlacesBar, javax.swing.JScrollBar, java.awt.Component, javax.swing.JSeparator, javax.swing.JLabel, javax.swing.JMenuBar, javax.swing.JList, javax.swing.JComboBox, javax.swing.JComponent, javax.swing.JColorChooser, javax.swing.JToolTip, javax.swing.JCheckBox, javax.swing.JInternalFrame, com.sun.java.swing.plaf.windows.WindowsInternalFrameTitlePane, javax.swing.JScrollPane, javax.swing.RepaintManager, javax.swing.JSpinner, javax.swing.AbstractButton, com.sun.java.swing.SwingUtilities3, javax.swing.JTextArea, sun.awt.im.CompositionArea, javax.swing.JViewport, javax.swing.JMenuItem, javax.swing.JCheckBoxMenuItem, javax.swing.table.JTableHeader, javax.swing.plaf.basic.BasicArrowButton]

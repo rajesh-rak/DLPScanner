@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	125148
+NH Depth:	23
+NH Density:	15
+Classes	: [java.util.Calendar, java.util.Properties, sun.util.calendar.CalendarSystem, sun.reflect.annotation.AnnotationParser, javax.xml.transform.TransformerFactory, java.util.Hashtable, java.lang.reflect.Method, javax.xml.transform.FactoryFinder, java.util.Date, java.lang.reflect.Proxy, sun.util.calendar.LocalGregorianCalendar, java.util.XMLUtils, java.util.GregorianCalendar, javax.management.relation.RelationService, com.sun.xml.internal.ws.handler.HandlerChainsModel]

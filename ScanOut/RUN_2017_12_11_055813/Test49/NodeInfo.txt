@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	38904
+NH Depth:	12
+NH Density:	14
+Classes	: [com.sun.org.apache.xalan.internal.xsltc.trax.SmartTransformerFactoryImpl, java.util.Properties, java.util.Hashtable, sun.misc.VM, java.net.URI, com.sun.crypto.provider.SunJCE_z, java.lang.System, java.lang.ClassLoader, com.sun.org.apache.xalan.internal.utils.ObjectFactory, com.sun.crypto.provider.SunJCE, java.net.URL, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore]

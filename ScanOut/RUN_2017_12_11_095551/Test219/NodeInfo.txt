@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	56937
+NH Depth:	25
+NH Density:	28
+Classes	: [java.util.Currency, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.util.Vector, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, sun.awt.X11.XEmbedServerTester, com.sun.crypto.provider.JceKeyStore, sun.awt.image.ImageFetcher, java.security.Permissions, sun.awt.X11.XToolkit, java.util.Hashtable, sun.awt.X11.XWindowPeer, java.security.Policy, java.lang.String, java.lang.ClassLoader, java.security.AccessControlContext, java.lang.reflect.Proxy, javax.swing.plaf.basic.BasicDirectoryModel, java.io.ObjectInputStream, javax.swing.JFileChooser, java.security.ProtectionDomain, javax.swing.filechooser.FileSystemView, java.io.File, sun.awt.X11.XFramePeer, java.lang.ThreadGroup]

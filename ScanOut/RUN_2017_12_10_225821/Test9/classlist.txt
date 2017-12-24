@@ -1,0 +1,5 @@
+java.awt.Component
+javax.swing.JFileChooser
+javax.swing.SwingUtilities
+java.awt.dnd.DropTarget
+javax.swing.JComponent

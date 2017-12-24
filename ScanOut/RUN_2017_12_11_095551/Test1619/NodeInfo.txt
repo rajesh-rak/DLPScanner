@@ -1,0 +1,5 @@
+File:		zb22
+Line No:	5820
+NH Depth:	23
+NH Density:	21
+Classes	: [sun.security.util.Debug, java.util.Currency, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, sun.util.LocaleServiceProviderPool, java.lang.String, sun.awt.X11.XNETProtocol, java.io.PrintStream, java.lang.ClassLoader, java.security.AccessControlContext, java.text.BreakIterator, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, sun.awt.X11.XWM, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.ConditionalSpecialCasing, sun.awt.X11.XDecoratedPeer, sun.font.FontFamily]

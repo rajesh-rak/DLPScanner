@@ -1,0 +1,17 @@
+java.security.Permissions
+java.lang.SecurityManager
+sun.reflect.annotation.AnnotationParser
+com.sun.xml.internal.ws.server.WSEndpointImpl
+java.util.Hashtable
+java.lang.reflect.Method
+java.security.AccessController
+java.security.Policy
+java.security.AccessControlContext
+java.io.ObjectInputStream
+sun.reflect.Reflection
+java.security.ProtectionDomain
+javax.management.MBeanOperationInfo
+com.sun.jmx.mbeanserver.Introspector
+java.lang.Class
+com.sun.crypto.provider.JceKeyStore
+java.lang.Enum

@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	19109
+NH Depth:	22
+NH Density:	17
+Classes	: [java.util.Properties, java.lang.SecurityManager, java.net.URI, java.security.Policy, java.security.AccessController, sun.misc.VM, javax.xml.parsers.DocumentBuilderFactory, java.lang.System, java.lang.ClassLoader, java.security.AccessControlContext, java.util.XMLUtils, com.sun.jndi.ldap.LdapCtx, java.security.ProtectionDomain, java.net.URL, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, javax.xml.parsers.FactoryFinder]

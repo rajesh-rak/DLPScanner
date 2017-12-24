@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	3506
+NH Depth:	35
+NH Density:	33
+Classes	: [sun.security.pkcs.PKCS9Attributes, java.util.Properties, sun.util.calendar.CalendarSystem, java.util.jar.JarVerifier, com.sun.crypto.provider.SunJCE_z, javax.crypto.SunJCE_b, sun.security.pkcs.PKCS9Attribute, javax.crypto.SunJCE_c, sun.util.calendar.ZoneInfo, javax.crypto.SunJCE_h, java.util.regex.Pattern, sun.security.pkcs.SigningCertificateInfo, java.util.zip.ZipFile, java.util.jar.JarFile, com.sun.crypto.provider.JceKeyStore, sun.security.timestamp.TimestampToken, sun.util.calendar.BaseCalendar, sun.security.util.DerInputStream, java.util.SimpleTimeZone, java.net.InetAddress, sun.security.util.SignatureFileVerifier, java.util.Hashtable, sun.security.util.ManifestEntryVerifier, sun.security.util.DerInputBuffer, java.lang.String, sun.misc.JarIndex, sun.util.calendar.LocalGregorianCalendar, sun.net.util.IPAddressUtil, sun.security.pkcs.PKCS7, sun.security.x509.IPAddressName, java.lang.ConditionalSpecialCasing, sun.util.calendar.Gregorian, sun.security.pkcs.SignerInfo]

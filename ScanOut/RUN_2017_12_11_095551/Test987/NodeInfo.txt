@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	103173
+NH Depth:	21
+NH Density:	22
+Classes	: [sun.security.util.Debug, java.util.Currency, java.net.InetAddress, java.lang.SecurityManager, java.net.URLClassLoader, java.lang.Thread, java.security.AccessController, java.security.Policy, java.io.PrintStream, java.net.URLStreamHandler, java.security.AccessControlContext, java.util.HashMap, java.security.CodeSource, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, java.net.URL, java.security.ProtectionDomain, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, java.security.SecureClassLoader]

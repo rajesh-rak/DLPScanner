@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	275816
+NH Depth:	35
+NH Density:	29
+Classes	: [java.util.Currency, java.util.Properties, sun.util.calendar.CalendarSystem, java.net.URLConnection, sun.util.LocaleServiceProviderPool, java.net.URLStreamHandler, sun.util.CoreResourceBundleControl, sun.util.calendar.ZoneInfo, java.util.regex.Pattern, java.util.Formatter, java.text.DecimalFormatSymbols, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore, sun.util.calendar.BaseCalendar, java.util.SimpleTimeZone, java.util.Hashtable, sun.misc.URLClassPath, java.lang.String, java.util.Date, java.lang.ClassLoader, java.lang.reflect.Proxy, sun.util.calendar.LocalGregorianCalendar, java.io.ObjectInputStream, java.text.BreakIterator, sun.net.util.IPAddressUtil, java.net.URL, java.util.logging.Logger, java.lang.ConditionalSpecialCasing, sun.font.FontFamily]

@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	3859
+NH Depth:	13
+NH Density:	12
+Classes	: [java.util.XMLUtils, java.util.Properties, java.net.URL, java.util.Hashtable, com.sun.corba.se.impl.encoding.CDRInputStream_1_0, java.net.URI, sun.misc.VM, javax.xml.parsers.DocumentBuilderFactory, com.sun.corba.se.impl.util.Utility, java.lang.System, java.lang.ClassLoader, javax.xml.parsers.FactoryFinder]

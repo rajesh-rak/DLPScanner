@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	22170
+NH Depth:	17
+NH Density:	22
+Classes	: [java.util.Currency, com.sun.corba.se.impl.logging.ActivationSystemException, java.util.Properties, sun.misc.VMSupport, java.util.Hashtable, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, sun.font.FontManager, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, java.lang.String, sun.util.LocaleServiceProviderPool, com.sun.corba.se.impl.resolver.FileResolverImpl, java.io.ObjectInputStream, com.sun.corba.se.impl.orb.DataCollectorBase, java.text.BreakIterator, java.util.logging.Logger, java.util.Locale, com.sun.corba.se.impl.orb.AppletDataCollector, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.JceKeyStore]

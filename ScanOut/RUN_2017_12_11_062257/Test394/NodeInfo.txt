@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	232492
+NH Depth:	38
+NH Density:	15
+Classes	: [java.net.InetAddress, sun.misc.URLClassPath, sun.util.LocaleServiceProviderPool, java.lang.String, java.net.URLStreamHandler, java.lang.ClassLoader, sun.util.CoreResourceBundleControl, sun.net.www.MimeLauncher, java.text.BreakIterator, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.net.URL, java.util.logging.Logger, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle]

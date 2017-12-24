@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	124746
+NH Depth:	37
+NH Density:	31
+Classes	: [java.util.Properties, sun.util.calendar.CalendarSystem, sun.security.x509.CertificateValidity, sun.reflect.annotation.AnnotationParser, sun.security.validator.SimpleValidator, java.lang.reflect.Method, javax.crypto.Cipher, javax.crypto.SunJCE_b, java.security.Signature, javax.crypto.SunJCE_c, sun.util.calendar.ZoneInfo, sun.reflect.annotation.AnnotationType, javax.crypto.SunJCE_h, javax.management.MBeanOperationInfo, sun.security.x509.X509CertImpl, java.lang.Class, com.sun.jmx.mbeanserver.Introspector, com.sun.xml.internal.ws.handler.HandlerChainsModel, sun.security.validator.Validator, javax.management.MBeanConstructorInfo, sun.util.calendar.BaseCalendar, java.util.SimpleTimeZone, javax.xml.transform.TransformerFactory, sun.security.validator.EndEntityChecker, java.util.Hashtable, javax.xml.transform.FactoryFinder, java.util.Date, sun.security.x509.X509CertInfo, sun.util.calendar.LocalGregorianCalendar, java.util.XMLUtils, sun.util.calendar.AbstractCalendar]

@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	86273
+NH Depth:	38
+NH Density:	27
+Classes	: [java.util.jar.JavaUtilJarAccessImpl, sun.security.pkcs.PKCS9Attributes, java.util.jar.JarVerifier, java.lang.SecurityManager, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, com.sun.crypto.provider.SunJCE_b, java.security.Security, sun.security.pkcs.SigningCertificateInfo, java.lang.Class, java.util.zip.ZipFile, java.util.jar.JarFile, com.sun.crypto.provider.JceKeyStore, sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, java.security.Permissions, java.net.InetAddress, sun.security.util.SignatureFileVerifier, java.util.Hashtable, java.security.Policy, com.sun.crypto.provider.SunJCE, java.security.AccessControlContext, java.security.ProtectionDomain, sun.security.pkcs.PKCS7, sun.security.x509.IPAddressName, sun.security.jca.GetInstance, sun.security.pkcs.SignerInfo]

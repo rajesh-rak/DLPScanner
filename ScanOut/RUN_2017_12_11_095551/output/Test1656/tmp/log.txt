@@ -1,0 +1,40 @@
+................................
+Time: 0.101
+
+OK (32 tests)
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 20870
+Exiting analysis
+ 2017 12:43:30 PM  -1.0
+INFO: 
+Dec 11, 2017 12:43:30 PM java.util.logging.LogManager$RootLogger log
+INFO: hi!
+Dec 11, 2017 12:43:30 PM  -1.0
+INFO: 
+Dec 11, 2017 12:43:30 PM a4  hi!
+INFO: 
+Dec 11, 2017 12:43:30 PM RandoopTest0 test16
+INFO: -1.0
+Dec 11, 2017 12:43:30 PM java.util.logging.LogManager$RootLogger log
+INFO: hi!
+Dec 11, 2017 12:43:30 PM  -1.0
+INFO: 
+Dec 11, 2017 12:43:30 PM java.util.logging.LogManager$RootLogger log
+INFO: hi!
+Dec 11, 2017 12:43:30 PM hi! hi!
+INFO: hi!
+Dec 11, 2017 12:43:30 PM java.util.logging.LogManager$RootLogger log
+INFO: hi!
+Dec 11, 2017 12:43:30 PM  -1.0
+INFO: 
+Dec 11, 2017 12:43:30 PM a4  -1.0
+INFO: -1.0
+Dec 11, 2017 12:43:30 PM java.util.logging.LogManager$RootLogger log
+INFO: hi!
+Dec 11, 2017 12:43:30 PM  -1.0
+INFO: 

@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	801
+NH Depth:	23
+NH Density:	22
+Classes	: [sun.security.util.Debug, java.util.Currency, java.net.InetAddress, java.lang.SecurityManager, java.net.URLClassLoader, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.lang.System, java.security.AccessControlContext, java.net.SocketPermission, java.net.Inet6Address, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.math.BigDecimal, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, java.security.SecureClassLoader, java.net.NetworkInterface]

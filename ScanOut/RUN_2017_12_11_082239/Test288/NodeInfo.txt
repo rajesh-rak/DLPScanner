@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	48605
+NH Depth:	17
+NH Density:	19
+Classes	: [sun.awt.X11.XEmbedHelper, java.util.Currency, sun.security.util.Debug, sun.awt.X11.XToolkit, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, com.sun.jndi.ldap.NamingEventNotifier, java.security.AccessControlContext, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, java.lang.Exception, java.lang.Throwable, java.math.BigDecimal, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.jndi.ldap.EventSupport]

@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	31472
+NH Depth:	32
+NH Density:	32
+Classes	: [java.util.jar.JavaUtilJarAccessImpl, java.util.jar.JarVerifier, com.sun.corba.se.impl.protocol.SharedCDRClientRequestDispatcherImpl, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, sun.util.LocaleServiceProviderPool, com.sun.crypto.provider.SunJCE_z, java.util.logging.Logging, javax.crypto.SunJCE_b, com.sun.corba.se.impl.protocol.CorbaClientRequestDispatcherImpl, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, java.util.zip.ZipFile, java.util.jar.JarFile, com.sun.crypto.provider.JceKeyStore, com.sun.corba.se.spi.servicecontext.ServiceContexts, sun.security.util.SignatureFileVerifier, com.sun.corba.se.impl.encoding.BufferManagerFactory, java.util.Hashtable, sun.security.x509.AVA, java.lang.String, java.util.jar.Manifest, sun.security.x509.RDN, sun.security.x509.X500Name, java.util.jar.Attributes, java.text.BreakIterator, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, sun.security.pkcs.PKCS7, java.lang.ConditionalSpecialCasing, com.sun.jmx.trace.TraceManager, sun.security.pkcs.SignerInfo]

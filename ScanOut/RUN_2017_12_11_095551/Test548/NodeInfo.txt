@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	20652
+NH Depth:	36
+NH Density:	19
+Classes	: [sun.jkernel.DownloadManager, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, com.sun.xml.internal.messaging.saaj.soap.SOAPFactoryImpl, sun.util.LocaleServiceProviderPool, java.lang.String, sun.misc.URLClassPath, java.net.URLStreamHandler, java.lang.ClassLoader, sun.util.CoreResourceBundleControl, java.text.BreakIterator, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, java.lang.Class, sun.awt.FontConfiguration, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle]

@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	7713
+NH Depth:	41
+NH Density:	35
+Classes	: [java.security.CodeSigner, sun.util.calendar.CalendarSystem, java.lang.SecurityManager, java.lang.reflect.Method, java.lang.StringBuilder, java.security.AccessController, javax.swing.text.AsyncBoxView, java.lang.System, java.util.HashMap, java.security.CodeSource, java.io.ObjectStreamClass, sun.util.calendar.ZoneInfo, java.io.ObjectOutputStream, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Class, java.security.Timestamp, com.sun.naming.internal.ResourceManager, java.security.SecureClassLoader, sun.util.calendar.BaseCalendar, java.security.Permissions, java.net.InetAddress, java.util.SimpleTimeZone, java.net.URLClassLoader, java.lang.String, java.security.Policy, java.util.Date, javax.swing.text.LayoutQueue, java.net.SocketPermission, java.security.AccessControlContext, java.net.Inet6Address, sun.awt.AppContext, sun.reflect.Reflection, java.security.ProtectionDomain, sun.util.calendar.AbstractCalendar, java.net.NetworkInterface]

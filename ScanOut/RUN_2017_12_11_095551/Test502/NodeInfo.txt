@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	4455
+NH Depth:	30
+NH Density:	17
+Classes	: [com.sun.jndi.ldap.pool.Pool, com.sun.jndi.ldap.DigestClientId, java.util.Map, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, com.sun.xml.internal.ws.server.WSEndpointImpl, java.lang.reflect.Method, java.security.AccessController, java.security.Policy, com.sun.jndi.ldap.ClientId, java.security.AccessControlContext, sun.reflect.Reflection, java.security.ProtectionDomain, java.util.WeakHashMap, java.lang.Class, com.sun.jndi.ldap.SimpleClientId, java.lang.Enum]

@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	69842
+NH Depth:	29
+NH Density:	30
+Classes	: [java.util.Currency, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, com.sun.xml.internal.ws.server.WSEndpointImpl, java.lang.Thread, java.lang.reflect.Method, java.security.AccessController, java.io.PrintStream, java.util.regex.Pattern, javax.management.MBeanOperationInfo, java.lang.Throwable, com.sun.jmx.mbeanserver.Introspector, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore, sun.security.util.Debug, java.net.URLClassLoader, java.util.Hashtable, java.lang.String, java.security.AccessControlContext, java.net.SocketPermission, java.io.ObjectInputStream, sun.reflect.Reflection, sun.net.util.IPAddressUtil, java.lang.Exception, java.math.BigDecimal, java.lang.ConditionalSpecialCasing, java.lang.Enum]

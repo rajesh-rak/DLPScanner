@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	33003
+NH Depth:	23
+NH Density:	20
+Classes	: [sun.security.util.Debug, java.lang.SecurityManager, java.util.Hashtable, java.lang.Thread, java.security.Policy, java.security.AccessController, java.io.PrintStream, java.security.AccessControlContext, java.lang.reflect.Proxy, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, java.io.ObjectInputStream, java.security.ProtectionDomain, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.math.BigDecimal, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, sun.rmi.server.Util]

@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	5863
+NH Depth:	41
+NH Density:	25
+Classes	: [java.util.TimeZone, java.lang.reflect.Constructor, java.util.Map, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.lang.StringBuilder, java.io.PrintStream, java.util.concurrent.locks.AbstractQueuedSynchronizer, sun.security.provider.PolicyFile, java.util.concurrent.locks.ReentrantLock, java.lang.Throwable, java.lang.Class, sun.security.util.Debug, sun.rmi.server.UnicastServerRef, java.security.Permissions, java.security.UnresolvedPermission, java.security.Policy, java.lang.String, java.util.Date, java.security.AccessControlContext, java.util.concurrent.ConcurrentHashMap, sun.reflect.Reflection, java.security.ProtectionDomain, java.lang.Exception]

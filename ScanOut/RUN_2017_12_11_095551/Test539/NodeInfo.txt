@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	16750
+NH Depth:	26
+NH Density:	29
+Classes	: [java.util.Currency, java.util.Properties, java.lang.SecurityManager, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, java.lang.Thread, sun.util.LocaleServiceProviderPool, java.security.AccessController, java.io.PrintStream, java.util.logging.Logging, sun.security.provider.JavaKeyStore, java.security.Security, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, sun.security.x509.AlgorithmId, sun.security.util.Debug, java.security.AlgorithmParameters, java.security.MessageDigest, java.util.Hashtable, java.security.AccessControlContext, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, java.lang.Exception, java.math.BigDecimal, sun.awt.FontConfiguration, java.security.cert.CertificateFactory, sun.security.jca.GetInstance]

@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	27450
+NH Depth:	38
+NH Density:	18
+Classes	: [java.security.Permissions, java.net.InetAddress, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, java.net.SocketPermission, java.security.AccessControlContext, java.lang.reflect.Proxy, java.security.UnresolvedPermissionCollection, java.net.Inet6Address, java.io.ObjectInputStream, sun.security.provider.PolicyFile, java.security.ProtectionDomain, java.lang.Class, com.sun.crypto.provider.JceKeyStore, sun.rmi.server.Util, java.net.NetworkInterface]

@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	37516
+NH Depth:	38
+NH Density:	16
+Classes	: [java.security.Permissions, java.net.InetAddress, java.lang.SecurityManager, java.lang.Thread, java.security.Policy, java.security.AccessController, javax.swing.text.AsyncBoxView, javax.swing.text.LayoutQueue, java.security.AccessControlContext, java.net.SocketPermission, java.security.UnresolvedPermissionCollection, java.net.Inet6Address, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Class, java.net.NetworkInterface]

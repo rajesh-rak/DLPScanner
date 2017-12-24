@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	123377
+NH Depth:	26
+NH Density:	20
+Classes	: [java.util.TimeZone, java.util.Properties, java.lang.SecurityManager, sun.jkernel.DownloadManager, sun.awt.X11.XWindowPeer, sun.misc.URLClassPath, java.security.AccessController, java.security.Policy, sun.util.LocaleServiceProviderPool, java.util.Date, java.lang.System, java.lang.ClassLoader, sun.util.TimeZoneNameUtility, java.security.AccessControlContext, java.net.URL, java.util.logging.Logger, java.security.ProtectionDomain, com.sun.naming.internal.ResourceManager, java.util.ResourceBundle, sun.net.www.MimeTable]

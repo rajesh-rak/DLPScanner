@@ -1,0 +1,14 @@
+com.sun.org.apache.xerces.internal.jaxp.datatype.DatatypeFactoryImpl
+java.util.Calendar
+java.util.Properties
+sun.util.calendar.CalendarSystem
+java.lang.SecurityManager
+java.security.Policy
+java.security.AccessController
+java.util.Date
+java.security.AccessControlContext
+java.util.GregorianCalendar
+java.security.ProtectionDomain
+java.lang.Class
+com.sun.naming.internal.ResourceManager
+sun.net.www.MimeTable

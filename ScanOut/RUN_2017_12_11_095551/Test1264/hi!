@@ -1,0 +1,13 @@
+
+Progress update: test inputs generated=50, failing inputs=0      (Mon Dec 11 05:27:59 GMT+00:00 2017)
+Normal method executions:390
+Exceptional method executions:9
+
+Average method execution time (normal termination):     0.192
+Average method execution time (exceptional termination):2.58
+
+Creating Junit tests (50 tests)...13 subsumed tests removed
+Writing 37 junit tests
+
+Created file: /Users/rajesh/code/DLPScanner/ScanOut/RUN_2017_12_11_095551/Test1264/RandoopTest0.java
+Created file: /Users/rajesh/code/DLPScanner/ScanOut/RUN_2017_12_11_095551/Test1264/RandoopTest.java

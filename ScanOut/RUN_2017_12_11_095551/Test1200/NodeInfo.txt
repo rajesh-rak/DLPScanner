@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	32012
+NH Depth:	27
+NH Density:	20
+Classes	: [sun.security.util.Debug, java.awt.KeyboardFocusManager, javax.swing.plaf.basic.BasicComboPopup, sun.rmi.transport.tcp.TCPEndpoint, java.awt.LightweightDispatcher, java.util.Hashtable, java.security.AccessController, java.io.PrintStream, java.security.AccessControlContext, java.awt.ScrollPane, java.lang.reflect.Proxy, java.awt.EventQueue, java.io.ObjectInputStream, java.awt.Component, sun.rmi.transport.tcp.TCPTransport, java.math.BigDecimal, java.util.Formatter, java.text.DecimalFormatSymbols, java.awt.Container, com.sun.crypto.provider.JceKeyStore]

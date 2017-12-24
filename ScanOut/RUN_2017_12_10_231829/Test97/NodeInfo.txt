@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	16857
+NH Depth:	24
+NH Density:	15
+Classes	: [java.awt.KeyboardFocusManager, java.awt.Window, javax.swing.PopupFactory, java.net.URLClassLoader, sun.rmi.transport.tcp.TCPEndpoint, javax.swing.Popup, java.lang.Package, java.lang.ClassLoader, sun.awt.AppContext, java.awt.EventQueue, java.awt.Component, javax.swing.ToolTipManager, sun.rmi.transport.tcp.TCPTransport, sun.awt.SunToolkit, java.awt.Dialog]

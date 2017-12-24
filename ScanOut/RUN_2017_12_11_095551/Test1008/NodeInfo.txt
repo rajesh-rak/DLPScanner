@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	107781
+NH Depth:	17
+NH Density:	26
+Classes	: [java.util.jar.JavaUtilJarAccessImpl, java.util.jar.JarVerifier, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, java.io.PrintStream, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, java.lang.Throwable, java.util.Formatter, java.text.DecimalFormatSymbols, java.util.zip.ZipFile, java.util.jar.JarFile, com.sun.crypto.provider.JceKeyStore, sun.security.util.Debug, sun.security.util.SignatureFileVerifier, java.util.Hashtable, sun.awt.X11.XWindowPeer, java.util.jar.Manifest, java.lang.ClassLoader, java.util.jar.Attributes, java.security.AccessControlContext, java.util.logging.Logger, java.lang.Exception]

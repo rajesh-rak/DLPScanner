@@ -1,0 +1,4 @@
+sun.awt.AppContext
+java.lang.Thread
+sun.applet.AppletViewer
+java.lang.ThreadGroup

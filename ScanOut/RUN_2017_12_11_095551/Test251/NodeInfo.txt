@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	65044
+NH Depth:	31
+NH Density:	25
+Classes	: [java.util.Currency, java.security.Permissions, java.lang.SecurityManager, com.sun.jmx.mbeanserver.StandardMBeanSupport, java.util.Hashtable, java.lang.reflect.Method, java.security.AccessController, java.security.Policy, java.lang.String, java.lang.System, java.security.AccessControlContext, java.lang.reflect.Proxy, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, java.io.ObjectStreamClass, java.io.ObjectInputStream, sun.reflect.Reflection, java.io.ObjectOutputStream, java.security.ProtectionDomain, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, java.beans.beancontext.BeanContextSupport]

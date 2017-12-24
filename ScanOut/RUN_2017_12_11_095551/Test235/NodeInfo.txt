@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	60782
+NH Depth:	35
+NH Density:	25
+Classes	: [sun.security.util.Debug, java.lang.reflect.Constructor, java.security.Permissions, java.security.UnresolvedPermission, java.lang.SecurityManager, java.lang.Thread, java.lang.reflect.Method, sun.util.LocaleServiceProviderPool, java.security.Policy, java.security.AccessController, java.io.PrintStream, java.lang.ClassLoader, java.security.AccessControlContext, java.io.ObjectStreamClass, com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl, sun.reflect.Reflection, java.io.ObjectOutputStream, java.util.logging.Logger, java.security.ProtectionDomain, java.lang.Exception, java.lang.Throwable, sun.rmi.server.LoaderHandler, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols]

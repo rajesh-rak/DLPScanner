@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	116118
+NH Depth:	22
+NH Density:	14
+Classes	: [java.io.ObjectInputStream, java.awt.KeyboardFocusManager, java.awt.Component, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.awt.Window, sun.rmi.transport.tcp.TCPEndpoint, java.util.Hashtable, sun.rmi.transport.tcp.TCPTransport, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, java.awt.Dialog, com.sun.crypto.provider.JceKeyStore, java.lang.reflect.Proxy]

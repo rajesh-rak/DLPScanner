@@ -1,0 +1,13 @@
+java.util.XMLUtils
+java.util.Properties
+java.lang.SecurityManager
+java.security.ProtectionDomain
+javax.xml.transform.TransformerFactory
+javax.xml.transform.FactoryFinder
+sun.misc.VM
+java.security.AccessController
+java.security.Policy
+com.sun.naming.internal.ResourceManager
+java.lang.System
+java.lang.ClassLoader
+java.security.AccessControlContext

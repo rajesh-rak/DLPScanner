@@ -1,0 +1,14 @@
+java.util.Currency
+java.net.URLClassLoader
+java.util.Hashtable
+java.lang.String
+java.net.SocketPermission
+java.lang.reflect.Proxy
+java.io.ObjectInputStream
+java.util.regex.Pattern
+sun.net.util.IPAddressUtil
+java.util.Formatter
+java.text.DecimalFormatSymbols
+java.lang.ConditionalSpecialCasing
+java.security.SecureClassLoader
+com.sun.crypto.provider.JceKeyStore

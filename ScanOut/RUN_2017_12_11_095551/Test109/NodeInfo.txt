@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	24601
+NH Depth:	35
+NH Density:	18
+Classes	: [sun.rmi.transport.tcp.ConnectionAcceptor, java.security.Permissions, java.lang.SecurityManager, java.lang.reflect.Method, java.lang.Thread, java.security.Policy, java.security.AccessController, com.sun.jmx.snmp.daemon.CommunicatorServer, java.security.AccessControlContext, java.io.ObjectStreamClass, sun.awt.AppContext, sun.reflect.Reflection, com.sun.corba.se.impl.orbutil.threadpool.ThreadPoolManagerImpl, java.io.ObjectOutputStream, java.security.ProtectionDomain, sun.rmi.server.LoaderHandler, java.lang.Class, java.lang.ThreadGroup]

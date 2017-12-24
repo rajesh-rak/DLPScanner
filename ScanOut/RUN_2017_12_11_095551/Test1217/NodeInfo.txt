@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	38033
+NH Depth:	28
+NH Density:	29
+Classes	: [sun.swing.plaf.synth.SynthFileChooserUI, sun.awt.X11.XEmbedHelper, java.util.Currency, java.awt.Window, java.lang.SecurityManager, java.lang.Thread, java.lang.reflect.Method, java.security.AccessController, java.io.PrintStream, java.io.ObjectStreamClass, java.io.ObjectOutputStream, java.util.Vector, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, sun.awt.image.ImageFetcher, sun.security.util.Debug, sun.awt.X11.XToolkit, java.security.Policy, java.security.AccessControlContext, javax.swing.plaf.basic.BasicDirectoryModel, javax.swing.JFileChooser, sun.reflect.Reflection, java.security.ProtectionDomain, javax.swing.filechooser.FileSystemView, java.lang.Exception, java.io.File, java.math.BigDecimal]

@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	58732
+NH Depth:	35
+NH Density:	27
+Classes	: [java.lang.SecurityManager, java.util.logging.LogManager, java.lang.reflect.Method, sun.awt.X11.XComponentPeer, java.security.AccessController, sun.util.LocaleServiceProviderPool, javax.swing.text.AsyncBoxView, java.io.ObjectStreamClass, java.io.ObjectOutputStream, java.util.regex.Pattern, java.lang.Class, java.security.SecureClassLoader, java.security.Permissions, java.net.URLClassLoader, java.security.Policy, java.lang.String, java.lang.ClassLoader, javax.swing.text.LayoutQueue, java.security.AccessControlContext, java.net.SocketPermission, sun.awt.AppContext, sun.reflect.Reflection, java.text.BreakIterator, sun.net.util.IPAddressUtil, java.security.ProtectionDomain, java.util.logging.Logger, java.lang.ConditionalSpecialCasing]

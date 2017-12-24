@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	71351
+NH Depth:	17
+NH Density:	18
+Classes	: [sun.awt.X11.XEmbedHelper, sun.security.util.Debug, java.util.Currency, sun.awt.X11.XToolkit, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.security.AccessControlContext, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, java.lang.Exception, java.lang.Throwable, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.jndi.ldap.EventSupport, sun.awt.X11.XEmbedServerTester]

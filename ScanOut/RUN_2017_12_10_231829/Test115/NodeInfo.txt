@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	21729
+NH Depth:	25
+NH Density:	18
+Classes	: [com.sun.org.apache.xml.internal.res.XMLErrorResources_sk, java.util.TimeZone, sun.util.calendar.BaseCalendar, sun.rmi.server.UnicastServerRef, java.net.URLConnection, java.util.SimpleTimeZone, sun.util.LocaleServiceProviderPool, java.lang.String, java.lang.StringBuilder, com.sun.java.util.jar.pack.PackerImpl, java.io.PrintStream, java.util.Date, sun.util.TimeZoneNameUtility, sun.util.calendar.ZoneInfoFile, java.awt.Component, sun.util.calendar.ZoneInfo, java.util.logging.Logger, java.util.ResourceBundle]

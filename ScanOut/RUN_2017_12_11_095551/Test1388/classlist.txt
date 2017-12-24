@@ -1,0 +1,9 @@
+sun.awt.X11.XEmbedClientHelper
+sun.awt.X11.XEmbedHelper
+javax.swing.text.DefaultStyledDocument
+sun.awt.X11.XToolkit
+java.util.Vector
+sun.awt.X11.XEmbedChildProxyPeer
+sun.rmi.server.Util
+sun.awt.X11.XEmbeddingContainer
+java.lang.reflect.Proxy

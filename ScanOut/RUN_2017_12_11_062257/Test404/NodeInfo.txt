@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	271770
+NH Depth:	24
+NH Density:	21
+Classes	: [sun.security.pkcs.PKCS9Attributes, java.util.Properties, java.util.jar.JarVerifier, java.net.InetAddress, sun.security.util.SignatureFileVerifier, java.util.Hashtable, java.lang.String, com.sun.crypto.provider.SunJCE_z, java.lang.System, sun.misc.JarIndex, com.sun.crypto.provider.SunJCE, com.sun.crypto.provider.SunJCE_b, com.sun.corba.se.impl.activation.ServerManagerImpl, sun.security.pkcs.PKCS7, sun.security.pkcs.SigningCertificateInfo, sun.security.x509.IPAddressName, java.lang.ConditionalSpecialCasing, java.util.zip.ZipFile, java.util.jar.JarFile, sun.font.FontFamily, com.sun.crypto.provider.JceKeyStore]

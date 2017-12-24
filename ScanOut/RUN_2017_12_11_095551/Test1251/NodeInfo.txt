@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	48261
+NH Depth:	22
+NH Density:	17
+Classes	: [java.net.URLClassLoader, java.util.Hashtable, com.sun.naming.internal.FactoryEnumeration, java.lang.String, javax.swing.text.AsyncBoxView, javax.swing.text.LayoutQueue, java.net.SocketPermission, sun.rmi.transport.proxy.RMIMasterSocketFactory, sun.awt.AppContext, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.util.Vector, java.lang.ConditionalSpecialCasing, javax.naming.ldap.ControlFactory, java.security.SecureClassLoader]

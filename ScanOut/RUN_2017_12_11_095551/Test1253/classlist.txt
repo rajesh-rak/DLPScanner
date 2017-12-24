@@ -1,0 +1,14 @@
+java.security.Permissions
+java.lang.SecurityManager
+java.util.Hashtable
+java.lang.Thread
+java.security.Policy
+java.security.AccessController
+com.sun.jndi.ldap.NamingEventNotifier
+java.security.AccessControlContext
+sun.rmi.transport.proxy.RMIMasterSocketFactory
+com.sun.jndi.ldap.LdapClient
+com.sun.jndi.ldap.LdapCtx
+java.util.Vector
+java.security.ProtectionDomain
+com.sun.jndi.ldap.EventSupport

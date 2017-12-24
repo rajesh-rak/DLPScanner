@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	27205
+NH Depth:	22
+NH Density:	18
+Classes	: [sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, java.util.jar.JavaUtilJarAccessImpl, java.util.jar.JarVerifier, sun.security.util.SignatureFileVerifier, java.util.Hashtable, com.sun.crypto.provider.SunJCE_z, java.lang.ClassLoader, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.security.Security, javax.crypto.SunJCE_h, sun.security.pkcs.PKCS7, sun.security.jca.GetInstance, java.util.zip.ZipFile, java.util.jar.JarFile, com.sun.crypto.provider.JceKeyStore, sun.security.pkcs.SignerInfo]

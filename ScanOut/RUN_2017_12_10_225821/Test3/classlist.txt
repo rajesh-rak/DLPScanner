@@ -1,0 +1,5 @@
+sun.font.FontManager
+sun.font.TrueTypeFont
+sun.font.TrueTypeGlyphMapper
+sun.font.CompositeFont
+sun.font.CompositeGlyphMapper

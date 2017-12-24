@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	51766
+NH Depth:	20
+NH Density:	15
+Classes	: [java.util.TimeZone, java.util.Properties, sun.util.LocaleServiceProviderPool, sun.awt.X11.XComponentPeer, java.util.Date, java.io.PrintStream, sun.util.TimeZoneNameUtility, sun.util.calendar.ZoneInfoFile, sun.util.calendar.ZoneInfo, java.util.logging.Logger, java.util.Formatter, java.math.BigDecimal, java.text.DecimalFormatSymbols, java.util.ResourceBundle, sun.net.www.MimeTable]

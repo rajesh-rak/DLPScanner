@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	61882
+NH Depth:	35
+NH Density:	20
+Classes	: [java.security.Permissions, sun.reflect.annotation.AnnotationParser, java.lang.SecurityManager, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, javax.swing.text.AsyncBoxView, javax.swing.text.LayoutQueue, java.security.AccessControlContext, java.io.ObjectStreamClass, sun.awt.AppContext, javax.swing.text.View, sun.reflect.Reflection, java.io.ObjectOutputStream, java.security.ProtectionDomain, sun.rmi.server.LoaderHandler, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.lang.Enum, java.beans.beancontext.BeanContextSupport]

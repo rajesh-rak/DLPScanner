@@ -1,0 +1,699 @@
+................E...........
+Time: 0.181
+There was 1 error:
+1) test12(RandoopTest0)java.util.zip.ZipException: zip file is empty
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:215)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:145)
+	at java.util.jar.JarFile.<init>(JarFile.java:154)
+	at java.util.jar.JarFile.<init>(JarFile.java:91)
+	at RandoopTest0.test12(RandoopTest0.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 27,  Failures: 0,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 20576
+Exiting analysis
+TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test27
+WARNING: IOR.iorMustHaveIiopProfile
+org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test27(RandoopTest0.java:601)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test27
+WARNING: IOR.badMagic
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1203  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.badMagic(IORSystemException.java:120)
+	at com.sun.corba.se.impl.logging.IORSystemException.badMagic(IORSystemException.java:139)
+	at RandoopTest0.test27(RandoopTest0.java:602)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test27(RandoopTest0.java:601)
+	... 16 more
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test27
+WARNING: IOR.invalidJdk131PatchLevel
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1206  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.invalidJdk131PatchLevel(IORSystemException.java:206)
+	at com.sun.corba.se.impl.logging.IORSystemException.invalidJdk131PatchLevel(IORSystemException.java:229)
+	at RandoopTest0.test27(RandoopTest0.java:603)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test26
+INFO: 
+Dec 11, 2017 2:09:48 PM RandoopTest0 test25
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test25
+WARNING: IOR.stringifyWriteError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1204  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:149)
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:171)
+	at RandoopTest0.test25(RandoopTest0.java:517)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test25
+WARNING: IOR.iorMustHaveIiopProfile
+org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test25(RandoopTest0.java:518)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test25
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test25
+WARNING: IOR.stringifyWriteError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1204  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:149)
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:171)
+	at RandoopTest0.test25(RandoopTest0.java:522)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test25
+WARNING: IOR.iorMustHaveIiopProfile
+org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test25(RandoopTest0.java:523)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test25
+WARNING: IOR.nullPoa
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1202  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.nullPoa(IORSystemException.java:92)
+	at com.sun.corba.se.impl.logging.IORSystemException.nullPoa(IORSystemException.java:110)
+	at RandoopTest0.test25(RandoopTest0.java:524)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test25(RandoopTest0.java:523)
+	... 16 more
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test25
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test25
+WARNING: IOR.stringifyWriteError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1204  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:149)
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:171)
+	at RandoopTest0.test25(RandoopTest0.java:528)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test25
+WARNING: IOR.iorMustHaveIiopProfile
+org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test25(RandoopTest0.java:529)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test25
+WARNING: IOR.badIiopAddressPort
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 1203  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.badIiopAddressPort(IORSystemException.java:440)
+	at com.sun.corba.se.impl.logging.IORSystemException.badIiopAddressPort(IORSystemException.java:463)
+	at RandoopTest0.test25(RandoopTest0.java:530)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test25
+WARNING: IOR.invalidTaggedProfile
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 1202  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.invalidTaggedProfile(IORSystemException.java:412)
+	at com.sun.corba.se.impl.logging.IORSystemException.invalidTaggedProfile(IORSystemException.java:430)
+	at RandoopTest0.test25(RandoopTest0.java:531)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 1203  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.badIiopAddressPort(IORSystemException.java:440)
+	at com.sun.corba.se.impl.logging.IORSystemException.badIiopAddressPort(IORSystemException.java:463)
+	at RandoopTest0.test25(RandoopTest0.java:530)
+	... 16 more
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test22
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test22
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test22
+WARNING: IOR.stringifyWriteError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1204  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:149)
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:171)
+	at RandoopTest0.test22(RandoopTest0.java:440)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test22
+WARNING: IOR.iorMustHaveIiopProfile
+org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test22(RandoopTest0.java:441)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test22
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test22
+WARNING: IOR.stringifyWriteError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1204  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:149)
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:171)
+	at RandoopTest0.test22(RandoopTest0.java:445)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test22
+WARNING: IOR.iorMustHaveIiopProfile
+org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test22(RandoopTest0.java:446)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test22
+WARNING: IOR.nullPoa
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1202  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.nullPoa(IORSystemException.java:92)
+	at com.sun.corba.se.impl.logging.IORSystemException.nullPoa(IORSystemException.java:110)
+	at RandoopTest0.test22(RandoopTest0.java:447)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test22(RandoopTest0.java:446)
+	... 16 more
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test22
+WARNING: IOR.objectAdapterIdNotAvailable
+org.omg.CORBA.BAD_OPERATION:   vmcid: SUN  minor code: 1204  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.objectAdapterIdNotAvailable(IORSystemException.java:352)
+	at com.sun.corba.se.impl.logging.IORSystemException.objectAdapterIdNotAvailable(IORSystemException.java:370)
+	at RandoopTest0.test22(RandoopTest0.java:448)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test22(RandoopTest0.java:446)
+	... 16 more
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test17
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test17
+WARNING: IOR.stringifyWriteError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1204  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:149)
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:171)
+	at RandoopTest0.test17(RandoopTest0.java:308)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test17
+WARNING: IOR.nullPoa
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1202  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.nullPoa(IORSystemException.java:92)
+	at com.sun.corba.se.impl.logging.IORSystemException.nullPoa(IORSystemException.java:114)
+	at RandoopTest0.test17(RandoopTest0.java:309)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test17
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test17
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test17
+WARNING: IOR.stringifyWriteError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1204  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:149)
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:171)
+	at RandoopTest0.test17(RandoopTest0.java:316)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test17
+WARNING: IOR.iorMustHaveIiopProfile
+org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test17(RandoopTest0.java:317)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test17
+WARNING: IOR.badMagic
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1203  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.badMagic(IORSystemException.java:120)
+	at com.sun.corba.se.impl.logging.IORSystemException.badMagic(IORSystemException.java:139)
+	at RandoopTest0.test17(RandoopTest0.java:318)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test17(RandoopTest0.java:317)
+	... 16 more
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test17
+WARNING: IOR.taggedProfileTemplateFactoryNotFound
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1205  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.taggedProfileTemplateFactoryNotFound(IORSystemException.java:177)
+	at com.sun.corba.se.impl.logging.IORSystemException.taggedProfileTemplateFactoryNotFound(IORSystemException.java:196)
+	at RandoopTest0.test17(RandoopTest0.java:319)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.INV_OBJREF:   vmcid: SUN  minor code: 1201  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:473)
+	at com.sun.corba.se.impl.logging.IORSystemException.iorMustHaveIiopProfile(IORSystemException.java:495)
+	at RandoopTest0.test17(RandoopTest0.java:317)
+	... 16 more
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test14
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test14
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test14
+WARNING: IOR.stringifyWriteError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1204  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:149)
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:171)
+	at RandoopTest0.test14(RandoopTest0.java:240)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:09:48 PM RandoopTest0 test11
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test11
+SEVERE: hi!
+Dec 11, 2017 2:09:48 PM RandoopTest0 test11
+WARNING: IOR.stringifyWriteError
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 1204  completed: No
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:149)
+	at com.sun.corba.se.impl.logging.IORSystemException.stringifyWriteError(IORSystemException.java:171)
+	at RandoopTest0.test11(RandoopTest0.java:172)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+

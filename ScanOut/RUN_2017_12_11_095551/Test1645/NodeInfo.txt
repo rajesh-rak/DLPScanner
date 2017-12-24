@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	337
+NH Depth:	21
+NH Density:	15
+Classes	: [com.sun.jndi.ldap.pool.Pool, java.net.InetAddress, java.net.URLClassLoader, java.net.SocksSocketImpl, java.lang.Package, java.net.PlainSocketImpl, java.lang.ClassLoader, java.lang.reflect.Proxy, com.sun.jndi.ldap.pool.PooledConnectionFactory, sun.rmi.transport.ConnectionInputStream, java.net.Socket, com.sun.jndi.ldap.Connection, com.sun.jndi.ldap.LdapClientFactory, sun.rmi.transport.DGCClient, sun.rmi.server.Util]

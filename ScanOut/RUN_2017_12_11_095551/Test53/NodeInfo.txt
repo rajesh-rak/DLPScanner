@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	7793
+NH Depth:	28
+NH Density:	22
+Classes	: [sun.security.util.Debug, java.util.Currency, java.lang.SecurityManager, java.lang.reflect.Method, java.lang.Thread, java.security.AccessController, java.security.Policy, java.io.PrintStream, java.lang.System, java.security.AccessControlContext, java.io.ObjectStreamClass, sun.reflect.Reflection, java.io.ObjectOutputStream, java.security.ProtectionDomain, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, java.beans.beancontext.BeanContextSupport]

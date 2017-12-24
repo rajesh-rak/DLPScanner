@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	2046
+NH Depth:	15
+NH Density:	8
+Classes	: [sun.reflect.misc.MethodUtil, java.net.InetAddress, java.net.URLClassLoader, java.net.URL, java.net.URLStreamHandler, java.security.SecureClassLoader, java.util.HashMap, java.security.CodeSource]

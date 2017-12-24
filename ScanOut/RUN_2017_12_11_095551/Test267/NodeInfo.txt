@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	71202
+NH Depth:	13
+NH Density:	27
+Classes	: [java.util.Currency, java.util.Properties, java.io.PrintStream, java.lang.System, sun.security.provider.JavaKeyStore, java.security.Security, com.sun.corba.se.impl.activation.ServerManagerImpl, java.security.SecureRandom, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, com.sun.net.ssl.internal.ssl.JsseJce, sun.security.x509.AlgorithmId, sun.security.util.Debug, java.security.AlgorithmParameters, java.security.MessageDigest, sun.font.FontManager, java.util.Hashtable, java.lang.String, sun.security.jca.ProviderList, sun.security.provider.KeyProtector, java.security.Provider, java.security.cert.CertPathBuilder, java.lang.ConditionalSpecialCasing, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, sun.font.FontFamily]

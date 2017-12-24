@@ -1,0 +1,16 @@
+java.lang.reflect.Constructor
+java.security.Permissions
+java.security.UnresolvedPermission
+java.net.InetAddress
+java.lang.SecurityManager
+sun.security.provider.PolicySpiFile
+java.security.Policy
+java.security.AccessController
+java.security.AccessControlContext
+java.net.SocketPermission
+java.net.Inet6Address
+sun.reflect.Reflection
+java.security.ProtectionDomain
+sun.security.provider.PolicyFile
+java.lang.Class
+java.net.NetworkInterface

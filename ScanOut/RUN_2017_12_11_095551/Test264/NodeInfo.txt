@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	70033
+NH Depth:	29
+NH Density:	27
+Classes	: [java.util.Currency, java.util.Properties, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.lang.reflect.Method, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.lang.System, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, sun.security.util.Debug, sun.font.FontManager, java.util.Hashtable, java.lang.String, java.security.AccessControlContext, java.io.ObjectInputStream, sun.reflect.Reflection, java.lang.Exception, java.lang.ConditionalSpecialCasing, sun.font.FontFamily, java.lang.Enum]

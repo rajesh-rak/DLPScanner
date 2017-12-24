@@ -1,0 +1,49 @@
+....E.................E..E.........
+Time: 0.453
+There were 3 errors:
+1) test29(RandoopTest0)java.lang.NullPointerException
+	at javax.swing.plaf.basic.BasicComboBoxUI.getAccessibleChildrenCount(BasicComboBoxUI.java:1042)
+	at RandoopTest0.test29(RandoopTest0.java:489)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test12(RandoopTest0)java.lang.NullPointerException
+	at sun.font.FontDesignMetrics.getDefaultFrc(FontDesignMetrics.java:153)
+	at sun.font.FontDesignMetrics.getMetrics(FontDesignMetrics.java:278)
+	at sun.swing.SwingUtilities2.getFontMetrics(SwingUtilities2.java:1030)
+	at javax.swing.JComponent.getFontMetrics(JComponent.java:1625)
+	at javax.swing.plaf.basic.BasicGraphicsUtils.getPreferredButtonSize(BasicGraphicsUtils.java:276)
+	at com.apple.laf.AquaButtonUI.getPreferredSize(AquaButtonUI.java:443)
+	at com.apple.laf.AquaButtonUI.getMinimumSize(AquaButtonUI.java:431)
+	at javax.swing.JComponent.getMinimumSize(JComponent.java:1743)
+	at RandoopTest0.test12(RandoopTest0.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test10(RandoopTest0)java.lang.NullPointerException
+	at sun.font.FontDesignMetrics.getDefaultFrc(FontDesignMetrics.java:153)
+	at sun.font.FontDesignMetrics.getMetrics(FontDesignMetrics.java:278)
+	at sun.swing.SwingUtilities2.getFontMetrics(SwingUtilities2.java:1030)
+	at javax.swing.JComponent.getFontMetrics(JComponent.java:1625)
+	at javax.swing.plaf.basic.BasicGraphicsUtils.getPreferredButtonSize(BasicGraphicsUtils.java:276)
+	at com.apple.laf.AquaButtonUI.getPreferredSize(AquaButtonUI.java:443)
+	at com.apple.laf.AquaButtonUI.getMinimumSize(AquaButtonUI.java:431)
+	at javax.swing.JComponent.getMinimumSize(JComponent.java:1743)
+	at RandoopTest0.test10(RandoopTest0.java:157)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 32,  Failures: 0,  Errors: 3
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 26676
+Exiting analysis

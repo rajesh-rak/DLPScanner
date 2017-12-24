@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	47777
+NH Depth:	10
+NH Density:	16
+Classes	: [java.net.URLClassLoader, java.util.Hashtable, java.lang.String, java.net.URLStreamHandler, java.util.HashMap, java.security.CodeSource, sun.net.www.MimeLauncher, sun.rmi.transport.proxy.RMIMasterSocketFactory, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, java.net.URL, java.lang.ConditionalSpecialCasing, com.sun.naming.internal.ResourceManager, javax.naming.ldap.ControlFactory, java.security.SecureClassLoader]

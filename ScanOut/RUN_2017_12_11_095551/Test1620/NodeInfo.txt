@@ -1,0 +1,5 @@
+File:		zb22
+Line No:	6056
+NH Depth:	42
+NH Density:	37
+Classes	: [java.util.Currency, java.security.CodeSigner, sun.util.calendar.CalendarSystem, java.lang.SecurityManager, java.lang.Thread, java.lang.StringBuilder, java.security.AccessController, java.io.PrintStream, java.util.HashMap, java.security.CodeSource, sun.util.calendar.ZoneInfo, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, java.security.Timestamp, com.sun.naming.internal.ResourceManager, java.security.SecureClassLoader, com.sun.jmx.mbeanserver.MXBeanIntrospector, sun.util.calendar.BaseCalendar, sun.security.util.Debug, sun.reflect.misc.MethodUtil, java.net.InetAddress, java.util.SimpleTimeZone, java.net.URLClassLoader, java.lang.String, java.security.Policy, java.util.Date, javax.management.MBeanServerInvocationHandler, java.security.AccessControlContext, java.net.SocketPermission, java.net.Inet6Address, java.security.ProtectionDomain, java.lang.Exception, sun.util.calendar.AbstractCalendar, com.sun.jmx.mbeanserver.MBeanAnalyzer, java.net.NetworkInterface]

@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	3872
+NH Depth:	16
+NH Density:	13
+Classes	: [java.util.TimeZone, java.util.Properties, com.sun.corba.se.impl.logging.ActivationSystemException, java.util.logging.Logger, java.util.Locale, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, sun.awt.X11.XComponentPeer, sun.util.LocaleServiceProviderPool, java.util.Date, java.util.ResourceBundle, sun.util.TimeZoneNameUtility, sun.net.www.MimeTable]

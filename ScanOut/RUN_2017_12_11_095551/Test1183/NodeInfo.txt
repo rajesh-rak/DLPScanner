@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	29109
+NH Depth:	21
+NH Density:	15
+Classes	: [java.util.TimeZone, java.util.Properties, java.util.Hashtable, sun.jkernel.DownloadManager, sun.util.LocaleServiceProviderPool, sun.awt.X11.XComponentPeer, java.util.Date, java.lang.System, java.lang.ClassLoader, sun.util.TimeZoneNameUtility, sun.util.CoreResourceBundleControl, com.sun.org.apache.xml.internal.res.XMLErrorResources, java.util.logging.Logger, java.util.ResourceBundle, sun.net.www.MimeTable]

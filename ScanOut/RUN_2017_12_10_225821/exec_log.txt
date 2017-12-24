@@ -1,0 +1,27 @@
+Execution Summary
+-----------------
+Source Folder:	/Users/rajesh/code/DLPScanner/cycles/k*
+Output Folder:	/Users/rajesh/code/DLPScanner/ScanOut
+Neighbourhood Depth:	20
+Neighbourhood Density:	20
+Total Files Processed:	2
+Total Lines Processed:	39,997
+Total Nodes Processed:	227
+Total Nodes Selected:	53
+Total Duplicates:	29
+Total Processing Time:	529ms
+-------------------------------------
+File:			k26.xml
+Lines Processed:	37,166
+Nodes Processed:	190
+Nodes Selected:		46
+Duplicates skipped:	4
+Processed in: 		453ms
+------
+File:			kkzb.xml
+Lines Processed:	2,831
+Nodes Processed:	37
+Nodes Selected:		7
+Duplicates skipped:	25
+Processed in: 		72ms
+------

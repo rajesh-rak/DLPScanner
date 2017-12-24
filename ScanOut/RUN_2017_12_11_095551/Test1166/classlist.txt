@@ -1,0 +1,16 @@
+sun.rmi.transport.tcp.ConnectionAcceptor
+java.security.Permissions
+java.lang.SecurityManager
+java.lang.reflect.Method
+java.lang.Thread
+java.security.Policy
+java.security.AccessController
+java.security.AccessControlContext
+java.io.ObjectStreamClass
+java.lang.ApplicationShutdownHooks
+com.sun.corba.se.impl.orbutil.threadpool.ThreadPoolManagerImpl
+sun.reflect.Reflection
+java.io.ObjectOutputStream
+java.security.ProtectionDomain
+java.lang.Class
+java.lang.ThreadGroup

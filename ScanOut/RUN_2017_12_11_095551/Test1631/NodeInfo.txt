@@ -1,0 +1,5 @@
+File:		zb22
+Line No:	10826
+NH Depth:	39
+NH Density:	27
+Classes	: [java.lang.SecurityManager, java.security.AccessController, sun.security.provider.JavaKeyStore, java.security.Security, java.io.ObjectOutputStream, sun.security.provider.PolicyFile, java.lang.Class, com.sun.jmx.mbeanserver.MXBeanIntrospector, com.sun.crypto.provider.JceKeyStore, sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, java.security.Permissions, java.net.InetAddress, java.security.MessageDigest, sun.security.provider.PolicySpiFile, java.util.Hashtable, java.security.Policy, javax.management.MBeanServerInvocationHandler, java.net.SocketPermission, java.security.AccessControlContext, java.security.UnresolvedPermissionCollection, java.net.Inet6Address, java.security.ProtectionDomain, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.jmx.mbeanserver.MBeanAnalyzer, java.net.NetworkInterface]

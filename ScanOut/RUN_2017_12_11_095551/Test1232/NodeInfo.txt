@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	42779
+NH Depth:	21
+NH Density:	17
+Classes	: [java.util.TimeZone, java.util.Properties, java.lang.SecurityManager, java.util.logging.LogManager, sun.awt.X11.XComponentPeer, java.security.AccessController, java.security.Policy, sun.util.LocaleServiceProviderPool, java.util.Date, java.lang.ClassLoader, sun.util.TimeZoneNameUtility, java.security.AccessControlContext, java.security.ProtectionDomain, java.util.logging.Logger, java.lang.Class, com.sun.naming.internal.ResourceManager, sun.net.www.MimeTable]

@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	588
+NH Depth:	31
+NH Density:	11
+Classes	: [java.lang.reflect.Constructor, sun.reflect.Reflection, java.security.Permissions, java.security.UnresolvedPermission, sun.security.provider.PolicyFile, java.lang.SecurityManager, java.security.ProtectionDomain, java.lang.Class, java.security.AccessController, java.security.Policy, java.security.AccessControlContext]

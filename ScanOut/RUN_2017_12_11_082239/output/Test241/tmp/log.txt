@@ -1,0 +1,33 @@
+...........F.....F....F.......thread -1
+.
+Time: 0.111
+There were 3 failures:
+1) test18(RandoopTest0)junit.framework.AssertionFailedError: '' != 'USA'
+	at RandoopTest0.test18(RandoopTest0.java:320)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test13(RandoopTest0)junit.framework.AssertionFailedError: '' != 'USA'
+	at RandoopTest0.test13(RandoopTest0.java:248)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test9(RandoopTest0)junit.framework.AssertionFailedError: 'hi!' != 'English (United States)'
+	at RandoopTest0.test9(RandoopTest0.java:183)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 28,  Failures: 3,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 23744
+Exiting analysis

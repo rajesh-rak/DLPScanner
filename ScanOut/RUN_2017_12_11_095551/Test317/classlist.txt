@@ -1,0 +1,9 @@
+java.io.ObjectStreamClass
+sun.reflect.annotation.AnnotationType
+java.io.ObjectOutputStream
+sun.reflect.annotation.AnnotationParser
+java.lang.Class
+com.sun.xml.internal.ws.handler.HandlerChainsModel
+java.lang.reflect.Method
+java.lang.reflect.Proxy
+java.beans.beancontext.BeanContextSupport

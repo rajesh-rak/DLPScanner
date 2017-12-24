@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	25452
+NH Depth:	25
+NH Density:	22
+Classes	: [java.security.Permissions, sun.reflect.annotation.AnnotationParser, java.lang.SecurityManager, java.lang.Runtime, com.sun.security.sasl.util.AbstractSaslImpl, java.util.Hashtable, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, java.lang.System, sun.misc.ProxyGenerator, java.security.AccessControlContext, java.lang.reflect.Proxy, java.io.ObjectInputStream, com.sun.security.sasl.digest.DigestMD5Base, java.security.ProtectionDomain, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, com.sun.crypto.provider.JceKeyStore, java.lang.StringCoding, java.lang.Enum, java.io.ByteArrayOutputStream]

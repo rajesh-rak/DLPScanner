@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	8870
+NH Depth:	41
+NH Density:	31
+Classes	: [java.security.CodeSigner, sun.util.calendar.CalendarSystem, java.lang.SecurityManager, java.lang.StringBuilder, java.security.AccessController, javax.swing.text.AsyncBoxView, java.lang.System, java.util.HashMap, java.security.CodeSource, sun.util.calendar.ZoneInfo, sun.security.provider.PolicyFile, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Class, java.security.Timestamp, java.security.SecureClassLoader, sun.util.calendar.BaseCalendar, java.security.Permissions, java.net.InetAddress, java.util.SimpleTimeZone, java.net.URLClassLoader, java.lang.String, java.security.Policy, java.util.Date, javax.swing.text.LayoutQueue, java.net.SocketPermission, java.security.AccessControlContext, java.net.Inet6Address, sun.awt.AppContext, java.security.ProtectionDomain, sun.util.calendar.AbstractCalendar, java.net.NetworkInterface]

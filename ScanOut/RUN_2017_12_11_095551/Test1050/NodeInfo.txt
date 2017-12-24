@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	121919
+NH Depth:	32
+NH Density:	26
+Classes	: [java.util.Properties, sun.misc.VMSupport, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.lang.reflect.Method, java.io.ObjectOutput, java.security.AccessController, java.security.Policy, com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl, com.sun.crypto.provider.SunJCE_z, java.security.AccessControlContext, java.io.ObjectStreamClass, com.sun.corba.se.impl.orb.DataCollectorBase, sun.reflect.Reflection, java.io.ObjectOutputStream, java.security.ProtectionDomain, javax.management.MBeanOperationInfo, java.lang.Class, com.sun.jmx.mbeanserver.Introspector, com.sun.corba.se.impl.orb.AppletDataCollector, com.sun.naming.internal.ResourceManager, javax.management.MBeanConstructorInfo, com.sun.crypto.provider.JceKeyStore, java.lang.Enum]

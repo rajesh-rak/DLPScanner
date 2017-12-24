@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	9975
+NH Depth:	34
+NH Density:	14
+Classes	: [com.sun.org.apache.xerces.internal.jaxp.datatype.DatatypeFactoryImpl, java.security.Permissions, java.util.Calendar, sun.util.calendar.CalendarSystem, java.lang.SecurityManager, java.util.Hashtable, java.security.AccessController, java.security.Policy, java.util.Date, java.security.AccessControlContext, sun.security.provider.JavaKeyStore, java.util.GregorianCalendar, java.security.ProtectionDomain, java.lang.Class]

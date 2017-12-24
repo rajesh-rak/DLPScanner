@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	8958
+NH Depth:	25
+NH Density:	18
+Classes	: [sun.awt.image.ImageFetcher, java.security.Permissions, java.lang.SecurityManager, java.util.Hashtable, java.lang.Thread, java.security.Policy, java.security.AccessController, java.lang.ClassLoader, java.security.AccessControlContext, sun.rmi.transport.proxy.RMIMasterSocketFactory, javax.swing.plaf.basic.BasicDirectoryModel, javax.swing.JFileChooser, java.util.Vector, java.security.ProtectionDomain, javax.swing.filechooser.FileSystemView, java.lang.Class, java.io.File, java.lang.ThreadGroup]

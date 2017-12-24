@@ -1,0 +1,30 @@
+.........E...F..............thread -1
+..............
+Time: 0.074
+There was 1 error:
+1) test40(RandoopTest0)java.lang.NullPointerException
+	at java.lang.reflect.Array.newArray(Native Method)
+	at java.lang.reflect.Array.newInstance(Array.java:70)
+	at java.util.Arrays.copyOf(Arrays.java:2245)
+	at RandoopTest0.test40(RandoopTest0.java:653)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+There was 1 failure:
+1) test37(RandoopTest0)	at RandoopTest0.test37(RandoopTest0.java:586)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 40,  Failures: 1,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 27776
+Exiting analysis

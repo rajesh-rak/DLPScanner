@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	29707
+NH Depth:	22
+NH Density:	16
+Classes	: [sun.rmi.transport.tcp.TCPChannel, java.net.URLClassLoader, java.util.Hashtable, java.lang.String, javax.swing.text.AsyncBoxView, javax.swing.text.LayoutQueue, java.net.SocketPermission, java.lang.reflect.Proxy, sun.awt.AppContext, java.io.ObjectInputStream, java.util.regex.Pattern, sun.net.util.IPAddressUtil, sun.rmi.transport.tcp.TCPTransport, java.lang.ConditionalSpecialCasing, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore]

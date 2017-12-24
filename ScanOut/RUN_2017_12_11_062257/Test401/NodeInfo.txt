@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	239819
+NH Depth:	14
+NH Density:	17
+Classes	: [java.util.Properties, java.net.InetAddress, java.util.Hashtable, javax.crypto.Cipher, java.lang.String, com.sun.crypto.provider.SunJCE_z, java.net.URLStreamHandler, java.lang.System, javax.crypto.SunJCE_b, java.security.Signature, javax.crypto.SunJCE_c, java.net.URL, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.SunJCE_ad, com.sun.crypto.provider.JceKeyStore, sun.font.FontFamily]

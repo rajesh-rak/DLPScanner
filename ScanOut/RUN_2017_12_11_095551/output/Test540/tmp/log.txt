@@ -1,0 +1,293 @@
+...F...F......F......................
+Time: 0.275
+There were 3 failures:
+1) test32(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test32(RandoopTest0.java:522)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test29(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test29(RandoopTest0.java:454)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test23(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test23(RandoopTest0.java:359)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 34,  Failures: 3,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 26645
+Exiting analysis
+stRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:56:35 PM RandoopTest0 test34
+WARNING: "IOP00710286: (INTERNAL) Could not find or invoke write method on exception Helper class 10"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 286  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badHelperWriteMethod(ORBUtilSystemException.java:5927)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badHelperWriteMethod(ORBUtilSystemException.java:5950)
+	at RandoopTest0.test34(RandoopTest0.java:563)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:56:35 PM RandoopTest0 test34
+WARNING: "IOP02410225: (DATA_CONVERSION)   is not a valid custom IORToSocketInfo"
+org.omg.CORBA.DATA_CONVERSION:   vmcid: SUN  minor code: 225  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badCustomIorToSocketInfo(ORBUtilSystemException.java:3352)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badCustomIorToSocketInfo(ORBUtilSystemException.java:3375)
+	at RandoopTest0.test34(RandoopTest0.java:565)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:56:35 PM RandoopTest0 test34
+WARNING: "IOP00110226: (BAD_PARAM) Invalid request partitioning id com.sun.corba.se.impl.logging.ORBUtilSystemException@1ef0a6e8, valid values are false - hi!"
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 226  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.invalidRequestPartitioningId(ORBUtilSystemException.java:1848)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.invalidRequestPartitioningId(ORBUtilSystemException.java:1873)
+	at RandoopTest0.test34(RandoopTest0.java:568)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:56:35 PM RandoopTest0 test34
+WARNING: "IOP02410225: (DATA_CONVERSION)   is not a valid custom IORToSocketInfo"
+org.omg.CORBA.DATA_CONVERSION:   vmcid: SUN  minor code: 225  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badCustomIorToSocketInfo(ORBUtilSystemException.java:3352)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badCustomIorToSocketInfo(ORBUtilSystemException.java:3375)
+	at RandoopTest0.test34(RandoopTest0.java:570)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:56:35 PM RandoopTest0 test34
+WARNING: "IOP00710286: (INTERNAL) Could not find or invoke write method on exception Helper class 10"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 286  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badHelperWriteMethod(ORBUtilSystemException.java:5927)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badHelperWriteMethod(ORBUtilSystemException.java:5950)
+	at RandoopTest0.test34(RandoopTest0.java:571)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:56:35 PM RandoopTest0 test34
+WARNING: "IOP02410225: (DATA_CONVERSION)   is not a valid custom IORToSocketInfo"
+org.omg.CORBA.DATA_CONVERSION:   vmcid: SUN  minor code: 225  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badCustomIorToSocketInfo(ORBUtilSystemException.java:3352)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badCustomIorToSocketInfo(ORBUtilSystemException.java:3375)
+	at RandoopTest0.test34(RandoopTest0.java:573)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:56:35 PM RandoopTest0 test34
+WARNING: "IOP00110226: (BAD_PARAM) Invalid request partitioning id com.sun.corba.se.impl.logging.ORBUtilSystemException@1ef0a6e8, valid values are false - hi!"
+org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 226  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.invalidRequestPartitioningId(ORBUtilSystemException.java:1848)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.invalidRequestPartitioningId(ORBUtilSystemException.java:1873)
+	at RandoopTest0.test34(RandoopTest0.java:576)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:56:35 PM RandoopTest0 test34
+WARNING: "IOP00810250: (MARSHAL) Incorrect chunk length 0.07 at offset #"
+org.omg.CORBA.MARSHAL:   vmcid: SUN  minor code: 250  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badChunkLength(ORBUtilSystemException.java:8055)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badChunkLength(ORBUtilSystemException.java:8075)
+	at RandoopTest0.test34(RandoopTest0.java:577)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: org.omg.CORBA.BAD_PARAM:   vmcid: SUN  minor code: 226  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.invalidRequestPartitioningId(ORBUtilSystemException.java:1848)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.invalidRequestPartitioningId(ORBUtilSystemException.java:1873)
+	at RandoopTest0.test34(RandoopTest0.java:576)
+	... 16 more
+
+Dec 11, 2017 2:56:35 PM RandoopTest0 test33
+WARNING: "IOP02410225: (DATA_CONVERSION)   is not a valid custom IORToSocketInfo"
+org.omg.CORBA.DATA_CONVERSION:   vmcid: SUN  minor code: 225  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badCustomIorToSocketInfo(ORBUtilSystemException.java:3352)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badCustomIorToSocketInfo(ORBUtilSystemException.java:3375)
+	at RandoopTest0.test33(RandoopTest0.java:538)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:56:35 PM RandoopTest0 test33
+WARNING: "IOP00710286: (INTERNAL) Could not find or invoke write method on exception Helper class 10"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 286  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badHelperWriteMethod(ORBUtilSystemException.java:5927)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.badHelperWriteMethod(ORBUtilSystemException.java:5950)
+	at RandoopTest0.test33(RandoopTest0.java:539)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+
+Dec 11, 2017 2:56:35 PM RandoopTest0 test33
+WARNING: "IOP00710256: (INTERNAL) The long double type is not supported in Java"
+org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 256  completed: No
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.tkLongDoubleNotSupported(ORBUtilSystemException.java:5164)
+	at com.sun.corba.se.impl.logging.ORBUtilSystemException.tkLongDoubleNotSupported(ORBUtilSystemException.java:5186)
+	at RandoopTest0.test33(RandoopTest0.java:540)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.framework.TestSuite.runTest(TestSuite.java:243)
+	at junit.framework.TestSuite.run(TestSuite.java:238)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at RandoopTest.main(RandoopTest.java:8)
+

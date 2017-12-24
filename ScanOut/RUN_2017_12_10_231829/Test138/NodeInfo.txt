@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	28537
+NH Depth:	23
+NH Density:	16
+Classes	: [java.util.TimeZone, sun.rmi.server.UnicastServerRef, java.util.Properties, java.util.Hashtable, com.sun.org.apache.xerces.internal.impl.xpath.regex.RegexParser, sun.util.LocaleServiceProviderPool, java.lang.String, java.lang.StringBuilder, java.io.PrintStream, java.util.Date, com.sun.org.apache.xerces.internal.impl.xpath.regex.RangeToken, sun.util.TimeZoneNameUtility, java.awt.Component, java.util.logging.Logger, com.sun.org.apache.xerces.internal.impl.xpath.regex.Token, java.util.ResourceBundle]

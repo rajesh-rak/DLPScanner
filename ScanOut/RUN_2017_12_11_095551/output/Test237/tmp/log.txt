@@ -1,0 +1,42 @@
+.F....F.thread -1
+...............F....thread -1
+.F.......thread -1
+.thread -1
+.....
+Time: 0.148
+There were 4 failures:
+1) test39(RandoopTest0)junit.framework.AssertionFailedError: '{TERM_PROGRAM=Apple_Terminal, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.szUfgGoQ8s/Listeners, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, JAVA_ARCH=x86_64, Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.fws82WIOF0/Render, _=/usr/bin/java, TERM_PROGRAM_VERSION=400, SHLVL=4, JAVA_TOOL_OPTIONS=-Dfile.encoding=ISO-8859-1, LSCOLORS=GxFxCxDxBxegedabagaced, OLDPWD=/Users/rajesh/code/DLPScanner/ScanOut/RUN_2017_12_11_095551, HOME=/Users/rajesh, com.apple.java.jvmTask=CommandLine, PWD=/Users/rajesh/code/DLPScanner, JAVA_MAIN_CLASS_3229=RandoopTest, LC_CTYPE=UTF-8, ANT_OPTS=-Dfile.encoding=ISO-8859-1, USER=rajesh, CLICOLOR=1, LOGNAME=rajesh, JAVA_MAIN_CLASS_3225=omen.util.OmenDriver, SHELL=/bin/bash, omen.kappa=4, TERM=xterm-256color, XPC_FLAGS=0x0, XPC_SERVICE_NAME=0, OMEN_CLASSPATH=/Users/rajesh/code/DLPScanner/lib/rt.jar:/Users/rajesh/code/DLPScanner/lib/jaxws-rt-2.2.10.jar:/Users/rajesh/code/DLPScanner/lib/omen.jar:/Users/rajesh/code/DLPScanner/lib/sootall-2.3.0.jar:/Users/rajesh/code/DLPScanner/lib/concurrent.jar:/Users/rajesh/code/DLPScanner/lib/randoop.jar:/Users/rajesh/code/DLPScanner/lib/tools.jar:/Users/rajesh/code/DLPScanner/lib/junit-4.11.jar:/Users/rajesh/code/DLPScanner/lib/colt-1.2.0.jar:/Users/rajesh/code/DLPScanner/lib/colt-hep.jar:/Users/rajesh/code/DLPScanner/lib/Account.jar:/Users/rajesh/code/DLPScanner, TMPDIR=/var/folders/yq/fp2z6tc962770qh327k_5d080000gn/T/, TERM_SESSION_ID=B3F22EA4-7618-4F4F-B0CD-4AB2F4075ACC, PATH=/Users/rajesh/Apps/sbt/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin}' != '{LSCOLORS=GxFxCxDxBxegedabagaced, Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.fws82WIOF0/Render, com.apple.java.jvmTask=CommandLine, SHLVL=4, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.szUfgGoQ8s/Listeners, _=/usr/bin/java, CLASSPATH=/Users/rajesh/code/DLPScanner:/Users/rajesh/code/DLPScanner/ScanOut/RUN_2017_12_11_095551/Test237:/Users/rajesh/code/DLPScanner/lib/sootall-2.3.0.jar:/Users/rajesh/code/DLPScanner/lib/omen.jar:/Users/rajesh/code/DLPScanner/lib/concurrent.jar:/Users/rajesh/code/DLPScanner/lib/randoop.jar:/Users/rajesh/code/DLPScanner/lib/tools.jar:/Users/rajesh/code/DLPScanner/lib/junit-4.11.jar:/Users/rajesh/code/DLPScanner/lib/jaxws-rt-2.2.10.jar:/Users/rajesh/code/DLPScanner/lib/colt-1.2.0.jar:/Users/rajesh/code/DLPScanner/lib/colt-hep.jar:/Users/rajesh/code/DLPScanner/lib/Account.jar, CLICOLOR=1, PWD=/Users/rajesh/code/DLPScanner/ScanOut/RUN_2017_12_11_095551/Test237, __CF_USER_TEXT_ENCODING=0x1F5:0var2:0var2, SHELL=/bin/bash, TERM=xterm-256color, USER=rajesh, XPC_SERVICE_NAME=0, JAVA_ARCH=x86_64, HOME=/Users/rajesh, JAVA_MAIN_CLASS_3097=randoop.main.Main, XPC_FLAGS=0var2, LOGNAME=rajesh, TERM_SESSION_ID=B3F22EA4-7618-4F4F-B0CD-4AB2F4075ACC, TMPDIR=/var/folders/yq/fp2z6tc962770qh327k_5d080000gn/T/, OLDPWD=/Users/rajesh/code/DLPScanner, TERM_PROGRAM_VERSION=400, LC_CTYPE=UTF-8, TERM_PROGRAM=Apple_Terminal, PATH=/Users/rajesh/Apps/sbt/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin}'
+	at RandoopTest0.test39(RandoopTest0.java:583)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test35(RandoopTest0)junit.framework.AssertionFailedError: '{TERM_PROGRAM=Apple_Terminal, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.szUfgGoQ8s/Listeners, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, JAVA_ARCH=x86_64, Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.fws82WIOF0/Render, _=/usr/bin/java, TERM_PROGRAM_VERSION=400, SHLVL=4, JAVA_TOOL_OPTIONS=-Dfile.encoding=ISO-8859-1, LSCOLORS=GxFxCxDxBxegedabagaced, OLDPWD=/Users/rajesh/code/DLPScanner/ScanOut/RUN_2017_12_11_095551, HOME=/Users/rajesh, com.apple.java.jvmTask=CommandLine, PWD=/Users/rajesh/code/DLPScanner, JAVA_MAIN_CLASS_3229=RandoopTest, LC_CTYPE=UTF-8, ANT_OPTS=-Dfile.encoding=ISO-8859-1, USER=rajesh, CLICOLOR=1, LOGNAME=rajesh, JAVA_MAIN_CLASS_3225=omen.util.OmenDriver, SHELL=/bin/bash, omen.kappa=4, TERM=xterm-256color, XPC_FLAGS=0x0, XPC_SERVICE_NAME=0, OMEN_CLASSPATH=/Users/rajesh/code/DLPScanner/lib/rt.jar:/Users/rajesh/code/DLPScanner/lib/jaxws-rt-2.2.10.jar:/Users/rajesh/code/DLPScanner/lib/omen.jar:/Users/rajesh/code/DLPScanner/lib/sootall-2.3.0.jar:/Users/rajesh/code/DLPScanner/lib/concurrent.jar:/Users/rajesh/code/DLPScanner/lib/randoop.jar:/Users/rajesh/code/DLPScanner/lib/tools.jar:/Users/rajesh/code/DLPScanner/lib/junit-4.11.jar:/Users/rajesh/code/DLPScanner/lib/colt-1.2.0.jar:/Users/rajesh/code/DLPScanner/lib/colt-hep.jar:/Users/rajesh/code/DLPScanner/lib/Account.jar:/Users/rajesh/code/DLPScanner, TMPDIR=/var/folders/yq/fp2z6tc962770qh327k_5d080000gn/T/, TERM_SESSION_ID=B3F22EA4-7618-4F4F-B0CD-4AB2F4075ACC, PATH=/Users/rajesh/Apps/sbt/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin}' != '{LSCOLORS=GxFxCxDxBxegedabagaced, Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.fws82WIOF0/Render, com.apple.java.jvmTask=CommandLine, SHLVL=4, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.szUfgGoQ8s/Listeners, _=/usr/bin/java, CLASSPATH=/Users/rajesh/code/DLPScanner:/Users/rajesh/code/DLPScanner/ScanOut/RUN_2017_12_11_095551/Test237:/Users/rajesh/code/DLPScanner/lib/sootall-2.3.0.jar:/Users/rajesh/code/DLPScanner/lib/omen.jar:/Users/rajesh/code/DLPScanner/lib/concurrent.jar:/Users/rajesh/code/DLPScanner/lib/randoop.jar:/Users/rajesh/code/DLPScanner/lib/tools.jar:/Users/rajesh/code/DLPScanner/lib/junit-4.11.jar:/Users/rajesh/code/DLPScanner/lib/jaxws-rt-2.2.10.jar:/Users/rajesh/code/DLPScanner/lib/colt-1.2.0.jar:/Users/rajesh/code/DLPScanner/lib/colt-hep.jar:/Users/rajesh/code/DLPScanner/lib/Account.jar, CLICOLOR=1, PWD=/Users/rajesh/code/DLPScanner/ScanOut/RUN_2017_12_11_095551/Test237, __CF_USER_TEXT_ENCODING=0x1F5:0var2:0var2, SHELL=/bin/bash, TERM=xterm-256color, USER=rajesh, XPC_SERVICE_NAME=0, JAVA_ARCH=x86_64, HOME=/Users/rajesh, JAVA_MAIN_CLASS_3097=randoop.main.Main, XPC_FLAGS=0var2, LOGNAME=rajesh, TERM_SESSION_ID=B3F22EA4-7618-4F4F-B0CD-4AB2F4075ACC, TMPDIR=/var/folders/yq/fp2z6tc962770qh327k_5d080000gn/T/, OLDPWD=/Users/rajesh/code/DLPScanner, TERM_PROGRAM_VERSION=400, LC_CTYPE=UTF-8, TERM_PROGRAM=Apple_Terminal, PATH=/Users/rajesh/Apps/sbt/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin}'
+	at RandoopTest0.test35(RandoopTest0.java:524)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test19(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test19(RandoopTest0.java:274)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+4) test14(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test14(RandoopTest0.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 39,  Failures: 4,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 30196
+Exiting analysis

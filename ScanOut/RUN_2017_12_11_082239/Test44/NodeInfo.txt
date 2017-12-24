@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	36826
+NH Depth:	13
+NH Density:	14
+Classes	: [java.util.Properties, java.util.Hashtable, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, javax.xml.parsers.DocumentBuilderFactory, java.lang.System, javax.management.relation.RelationSupport, java.lang.reflect.Proxy, java.util.XMLUtils, java.io.ObjectInputStream, javax.management.relation.RelationService, com.sun.corba.se.impl.activation.ServerManagerImpl, com.sun.crypto.provider.JceKeyStore, sun.rmi.server.Util, javax.xml.parsers.FactoryFinder]

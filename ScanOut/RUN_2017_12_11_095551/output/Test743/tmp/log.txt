@@ -1,0 +1,7 @@
+...........AVA_TOOL_OPTIONS: -Dfile.encoding=ISO-8859-1
+Dec 11, 2017 3:39:42 PM RandoopTest0 test16
+WARNING: hi!
+Dec 11, 2017 3:39:42 PM RandoopTest0 test16
+WARNING: 
+Dec 11, 2017 3:39:42 PM RandoopTest0 test16
+INFO: 

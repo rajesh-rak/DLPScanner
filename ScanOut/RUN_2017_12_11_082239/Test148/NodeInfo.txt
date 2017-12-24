@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	21535
+NH Depth:	16
+NH Density:	13
+Classes	: [sun.rmi.transport.tcp.TCPChannel, sun.reflect.annotation.AnnotationParser, com.sun.xml.internal.ws.server.WSEndpointImpl, java.lang.reflect.Method, javax.swing.text.AsyncBoxView, javax.swing.text.LayoutQueue, java.lang.reflect.Proxy, java.io.ObjectStreamClass, sun.awt.AppContext, javax.swing.text.View, java.io.ObjectOutputStream, sun.rmi.transport.tcp.TCPTransport, java.beans.beancontext.BeanContextSupport]

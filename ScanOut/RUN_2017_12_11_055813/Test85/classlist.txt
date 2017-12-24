@@ -1,0 +1,13 @@
+java.util.Hashtable
+com.sun.crypto.provider.SunJCE_z
+sun.misc.JarIndex
+javax.crypto.SunJCE_b
+com.sun.jndi.ldap.LdapClient
+javax.crypto.SunJCE_c
+com.sun.jndi.ldap.LdapCtx
+javax.crypto.SunJCE_h
+com.sun.naming.internal.ResourceManager
+javax.naming.ldap.ControlFactory
+java.util.jar.JarFile
+java.util.zip.ZipFile
+com.sun.crypto.provider.JceKeyStore

@@ -1,0 +1,5 @@
+sun.nio.cs.StreamDecoder
+org.jcp.xml.dsig.internal.dom.DOMSignatureMethod
+java.io.InputStreamReader
+java.io.Reader
+org.jcp.xml.dsig.internal.dom.DOMSignedInfo

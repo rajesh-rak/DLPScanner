@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	6997
+NH Depth:	21
+NH Density:	16
+Classes	: [sun.reflect.annotation.AnnotationParser, java.util.Hashtable, com.sun.jmx.mbeanserver.Repository, java.lang.reflect.Method, com.sun.xml.internal.ws.api.server.WSEndpoint, com.sun.xml.internal.ws.server.EndpointFactory, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.lang.reflect.Proxy, javax.management.ObjectName, java.io.ObjectStreamClass, java.io.ObjectInputStream, java.io.ObjectOutputStream, java.lang.Class, com.sun.xml.internal.ws.handler.HandlerChainsModel, com.sun.crypto.provider.JceKeyStore, java.lang.Enum]

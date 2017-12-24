@@ -1,0 +1,5 @@
+DLP Execution Summary
+---------------------
+Total Test(s) executed		: 10
+Total Dead-Lock(s) detected	: 0
+_________________________________________

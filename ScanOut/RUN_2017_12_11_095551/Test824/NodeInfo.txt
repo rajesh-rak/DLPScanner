@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	43578
+NH Depth:	16
+NH Density:	16
+Classes	: [java.util.Currency, sun.security.util.Debug, java.lang.SecurityManager, java.lang.Package, sun.awt.X11.XWindowPeer, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.lang.ClassLoader, com.sun.jmx.remote.util.ClassLogger, java.security.AccessControlContext, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, java.util.Formatter, java.text.DecimalFormatSymbols]

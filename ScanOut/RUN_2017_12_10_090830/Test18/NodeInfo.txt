@@ -1,0 +1,5 @@
+File:		1.4.2_04.NewerLst
+Line No:	1238
+NH Depth:	26
+NH Density:	31
+Classes	: [java.lang.FDBigInt, java.lang.SecurityManager, java.lang.Long, java.lang.reflect.Method, java.lang.Thread, java.security.AccessController, java.io.ObjectStreamClass, java.util.Random, java.io.ObjectOutputStream, sun.security.provider.PolicyFile, java.lang.Throwable, java.lang.Class, java.lang.StringBuffer, sun.reflect.MethodAccessorGenerator, sun.security.util.Debug, java.security.Permissions, java.lang.Object, java.security.UnresolvedPermission, java.lang.String, java.security.Policy, java.lang.Integer, java.security.AccessControlContext, java.io.ObjectInputStream, sun.reflect.Reflection, java.security.ProtectionDomain, java.lang.Exception, sun.reflect.ReflectionFactory, java.lang.NumberFormatException, java.util.Arrays, java.lang.reflect.Modifier, java.lang.FloatingDecimal]

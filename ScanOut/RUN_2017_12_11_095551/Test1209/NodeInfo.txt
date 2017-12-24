@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	33938
+NH Depth:	18
+NH Density:	21
+Classes	: [java.util.Currency, sun.security.util.Debug, java.lang.SecurityManager, java.lang.Runtime, java.util.Hashtable, java.lang.Thread, java.lang.String, java.security.AccessController, java.io.PrintStream, java.security.AccessControlContext, java.lang.reflect.Proxy, com.sun.corba.se.impl.activation.ServerTableEntry, java.io.ObjectInputStream, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Exception, java.lang.Throwable, java.math.BigDecimal, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, java.lang.ProcessBuilder]

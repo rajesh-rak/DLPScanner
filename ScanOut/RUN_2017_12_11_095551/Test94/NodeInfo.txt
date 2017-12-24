@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	19535
+NH Depth:	31
+NH Density:	29
+Classes	: [java.util.Properties, sun.util.calendar.CalendarSystem, java.net.URLConnection, sun.util.LocaleServiceProviderPool, java.net.URLStreamHandler, sun.security.provider.JavaKeyStore, sun.util.calendar.ZoneInfo, java.util.regex.Pattern, java.util.Formatter, java.text.DecimalFormatSymbols, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore, sun.util.calendar.BaseCalendar, java.util.SimpleTimeZone, sun.font.FontManager, java.util.Hashtable, java.lang.String, sun.misc.URLClassPath, java.util.Date, java.lang.ClassLoader, sun.util.calendar.LocalGregorianCalendar, com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl, java.io.ObjectInputStream, javax.imageio.ImageReader, java.text.BreakIterator, sun.net.util.IPAddressUtil, java.net.URL, java.util.logging.Logger, java.lang.ConditionalSpecialCasing]

@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	6117
+NH Depth:	50
+NH Density:	33
+Classes	: [java.lang.reflect.Constructor, javax.naming.spi.DirectoryManager, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.lang.StringBuilder, javax.swing.text.AsyncBoxView, java.lang.System, java.util.HashMap, sun.font.AttributeValues, javax.naming.spi.NamingManager, java.util.concurrent.locks.AbstractQueuedSynchronizer, sun.security.provider.PolicyFile, com.sun.corba.se.impl.activation.ServerManagerImpl, java.util.concurrent.locks.ReentrantLock, java.util.Locale, java.lang.Class, com.sun.naming.internal.ResourceManager, java.security.SecureClassLoader, sun.reflect.misc.MethodUtil, sun.font.EAttribute, java.security.Permissions, java.net.URLClassLoader, java.security.Policy, java.lang.String, java.awt.Font, javax.swing.text.LayoutQueue, java.security.AccessControlContext, sun.font.FontDesignMetrics, java.util.concurrent.ConcurrentHashMap, sun.awt.AppContext, sun.reflect.Reflection, java.security.ProtectionDomain]

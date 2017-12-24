@@ -1,0 +1,3 @@
+java.net.DatagramSocket
+java.net.DatagramPacket
+com.sun.jndi.dns.DnsClient

@@ -1,0 +1,7 @@
+com.sun.jndi.ldap.LdapClient
+com.sun.jndi.ldap.LdapCtx
+com.sun.jndi.toolkit.ctx.ComponentDirContext
+com.sun.jndi.ldap.Connection
+com.sun.jndi.toolkit.ctx.ComponentContext
+com.sun.jndi.ldap.EventSupport
+com.sun.jndi.ldap.sasl.LdapSasl

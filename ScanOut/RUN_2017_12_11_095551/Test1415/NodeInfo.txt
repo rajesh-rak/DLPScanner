@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	22888
+NH Depth:	36
+NH Density:	18
+Classes	: [sun.rmi.transport.tcp.ConnectionAcceptor, java.security.Permissions, java.net.InetAddress, java.lang.SecurityManager, java.lang.Thread, java.security.Policy, java.security.AccessController, sun.applet.AppletViewer, java.net.SocketPermission, java.security.AccessControlContext, java.net.Inet6Address, sun.awt.AppContext, com.sun.corba.se.impl.orbutil.threadpool.ThreadPoolManagerImpl, sun.security.provider.PolicyFile, java.security.ProtectionDomain, java.lang.Class, java.lang.ThreadGroup, java.net.NetworkInterface]

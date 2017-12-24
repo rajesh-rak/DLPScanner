@@ -1,0 +1,26 @@
+.....thread -1
+...........thread -1
+.......E..thread -1
+...thread -1
+.thread -1
+........
+Time: 0.097
+There was 1 error:
+1) test15(RandoopTest0)java.lang.NullPointerException
+	at sun.rmi.server.UnicastRef.remoteHashCode(UnicastRef.java:507)
+	at RandoopTest0.test15(RandoopTest0.java:239)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 37,  Failures: 0,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 23692
+Exiting analysis

@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	272991
+NH Depth:	18
+NH Density:	18
+Classes	: [java.util.Properties, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, java.lang.reflect.Method, java.lang.String, javax.crypto.Cipher, com.sun.crypto.provider.SunJCE_z, java.lang.System, java.lang.reflect.Proxy, javax.crypto.SunJCE_h, com.sun.corba.se.impl.activation.ServerManagerImpl, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.SunJCE_ad, sun.font.FontFamily, com.sun.crypto.provider.JceKeyStore, java.lang.Enum]

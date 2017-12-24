@@ -1,0 +1,15 @@
+java.lang.reflect.Constructor
+java.security.Permissions
+java.security.UnresolvedPermission
+java.lang.SecurityManager
+java.security.Policy
+java.security.AccessController
+java.lang.ClassLoader
+java.security.AccessControlContext
+sun.misc.Launcher
+sun.reflect.Reflection
+java.security.ProtectionDomain
+java.net.URL
+java.lang.Class
+java.io.File
+sun.net.www.ParseUtil

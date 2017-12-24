@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	2341
+NH Depth:	12
+NH Density:	10
+Classes	: [sun.reflect.annotation.AnnotationType, sun.reflect.annotation.AnnotationParser, javax.management.MBeanOperationInfo, com.sun.xml.internal.ws.handler.HandlerChainsModel, com.sun.jmx.mbeanserver.Introspector, java.lang.reflect.Method, java.lang.Class, com.sun.xml.internal.ws.server.EndpointFactory, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.lang.Enum]

@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	22836
+NH Depth:	30
+NH Density:	22
+Classes	: [java.util.Currency, com.sun.corba.se.impl.logging.ActivationSystemException, java.net.URLClassLoader, java.util.Hashtable, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, sun.util.LocaleServiceProviderPool, java.lang.String, java.net.SocketPermission, java.util.logging.Logging, java.lang.reflect.Proxy, java.io.ObjectInputStream, java.text.BreakIterator, sun.net.util.IPAddressUtil, java.util.regex.Pattern, java.util.logging.Logger, java.util.Locale, java.util.Formatter, java.lang.ConditionalSpecialCasing, java.text.DecimalFormatSymbols, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore]

@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	18083
+NH Depth:	28
+NH Density:	24
+Classes	: [sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, java.util.Properties, java.security.MessageDigest, java.lang.SecurityManager, java.util.Hashtable, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.security.Policy, java.security.AccessController, javax.xml.parsers.DocumentBuilderFactory, java.security.AccessControlContext, java.util.XMLUtils, sun.security.provider.JavaKeyStore, java.io.ObjectInputStream, java.security.Security, com.sun.jndi.ldap.LdapCtx, java.security.ProtectionDomain, java.lang.Class, java.security.cert.CertificateFactory, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder]

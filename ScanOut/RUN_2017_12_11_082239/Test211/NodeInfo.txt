@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	42734
+NH Depth:	20
+NH Density:	20
+Classes	: [java.util.jar.JavaUtilJarAccessImpl, sun.security.util.DerInputStream, java.util.jar.JarVerifier, sun.security.util.SignatureFileVerifier, java.util.Hashtable, com.sun.jmx.mbeanserver.Repository, com.sun.crypto.provider.SunJCE_z, sun.security.x509.X509CertInfo, javax.management.ObjectName, javax.crypto.SunJCE_b, javax.swing.text.DefaultStyledDocument, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, java.util.Vector, sun.security.pkcs.PKCS7, sun.security.x509.CertificateExtensions, java.util.jar.JarFile, java.util.zip.ZipFile, com.sun.crypto.provider.JceKeyStore, sun.security.pkcs.SignerInfo]

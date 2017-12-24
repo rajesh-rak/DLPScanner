@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	5815
+NH Depth:	18
+NH Density:	12
+Classes	: [com.sun.jndi.ldap.pool.PooledConnectionFactory, java.net.InetSocketAddress, com.sun.jndi.ldap.pool.Pool, java.net.InetAddress, java.net.URLClassLoader, com.sun.jndi.ldap.Connection, java.net.Socket, java.net.SocksSocketImpl, java.lang.Package, com.sun.jndi.ldap.LdapClientFactory, java.net.PlainSocketImpl, java.lang.ClassLoader]

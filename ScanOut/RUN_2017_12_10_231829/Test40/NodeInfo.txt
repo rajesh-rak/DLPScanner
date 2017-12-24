@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	3822
+NH Depth:	39
+NH Density:	18
+Classes	: [com.sun.org.apache.xml.internal.res.XMLErrorResources_sk, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, sun.misc.URLClassPath, java.lang.String, sun.util.LocaleServiceProviderPool, java.util.jar.Manifest, java.net.URLStreamHandler, java.lang.ClassLoader, java.util.jar.Attributes, java.awt.Component, java.text.BreakIterator, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle]

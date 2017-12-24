@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	38118
+NH Depth:	67
+NH Density:	36
+Classes	: [sun.rmi.transport.tcp.TCPChannel, java.rmi.server.UnicastRemoteObject, java.awt.Window, java.awt.LightweightDispatcher, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.lang.reflect.Field, java.io.PrintStream, java.awt.Component, java.lang.Throwable, sun.rmi.transport.tcp.TCPTransport, java.awt.event.MouseWheelEvent, java.lang.Class, java.util.Formatter, sun.security.krb5.internal.Krb5, java.text.DecimalFormatSymbols, java.awt.Dialog, com.sun.crypto.provider.JceKeyStore, java.awt.KeyboardFocusManager, sun.security.util.Debug, sun.rmi.transport.tcp.TCPEndpoint, java.awt.GraphicsDevice, java.util.Hashtable, java.lang.InterruptedException, java.lang.String, java.security.AccessControlContext, java.lang.reflect.Proxy, java.io.ObjectInputStream, sun.reflect.Reflection, java.lang.reflect.InvocationTargetException, java.lang.RuntimeException, java.lang.Exception, java.awt.AWTEvent, java.awt.Container, sun.security.krb5.KrbException]

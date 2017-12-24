@@ -1,0 +1,13 @@
+sun.awt.X11.XEmbedClientHelper
+java.awt.EventQueue
+sun.awt.AppContext
+sun.awt.X11.XEmbedHelper
+javax.swing.plaf.basic.BasicDirectoryModel
+sun.awt.X11.XEmbeddedFramePeer
+sun.awt.X11.XToolkit
+java.util.Vector
+javax.swing.SwingUtilities
+sun.awt.X11.XWindowPeer
+sun.awt.SunToolkit
+sun.awt.X11.XEmbedCanvasPeer
+sun.awt.X11.XEmbedServerTester

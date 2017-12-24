@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	450129
+NH Depth:	38
+NH Density:	24
+Classes	: [com.sun.org.apache.xalan.internal.xsltc.trax.SmartTransformerFactoryImpl, java.util.Properties, java.net.InetAddress, java.util.Hashtable, java.net.URI, sun.misc.VM, java.lang.String, sun.util.LocaleServiceProviderPool, java.net.URLStreamHandler, com.sun.crypto.provider.SunJCE_z, java.lang.System, com.sun.org.apache.xalan.internal.utils.ObjectFactory, java.lang.ClassLoader, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.text.BreakIterator, javax.crypto.SunJCE_h, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.net.URL, java.util.logging.Logger, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore]

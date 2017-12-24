@@ -1,0 +1,5 @@
+File:		kkzb.xml
+Line No:	472
+NH Depth:	19
+NH Density:	12
+Classes	: [java.util.Properties, java.text.BreakIterator, java.util.logging.Logger, sun.print.PathGraphics, java.util.Hashtable, sun.font.FontManager, java.util.logging.LogManager, java.lang.String, sun.util.LocaleServiceProviderPool, java.lang.ConditionalSpecialCasing, sun.font.CompositeFont, sun.font.FontFamily]

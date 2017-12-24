@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	11861
+NH Depth:	22
+NH Density:	16
+Classes	: [java.util.Properties, org.xml.sax.helpers.NewInstance, javax.xml.transform.TransformerFactory, java.lang.SecurityManager, java.util.Hashtable, javax.xml.transform.FactoryFinder, java.security.Policy, java.security.AccessController, sun.misc.VM, java.lang.System, java.lang.ClassLoader, java.security.AccessControlContext, java.util.XMLUtils, java.security.ProtectionDomain, com.sun.naming.internal.ResourceManager, org.xml.sax.helpers.XMLReaderFactory]

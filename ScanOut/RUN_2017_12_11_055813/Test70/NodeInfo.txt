@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	113019
+NH Depth:	13
+NH Density:	14
+Classes	: [java.util.Properties, sun.reflect.annotation.AnnotationParser, javax.xml.transform.TransformerFactory, java.util.Hashtable, java.lang.reflect.Method, javax.xml.transform.FactoryFinder, java.lang.System, javax.management.relation.RelationSupport, java.lang.reflect.Proxy, java.util.XMLUtils, javax.management.relation.RelationService, com.sun.corba.se.impl.activation.ServerManagerImpl, com.sun.xml.internal.ws.handler.HandlerChainsModel, sun.rmi.server.Util]

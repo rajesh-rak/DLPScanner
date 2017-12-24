@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	31438
+NH Depth:	36
+NH Density:	17
+Classes	: [java.net.InetAddress, java.util.logging.LogManager, sun.misc.URLClassPath, sun.util.LocaleServiceProviderPool, java.lang.String, com.sun.imageio.plugins.jpeg.JPEGImageWriter, java.net.URLStreamHandler, java.lang.ClassLoader, java.security.CodeSource, javax.imageio.ImageWriter, java.text.BreakIterator, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.net.URL, java.util.logging.Logger, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle]

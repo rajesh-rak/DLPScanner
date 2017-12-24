@@ -1,0 +1,13 @@
+sun.net.util.URLUtil
+java.text.BreakIterator
+java.util.logging.Logger
+sun.jkernel.Bundle
+sun.jkernel.DownloadManager
+sun.awt.X11.XWindowPeer
+java.lang.Class
+java.lang.String
+sun.util.LocaleServiceProviderPool
+sun.misc.URLClassPath
+java.lang.ConditionalSpecialCasing
+java.util.ResourceBundle
+java.lang.ClassLoader

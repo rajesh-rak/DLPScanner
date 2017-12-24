@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	68280
+NH Depth:	26
+NH Density:	28
+Classes	: [java.util.Currency, java.util.Properties, java.lang.SecurityManager, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.lang.Thread, java.security.AccessController, javax.xml.parsers.DocumentBuilderFactory, java.io.PrintStream, java.lang.System, sun.security.provider.JavaKeyStore, java.security.Security, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder, sun.security.x509.AlgorithmId, sun.security.util.Debug, java.security.AlgorithmParameters, java.security.MessageDigest, java.util.Hashtable, java.security.AccessControlContext, java.util.XMLUtils, java.lang.Exception, java.security.cert.CertificateFactory, sun.security.jca.GetInstance]

@@ -1,0 +1,55 @@
+...............E.....F...E............F..F..F.
+Time: 0.135
+There were 2 errors:
+1) test26(RandoopTest0)java.lang.NullPointerException
+	at sun.security.util.DerOutputStream.putOID(DerOutputStream.java:292)
+	at sun.security.x509.AlgorithmId.derEncode(AlgorithmId.java:162)
+	at sun.security.x509.AlgorithmId.encode(AlgorithmId.java:211)
+	at RandoopTest0.test26(RandoopTest0.java:350)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test18(RandoopTest0)java.lang.NullPointerException
+	at sun.security.x509.AlgorithmId.equals(AlgorithmId.java:276)
+	at RandoopTest0.test18(RandoopTest0.java:245)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+There were 4 failures:
+1) test21(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test21(RandoopTest0.java:289)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test6(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test6(RandoopTest0.java:81)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test4(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test4(RandoopTest0.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+4) test2(RandoopTest0)junit.framework.AssertionFailedError: Expected: <null> but was: 
+	at RandoopTest0.test2(RandoopTest0.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 40,  Failures: 4,  Errors: 2
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 34415
+Exiting analysis

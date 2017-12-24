@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	27683
+NH Depth:	20
+NH Density:	23
+Classes	: [sun.security.util.Debug, java.util.Properties, java.lang.SecurityManager, java.lang.Thread, sun.util.LocaleServiceProviderPool, com.sun.xml.internal.messaging.saaj.soap.SOAPFactoryImpl, java.security.AccessController, sun.misc.VM, javax.xml.parsers.DocumentBuilderFactory, java.io.PrintStream, java.lang.System, java.lang.ClassLoader, java.security.AccessControlContext, java.util.XMLUtils, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, java.math.BigDecimal, java.util.Formatter, java.text.DecimalFormatSymbols, java.util.ResourceBundle, javax.swing.plaf.basic.BasicTextFieldUI, javax.xml.parsers.FactoryFinder]

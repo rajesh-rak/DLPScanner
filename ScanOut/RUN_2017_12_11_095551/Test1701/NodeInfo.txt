@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	14306
+NH Depth:	25
+NH Density:	26
+Classes	: [java.util.TimeZone, java.lang.SecurityManager, sun.jkernel.Bundle, sun.jkernel.DownloadManager, java.lang.Thread, java.util.logging.LogManager, java.security.AccessController, sun.util.LocaleServiceProviderPool, java.lang.StringBuilder, java.io.PrintStream, java.lang.System, sun.util.TimeZoneNameUtility, java.lang.Throwable, java.util.ResourceBundle, sun.security.util.Debug, sun.rmi.server.UnicastServerRef, java.lang.String, com.sun.imageio.plugins.jpeg.JPEGImageWriter, java.util.Date, java.lang.ClassLoader, java.security.AccessControlContext, java.text.BreakIterator, javax.imageio.ImageWriter, java.util.logging.Logger, java.lang.Exception, java.lang.ConditionalSpecialCasing]

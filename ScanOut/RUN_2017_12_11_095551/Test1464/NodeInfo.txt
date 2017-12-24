@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	42960
+NH Depth:	36
+NH Density:	30
+Classes	: [java.lang.SecurityManager, java.security.AccessController, javax.swing.text.AsyncBoxView, sun.security.provider.JavaKeyStore, java.security.Security, java.io.ObjectOutputStream, java.util.regex.Pattern, sun.security.provider.PolicyFile, java.lang.Class, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore, java.security.Permissions, java.security.MessageDigest, java.net.InetAddress, java.net.URLClassLoader, java.util.Hashtable, java.security.Policy, java.lang.String, javax.swing.text.LayoutQueue, java.net.SocketPermission, java.security.AccessControlContext, java.net.Inet6Address, sun.awt.AppContext, java.io.ObjectInputStream, sun.net.util.IPAddressUtil, java.security.ProtectionDomain, java.security.cert.CertificateFactory, java.lang.ConditionalSpecialCasing, sun.security.jca.GetInstance, java.net.NetworkInterface]

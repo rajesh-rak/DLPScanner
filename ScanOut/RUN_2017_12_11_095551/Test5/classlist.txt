@@ -1,0 +1,5 @@
+sun.misc.Launcher
+sun.jkernel.Bundle
+sun.jkernel.DownloadManager
+java.lang.Class
+java.lang.ClassLoader

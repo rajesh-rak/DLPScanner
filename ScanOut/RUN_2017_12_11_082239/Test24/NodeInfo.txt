@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	4558
+NH Depth:	10
+NH Density:	5
+Classes	: [com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, com.sun.jndi.ldap.Connection, com.sun.jndi.ldap.EventSupport, com.sun.jndi.ldap.sasl.LdapSasl]

@@ -1,0 +1,6 @@
+java.beans.BeansAppletContext
+java.net.URL
+java.util.Hashtable
+java.lang.String
+java.lang.ConditionalSpecialCasing
+java.net.URLStreamHandler

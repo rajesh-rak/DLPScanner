@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	1894
+NH Depth:	12
+NH Density:	12
+Classes	: [sun.font.Type1Font, java.awt.font.TextLine, java.awt.GraphicsEnvironment, sun.font.FontResolver, sun.font.FontManager, sun.java2d.SunGraphicsEnvironment, java.awt.Font, sun.font.TrueTypeGlyphMapper, sun.font.CompositeFont, sun.font.CompositeGlyphMapper, sun.font.Type1GlyphMapper, sun.font.NativeFont]

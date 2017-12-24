@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	107222
+NH Depth:	22
+NH Density:	15
+Classes	: [sun.jkernel.DownloadManager, sun.jkernel.Bundle, sun.misc.URLClassPath, sun.util.LocaleServiceProviderPool, java.lang.String, java.net.URLStreamHandler, java.lang.ClassLoader, sun.util.CoreResourceBundleControl, sun.net.www.MimeLauncher, java.text.BreakIterator, java.net.URL, java.util.logging.Logger, java.lang.Class, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle]

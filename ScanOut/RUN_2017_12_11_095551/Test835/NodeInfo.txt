@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	48427
+NH Depth:	30
+NH Density:	19
+Classes	: [java.security.Permissions, java.lang.SecurityManager, java.util.Hashtable, sun.font.FontManager, sun.awt.X11.XWindowPeer, java.lang.String, java.security.AccessController, java.security.Policy, sun.util.LocaleServiceProviderPool, com.sun.crypto.provider.SunJCE_z, java.lang.ClassLoader, java.security.AccessControlContext, java.text.BreakIterator, java.security.ProtectionDomain, java.util.logging.Logger, com.sun.crypto.provider.SunJCE_f, java.lang.Class, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.JceKeyStore]

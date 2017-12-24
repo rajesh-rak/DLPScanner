@@ -1,0 +1,12 @@
+java.io.ObjectInputStream
+sun.net.util.IPAddressUtil
+java.util.regex.Pattern
+java.net.URLClassLoader
+java.util.Hashtable
+java.lang.String
+java.lang.ConditionalSpecialCasing
+java.security.SecureClassLoader
+com.sun.crypto.provider.JceKeyStore
+sun.rmi.server.Util
+java.net.SocketPermission
+java.lang.reflect.Proxy

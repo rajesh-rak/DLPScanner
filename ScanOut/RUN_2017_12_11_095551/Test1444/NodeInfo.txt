@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	31312
+NH Depth:	21
+NH Density:	21
+Classes	: [sun.reflect.annotation.AnnotationParser, java.lang.Runtime, java.util.Hashtable, java.lang.reflect.Method, java.lang.String, com.sun.xml.internal.ws.api.server.WSEndpoint, com.sun.xml.internal.ws.server.EndpointFactory, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.lang.reflect.Proxy, java.io.ObjectStreamClass, com.sun.corba.se.impl.activation.ServerTableEntry, java.io.ObjectInputStream, java.util.regex.Pattern, java.io.ObjectOutputStream, com.sun.corba.se.impl.activation.ServerManagerImpl, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.lang.ConditionalSpecialCasing, java.lang.ProcessBuilder, com.sun.crypto.provider.JceKeyStore, java.lang.Enum]

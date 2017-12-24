@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	5829
+NH Depth:	7
+NH Density:	3
+Classes	: [com.sun.jmx.snmp.daemon.SnmpSession, com.sun.jmx.snmp.daemon.SnmpSocket, com.sun.jmx.snmp.daemon.SnmpInformRequest]

@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	25495
+NH Depth:	27
+NH Density:	22
+Classes	: [java.security.Permissions, java.security.MessageDigest, java.lang.SecurityManager, java.util.Hashtable, java.net.URI, java.security.Policy, java.security.AccessController, sun.misc.VM, java.lang.System, java.lang.ClassLoader, java.security.AccessControlContext, sun.security.provider.JavaKeyStore, java.security.Security, sun.security.provider.PolicyFile, java.security.ProtectionDomain, java.net.URL, com.sun.corba.se.impl.encoding.CDRInputStream_1_0, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.corba.se.impl.util.Utility, com.sun.crypto.provider.JceKeyStore, java.security.PermissionsHash]

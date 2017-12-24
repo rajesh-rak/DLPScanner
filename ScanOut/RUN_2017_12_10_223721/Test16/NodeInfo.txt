@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	12045
+NH Depth:	32
+NH Density:	34
+Classes	: [java.util.TimeZone, java.util.Properties, java.util.Calendar, java.util.logging.LogManager, sun.util.LocaleServiceProviderPool, javax.xml.parsers.DocumentBuilderFactory, java.lang.System, sun.util.TimeZoneNameUtility, sun.security.provider.JavaKeyStore, java.security.Security, java.security.SecureRandom, java.util.ResourceBundle, sun.font.CompositeFont, javax.xml.parsers.FactoryFinder, sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, java.security.MessageDigest, javax.xml.transform.TransformerFactory, sun.font.FontManager, java.util.Hashtable, javax.xml.transform.FactoryFinder, sun.misc.VM, java.lang.String, java.util.Date, java.lang.ClassLoader, sun.security.provider.KeyProtector, java.util.XMLUtils, java.security.Provider, java.text.BreakIterator, java.util.logging.Logger, sun.print.PathGraphics, java.lang.ConditionalSpecialCasing, java.security.cert.CertificateFactory, sun.security.jca.GetInstance]

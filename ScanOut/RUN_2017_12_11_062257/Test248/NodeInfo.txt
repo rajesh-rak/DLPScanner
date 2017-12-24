@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	133901
+NH Depth:	31
+NH Density:	21
+Classes	: [java.util.Currency, java.util.Map, java.lang.SecurityManager, java.lang.Runtime, java.util.Hashtable, java.security.Policy, java.security.AccessController, java.lang.String, java.lang.System, java.security.AccessControlContext, java.lang.reflect.Proxy, com.sun.corba.se.impl.activation.ServerTableEntry, java.io.ObjectInputStream, java.security.ProtectionDomain, com.sun.corba.se.impl.activation.ServerManagerImpl, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, java.lang.ProcessBuilder, java.lang.StringCoding]

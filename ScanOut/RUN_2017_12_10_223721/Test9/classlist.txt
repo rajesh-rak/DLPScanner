@@ -1,0 +1,17 @@
+java.util.Properties
+sun.font.FontManager
+java.util.Hashtable
+java.util.logging.LogManager
+sun.util.LocaleServiceProviderPool
+sun.misc.VM
+java.lang.String
+sun.font.TrueTypeFont
+java.lang.System
+java.lang.ClassLoader
+sun.java2d.Disposer
+java.text.BreakIterator
+java.util.logging.Logger
+sun.print.PathGraphics
+java.lang.ConditionalSpecialCasing
+java.util.ResourceBundle
+sun.font.CompositeFont

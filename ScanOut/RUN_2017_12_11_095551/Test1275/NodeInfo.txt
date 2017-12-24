@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	55772
+NH Depth:	37
+NH Density:	21
+Classes	: [java.security.Permissions, java.security.MessageDigest, java.lang.SecurityManager, java.util.Hashtable, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, java.security.UnresolvedPermissionCollection, java.io.ObjectStreamClass, sun.security.provider.JavaKeyStore, java.io.ObjectInputStream, java.security.Security, sun.reflect.Reflection, java.io.ObjectOutputStream, java.security.ProtectionDomain, java.lang.Class, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore]

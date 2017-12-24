@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	13576
+NH Depth:	23
+NH Density:	20
+Classes	: [sun.security.util.Debug, java.util.Properties, javax.xml.transform.TransformerFactory, java.lang.SecurityManager, java.lang.Thread, javax.xml.transform.FactoryFinder, java.security.AccessController, sun.util.LocaleServiceProviderPool, sun.awt.X11.XComponentPeer, java.io.PrintStream, java.security.AccessControlContext, java.util.XMLUtils, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.math.BigDecimal, java.text.DecimalFormatSymbols, java.util.ResourceBundle]

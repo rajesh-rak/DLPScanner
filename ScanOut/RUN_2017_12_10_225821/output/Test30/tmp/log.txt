@@ -1,0 +1,28 @@
+....E....................E.......
+Time: 0.08
+There were 2 errors:
+1) test28(RandoopTest0)java.lang.NullPointerException
+	at sun.rmi.server.UnicastRef.remoteHashCode(UnicastRef.java:507)
+	at RandoopTest0.test28(RandoopTest0.java:492)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test8(RandoopTest0)java.lang.NullPointerException
+	at sun.rmi.server.UnicastRef.remoteEquals(UnicastRef.java:514)
+	at RandoopTest0.test8(RandoopTest0.java:131)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 31,  Failures: 0,  Errors: 2
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 22648
+Exiting analysis

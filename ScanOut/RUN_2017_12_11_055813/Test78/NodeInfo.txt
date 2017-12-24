@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	133793
+NH Depth:	20
+NH Density:	16
+Classes	: [java.net.InetAddress, java.lang.Runtime, java.util.Hashtable, java.lang.String, com.sun.crypto.provider.SunJCE_z, java.net.URLStreamHandler, com.sun.corba.se.impl.activation.ServerTableEntry, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.util.regex.Pattern, javax.crypto.SunJCE_h, java.net.URL, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.JceKeyStore, java.lang.ProcessBuilder]

@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	2162
+NH Depth:	24
+NH Density:	14
+Classes	: [java.util.XMLUtils, javax.naming.spi.DirectoryManager, java.util.Properties, java.lang.SecurityManager, java.security.ProtectionDomain, java.util.Hashtable, java.lang.Class, java.security.AccessController, java.security.Policy, javax.xml.parsers.DocumentBuilderFactory, com.sun.naming.internal.ResourceManager, com.sun.jndi.ldap.Obj, javax.xml.parsers.FactoryFinder, java.security.AccessControlContext]

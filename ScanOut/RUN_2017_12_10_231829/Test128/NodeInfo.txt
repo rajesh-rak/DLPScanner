@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	25611
+NH Depth:	41
+NH Density:	29
+Classes	: [java.util.TimeZone, java.lang.reflect.Constructor, java.util.Map, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.lang.StringBuilder, java.io.PrintStream, com.sun.corba.se.impl.transport.SelectorImpl, java.util.concurrent.locks.AbstractQueuedSynchronizer, com.sun.corba.se.impl.orbutil.concurrent.CondVar, com.sun.corba.se.impl.oa.poa.POAImpl, com.sun.corba.se.impl.orbutil.ORBUtility, sun.security.provider.PolicyFile, java.util.concurrent.locks.ReentrantLock, java.lang.Class, com.sun.corba.se.spi.servicecontext.ServiceContexts, sun.rmi.server.UnicastServerRef, java.security.Permissions, java.lang.String, java.security.Policy, java.util.Date, java.security.AccessControlContext, com.sun.corba.se.impl.encoding.CDROutputStream_1_0, com.sun.corba.se.impl.protocol.giopmsgheaders.RequestMessage_1_0, java.util.concurrent.ConcurrentHashMap, com.sun.corba.se.impl.protocol.CorbaServerRequestDispatcherImpl, sun.reflect.Reflection, java.security.ProtectionDomain]

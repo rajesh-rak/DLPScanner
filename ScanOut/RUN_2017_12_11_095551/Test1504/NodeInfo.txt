@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	67809
+NH Depth:	21
+NH Density:	21
+Classes	: [java.util.Currency, java.net.InetAddress, java.net.URLClassLoader, java.lang.SecurityManager, java.util.Hashtable, java.lang.String, java.security.Policy, java.security.AccessController, java.net.URLStreamHandler, java.util.HashMap, java.security.AccessControlContext, java.lang.reflect.Proxy, java.security.CodeSource, java.io.ObjectInputStream, java.net.URL, java.security.ProtectionDomain, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.naming.internal.ResourceManager, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore]

@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	112032
+NH Depth:	23
+NH Density:	26
+Classes	: [sun.util.calendar.CalendarSystem, java.util.Properties, sun.reflect.annotation.AnnotationParser, java.lang.reflect.Method, javax.xml.parsers.DocumentBuilderFactory, com.sun.crypto.provider.SunJCE_z, java.io.ObjectStreamClass, sun.util.calendar.ZoneInfo, java.io.ObjectOutputStream, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder, sun.util.calendar.BaseCalendar, java.util.SimpleTimeZone, java.util.Hashtable, java.io.ObjectOutput, java.util.Date, java.lang.reflect.Proxy, com.sun.corba.se.impl.resolver.FileResolverImpl, sun.util.calendar.LocalGregorianCalendar, java.util.XMLUtils, com.sun.corba.se.impl.orb.DataCollectorBase, java.io.ObjectInputStream, javax.management.relation.RelationService, java.lang.Enum]

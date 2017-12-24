@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	92858
+NH Depth:	23
+NH Density:	17
+Classes	: [java.security.Permissions, java.net.InetAddress, java.lang.SecurityManager, java.util.Hashtable, java.security.AccessController, java.security.Policy, java.net.URLStreamHandler, com.sun.crypto.provider.SunJCE_z, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, java.net.URL, java.security.ProtectionDomain, java.lang.Class, com.sun.crypto.provider.JceKeyStore]

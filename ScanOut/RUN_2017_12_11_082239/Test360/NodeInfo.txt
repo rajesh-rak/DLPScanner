@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	18375
+NH Depth:	17
+NH Density:	16
+Classes	: [com.sun.jndi.ldap.pool.Pool, sun.reflect.annotation.AnnotationParser, java.lang.reflect.Method, com.sun.xml.internal.ws.api.server.WSEndpoint, com.sun.xml.internal.ws.server.EndpointFactory, java.lang.reflect.Proxy, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, com.sun.jndi.ldap.pool.PooledConnectionFactory, sun.reflect.annotation.AnnotationType, com.sun.jndi.ldap.Connection, com.sun.xml.internal.ws.model.RuntimeModeler, java.lang.Class, com.sun.xml.internal.ws.handler.HandlerChainsModel, com.sun.jndi.ldap.LdapClientFactory, java.lang.reflect.AccessibleObject, com.sun.xml.internal.txw2.ContainerElement]

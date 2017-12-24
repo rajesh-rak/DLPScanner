@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	116837
+NH Depth:	52
+NH Density:	35
+Classes	: [java.text.SimpleDateFormat, java.util.Calendar, sun.util.calendar.CalendarSystem, java.util.Properties, java.awt.Window, sun.awt.im.InputContext, javax.swing.JFrame, java.text.ChoiceFormat, java.awt.Component, sun.util.calendar.ZoneInfo, java.util.regex.Pattern, java.lang.Double, sun.rmi.transport.tcp.TCPTransport, java.text.MessageFormat, java.text.DecimalFormatSymbols, java.awt.Dialog, com.sun.crypto.provider.JceKeyStore, java.text.NumberFormat, sun.util.calendar.BaseCalendar, java.awt.KeyboardFocusManager, java.util.SimpleTimeZone, java.awt.GraphicsDevice, sun.rmi.transport.tcp.TCPEndpoint, java.util.Hashtable, java.lang.String, java.util.Date, sun.awt.im.InputMethodContext, java.lang.reflect.Proxy, sun.util.calendar.LocalGregorianCalendar, java.io.ObjectInputStream, sun.awt.im.CompositionArea, sun.awt.im.CompositionAreaHandler, java.lang.ConditionalSpecialCasing, java.awt.Container, sun.misc.FloatingDecimal]

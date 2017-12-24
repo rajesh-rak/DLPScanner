@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	13893
+NH Depth:	14
+NH Density:	10
+Classes	: [java.rmi.server.LogStream, java.lang.Exception, java.util.Hashtable, java.math.BigDecimal, java.util.Formatter, java.lang.String, sun.security.krb5.internal.Krb5, java.text.DecimalFormatSymbols, java.io.PrintStream, sun.security.krb5.KrbException]

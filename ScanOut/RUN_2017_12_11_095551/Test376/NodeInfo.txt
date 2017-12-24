@@ -1,0 +1,5 @@
+File:		zb11
+Line No:	13140
+NH Depth:	38
+NH Density:	16
+Classes	: [java.security.Permissions, java.lang.reflect.Constructor, java.security.UnresolvedPermission, java.net.InetAddress, java.lang.SecurityManager, java.security.Policy, java.security.AccessController, java.net.SocketPermission, java.security.AccessControlContext, java.security.UnresolvedPermissionCollection, java.net.Inet6Address, sun.reflect.Reflection, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Class, java.net.NetworkInterface]

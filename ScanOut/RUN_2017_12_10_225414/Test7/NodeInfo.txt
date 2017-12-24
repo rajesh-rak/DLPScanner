@@ -1,0 +1,5 @@
+File:		kkzb.xml
+Line No:	464
+NH Depth:	2
+NH Density:	2
+Classes	: [sun.security.krb5.internal.rcache.CacheTable, sun.security.krb5.internal.rcache.ReplayCache]

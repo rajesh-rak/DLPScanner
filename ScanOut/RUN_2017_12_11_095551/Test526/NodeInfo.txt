@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	12438
+NH Depth:	34
+NH Density:	26
+Classes	: [com.sun.jndi.ldap.pool.Pool, java.util.Map, java.lang.SecurityManager, java.util.logging.LogManager, java.lang.reflect.Method, java.lang.Thread, java.security.AccessController, sun.util.LocaleServiceProviderPool, java.io.PrintStream, com.sun.jndi.ldap.ClientId, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.jndi.ldap.DigestClientId, com.sun.xml.internal.messaging.saaj.soap.SOAPFactoryImpl, java.security.Policy, java.lang.ClassLoader, java.security.AccessControlContext, sun.reflect.Reflection, java.util.logging.Logger, java.security.ProtectionDomain, java.lang.Exception, java.util.WeakHashMap, java.math.BigDecimal, com.sun.jndi.ldap.SimpleClientId]

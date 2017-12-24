@@ -1,0 +1,12 @@
+sun.awt.AppContext
+sun.awt.X11.XToolkit
+javax.swing.text.View
+com.sun.jndi.ldap.LdapClient
+com.sun.jndi.ldap.LdapCtx
+java.util.Vector
+sun.awt.X11.XWindowPeer
+com.sun.naming.internal.FactoryEnumeration
+javax.swing.text.AsyncBoxView
+javax.naming.ldap.ControlFactory
+sun.awt.X11.XFramePeer
+javax.swing.text.LayoutQueue

@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	127245
+NH Depth:	36
+NH Density:	25
+Classes	: [sun.util.calendar.CalendarSystem, java.util.Properties, javax.naming.spi.DirectoryManager, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.lang.reflect.Method, java.security.AccessController, sun.util.calendar.ZoneInfo, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, com.sun.naming.internal.ResourceManager, sun.util.calendar.BaseCalendar, java.util.SimpleTimeZone, javax.xml.transform.TransformerFactory, java.util.Hashtable, javax.xml.transform.FactoryFinder, java.security.Policy, java.util.Date, java.security.AccessControlContext, java.lang.reflect.Proxy, java.util.XMLUtils, java.security.ProtectionDomain, javax.management.relation.RelationService, com.sun.jndi.ldap.Obj, sun.rmi.server.Util]

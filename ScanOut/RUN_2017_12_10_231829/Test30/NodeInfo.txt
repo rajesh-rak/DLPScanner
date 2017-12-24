@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	2110
+NH Depth:	6
+NH Density:	3
+Classes	: [sun.reflect.annotation.AnnotationType, sun.reflect.annotation.AnnotationParser, java.lang.Class]

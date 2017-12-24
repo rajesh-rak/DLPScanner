@@ -1,0 +1,20 @@
+........thread -1
+..thread -1
+.....thread -1
+............
+Time: 0.1
+
+OK (27 tests)
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 16488
+Exiting analysis
+NFO: hi!
+Dec 11, 2017 4:25:23 PM java.util.logging.LogManager$RootLogger log
+INFO: hi!
+Dec 11, 2017 4:25:23 PM RandoopTest0 test8
+INFO: hi!

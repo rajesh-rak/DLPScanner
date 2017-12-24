@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	28499
+NH Depth:	18
+NH Density:	23
+Classes	: [java.util.Currency, sun.security.util.Debug, java.lang.SecurityManager, sun.font.FontManager, java.lang.Thread, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, java.lang.String, sun.util.LocaleServiceProviderPool, java.security.AccessController, java.io.PrintStream, java.lang.ClassLoader, java.security.AccessControlContext, com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl, java.text.BreakIterator, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, java.util.Formatter, java.lang.ConditionalSpecialCasing, java.text.DecimalFormatSymbols, sun.font.FontFamily, com.sun.corba.se.impl.naming.cosnaming.TransientNameService]

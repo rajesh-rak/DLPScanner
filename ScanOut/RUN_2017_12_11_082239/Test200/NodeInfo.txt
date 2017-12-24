@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	29134
+NH Depth:	7
+NH Density:	5
+Classes	: [com.sun.jmx.snmp.daemon.SnmpSession, com.sun.jmx.snmp.daemon.SnmpQManager, com.sun.jmx.snmp.daemon.WaitQ, com.sun.jmx.snmp.daemon.SnmpSocket, com.sun.jmx.snmp.daemon.SnmpInformRequest]

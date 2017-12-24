@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	453
+NH Depth:	5
+NH Density:	3
+Classes	: [sun.reflect.annotation.AnnotationType, sun.reflect.annotation.AnnotationParser, java.lang.Class]

@@ -1,0 +1,15 @@
+java.util.Properties
+java.util.Calendar
+sun.util.calendar.CalendarSystem
+java.lang.SecurityManager
+java.util.Hashtable
+java.security.AccessController
+java.security.Policy
+java.util.Date
+java.security.AccessControlContext
+sun.security.provider.JavaKeyStore
+java.util.GregorianCalendar
+java.security.ProtectionDomain
+java.lang.Class
+com.sun.naming.internal.ResourceManager
+com.sun.crypto.provider.JceKeyStore

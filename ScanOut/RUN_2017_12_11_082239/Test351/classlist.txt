@@ -1,0 +1,3 @@
+com.sun.org.omg.CORBA.OperationDescriptionHelper
+com.sun.org.omg.CORBA.ExceptionDescriptionHelper
+com.sun.org.omg.CORBA.ExcDescriptionSeqHelper

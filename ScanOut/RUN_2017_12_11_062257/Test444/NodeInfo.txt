@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	337730
+NH Depth:	24
+NH Density:	18
+Classes	: [java.util.Hashtable, sun.misc.URLClassPath, java.lang.String, sun.util.LocaleServiceProviderPool, com.sun.crypto.provider.SunJCE_z, java.lang.ClassLoader, sun.util.CoreResourceBundleControl, sun.security.provider.JavaKeyStore, java.io.ObjectInputStream, sun.net.util.URLUtil, java.text.BreakIterator, java.util.logging.Logger, com.sun.crypto.provider.SunJCE_f, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore]

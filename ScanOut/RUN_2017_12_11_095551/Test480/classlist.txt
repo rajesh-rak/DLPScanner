@@ -1,0 +1,16 @@
+javax.naming.spi.DirectoryManager
+java.util.Properties
+java.lang.SecurityManager
+java.security.Policy
+java.security.AccessController
+sun.misc.VM
+javax.xml.parsers.DocumentBuilderFactory
+java.lang.System
+java.lang.ClassLoader
+java.security.AccessControlContext
+java.util.XMLUtils
+java.security.ProtectionDomain
+java.net.URL
+com.sun.naming.internal.ResourceManager
+com.sun.jndi.toolkit.dir.HierMemDirCtx
+javax.xml.parsers.FactoryFinder

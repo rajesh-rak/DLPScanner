@@ -1,0 +1,64 @@
+.....................E.E....
+Time: 0.462
+There were 2 errors:
+1) test6(RandoopTest0)java.lang.NullPointerException
+	at sun.font.FontDesignMetrics.getDefaultFrc(FontDesignMetrics.java:153)
+	at sun.font.FontDesignMetrics.getMetrics(FontDesignMetrics.java:278)
+	at sun.swing.SwingUtilities2.getFontMetrics(SwingUtilities2.java:1030)
+	at javax.swing.JComponent.getFontMetrics(JComponent.java:1625)
+	at javax.swing.text.PlainView.calculateLongestLine(PlainView.java:639)
+	at javax.swing.text.PlainView.updateMetrics(PlainView.java:209)
+	at javax.swing.text.PlainView.getPreferredSpan(PlainView.java:228)
+	at javax.swing.text.FieldView.getPreferredSpan(FieldView.java:235)
+	at javax.swing.text.View.getMinimumSpan(View.java:251)
+	at javax.swing.plaf.basic.BasicTextUI$RootView.getMinimumSpan(BasicTextUI.java:1369)
+	at javax.swing.plaf.basic.BasicTextUI.getMinimumSize(BasicTextUI.java:946)
+	at javax.swing.JComponent.getMinimumSize(JComponent.java:1743)
+	at com.apple.laf.AquaFileChooserUI.installComponents(AquaFileChooserUI.java:1444)
+	at com.apple.laf.AquaFileChooserUI.installUI(AquaFileChooserUI.java:144)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JFileChooser.updateUI(JFileChooser.java:1803)
+	at javax.swing.JFileChooser.setup(JFileChooser.java:370)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:352)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:311)
+	at RandoopTest0.test6(RandoopTest0.java:79)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test5(RandoopTest0)java.lang.NullPointerException
+	at sun.font.FontDesignMetrics.getDefaultFrc(FontDesignMetrics.java:153)
+	at sun.font.FontDesignMetrics.getMetrics(FontDesignMetrics.java:278)
+	at sun.swing.SwingUtilities2.getFontMetrics(SwingUtilities2.java:1030)
+	at javax.swing.JComponent.getFontMetrics(JComponent.java:1625)
+	at javax.swing.text.PlainView.calculateLongestLine(PlainView.java:639)
+	at javax.swing.text.PlainView.updateMetrics(PlainView.java:209)
+	at javax.swing.text.PlainView.getPreferredSpan(PlainView.java:228)
+	at javax.swing.text.FieldView.getPreferredSpan(FieldView.java:235)
+	at javax.swing.text.View.getMinimumSpan(View.java:251)
+	at javax.swing.plaf.basic.BasicTextUI$RootView.getMinimumSpan(BasicTextUI.java:1369)
+	at javax.swing.plaf.basic.BasicTextUI.getMinimumSize(BasicTextUI.java:946)
+	at javax.swing.JComponent.getMinimumSize(JComponent.java:1743)
+	at com.apple.laf.AquaFileChooserUI.installComponents(AquaFileChooserUI.java:1444)
+	at com.apple.laf.AquaFileChooserUI.installUI(AquaFileChooserUI.java:144)
+	at javax.swing.JComponent.setUI(JComponent.java:665)
+	at javax.swing.JFileChooser.updateUI(JFileChooser.java:1803)
+	at javax.swing.JFileChooser.setup(JFileChooser.java:370)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:343)
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:296)
+	at RandoopTest0.test5(RandoopTest0.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 26,  Failures: 0,  Errors: 2
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 24868
+Exiting analysis

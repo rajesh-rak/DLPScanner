@@ -1,0 +1,27 @@
+...........F...............E....
+Time: 0.093
+There was 1 error:
+1) test21(RandoopTest0)java.lang.NullPointerException
+	at RandoopTest0.test21(RandoopTest0.java:350)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+There was 1 failure:
+1) test6(RandoopTest0)junit.framework.AssertionFailedError: '{sun.jvm.args=-Dfile.encoding=ISO-8859-1, sun.jvm.flags=, sun.java.command=RandoopTest}' != '{sun.jvm.args=-Xms2048m -Xmx4096m, sun.jvm.flags=, sun.java.command=randoop.main.Main gentests --classlist=classlist.txt --timelimit=30 --inputlimit=50 --outputlimit=40}'
+	at RandoopTest0.test6(RandoopTest0.java:93)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 30,  Failures: 1,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 22569
+Exiting analysis

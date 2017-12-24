@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	7436
+NH Depth:	28
+NH Density:	21
+Classes	: [java.util.Currency, sun.security.util.Debug, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, com.sun.xml.internal.ws.server.WSEndpointImpl, java.lang.reflect.Method, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.security.AccessControlContext, java.io.ObjectStreamClass, sun.reflect.Reflection, java.io.ObjectOutputStream, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.math.BigDecimal, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.Enum, java.beans.beancontext.BeanContextSupport]

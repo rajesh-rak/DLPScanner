@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	17143
+NH Depth:	27
+NH Density:	19
+Classes	: [java.util.Currency, java.util.Calendar, java.security.CodeSigner, java.util.Properties, sun.util.calendar.CalendarSystem, java.util.Hashtable, java.lang.String, java.util.Date, java.util.HashMap, java.lang.reflect.Proxy, java.security.CodeSource, sun.util.calendar.LocalGregorianCalendar, java.io.ObjectInputStream, java.util.GregorianCalendar, java.util.Formatter, java.text.DecimalFormatSymbols, java.security.Timestamp, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore]

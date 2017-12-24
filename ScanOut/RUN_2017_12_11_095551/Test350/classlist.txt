@@ -1,0 +1,3 @@
+com.sun.org.omg.CORBA.StructMemberHelper
+com.sun.org.omg.CORBA.InitializerHelper
+com.sun.org.omg.CORBA.StructMemberSeqHelper

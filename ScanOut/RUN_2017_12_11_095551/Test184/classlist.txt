@@ -1,0 +1,16 @@
+java.util.Calendar
+java.util.Properties
+sun.util.calendar.CalendarSystem
+sun.reflect.annotation.AnnotationParser
+javax.xml.transform.TransformerFactory
+java.util.Hashtable
+javax.xml.transform.FactoryFinder
+sun.security.tools.KeyTool
+java.lang.reflect.Method
+java.util.Date
+java.lang.reflect.Proxy
+sun.util.calendar.LocalGregorianCalendar
+java.util.XMLUtils
+java.util.GregorianCalendar
+javax.management.relation.RelationService
+com.sun.xml.internal.ws.handler.HandlerChainsModel

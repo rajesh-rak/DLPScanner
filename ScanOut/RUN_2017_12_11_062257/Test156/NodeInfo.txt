@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	100117
+NH Depth:	22
+NH Density:	25
+Classes	: [sun.misc.HexDumpEncoder, javax.naming.spi.DirectoryManager, java.util.Properties, sun.reflect.annotation.AnnotationParser, javax.xml.transform.TransformerFactory, java.lang.SecurityManager, java.lang.Runtime, java.util.Hashtable, javax.xml.transform.FactoryFinder, java.lang.reflect.Method, java.security.Policy, java.security.AccessController, java.lang.System, sun.misc.CharacterEncoder, sun.misc.ProxyGenerator, java.security.AccessControlContext, java.lang.reflect.Proxy, java.util.XMLUtils, com.sun.crypto.provider.RC2Parameters, java.security.ProtectionDomain, com.sun.xml.internal.ws.handler.HandlerChainsModel, com.sun.naming.internal.ResourceManager, com.sun.jndi.ldap.Obj, java.lang.StringCoding, java.io.ByteArrayOutputStream]

@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	11937
+NH Depth:	26
+NH Density:	28
+Classes	: [java.util.Currency, java.util.Properties, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.lang.System, sun.security.provider.JavaKeyStore, java.security.Security, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, sun.security.x509.AlgorithmId, sun.security.util.Debug, java.security.AlgorithmParameters, java.security.MessageDigest, sun.font.FontManager, java.util.Hashtable, java.lang.String, java.security.AccessControlContext, java.lang.Exception, java.security.cert.CertificateFactory, java.lang.ConditionalSpecialCasing, sun.security.jca.GetInstance, sun.font.FontFamily]

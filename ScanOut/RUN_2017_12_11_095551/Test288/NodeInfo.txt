@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	79721
+NH Depth:	27
+NH Density:	25
+Classes	: [sun.security.util.Debug, java.lang.SecurityManager, com.sun.jmx.mbeanserver.StandardMBeanSupport, sun.jkernel.DownloadManager, java.lang.Thread, sun.misc.URLClassPath, sun.util.LocaleServiceProviderPool, java.security.Policy, java.security.AccessController, java.io.PrintStream, java.lang.System, java.lang.ClassLoader, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl, javax.imageio.ImageReader, java.net.URL, java.util.logging.Logger, java.security.ProtectionDomain, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, java.util.ResourceBundle]

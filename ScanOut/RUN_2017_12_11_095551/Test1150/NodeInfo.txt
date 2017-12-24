@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	17225
+NH Depth:	22
+NH Density:	14
+Classes	: [sun.net.www.MimeLauncher, java.text.BreakIterator, com.sun.org.apache.xml.internal.res.XMLErrorResources, java.net.URL, java.util.logging.Logger, sun.misc.URLClassPath, sun.awt.X11.XComponentPeer, java.lang.String, sun.util.LocaleServiceProviderPool, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, java.net.URLStreamHandler, java.lang.ClassLoader, sun.util.CoreResourceBundleControl]

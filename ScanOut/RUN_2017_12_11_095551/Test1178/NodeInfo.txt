@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	28043
+NH Depth:	19
+NH Density:	23
+Classes	: [java.util.Currency, sun.security.util.Debug, com.sun.corba.se.impl.logging.ActivationSystemException, java.lang.SecurityManager, java.lang.Thread, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, sun.misc.VM, sun.util.LocaleServiceProviderPool, sun.awt.X11.XComponentPeer, java.security.AccessController, java.io.PrintStream, java.lang.System, java.lang.ClassLoader, java.security.AccessControlContext, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, java.util.Locale, java.math.BigDecimal, java.util.Formatter, java.text.DecimalFormatSymbols, java.util.ResourceBundle]

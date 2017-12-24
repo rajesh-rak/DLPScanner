@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	33181
+NH Depth:	27
+NH Density:	26
+Classes	: [java.util.TimeZone, javax.naming.spi.DirectoryManager, java.util.Properties, java.lang.SecurityManager, sun.jkernel.DownloadManager, sun.util.LocaleServiceProviderPool, java.security.AccessController, java.lang.System, sun.util.TimeZoneNameUtility, javax.naming.spi.NamingManager, java.awt.Component, com.sun.jndi.rmi.registry.RegistryContext, java.util.ResourceBundle, com.sun.naming.internal.ResourceManager, sun.net.www.MimeTable, com.sun.org.apache.xml.internal.res.XMLErrorResources_sk, java.util.Hashtable, java.security.Policy, sun.misc.URLClassPath, java.util.Date, java.lang.ClassLoader, java.security.AccessControlContext, java.security.ProtectionDomain, java.util.logging.Logger, java.net.URL, com.sun.jndi.ldap.Obj]

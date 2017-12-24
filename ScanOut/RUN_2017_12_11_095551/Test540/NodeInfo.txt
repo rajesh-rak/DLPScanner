@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	17498
+NH Depth:	20
+NH Density:	25
+Classes	: [sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, java.util.Properties, java.security.MessageDigest, java.util.Hashtable, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, java.lang.String, sun.util.LocaleServiceProviderPool, sun.security.jca.ProviderList, java.security.KeyPairGenerator, sun.security.provider.KeyProtector, java.util.logging.Logging, sun.security.provider.JavaKeyStore, java.security.Provider, java.text.BreakIterator, java.security.Security, java.util.logging.Logger, java.security.SecureRandom, com.sun.corba.se.impl.logging.ORBUtilSystemException, java.lang.ConditionalSpecialCasing, java.security.cert.CertificateFactory, sun.awt.FontConfiguration, sun.security.jca.GetInstance, com.sun.net.ssl.internal.ssl.JsseJce]

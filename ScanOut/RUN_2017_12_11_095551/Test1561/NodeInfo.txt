@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	17578
+NH Depth:	37
+NH Density:	26
+Classes	: [java.util.jar.JavaUtilJarAccessImpl, java.util.jar.JarVerifier, java.lang.SecurityManager, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.security.Security, javax.crypto.SunJCE_h, sun.security.provider.PolicyFile, java.lang.Class, java.util.jar.JarFile, java.util.zip.ZipFile, com.sun.crypto.provider.JceKeyStore, sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, java.security.Permissions, sun.security.util.SignatureFileVerifier, java.util.Hashtable, java.security.Policy, java.security.AccessControlContext, sun.net.www.protocol.jar.JarURLConnection, java.security.ProtectionDomain, sun.security.pkcs.PKCS7, sun.security.jca.GetInstance, sun.security.pkcs.SignerInfo]

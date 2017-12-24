@@ -1,0 +1,15 @@
+java.security.Permissions
+java.lang.SecurityManager
+java.util.Hashtable
+sun.misc.VM
+java.security.Policy
+java.security.AccessController
+com.sun.crypto.provider.SunJCE_z
+java.lang.System
+java.lang.ClassLoader
+java.security.AccessControlContext
+com.sun.crypto.provider.SunJCE
+java.security.ProtectionDomain
+java.security.cert.CertificateFactory
+sun.security.jca.GetInstance
+com.sun.crypto.provider.JceKeyStore

@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	69404
+NH Depth:	18
+NH Density:	20
+Classes	: [sun.security.util.Debug, java.util.Currency, java.net.InetAddress, java.lang.SecurityManager, java.net.URLClassLoader, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.net.URLStreamHandler, java.security.AccessControlContext, java.util.HashMap, java.security.CodeSource, sun.net.www.MimeLauncher, java.net.URL, java.lang.Exception, java.lang.Throwable, java.util.Formatter, java.math.BigDecimal, java.text.DecimalFormatSymbols, java.security.SecureClassLoader]

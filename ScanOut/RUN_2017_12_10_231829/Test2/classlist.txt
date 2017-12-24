@@ -1,0 +1,4 @@
+java.awt.Component
+javax.swing.SwingUtilities
+javax.swing.JTextField
+java.awt.dnd.DropTarget

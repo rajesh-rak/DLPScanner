@@ -1,0 +1,23 @@
+..........E...........................
+Time: 0.068
+There was 1 error:
+1) test28(RandoopTest0)java.lang.NullPointerException
+	at java.util.Hashtable.hash(Hashtable.java:239)
+	at java.util.Hashtable.get(Hashtable.java:434)
+	at sun.security.pkcs.PKCS9Attributes.getAttribute(PKCS9Attributes.java:272)
+	at RandoopTest0.test28(RandoopTest0.java:487)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 37,  Failures: 0,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 24765
+Exiting analysis

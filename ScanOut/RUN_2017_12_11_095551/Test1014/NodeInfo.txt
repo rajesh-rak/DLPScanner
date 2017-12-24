@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	109923
+NH Depth:	32
+NH Density:	27
+Classes	: [java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.lang.Thread, java.lang.reflect.Method, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, java.io.PrintStream, java.io.ObjectStreamClass, java.io.ObjectOutputStream, javax.management.MBeanOperationInfo, java.lang.Throwable, com.sun.jmx.mbeanserver.Introspector, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, javax.management.MBeanConstructorInfo, com.sun.crypto.provider.JceKeyStore, sun.security.util.Debug, java.util.Hashtable, java.io.ObjectOutput, java.security.Policy, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, sun.reflect.Reflection, java.security.ProtectionDomain, java.lang.Exception, java.lang.Enum]

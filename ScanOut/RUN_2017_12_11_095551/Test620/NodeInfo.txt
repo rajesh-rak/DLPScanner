@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	14506
+NH Depth:	14
+NH Density:	14
+Classes	: [sun.misc.HexDumpEncoder, java.util.Currency, sun.awt.X11.XToolkit, sun.awt.X11.XWindowPeer, java.io.PrintStream, sun.awt.X11.XWindow, sun.awt.X11.XPopupMenuPeer, com.sun.jndi.ldap.LdapClient, java.util.Vector, com.sun.jndi.ldap.Connection, com.sun.jndi.ldap.Ber, java.util.Formatter, java.text.DecimalFormatSymbols, sun.awt.X11.XFramePeer]

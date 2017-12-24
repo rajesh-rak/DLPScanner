@@ -1,0 +1,13 @@
+.............thread -1
+................
+Time: 0.07
+
+OK (29 tests)
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 17153
+Exiting analysis

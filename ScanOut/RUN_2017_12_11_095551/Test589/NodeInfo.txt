@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	284
+NH Depth:	33
+NH Density:	16
+Classes	: [com.sun.jndi.ldap.pool.Pool, java.util.Map, com.sun.jndi.ldap.DigestClientId, java.lang.SecurityManager, com.sun.jmx.mbeanserver.StandardMBeanSupport, java.lang.reflect.Method, java.security.AccessController, java.security.Policy, com.sun.jndi.ldap.ClientId, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, sun.reflect.Reflection, java.security.ProtectionDomain, java.util.WeakHashMap, java.lang.Class, com.sun.jndi.ldap.SimpleClientId]

@@ -1,0 +1,3 @@
+sun.font.FontManager
+sun.font.TrueTypeGlyphMapper
+java.awt.Font

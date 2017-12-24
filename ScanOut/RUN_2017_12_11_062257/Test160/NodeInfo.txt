@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	101174
+NH Depth:	22
+NH Density:	27
+Classes	: [java.lang.Runtime, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.lang.reflect.Method, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, java.lang.System, sun.misc.ProxyGenerator, java.io.ObjectStreamClass, com.sun.crypto.provider.RC2Parameters, java.io.ObjectOutputStream, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, java.lang.StringCoding, java.io.ByteArrayOutputStream, sun.misc.HexDumpEncoder, java.util.Hashtable, java.io.ObjectOutput, java.security.Policy, sun.misc.CharacterEncoder, java.security.AccessControlContext, java.lang.reflect.Proxy, java.io.ObjectInputStream, java.security.ProtectionDomain, java.lang.Enum]

@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	1103
+NH Depth:	19
+NH Density:	16
+Classes	: [sun.security.util.Debug, java.lang.SecurityManager, java.util.logging.LogManager, java.lang.Thread, sun.util.LocaleServiceProviderPool, java.security.AccessController, sun.awt.X11.XComponentPeer, java.io.PrintStream, java.lang.ClassLoader, java.security.AccessControlContext, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, java.util.Formatter, java.math.BigDecimal, java.text.DecimalFormatSymbols]

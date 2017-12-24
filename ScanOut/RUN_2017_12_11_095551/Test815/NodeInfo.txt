@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	41439
+NH Depth:	23
+NH Density:	24
+Classes	: [java.util.Currency, sun.security.util.Debug, java.security.MessageDigest, java.lang.SecurityManager, java.lang.Package, java.util.Hashtable, com.sun.jmx.mbeanserver.Repository, java.lang.Thread, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, java.io.PrintStream, java.lang.ClassLoader, java.security.AccessControlContext, javax.management.ObjectName, sun.security.provider.JavaKeyStore, java.security.Security, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore]

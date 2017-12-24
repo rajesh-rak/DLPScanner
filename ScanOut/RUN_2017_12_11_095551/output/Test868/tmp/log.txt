@@ -1,0 +1,27 @@
+.thread -1
+......thread -1
+....E............thread -1
+.....thread -1
+.thread -1
+.....
+Time: 0.104
+There was 1 error:
+1) test24(RandoopTest0)java.lang.NullPointerException
+	at sun.security.x509.X509CertImpl.isSelfIssued(X509CertImpl.java:1881)
+	at sun.security.x509.X509CertImpl.isSelfSigned(X509CertImpl.java:1892)
+	at RandoopTest0.test24(RandoopTest0.java:410)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 34,  Failures: 0,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 23199
+Exiting analysis

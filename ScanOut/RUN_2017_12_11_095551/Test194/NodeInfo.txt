@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	44647
+NH Depth:	19
+NH Density:	22
+Classes	: [java.util.Currency, sun.security.util.Debug, java.lang.SecurityManager, java.lang.Runtime, java.util.Hashtable, java.lang.Thread, java.lang.String, java.security.AccessController, java.io.PrintStream, java.security.AccessControlContext, java.lang.reflect.Proxy, com.sun.corba.se.impl.activation.ServerTableEntry, java.io.ObjectInputStream, java.lang.Exception, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, java.util.Formatter, sun.security.krb5.internal.Krb5, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, sun.security.krb5.KrbException, java.lang.ProcessBuilder]

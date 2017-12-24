@@ -1,0 +1,22 @@
+.....F..................java.lang.Double(main): -1
+.......java.lang.Integer(main): 
+...
+Time: 0.155
+There was 1 failure:
+1) test29(RandoopTest0)junit.framework.AssertionFailedError: 'ÿ' != '?'
+	at RandoopTest0.test29(RandoopTest0.java:476)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 33,  Failures: 1,  Errors: 0
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 22158
+Exiting analysis

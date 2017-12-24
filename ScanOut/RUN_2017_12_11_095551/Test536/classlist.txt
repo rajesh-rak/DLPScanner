@@ -1,0 +1,11 @@
+sun.net.util.URLUtil
+java.text.BreakIterator
+java.util.logging.Logger
+com.sun.xml.internal.messaging.saaj.soap.SOAPFactoryImpl
+sun.misc.URLClassPath
+java.lang.String
+sun.util.LocaleServiceProviderPool
+java.lang.ConditionalSpecialCasing
+java.util.ResourceBundle
+java.lang.ClassLoader
+sun.util.CoreResourceBundleControl

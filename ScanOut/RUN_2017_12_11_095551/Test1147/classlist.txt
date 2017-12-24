@@ -1,0 +1,16 @@
+java.util.Properties
+javax.xml.transform.TransformerFactory
+java.lang.SecurityManager
+javax.xml.transform.FactoryFinder
+java.security.Policy
+java.security.AccessController
+sun.misc.VM
+com.sun.org.apache.xalan.internal.xsltc.cmdline.Transform
+java.lang.System
+java.lang.ClassLoader
+java.security.AccessControlContext
+java.util.XMLUtils
+java.security.ProtectionDomain
+javax.xml.parsers.SAXParserFactory
+com.sun.naming.internal.ResourceManager
+javax.xml.parsers.FactoryFinder

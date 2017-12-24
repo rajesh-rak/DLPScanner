@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	48891
+NH Depth:	14
+NH Density:	14
+Classes	: [sun.awt.X11.XEmbedHelper, java.util.Currency, sun.awt.X11.XToolkit, java.util.Hashtable, java.lang.String, java.lang.reflect.Proxy, java.io.ObjectInputStream, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, java.util.Formatter, com.sun.jndi.ldap.EventSupport, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore]

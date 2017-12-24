@@ -1,0 +1,13 @@
+com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl
+javax.imageio.ImageReader
+java.text.BreakIterator
+sun.net.util.IPAddressUtil
+java.util.regex.Pattern
+java.util.logging.Logger
+sun.misc.URLClassPath
+java.lang.String
+sun.util.LocaleServiceProviderPool
+java.lang.ConditionalSpecialCasing
+java.util.ResourceBundle
+java.net.URLStreamHandler
+java.lang.ClassLoader

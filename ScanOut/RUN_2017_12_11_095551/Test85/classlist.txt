@@ -1,0 +1,15 @@
+java.util.Currency
+java.util.Properties
+java.util.Hashtable
+com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl
+java.lang.String
+javax.xml.parsers.DocumentBuilderFactory
+java.lang.System
+java.lang.reflect.Proxy
+java.util.XMLUtils
+java.io.ObjectInputStream
+com.sun.corba.se.impl.activation.ServerManagerImpl
+java.util.Formatter
+java.text.DecimalFormatSymbols
+com.sun.crypto.provider.JceKeyStore
+javax.xml.parsers.FactoryFinder

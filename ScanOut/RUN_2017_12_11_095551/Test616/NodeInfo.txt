@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	13132
+NH Depth:	40
+NH Density:	31
+Classes	: [com.sun.jndi.ldap.pool.Pool, sun.util.calendar.CalendarSystem, java.security.CodeSigner, java.util.Map, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.lang.reflect.Method, java.lang.StringBuilder, java.security.AccessController, com.sun.jndi.ldap.ClientId, java.lang.System, java.util.HashMap, java.security.CodeSource, sun.util.calendar.ZoneInfo, com.sun.corba.se.impl.activation.ServerManagerImpl, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.security.Timestamp, com.sun.naming.internal.ResourceManager, java.security.SecureClassLoader, sun.util.calendar.BaseCalendar, com.sun.jndi.ldap.DigestClientId, java.util.SimpleTimeZone, java.security.Policy, java.lang.String, java.util.Date, java.security.AccessControlContext, java.lang.reflect.Proxy, java.security.ProtectionDomain, java.util.WeakHashMap, com.sun.jndi.ldap.SimpleClientId]

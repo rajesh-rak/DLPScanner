@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	18126
+NH Depth:	22
+NH Density:	19
+Classes	: [java.util.Properties, java.util.Hashtable, sun.awt.X11.XWindowPeer, sun.misc.VM, sun.util.LocaleServiceProviderPool, java.lang.String, java.lang.System, java.lang.ClassLoader, java.io.ObjectInputStream, java.text.BreakIterator, java.net.URL, java.util.logging.Logger, sun.awt.X11.XWMHints, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, sun.awt.X11.XFramePeer, com.sun.crypto.provider.JceKeyStore]

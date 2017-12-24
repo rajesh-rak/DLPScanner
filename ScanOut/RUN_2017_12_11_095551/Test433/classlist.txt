@@ -1,0 +1,4 @@
+sun.reflect.annotation.AnnotationType
+sun.reflect.annotation.AnnotationParser
+sun.reflect.annotation.AnnotationInvocationHandler
+java.lang.Class

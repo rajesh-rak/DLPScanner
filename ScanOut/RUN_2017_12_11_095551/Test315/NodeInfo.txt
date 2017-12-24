@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	88879
+NH Depth:	31
+NH Density:	33
+Classes	: [java.util.Currency, java.util.Properties, sun.util.calendar.CalendarSystem, java.net.URLConnection, sun.util.LocaleServiceProviderPool, java.net.URLStreamHandler, sun.util.calendar.ZoneInfo, java.util.regex.Pattern, com.sun.corba.se.impl.activation.ServerManagerImpl, java.util.Formatter, java.text.DecimalFormatSymbols, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore, sun.util.calendar.BaseCalendar, com.sun.corba.se.impl.logging.ActivationSystemException, java.util.SimpleTimeZone, sun.font.FontManager, java.util.Hashtable, java.lang.String, sun.misc.URLClassPath, java.util.Date, java.lang.ClassLoader, java.lang.reflect.Proxy, sun.util.calendar.LocalGregorianCalendar, java.io.ObjectInputStream, com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl, javax.imageio.ImageReader, java.text.BreakIterator, sun.net.util.IPAddressUtil, java.util.logging.Logger, java.net.URL, java.lang.ConditionalSpecialCasing, sun.font.FontFamily]

@@ -1,0 +1,7 @@
+java.net.InetAddress
+java.net.URL
+java.net.URLStreamHandler
+java.security.SecureClassLoader
+java.util.HashMap
+sun.net.www.protocol.file.Handler
+java.security.CodeSource

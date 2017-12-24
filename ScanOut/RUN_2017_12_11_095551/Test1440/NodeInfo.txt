@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	30193
+NH Depth:	14
+NH Density:	17
+Classes	: [sun.awt.X11.XEmbedClientHelper, sun.awt.X11.XEmbedHelper, java.util.Currency, sun.awt.X11.XToolkit, java.util.Hashtable, com.sun.jmx.mbeanserver.Repository, java.lang.String, javax.management.ObjectName, java.lang.reflect.Proxy, java.io.ObjectInputStream, javax.swing.text.DefaultStyledDocument, java.util.Vector, sun.awt.X11.XEmbedChildProxyPeer, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, sun.awt.X11.XEmbeddingContainer]

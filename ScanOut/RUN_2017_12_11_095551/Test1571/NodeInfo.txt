@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	21482
+NH Depth:	28
+NH Density:	37
+Classes	: [java.util.Currency, sun.util.calendar.CalendarSystem, java.security.CodeSigner, java.util.Properties, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.lang.System, java.util.HashMap, java.security.CodeSource, sun.util.calendar.ZoneInfo, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, java.security.Timestamp, java.security.SecureClassLoader, com.sun.jmx.mbeanserver.MXBeanIntrospector, sun.util.calendar.BaseCalendar, sun.security.util.Debug, java.util.SimpleTimeZone, javax.xml.transform.TransformerFactory, java.net.URLClassLoader, java.util.Hashtable, javax.xml.transform.FactoryFinder, java.security.Policy, java.util.Date, javax.management.MBeanServerInvocationHandler, java.security.AccessControlContext, sun.util.calendar.LocalGregorianCalendar, java.util.XMLUtils, java.security.ProtectionDomain, java.lang.Exception, sun.util.calendar.AbstractCalendar, com.sun.jmx.mbeanserver.MBeanAnalyzer]

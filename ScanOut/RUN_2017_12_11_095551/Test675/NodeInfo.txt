@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	3856
+NH Depth:	24
+NH Density:	21
+Classes	: [sun.security.pkcs.PKCS9Attributes, java.util.jar.JavaUtilJarAccessImpl, java.util.jar.JarVerifier, sun.security.util.SignatureFileVerifier, java.util.Hashtable, sun.security.util.ManifestEntryVerifier, java.lang.String, sun.security.x509.AVA, com.sun.crypto.provider.SunJCE_z, sun.security.x509.RDN, sun.security.x509.X500Name, javax.crypto.SunJCE_b, sun.security.pkcs.PKCS9Attribute, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, sun.security.pkcs.PKCS7, java.lang.ConditionalSpecialCasing, java.util.zip.ZipFile, java.util.jar.JarFile, com.sun.crypto.provider.JceKeyStore, sun.security.pkcs.SignerInfo]

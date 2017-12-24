@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	67054
+NH Depth:	22
+NH Density:	20
+Classes	: [java.net.URLClassLoader, java.util.Hashtable, java.lang.String, com.sun.crypto.provider.SunJCE_z, com.sun.crypto.provider.SunJCE, java.net.SocketPermission, com.sun.crypto.provider.SunJCE_b, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.regex.Pattern, sun.net.util.IPAddressUtil, java.util.Vector, java.lang.ConditionalSpecialCasing, com.sun.naming.internal.ResourceManager, javax.naming.ldap.ControlFactory, java.util.jar.JarFile, java.util.zip.ZipFile, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore, sun.font.FontFamily]

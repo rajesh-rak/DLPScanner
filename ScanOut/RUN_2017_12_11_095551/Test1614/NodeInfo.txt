@@ -1,0 +1,5 @@
+File:		zb22
+Line No:	3757
+NH Depth:	39
+NH Density:	17
+Classes	: [java.lang.reflect.Constructor, java.security.Permissions, java.security.UnresolvedPermission, java.net.InetAddress, sun.security.provider.PolicySpiFile, java.lang.SecurityManager, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, java.net.SocketPermission, java.net.Inet6Address, java.security.UnresolvedPermissionCollection, sun.reflect.Reflection, sun.security.provider.PolicyFile, java.security.ProtectionDomain, java.lang.Class, java.net.NetworkInterface]

@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	76022
+NH Depth:	22
+NH Density:	32
+Classes	: [java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.lang.System, sun.security.provider.JavaKeyStore, java.security.Security, java.lang.Throwable, java.lang.Class, java.util.Formatter, sun.security.krb5.internal.Krb5, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, sun.security.x509.AlgorithmId, sun.security.util.Debug, java.security.AlgorithmParameters, java.security.MessageDigest, com.sun.jmx.mbeanserver.StandardMBeanSupport, java.util.Hashtable, java.net.URI, java.lang.String, java.security.Policy, sun.misc.VM, java.lang.ClassLoader, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, java.security.ProtectionDomain, java.net.URL, java.lang.Exception, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, sun.security.krb5.KrbException]

@@ -1,0 +1,20 @@
+Execution Summary
+-----------------
+Source Folder:	/Users/rajesh/code/DLPScanner/cycles/cycles*
+Output Folder:	/Users/rajesh/code/DLPScanner/ScanOut
+Neighbourhood Depth:	100
+Neighbourhood Density:	100
+Total Files Processed:	1
+Total Lines Processed:	76,340
+Total Nodes Processed:	144
+Total Nodes Selected:	49
+Total Duplicates:	95
+Total Processing Time:	466ms
+-------------------------------------
+File:			cycles.xml
+Lines Processed:	76,340
+Nodes Processed:	144
+Nodes Selected:		49
+Duplicates skipped:	95
+Processed in: 		461ms
+------

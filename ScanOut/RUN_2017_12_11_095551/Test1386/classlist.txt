@@ -1,0 +1,17 @@
+sun.awt.X11.XToolkit
+com.sun.corba.se.impl.encoding.BufferManagerFactory
+java.util.logging.LogManager
+com.sun.corba.se.spi.orb.ORB
+sun.misc.URLClassPath
+sun.util.LocaleServiceProviderPool
+java.lang.String
+java.net.URLStreamHandler
+java.lang.ClassLoader
+sun.util.CoreResourceBundleControl
+java.text.BreakIterator
+java.util.regex.Pattern
+sun.net.util.IPAddressUtil
+java.util.logging.Logger
+com.sun.corba.se.impl.logging.ORBUtilSystemException
+java.lang.ConditionalSpecialCasing
+java.util.ResourceBundle

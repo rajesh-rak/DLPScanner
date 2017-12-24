@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	985
+NH Depth:	12
+NH Density:	10
+Classes	: [java.util.XMLUtils, java.util.Properties, org.xml.sax.helpers.NewInstance, javax.xml.transform.TransformerFactory, java.util.Hashtable, javax.xml.transform.FactoryFinder, sun.misc.VM, org.xml.sax.helpers.XMLReaderFactory, java.lang.System, java.lang.ClassLoader]

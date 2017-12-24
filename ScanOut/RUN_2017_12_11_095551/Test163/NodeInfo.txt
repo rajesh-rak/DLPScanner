@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	37296
+NH Depth:	22
+NH Density:	11
+Classes	: [java.io.ObjectInputStream, java.security.Permissions, java.lang.SecurityManager, java.security.ProtectionDomain, java.util.Hashtable, java.lang.Thread, java.security.AccessController, java.security.Policy, com.sun.crypto.provider.JceKeyStore, java.security.AccessControlContext, java.lang.reflect.Proxy]

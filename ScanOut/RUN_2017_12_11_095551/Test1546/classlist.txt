@@ -1,0 +1,9 @@
+com.sun.xml.internal.ws.transport.http.DeploymentDescriptorParser
+sun.reflect.annotation.AnnotationType
+sun.reflect.annotation.AnnotationParser
+com.sun.xml.internal.ws.handler.HandlerChainsModel
+java.lang.Class
+java.lang.reflect.Method
+com.sun.xml.internal.ws.server.EndpointFactory
+com.sun.xml.internal.ws.util.HandlerAnnotationProcessor
+java.lang.Enum

@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	4720
+NH Depth:	25
+NH Density:	17
+Classes	: [java.security.Permissions, java.lang.SecurityManager, java.lang.Runtime, com.sun.security.sasl.util.AbstractSaslImpl, java.util.Hashtable, java.security.Policy, java.security.AccessController, java.lang.System, sun.misc.ProxyGenerator, java.security.AccessControlContext, java.lang.reflect.Proxy, java.io.ObjectInputStream, com.sun.security.sasl.digest.DigestMD5Base, java.security.ProtectionDomain, com.sun.crypto.provider.JceKeyStore, java.lang.StringCoding, java.io.ByteArrayOutputStream]

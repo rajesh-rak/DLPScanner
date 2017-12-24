@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	27470
+NH Depth:	35
+NH Density:	26
+Classes	: [java.util.Currency, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, sun.awt.X11.XComponentPeer, sun.util.LocaleServiceProviderPool, java.net.URLStreamHandler, sun.util.CoreResourceBundleControl, com.sun.org.apache.xml.internal.res.XMLErrorResources, java.util.regex.Pattern, java.util.Locale, java.util.Formatter, java.text.DecimalFormatSymbols, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore, com.sun.corba.se.impl.logging.ActivationSystemException, java.util.Hashtable, sun.font.FontManager, sun.misc.URLClassPath, java.lang.String, java.lang.ClassLoader, java.io.ObjectInputStream, java.text.BreakIterator, sun.net.util.IPAddressUtil, java.net.URL, java.util.logging.Logger, java.lang.ConditionalSpecialCasing]

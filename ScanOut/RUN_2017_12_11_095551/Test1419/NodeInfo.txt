@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	24928
+NH Depth:	22
+NH Density:	17
+Classes	: [sun.awt.X11.XToolkit, com.sun.corba.se.impl.encoding.BufferManagerFactory, java.util.logging.LogManager, com.sun.corba.se.spi.orb.ORB, java.lang.String, sun.util.LocaleServiceProviderPool, sun.misc.URLClassPath, java.net.URLStreamHandler, java.lang.ClassLoader, sun.util.CoreResourceBundleControl, sun.net.www.MimeLauncher, java.text.BreakIterator, java.util.logging.Logger, java.net.URL, com.sun.corba.se.impl.logging.ORBUtilSystemException, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle]

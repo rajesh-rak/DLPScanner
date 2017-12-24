@@ -1,0 +1,16 @@
+java.security.MessageDigest
+java.lang.SecurityManager
+java.util.Hashtable
+java.security.Policy
+java.security.AccessController
+java.security.AccessControlContext
+sun.security.provider.JavaKeyStore
+java.io.ObjectInputStream
+java.security.Security
+java.io.ObjectOutputStream
+java.security.ProtectionDomain
+java.lang.Class
+java.security.cert.CertificateFactory
+com.sun.naming.internal.ResourceManager
+sun.security.jca.GetInstance
+com.sun.crypto.provider.JceKeyStore

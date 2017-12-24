@@ -1,0 +1,11 @@
+java.io.ObjectStreamClass
+sun.reflect.Reflection
+java.util.Random
+java.io.ObjectOutputStream
+java.lang.SecurityManager
+java.security.ProtectionDomain
+java.lang.reflect.Method
+java.lang.Class
+java.security.AccessController
+java.security.Policy
+java.security.AccessControlContext

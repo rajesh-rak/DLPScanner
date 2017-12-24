@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	17343
+NH Depth:	16
+NH Density:	10
+Classes	: [sun.reflect.annotation.AnnotationType, sun.reflect.annotation.AnnotationParser, sun.reflect.annotation.AnnotationInvocationHandler, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.lang.reflect.Method, com.sun.xml.internal.ws.api.server.WSEndpoint, com.sun.xml.internal.ws.server.EndpointFactory, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.lang.Enum]

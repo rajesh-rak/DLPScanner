@@ -1,0 +1,17 @@
+sun.jkernel.Bundle
+sun.jkernel.DownloadManager
+java.util.logging.LogManager
+sun.misc.URLClassPath
+sun.util.LocaleServiceProviderPool
+java.lang.String
+com.sun.imageio.plugins.jpeg.JPEGImageWriter
+java.net.URLStreamHandler
+java.lang.ClassLoader
+java.security.CodeSource
+javax.imageio.ImageWriter
+java.text.BreakIterator
+java.net.URL
+java.util.logging.Logger
+java.lang.Class
+java.lang.ConditionalSpecialCasing
+java.util.ResourceBundle

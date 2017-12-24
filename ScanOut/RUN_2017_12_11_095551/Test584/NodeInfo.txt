@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	38045
+NH Depth:	31
+NH Density:	24
+Classes	: [sun.security.util.Debug, java.lang.SecurityManager, java.lang.Thread, sun.misc.VM, java.security.AccessController, sun.util.LocaleServiceProviderPool, java.lang.String, com.sun.xml.internal.messaging.saaj.soap.SOAPFactoryImpl, java.io.PrintStream, java.lang.System, java.lang.ClassLoader, java.security.AccessControlContext, java.text.BreakIterator, java.util.regex.Pattern, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, com.sun.xml.internal.fastinfoset.algorithm.LongEncodingAlgorithm, java.math.BigDecimal, java.util.Formatter, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, javax.swing.plaf.basic.BasicTextFieldUI, com.sun.xml.internal.fastinfoset.algorithm.BuiltInEncodingAlgorithm]

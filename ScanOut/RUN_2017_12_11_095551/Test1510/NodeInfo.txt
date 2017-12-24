@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	76194
+NH Depth:	22
+NH Density:	16
+Classes	: [sun.awt.X11.XToolkit, java.util.Hashtable, sun.misc.URLClassPath, java.lang.String, sun.util.LocaleServiceProviderPool, java.lang.ClassLoader, sun.util.CoreResourceBundleControl, java.io.ObjectInputStream, sun.net.util.URLUtil, java.text.BreakIterator, java.util.logging.Logger, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore]

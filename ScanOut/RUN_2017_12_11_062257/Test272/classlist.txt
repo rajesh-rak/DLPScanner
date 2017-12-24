@@ -1,0 +1,17 @@
+java.util.Currency
+sun.awt.X11.XToolkit
+java.util.Hashtable
+sun.awt.X11.XWindowPeer
+java.lang.String
+java.lang.reflect.Proxy
+java.io.ObjectInputStream
+com.sun.jndi.ldap.LdapClient
+com.sun.jndi.ldap.LdapCtx
+java.util.Vector
+java.util.Formatter
+sun.awt.X11.XEmbedCanvasPeer
+com.sun.jndi.ldap.EventSupport
+java.text.DecimalFormatSymbols
+sun.awt.X11.XFramePeer
+com.sun.crypto.provider.JceKeyStore
+sun.awt.X11.XEmbeddingContainer

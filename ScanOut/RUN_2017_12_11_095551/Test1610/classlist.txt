@@ -1,0 +1,4 @@
+sun.awt.AppContext
+javax.swing.text.JTextComponent
+java.lang.Thread
+java.lang.ThreadGroup

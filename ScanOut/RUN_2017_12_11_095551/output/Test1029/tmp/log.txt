@@ -1,0 +1,16 @@
+.........
+Time: 0.077
+
+OK (9 tests)
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 6561
+Exiting analysis
+2 AM java.util.logging.LogManager$RootLogger log
+INFO: 
+Dec 11, 2017 10:02:52 AM java.util.logging.LogManager$RootLogger log
+INFO: 

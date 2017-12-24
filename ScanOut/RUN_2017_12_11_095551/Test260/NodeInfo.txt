@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	68849
+NH Depth:	29
+NH Density:	24
+Classes	: [sun.security.util.Debug, java.util.Currency, java.util.Properties, sun.reflect.annotation.AnnotationParser, java.lang.SecurityManager, javax.xml.transform.TransformerFactory, java.util.Hashtable, java.lang.Thread, java.lang.reflect.Method, javax.xml.transform.FactoryFinder, java.security.AccessController, java.io.PrintStream, java.lang.System, java.security.AccessControlContext, java.util.XMLUtils, sun.reflect.Reflection, java.lang.Exception, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.Enum]

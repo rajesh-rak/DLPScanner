@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	14540
+NH Depth:	34
+NH Density:	16
+Classes	: [sun.rmi.log.ReliableLog, sun.rmi.server.MarshalInputStream, sun.reflect.annotation.AnnotationParser, java.lang.reflect.Method, sun.rmi.log.LogHandler, sun.rmi.server.Activation, com.sun.xml.internal.ws.server.EndpointFactory, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.lang.reflect.Proxy, java.io.ObjectStreamClass, java.io.ObjectInputStream, java.io.ObjectOutputStream, javax.management.MBeanOperationInfo, com.sun.jmx.mbeanserver.Introspector, com.sun.xml.internal.ws.handler.HandlerChainsModel, sun.rmi.server.MarshalOutputStream]

@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	27033
+NH Depth:	25
+NH Density:	14
+Classes	: [java.security.Permissions, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, java.security.AccessControlContext, com.sun.crypto.provider.SunJCE, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Class, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore]

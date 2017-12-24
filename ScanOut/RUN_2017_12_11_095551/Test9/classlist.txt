@@ -1,0 +1,14 @@
+java.lang.reflect.Constructor
+java.security.Permissions
+java.security.UnresolvedPermission
+java.lang.SecurityManager
+java.lang.reflect.Method
+java.security.Policy
+java.security.AccessController
+java.security.AccessControlContext
+java.io.ObjectStreamClass
+sun.reflect.Reflection
+java.io.ObjectOutputStream
+java.security.ProtectionDomain
+sun.rmi.server.LoaderHandler
+java.lang.Class

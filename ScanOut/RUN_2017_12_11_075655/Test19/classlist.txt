@@ -1,0 +1,3 @@
+com.sun.jmx.snmp.daemon.SnmpAdaptorServer
+java.net.DatagramSocket
+com.sun.jndi.dns.DnsClient

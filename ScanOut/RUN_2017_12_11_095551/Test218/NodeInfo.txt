@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	56694
+NH Depth:	35
+NH Density:	29
+Classes	: [java.lang.SecurityManager, java.lang.Thread, java.lang.reflect.Method, java.security.AccessController, javax.swing.text.AsyncBoxView, java.io.ObjectStreamClass, java.io.ObjectOutputStream, java.util.Vector, sun.rmi.server.LoaderHandler, java.lang.Class, sun.awt.X11.XEmbedServerTester, sun.awt.image.ImageFetcher, sun.awt.X11.XToolkit, java.security.Permissions, sun.awt.X11.XWindowPeer, java.security.Policy, java.lang.ClassLoader, javax.swing.text.LayoutQueue, java.security.AccessControlContext, sun.awt.AppContext, javax.swing.plaf.basic.BasicDirectoryModel, javax.swing.JFileChooser, sun.reflect.Reflection, javax.swing.text.View, java.security.ProtectionDomain, javax.swing.filechooser.FileSystemView, java.io.File, sun.awt.X11.XFramePeer, java.lang.ThreadGroup]

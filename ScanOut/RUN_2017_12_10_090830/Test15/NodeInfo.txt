@@ -1,0 +1,5 @@
+File:		1.4.2.NewLst
+Line No:	1448
+NH Depth:	28
+NH Density:	37
+Classes	: [java.lang.reflect.Constructor, java.io.BufferedWriter, java.lang.SecurityManager, java.lang.reflect.Method, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.io.IOException, sun.misc.ProxyGenerator, java.io.ObjectStreamClass, java.io.WriteAbortedException, java.io.ObjectOutputStream, java.io.ObjectStreamField, java.lang.Throwable, java.lang.Class, java.lang.NoClassDefFoundError, java.lang.StringBuffer, sun.reflect.MethodAccessorGenerator, sun.security.util.Debug, java.security.Permissions, java.lang.Object, java.security.UnresolvedPermission, java.io.Writer, java.lang.Integer, java.security.Policy, java.lang.String, java.io.InvalidClassException, java.security.AccessControlContext, java.lang.reflect.Proxy, java.io.ObjectInputStream, sun.reflect.Reflection, java.security.ProtectionDomain, sun.reflect.ReflectionFactory, java.lang.Exception, java.util.Arrays, java.lang.reflect.Modifier, java.lang.FloatingDecimal]

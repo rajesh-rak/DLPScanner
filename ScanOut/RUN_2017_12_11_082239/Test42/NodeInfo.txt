@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	31435
+NH Depth:	19
+NH Density:	20
+Classes	: [sun.security.util.Debug, java.lang.SecurityManager, sun.jkernel.KernelError, sun.jkernel.DownloadManager, sun.jkernel.Bundle, java.lang.Thread, sun.util.LocaleServiceProviderPool, java.security.AccessController, java.io.PrintStream, java.lang.System, java.lang.ClassLoader, java.security.AccessControlContext, com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl, javax.imageio.ImageReader, java.util.logging.Logger, java.lang.Exception, java.lang.Throwable, java.util.Formatter, java.text.DecimalFormatSymbols, java.util.ResourceBundle]

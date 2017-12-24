@@ -1,0 +1,8 @@
+sun.reflect.annotation.AnnotationType
+sun.reflect.annotation.AnnotationParser
+javax.management.MBeanOperationInfo
+com.sun.xml.internal.ws.server.WSEndpointImpl
+com.sun.jmx.mbeanserver.Introspector
+java.lang.Class
+java.lang.reflect.Method
+java.lang.Enum

@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	33157
+NH Depth:	13
+NH Density:	13
+Classes	: [sun.misc.HexDumpEncoder, sun.awt.X11.XEmbedHelper, java.util.Currency, sun.awt.X11.XToolkit, java.io.PrintStream, sun.misc.CharacterEncoder, com.sun.jndi.ldap.LdapClient, java.util.Vector, com.sun.jndi.ldap.Connection, com.sun.jndi.ldap.Ber, java.util.Formatter, java.text.DecimalFormatSymbols, sun.awt.X11.XEmbedServerTester]

@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	25877
+NH Depth:	21
+NH Density:	25
+Classes	: [java.util.Currency, sun.security.util.Debug, sun.reflect.annotation.AnnotationParser, java.lang.SecurityManager, java.lang.Runtime, com.sun.security.sasl.util.AbstractSaslImpl, java.lang.reflect.Method, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.lang.System, sun.misc.ProxyGenerator, java.security.AccessControlContext, java.lang.reflect.Proxy, java.io.ObjectStreamClass, com.sun.security.sasl.digest.DigestMD5Base, java.io.ObjectOutputStream, java.lang.Exception, java.lang.Throwable, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.StringCoding, java.beans.beancontext.BeanContextSupport, java.io.ByteArrayOutputStream]

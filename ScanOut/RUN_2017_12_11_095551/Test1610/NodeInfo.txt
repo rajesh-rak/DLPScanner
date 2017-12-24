@@ -1,0 +1,5 @@
+File:		zb22
+Line No:	1436
+NH Depth:	8
+NH Density:	4
+Classes	: [sun.awt.AppContext, javax.swing.text.JTextComponent, java.lang.Thread, java.lang.ThreadGroup]

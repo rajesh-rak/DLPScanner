@@ -1,0 +1,5 @@
+File:		zb20
+Line No:	588
+NH Depth:	28
+NH Density:	20
+Classes	: [java.security.Permissions, java.security.MessageDigest, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, java.security.AccessControlContext, sun.security.provider.JavaKeyStore, java.io.ObjectInputStream, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.security.Security, javax.crypto.SunJCE_h, java.io.ObjectOutputStream, java.net.URL, java.security.ProtectionDomain, java.lang.Class, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore]

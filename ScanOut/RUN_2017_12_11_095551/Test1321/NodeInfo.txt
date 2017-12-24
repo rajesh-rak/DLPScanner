@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	70756
+NH Depth:	22
+NH Density:	31
+Classes	: [java.util.Currency, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, sun.security.provider.JavaKeyStore, java.security.Security, java.util.regex.Pattern, java.security.SecureRandom, java.lang.Throwable, java.util.Formatter, java.text.DecimalFormatSymbols, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore, com.sun.net.ssl.internal.ssl.JsseJce, sun.security.util.Debug, java.security.MessageDigest, java.net.URLClassLoader, java.util.Hashtable, java.lang.String, sun.security.jca.ProviderList, java.security.AccessControlContext, java.net.SocketPermission, java.security.Provider, sun.net.util.IPAddressUtil, java.lang.Exception, sun.security.action.PutAllAction, java.math.BigDecimal, java.lang.ConditionalSpecialCasing, java.security.cert.CertificateFactory, sun.security.jca.GetInstance]

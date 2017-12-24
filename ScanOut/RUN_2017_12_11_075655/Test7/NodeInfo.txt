@@ -1,0 +1,5 @@
+File:		zb11
+Line No:	100
+NH Depth:	9
+NH Density:	3
+Classes	: [com.sun.jndi.ldap.LdapClient, java.util.Vector, com.sun.jndi.ldap.Connection]

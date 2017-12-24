@@ -1,0 +1,56 @@
+.F.F....F...F....java.awt.Container[,0,0,0x0,invalid]
+...............E.
+Time: 5.289
+There was 1 error:
+1) test2(RandoopTest0)java.lang.NullPointerException
+	at java.awt.Window.initGC(Window.java:467)
+	at java.awt.Window.init(Window.java:487)
+	at java.awt.Window.<init>(Window.java:536)
+	at java.awt.Frame.<init>(Frame.java:420)
+	at java.awt.Frame.<init>(Frame.java:385)
+	at javax.swing.SwingUtilities$SharedOwnerFrame.<init>(SwingUtilities.java:1757)
+	at javax.swing.SwingUtilities.getSharedOwnerFrame(SwingUtilities.java:1832)
+	at javax.swing.JDialog.<init>(JDialog.java:271)
+	at javax.swing.JDialog.<init>(JDialog.java:205)
+	at javax.swing.JDialog.<init>(JDialog.java:153)
+	at RandoopTest0.test2(RandoopTest0.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+There were 4 failures:
+1) test29(RandoopTest0)junit.framework.AssertionFailedError: 'java.awt.Container[,0,0,0x0,invalid]' != 'java.awt.Container[,0,0,0var4,invalid]'
+	at RandoopTest0.test29(RandoopTest0.java:558)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test28(RandoopTest0)junit.framework.AssertionFailedError: 'java.awt.Container[,0,0,0x0,invalid]' != 'java.awt.Container[,0,0,0var4,invalid]'
+	at RandoopTest0.test28(RandoopTest0.java:525)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test24(RandoopTest0)junit.framework.AssertionFailedError: 'java.awt.Container[,0,0,0x0,invalid]' != 'java.awt.Container[,0,0,0var3,invalid]'
+	at RandoopTest0.test24(RandoopTest0.java:458)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+4) test21(RandoopTest0)junit.framework.AssertionFailedError: 'java.awt.Container[,0,0,0x0,invalid]' != 'java.awt.Container[,0,0,0var4,invalid]'
+	at RandoopTest0.test21(RandoopTest0.java:407)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 29,  Failures: 4,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 28934
+Exiting analysis

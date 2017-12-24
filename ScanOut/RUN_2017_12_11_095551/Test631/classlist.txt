@@ -1,0 +1,16 @@
+sun.security.util.Debug
+java.util.Currency
+sun.awt.X11.XToolkit
+sun.awt.X11.XWindowPeer
+java.security.AccessController
+java.io.PrintStream
+java.security.AccessControlContext
+sun.awt.X11.XWindow
+sun.awt.X11.XPopupMenuPeer
+java.awt.EventQueue
+javax.swing.plaf.basic.BasicDirectoryModel
+java.util.Vector
+javax.swing.SwingUtilities
+java.util.Formatter
+java.text.DecimalFormatSymbols
+sun.awt.X11.XFramePeer

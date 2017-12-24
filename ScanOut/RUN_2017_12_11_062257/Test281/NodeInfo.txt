@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	166075
+NH Depth:	29
+NH Density:	31
+Classes	: [sun.security.x509.ExtendedKeyUsageExtension, java.awt.Window, sun.reflect.annotation.AnnotationParser, java.lang.SecurityManager, java.security.cert.X509Certificate, java.lang.reflect.Method, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, java.io.ObjectStreamClass, javax.crypto.SunJCE_d, javax.crypto.SunJCE_e, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.io.ObjectOutputStream, javax.crypto.SunJCE_h, java.util.Vector, javax.crypto.SunJCE_g, sun.security.x509.X509CertImpl, java.lang.Class, sun.security.validator.Validator, com.sun.naming.internal.ResourceManager, java.util.jar.JarFile, java.util.zip.ZipFile, com.sun.crypto.provider.JceKeyStore, sun.security.validator.EndEntityChecker, java.util.Hashtable, java.security.Policy, java.security.AccessControlContext, sun.reflect.Reflection, java.security.ProtectionDomain, java.lang.Enum]

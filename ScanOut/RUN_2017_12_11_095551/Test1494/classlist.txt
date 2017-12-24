@@ -1,0 +1,17 @@
+sun.awt.X11.XToolkit
+java.util.Properties
+javax.xml.transform.TransformerFactory
+java.util.Hashtable
+javax.xml.transform.FactoryFinder
+sun.util.LocaleServiceProviderPool
+java.lang.String
+java.lang.ClassLoader
+java.util.XMLUtils
+java.io.ObjectInputStream
+java.text.BreakIterator
+java.util.logging.Logger
+java.util.Formatter
+java.text.DecimalFormatSymbols
+java.lang.ConditionalSpecialCasing
+java.util.ResourceBundle
+com.sun.crypto.provider.JceKeyStore

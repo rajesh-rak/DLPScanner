@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	48489
+NH Depth:	22
+NH Density:	14
+Classes	: [java.security.Permissions, java.lang.SecurityManager, java.util.Hashtable, java.lang.Thread, java.security.Policy, java.security.AccessController, com.sun.jndi.ldap.NamingEventNotifier, java.security.AccessControlContext, sun.rmi.transport.proxy.RMIMasterSocketFactory, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, java.security.ProtectionDomain, com.sun.jndi.ldap.EventSupport]

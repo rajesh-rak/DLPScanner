@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	24661
+NH Depth:	35
+NH Density:	26
+Classes	: [java.lang.reflect.Constructor, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, javax.swing.text.AsyncBoxView, java.net.URLStreamHandler, java.util.HashMap, java.security.CodeSource, java.util.concurrent.locks.AbstractQueuedSynchronizer, sun.security.provider.PolicyFile, java.util.concurrent.locks.ReentrantLock, java.util.Locale, java.lang.Class, java.security.SecureClassLoader, sun.reflect.misc.MethodUtil, java.security.Permissions, java.net.URLClassLoader, java.security.Policy, java.lang.String, javax.swing.text.LayoutQueue, java.security.AccessControlContext, java.util.concurrent.ConcurrentHashMap, sun.awt.AppContext, sun.reflect.Reflection, java.security.ProtectionDomain, java.net.URL]

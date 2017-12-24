@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	34494
+NH Depth:	23
+NH Density:	23
+Classes	: [java.util.Properties, javax.naming.spi.DirectoryManager, com.sun.security.sasl.util.AbstractSaslImpl, java.lang.Runtime, java.lang.SecurityManager, javax.xml.transform.TransformerFactory, sun.reflect.annotation.AnnotationParser, com.sun.xml.internal.ws.server.WSEndpointImpl, java.lang.reflect.Method, javax.xml.transform.FactoryFinder, java.security.AccessController, java.security.Policy, java.lang.System, java.security.AccessControlContext, sun.misc.ProxyGenerator, java.lang.reflect.Proxy, java.util.XMLUtils, com.sun.security.sasl.digest.DigestMD5Base, java.security.ProtectionDomain, com.sun.naming.internal.ResourceManager, com.sun.jndi.toolkit.dir.HierMemDirCtx, java.lang.StringCoding, java.io.ByteArrayOutputStream]

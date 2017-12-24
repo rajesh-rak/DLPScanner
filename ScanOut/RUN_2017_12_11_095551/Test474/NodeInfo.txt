@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	15457
+NH Depth:	27
+NH Density:	28
+Classes	: [java.util.Currency, java.util.Properties, sun.util.calendar.CalendarSystem, java.security.CodeSigner, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, javax.xml.parsers.DocumentBuilderFactory, com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl, java.lang.System, java.util.HashMap, java.security.CodeSource, sun.util.calendar.ZoneInfo, com.sun.corba.se.impl.activation.ServerManagerImpl, java.util.Formatter, java.text.DecimalFormatSymbols, java.security.Timestamp, java.security.SecureClassLoader, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder, sun.util.calendar.BaseCalendar, java.util.SimpleTimeZone, java.util.Hashtable, java.lang.String, java.util.Date, java.lang.reflect.Proxy, com.sun.corba.se.impl.resolver.FileResolverImpl, sun.util.calendar.LocalGregorianCalendar, java.util.XMLUtils, java.io.ObjectInputStream]

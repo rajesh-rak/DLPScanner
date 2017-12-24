@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	3952
+NH Depth:	13
+NH Density:	9
+Classes	: [sun.misc.HexDumpEncoder, java.io.BufferedWriter, java.rmi.server.LogStream, java.io.Writer, sun.nio.cs.StreamEncoder, java.io.PrintStream, java.io.OutputStreamWriter, sun.net.www.http.ChunkedOutputStream, com.sun.xml.internal.stream.writers.XMLWriter]

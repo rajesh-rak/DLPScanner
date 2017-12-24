@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	120012
+NH Depth:	36
+NH Density:	34
+Classes	: [sun.security.pkcs.PKCS9Attributes, java.util.jar.JavaUtilJarAccessImpl, java.util.Properties, java.util.jar.JarVerifier, java.lang.SecurityManager, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.security.AccessController, com.sun.crypto.provider.SunJCE_z, com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, java.security.Security, javax.crypto.SunJCE_h, sun.security.pkcs.SigningCertificateInfo, java.lang.Class, com.sun.corba.se.impl.orb.AppletDataCollector, com.sun.naming.internal.ResourceManager, java.util.jar.JarFile, java.util.zip.ZipFile, com.sun.crypto.provider.JceKeyStore, sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, sun.misc.VMSupport, java.net.InetAddress, sun.security.util.SignatureFileVerifier, java.util.Hashtable, java.security.Policy, java.security.AccessControlContext, com.sun.corba.se.impl.orb.DataCollectorBase, java.security.ProtectionDomain, sun.security.pkcs.PKCS7, sun.security.x509.IPAddressName, sun.security.jca.GetInstance, sun.security.pkcs.SignerInfo]

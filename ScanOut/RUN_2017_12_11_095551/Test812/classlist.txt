@@ -1,0 +1,14 @@
+sun.rmi.transport.tcp.TCPChannel
+sun.awt.X11.XEmbedHelper
+java.awt.KeyboardFocusManager
+javax.swing.plaf.basic.BasicComboPopup
+sun.awt.X11.XToolkit
+sun.rmi.transport.tcp.TCPEndpoint
+sun.awt.AppContext
+java.awt.EventQueue
+java.awt.Component
+javax.swing.text.DefaultStyledDocument
+java.util.Vector
+sun.rmi.transport.tcp.TCPTransport
+sun.awt.SunToolkit
+sun.awt.X11.XEmbedServerTester

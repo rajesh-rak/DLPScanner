@@ -1,0 +1,14 @@
+java.util.List
+java.util.Hashtable
+javax.management.relation.RelationSupport
+java.lang.reflect.Proxy
+java.io.ObjectInputStream
+com.sun.jndi.ldap.LdapClient
+com.sun.jndi.ldap.LdapCtx
+javax.management.NotificationFilterSupport
+java.util.Vector
+javax.management.relation.RelationService
+com.sun.naming.internal.ResourceManager
+javax.naming.ldap.ControlFactory
+javax.management.relation.MBeanServerNotificationFilter
+com.sun.crypto.provider.JceKeyStore

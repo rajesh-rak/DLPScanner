@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	71643
+NH Depth:	21
+NH Density:	26
+Classes	: [java.lang.reflect.Constructor, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, java.lang.reflect.Method, javax.crypto.Cipher, java.lang.String, com.sun.xml.internal.ws.api.server.WSEndpoint, com.sun.xml.internal.ws.server.EndpointFactory, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.io.ObjectStreamClass, javax.crypto.SunJCE_d, javax.crypto.SunJCE_e, java.io.ObjectInputStream, javax.crypto.SunJCE_b, sun.reflect.annotation.AnnotationType, javax.crypto.SunJCE_c, java.io.ObjectOutputStream, javax.crypto.SunJCE_h, java.net.URL, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.io.StreamTokenizer, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.SunJCE_ad, com.sun.crypto.provider.JceKeyStore, java.lang.Enum]

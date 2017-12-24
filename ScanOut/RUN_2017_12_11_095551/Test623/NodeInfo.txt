@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	15099
+NH Depth:	21
+NH Density:	23
+Classes	: [java.util.Currency, sun.security.util.Debug, java.net.URLClassLoader, java.lang.SecurityManager, java.lang.Runtime, com.sun.security.sasl.util.AbstractSaslImpl, java.lang.Package, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.lang.System, java.lang.ClassLoader, sun.misc.ProxyGenerator, java.security.AccessControlContext, java.lang.reflect.Proxy, com.sun.security.sasl.digest.DigestMD5Base, java.lang.Exception, java.lang.Throwable, java.util.Formatter, java.text.DecimalFormatSymbols, sun.rmi.server.Util, java.lang.StringCoding, java.io.ByteArrayOutputStream]

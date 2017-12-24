@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	24026
+NH Depth:	28
+NH Density:	16
+Classes	: [java.util.Properties, java.lang.Package, java.util.Hashtable, com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, java.lang.String, sun.util.LocaleServiceProviderPool, java.util.logging.Logging, java.io.ObjectInputStream, java.text.BreakIterator, java.util.regex.Pattern, java.util.logging.Logger, java.util.Formatter, java.lang.ConditionalSpecialCasing, com.sun.corba.se.impl.naming.cosnaming.TransientNameService, com.sun.crypto.provider.JceKeyStore]

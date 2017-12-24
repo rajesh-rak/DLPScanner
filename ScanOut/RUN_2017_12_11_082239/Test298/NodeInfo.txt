@@ -1,0 +1,5 @@
+File:		zb19
+Line No:	160
+NH Depth:	8
+NH Density:	4
+Classes	: [sun.awt.AppContext, java.lang.Thread, sun.applet.AppletViewer, java.lang.ThreadGroup]

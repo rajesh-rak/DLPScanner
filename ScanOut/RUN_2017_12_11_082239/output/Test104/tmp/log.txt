@@ -1,0 +1,72 @@
+.F....F.F..........E.......F.F..F.F....
+Time: 0.152
+There was 1 error:
+1) test16(RandoopTest0)java.lang.NullPointerException
+	at sun.net.util.URLUtil.urlNoFragString(URLUtil.java:47)
+	at sun.misc.URLClassPath.getLoader(URLClassPath.java:325)
+	at sun.misc.URLClassPath.findResource(URLClassPath.java:175)
+	at java.net.URLClassLoader$2.run(URLClassLoader.java:551)
+	at java.net.URLClassLoader$2.run(URLClassLoader.java:549)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findResource(URLClassLoader.java:548)
+	at java.lang.ClassLoader.getResource(ClassLoader.java:1147)
+	at java.net.URLClassLoader.getResourceAsStream(URLClassLoader.java:227)
+	at RandoopTest0.test16(RandoopTest0.java:375)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+There were 7 failures:
+1) test31(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test31(RandoopTest0.java:857)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+2) test27(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test27(RandoopTest0.java:730)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+3) test26(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test26(RandoopTest0.java:654)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+4) test9(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test9(RandoopTest0.java:201)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+5) test8(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test8(RandoopTest0.java:176)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+6) test6(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test6(RandoopTest0.java:136)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+7) test5(RandoopTest0)junit.framework.AssertionFailedError: null
+	at RandoopTest0.test5(RandoopTest0.java:107)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+
+FAILURES!!!
+Tests run: 31,  Failures: 7,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 36367
+Exiting analysis

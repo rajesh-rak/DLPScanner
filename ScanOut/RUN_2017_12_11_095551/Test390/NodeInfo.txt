@@ -1,0 +1,5 @@
+File:		zb11
+Line No:	16946
+NH Depth:	25
+NH Density:	24
+Classes	: [java.util.Properties, sun.util.calendar.CalendarSystem, sun.security.x509.CertificateValidity, sun.security.validator.EndEntityChecker, sun.security.validator.SimpleValidator, java.util.Hashtable, javax.xml.parsers.DocumentBuilderFactory, com.sun.crypto.provider.SunJCE_z, java.util.Date, com.sun.corba.se.impl.orb.NormalDataCollector, sun.security.x509.X509CertInfo, com.sun.corba.se.impl.resolver.FileResolverImpl, sun.util.calendar.LocalGregorianCalendar, sun.security.provider.JavaKeyStore, java.util.XMLUtils, javax.crypto.SunJCE_b, com.sun.corba.se.impl.orb.DataCollectorBase, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, sun.security.x509.X509CertImpl, java.util.zip.ZipEntry, sun.security.validator.Validator, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder]

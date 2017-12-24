@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	24284
+NH Depth:	31
+NH Density:	22
+Classes	: [sun.reflect.misc.MethodUtil, sun.util.calendar.CalendarSystem, java.security.CodeSigner, java.security.Permissions, java.lang.reflect.Constructor, java.net.URLClassLoader, java.lang.SecurityManager, java.security.Policy, java.security.AccessController, javax.swing.text.AsyncBoxView, java.util.Date, javax.swing.text.LayoutQueue, java.util.HashMap, java.security.AccessControlContext, java.security.CodeSource, sun.awt.AppContext, sun.reflect.Reflection, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.lang.Class, java.security.Timestamp, java.security.SecureClassLoader]

@@ -1,0 +1,5 @@
+File:		zbLast
+Line No:	4549
+NH Depth:	40
+NH Density:	18
+Classes	: [com.sun.corba.se.spi.orb.ORB, java.util.logging.LogManager, sun.misc.URLClassPath, sun.util.LocaleServiceProviderPool, java.lang.String, java.util.Scanner, com.sun.imageio.plugins.jpeg.JPEGImageWriter, java.net.URLStreamHandler, java.lang.ClassLoader, java.text.BreakIterator, javax.imageio.ImageWriter, sun.net.util.IPAddressUtil, java.util.regex.Pattern, java.util.logging.Logger, com.sun.corba.se.impl.logging.ORBUtilSystemException, java.text.DecimalFormatSymbols, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle]

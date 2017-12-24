@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	70539
+NH Depth:	28
+NH Density:	33
+Classes	: [java.util.Currency, java.util.Properties, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.lang.System, sun.security.provider.JavaKeyStore, java.security.Security, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.Throwable, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, sun.security.x509.AlgorithmId, sun.security.util.Debug, java.security.AlgorithmParameters, java.security.MessageDigest, com.sun.jmx.mbeanserver.StandardMBeanSupport, sun.font.FontManager, java.util.Hashtable, java.lang.String, java.security.Policy, java.security.AccessControlContext, com.sun.jmx.mbeanserver.StandardMBeanIntrospector, java.io.ObjectInputStream, java.security.ProtectionDomain, java.lang.Exception, java.lang.ConditionalSpecialCasing, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, sun.font.FontFamily]

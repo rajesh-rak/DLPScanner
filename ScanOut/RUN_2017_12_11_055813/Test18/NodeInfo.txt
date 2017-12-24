@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	3470
+NH Depth:	7
+NH Density:	4
+Classes	: [java.lang.reflect.Constructor, sun.reflect.annotation.AnnotationType, sun.reflect.annotation.AnnotationParser, java.lang.Class]

@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	34103
+NH Depth:	21
+NH Density:	15
+Classes	: [java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, javax.crypto.Cipher, com.sun.crypto.provider.SunJCE_z, java.security.AccessControlContext, javax.crypto.SunJCE_b, java.security.Signature, javax.crypto.SunJCE_c, java.security.ProtectionDomain, java.net.URL, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.SunJCE_ad, com.sun.crypto.provider.JceKeyStore]

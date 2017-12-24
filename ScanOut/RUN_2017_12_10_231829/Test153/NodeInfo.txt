@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	31871
+NH Depth:	39
+NH Density:	32
+Classes	: [java.util.TimeZone, java.util.Properties, javax.naming.spi.DirectoryManager, java.util.Map, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.lang.StringBuilder, javax.xml.parsers.DocumentBuilderFactory, java.io.PrintStream, java.lang.System, javax.naming.spi.NamingManager, java.util.concurrent.locks.AbstractQueuedSynchronizer, java.lang.Throwable, java.util.concurrent.locks.ReentrantLock, com.sun.jndi.rmi.registry.RegistryContext, com.sun.naming.internal.ResourceManager, javax.xml.parsers.FactoryFinder, sun.security.util.Debug, sun.rmi.server.UnicastServerRef, java.util.Hashtable, sun.misc.VM, java.lang.String, java.security.Policy, java.util.Date, java.lang.ClassLoader, java.security.AccessControlContext, java.util.concurrent.ConcurrentHashMap, java.util.XMLUtils, java.security.ProtectionDomain, java.lang.Exception, com.sun.jndi.ldap.Obj]

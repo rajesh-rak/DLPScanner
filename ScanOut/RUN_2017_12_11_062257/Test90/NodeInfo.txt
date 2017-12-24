@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	29658
+NH Depth:	28
+NH Density:	31
+Classes	: [javax.naming.spi.DirectoryManager, java.util.Properties, java.lang.SecurityManager, java.security.AccessController, javax.xml.parsers.DocumentBuilderFactory, com.sun.crypto.provider.SunJCE_z, sun.security.provider.JavaKeyStore, javax.crypto.SunJCE_b, java.security.Security, javax.crypto.SunJCE_c, java.io.ObjectOutputStream, javax.crypto.SunJCE_h, java.lang.Class, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder, sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, java.security.MessageDigest, java.util.Hashtable, java.security.Policy, java.security.AccessControlContext, com.sun.corba.se.impl.resolver.FileResolverImpl, java.util.XMLUtils, java.io.ObjectInputStream, com.sun.corba.se.impl.orb.DataCollectorBase, java.security.ProtectionDomain, java.net.URL, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.jndi.ldap.Obj]

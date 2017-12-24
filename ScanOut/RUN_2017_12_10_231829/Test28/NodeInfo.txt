@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	1756
+NH Depth:	50
+NH Density:	11
+Classes	: [java.awt.Component, java.awt.KeyboardFocusManager, sun.awt.im.CompositionArea, sun.awt.im.CompositionAreaHandler, java.awt.LightweightDispatcher, sun.awt.im.InputMethodJFrame, javax.swing.JRootPane, sun.awt.im.InputContext, sun.awt.im.InputMethodContext, javax.swing.JFrame, java.awt.Container]

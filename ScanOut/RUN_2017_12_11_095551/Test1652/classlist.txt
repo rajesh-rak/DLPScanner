@@ -1,0 +1,13 @@
+com.sun.security.auth.PolicyPermissions
+java.lang.reflect.Constructor
+sun.reflect.Reflection
+java.security.Permissions
+java.security.UnresolvedPermission
+java.lang.SecurityManager
+java.security.ProtectionDomain
+java.lang.Class
+com.sun.naming.internal.FactoryEnumeration
+java.security.AccessController
+java.security.Policy
+java.security.AccessControlContext
+com.sun.security.auth.PolicyFile

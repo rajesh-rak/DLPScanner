@@ -1,0 +1,8 @@
+java.net.InetAddress
+sun.net.www.protocol.ftp.Handler
+java.net.URL
+java.util.Hashtable
+java.net.URLStreamHandler
+java.security.SecureClassLoader
+java.util.HashMap
+java.security.CodeSource

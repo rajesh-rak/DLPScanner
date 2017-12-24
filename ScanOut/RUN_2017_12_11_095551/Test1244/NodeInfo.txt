@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	46877
+NH Depth:	33
+NH Density:	30
+Classes	: [sun.swing.plaf.synth.SynthFileChooserUI, sun.awt.X11.XEmbedHelper, java.util.Currency, java.awt.Window, java.lang.SecurityManager, java.lang.reflect.Method, java.lang.Thread, java.security.AccessController, java.io.ObjectStreamClass, java.io.ObjectOutputStream, java.util.Vector, java.lang.Class, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, sun.awt.image.ImageFetcher, sun.awt.X11.XToolkit, java.security.Permissions, java.util.Hashtable, java.lang.String, java.security.Policy, java.security.AccessControlContext, java.lang.reflect.Proxy, javax.swing.plaf.basic.BasicDirectoryModel, java.io.ObjectInputStream, sun.reflect.Reflection, javax.swing.JFileChooser, java.security.ProtectionDomain, javax.swing.filechooser.FileSystemView, java.io.File]

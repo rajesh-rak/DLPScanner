@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	190114
+NH Depth:	27
+NH Density:	23
+Classes	: [javax.naming.spi.DirectoryManager, java.util.Properties, java.lang.reflect.Constructor, java.security.Permissions, java.security.UnresolvedPermission, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, javax.xml.parsers.DocumentBuilderFactory, java.lang.ClassLoader, java.security.AccessControlContext, java.util.XMLUtils, sun.misc.Launcher, sun.reflect.Reflection, java.security.ProtectionDomain, java.net.URL, java.lang.Class, java.io.File, sun.net.www.ParseUtil, com.sun.naming.internal.ResourceManager, com.sun.jndi.ldap.Obj, javax.xml.parsers.FactoryFinder]

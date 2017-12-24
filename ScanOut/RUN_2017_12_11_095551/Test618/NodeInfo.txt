@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	13747
+NH Depth:	24
+NH Density:	19
+Classes	: [java.util.Properties, java.util.Hashtable, sun.font.FontManager, com.sun.xml.internal.messaging.saaj.soap.impl.ElementImpl, java.lang.String, sun.util.LocaleServiceProviderPool, sun.misc.VM, java.net.URI, java.lang.System, java.lang.ClassLoader, sun.security.provider.JavaKeyStore, java.text.BreakIterator, java.net.URL, java.util.logging.Logger, com.sun.corba.se.impl.encoding.CDRInputStream_1_0, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, com.sun.corba.se.impl.util.Utility, com.sun.crypto.provider.JceKeyStore]

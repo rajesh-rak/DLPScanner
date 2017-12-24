@@ -1,0 +1,8 @@
+java.util.Currency
+java.lang.Throwable
+java.math.BigDecimal
+java.util.Formatter
+java.text.DecimalFormatSymbols
+java.io.PrintStream
+com.sun.corba.se.impl.transport.ByteBufferPoolImpl
+java.beans.beancontext.BeanContextSupport

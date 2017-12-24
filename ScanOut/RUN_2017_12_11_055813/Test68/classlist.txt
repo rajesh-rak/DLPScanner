@@ -1,0 +1,16 @@
+sun.awt.X11.XToolkit
+java.awt.Window
+sun.reflect.annotation.AnnotationParser
+java.lang.reflect.Method
+sun.awt.X11.XWindowPeer
+javax.management.relation.RelationSupport
+java.lang.reflect.Proxy
+java.io.ObjectStreamClass
+java.io.ObjectOutputStream
+java.util.Vector
+javax.management.relation.RelationService
+com.sun.xml.internal.ws.handler.HandlerChainsModel
+sun.awt.X11.XEmbedCanvasPeer
+sun.rmi.server.Util
+sun.awt.X11.XFramePeer
+sun.awt.X11.XEmbeddingContainer

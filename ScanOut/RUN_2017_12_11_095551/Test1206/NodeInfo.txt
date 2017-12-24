@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	33166
+NH Depth:	23
+NH Density:	18
+Classes	: [sun.misc.VMSupport, java.util.Properties, java.lang.SecurityManager, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.util.Hashtable, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, java.lang.reflect.Proxy, com.sun.corba.se.impl.resolver.FileResolverImpl, java.io.ObjectInputStream, com.sun.corba.se.impl.orb.DataCollectorBase, java.security.ProtectionDomain, com.sun.corba.se.impl.orb.AppletDataCollector, java.lang.Class, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, sun.rmi.server.Util]

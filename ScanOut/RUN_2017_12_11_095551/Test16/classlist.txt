@@ -1,0 +1,13 @@
+java.util.Properties
+java.lang.SecurityManager
+java.security.Policy
+java.security.AccessController
+javax.xml.parsers.DocumentBuilderFactory
+java.security.AccessControlContext
+java.util.XMLUtils
+com.sun.jndi.ldap.LdapCtx
+java.security.ProtectionDomain
+java.lang.Class
+javax.naming.ldap.ControlFactory
+com.sun.naming.internal.ResourceManager
+javax.xml.parsers.FactoryFinder

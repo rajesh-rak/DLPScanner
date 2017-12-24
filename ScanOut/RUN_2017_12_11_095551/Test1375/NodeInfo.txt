@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	91596
+NH Depth:	22
+NH Density:	18
+Classes	: [sun.font.FontManager, java.util.Hashtable, sun.awt.X11.XComponentPeer, sun.misc.URLClassPath, java.lang.String, sun.util.LocaleServiceProviderPool, java.lang.ClassLoader, sun.util.CoreResourceBundleControl, sun.net.util.URLUtil, java.io.ObjectInputStream, java.text.BreakIterator, com.sun.org.apache.xml.internal.res.XMLErrorResources, java.util.logging.Logger, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, com.sun.crypto.provider.JceKeyStore]

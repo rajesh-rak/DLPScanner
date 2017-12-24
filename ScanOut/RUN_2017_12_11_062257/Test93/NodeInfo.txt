@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	31027
+NH Depth:	29
+NH Density:	18
+Classes	: [javax.naming.spi.DirectoryManager, java.util.Properties, javax.xml.transform.TransformerFactory, java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.util.Hashtable, java.lang.reflect.Method, javax.xml.transform.FactoryFinder, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, java.util.XMLUtils, sun.reflect.Reflection, java.security.ProtectionDomain, java.lang.Class, com.sun.naming.internal.ResourceManager, com.sun.jndi.ldap.Obj, java.lang.Enum]

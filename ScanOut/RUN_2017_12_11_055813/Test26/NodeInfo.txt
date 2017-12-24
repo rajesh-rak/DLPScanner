@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	14053
+NH Depth:	14
+NH Density:	6
+Classes	: [com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, com.sun.jndi.ldap.Connection, com.sun.jndi.ldap.EventSupport, com.sun.jndi.ldap.NamingEventNotifier]

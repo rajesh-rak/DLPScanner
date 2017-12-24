@@ -1,0 +1,5 @@
+File:		zb22
+Line No:	4077
+NH Depth:	39
+NH Density:	24
+Classes	: [sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, java.security.Permissions, java.security.MessageDigest, java.net.InetAddress, sun.security.provider.PolicySpiFile, java.lang.SecurityManager, java.util.Hashtable, java.security.Policy, java.security.AccessController, java.security.AccessControlContext, java.net.SocketPermission, java.net.Inet6Address, java.security.UnresolvedPermissionCollection, sun.security.provider.JavaKeyStore, java.security.Security, java.io.ObjectOutputStream, sun.security.provider.PolicyFile, java.security.ProtectionDomain, java.lang.Class, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore, java.net.NetworkInterface]

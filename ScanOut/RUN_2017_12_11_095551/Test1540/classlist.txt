@@ -1,0 +1,13 @@
+java.net.URLClassLoader
+java.util.Hashtable
+java.lang.String
+javax.management.relation.RelationSupport
+java.net.SocketPermission
+java.lang.reflect.Proxy
+java.io.ObjectInputStream
+java.util.regex.Pattern
+sun.net.util.IPAddressUtil
+javax.management.relation.RelationService
+java.lang.ConditionalSpecialCasing
+java.security.SecureClassLoader
+com.sun.crypto.provider.JceKeyStore

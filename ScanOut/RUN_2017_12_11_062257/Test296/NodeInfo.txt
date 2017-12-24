@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	180225
+NH Depth:	31
+NH Density:	25
+Classes	: [java.lang.SecurityManager, sun.reflect.annotation.AnnotationParser, java.lang.reflect.Method, java.security.AccessController, javax.crypto.Cipher, com.sun.crypto.provider.SunJCE_z, javax.crypto.SunJCE_b, javax.crypto.SunJCE_c, javax.crypto.SunJCE_h, java.lang.Class, com.sun.crypto.provider.JceKeyStore, java.security.Permissions, java.util.Hashtable, java.security.Policy, java.lang.ClassLoader, java.security.AccessControlContext, java.security.UnresolvedPermissionCollection, sun.misc.Launcher, sun.reflect.Reflection, java.net.URL, java.security.ProtectionDomain, java.io.File, sun.net.www.ParseUtil, com.sun.crypto.provider.SunJCE_ad, java.lang.Enum]

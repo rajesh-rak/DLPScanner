@@ -1,0 +1,16 @@
+sun.reflect.annotation.AnnotationParser
+java.net.URLClassLoader
+java.util.Hashtable
+javax.crypto.Cipher
+java.lang.String
+com.sun.crypto.provider.SunJCE_z
+java.net.SocketPermission
+java.lang.reflect.Proxy
+java.util.regex.Pattern
+sun.net.util.IPAddressUtil
+javax.crypto.SunJCE_h
+java.lang.Class
+java.lang.ConditionalSpecialCasing
+com.sun.crypto.provider.SunJCE_ad
+java.security.SecureClassLoader
+com.sun.crypto.provider.JceKeyStore

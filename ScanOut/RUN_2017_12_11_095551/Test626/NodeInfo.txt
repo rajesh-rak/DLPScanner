@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	16742
+NH Depth:	24
+NH Density:	20
+Classes	: [java.security.Permissions, java.lang.SecurityManager, java.util.Hashtable, sun.font.FontManager, java.util.logging.LogManager, com.sun.xml.internal.messaging.saaj.soap.impl.ElementImpl, java.security.AccessController, java.security.Policy, sun.util.LocaleServiceProviderPool, java.lang.String, java.lang.ClassLoader, java.security.AccessControlContext, sun.security.provider.JavaKeyStore, java.text.BreakIterator, java.security.ProtectionDomain, sun.security.provider.PolicyFile, java.util.logging.Logger, java.lang.ConditionalSpecialCasing, java.security.PermissionsHash, com.sun.crypto.provider.JceKeyStore]
