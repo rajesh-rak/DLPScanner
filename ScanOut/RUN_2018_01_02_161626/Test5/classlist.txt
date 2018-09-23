@@ -1,0 +1,5 @@
+java.awt.Component
+javax.swing.SwingUtilities
+java.awt.dnd.DropTarget
+javax.swing.JTree
+javax.swing.JDialog

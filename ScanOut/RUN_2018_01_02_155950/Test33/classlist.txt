@@ -1,0 +1,14 @@
+java.util.Currency
+sun.awt.X11.XToolkit
+java.util.Hashtable
+java.lang.String
+java.lang.reflect.Proxy
+java.io.ObjectInputStream
+com.sun.jndi.ldap.LdapClient
+com.sun.jndi.ldap.LdapCtx
+java.util.Vector
+java.util.Formatter
+java.text.DecimalFormatSymbols
+com.sun.naming.internal.ResourceManager
+javax.naming.ldap.ControlFactory
+com.sun.crypto.provider.JceKeyStore

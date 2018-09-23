@@ -1,0 +1,126 @@
+2018-01-02 16:40:15
+Full thread dump Java HotSpot(TM) 64-Bit Server VM (24.79-b02 mixed mode):
+
+"Attach Listener" daemon prio=5 tid=0x00007fd75d859800 nid=0x850b waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"AWT-Shutdown" prio=5 tid=0x00007fd75e92d000 nid=0x9f2b in Object.wait() [0x000070000ada6000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007abf05788> (a java.lang.Object)
+	at java.lang.Object.wait(Object.java:503)
+	at sun.awt.AWTAutoShutdown.run(AWTAutoShutdown.java:296)
+	- locked <0x00000007abf05788> (a java.lang.Object)
+	at java.lang.Thread.run(Thread.java:745)
+
+   Locked ownable synchronizers:
+	- None
+
+"AWT-AppKit" daemon prio=5 tid=0x00007fd75e94c800 nid=0x307 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"Service Thread" daemon prio=5 tid=0x00007fd75e835000 nid=0x3703 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"C2 CompilerThread1" daemon prio=5 tid=0x00007fd75e00f800 nid=0x3603 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"C2 CompilerThread0" daemon prio=5 tid=0x00007fd75d04e000 nid=0x4903 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"Signal Dispatcher" daemon prio=5 tid=0x00007fd75d050000 nid=0x340b runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"Finalizer" daemon prio=5 tid=0x00007fd75e810800 nid=0x5103 in Object.wait() [0x000070000a711000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007aaa84858> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:135)
+	- locked <0x00000007aaa84858> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:151)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+
+   Locked ownable synchronizers:
+	- None
+
+"Reference Handler" daemon prio=5 tid=0x00007fd75e80f800 nid=0x2d03 in Object.wait() [0x000070000a60e000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007aaa84470> (a java.lang.ref.Reference$Lock)
+	at java.lang.Object.wait(Object.java:503)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:133)
+	- locked <0x00000007aaa84470> (a java.lang.ref.Reference$Lock)
+
+   Locked ownable synchronizers:
+	- None
+
+"main" prio=5 tid=0x00007fd75e002800 nid=0x2603 runnable [0x0000700009ff9000]
+   java.lang.Thread.State: RUNNABLE
+	at java.lang.ClassLoader$NativeLibrary.load(Native Method)
+	at java.lang.ClassLoader.loadLibrary1(ClassLoader.java:1965)
+	- locked <0x00000007aaa841c0> (a java.util.Vector)
+	- locked <0x00000007aaa84218> (a java.util.Vector)
+	at java.lang.ClassLoader.loadLibrary0(ClassLoader.java:1890)
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1851)
+	at java.lang.Runtime.load0(Runtime.java:795)
+	- locked <0x00000007aaa96c68> (a java.lang.Runtime)
+	at java.lang.System.load(System.java:1062)
+	at java.lang.ClassLoader$NativeLibrary.load(Native Method)
+	at java.lang.ClassLoader.loadLibrary1(ClassLoader.java:1965)
+	- locked <0x00000007aaa841c0> (a java.util.Vector)
+	- locked <0x00000007aaa84218> (a java.util.Vector)
+	at java.lang.ClassLoader.loadLibrary0(ClassLoader.java:1890)
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1872)
+	at java.lang.Runtime.loadLibrary0(Runtime.java:849)
+	- locked <0x00000007aaa96c68> (a java.lang.Runtime)
+	at java.lang.System.loadLibrary(System.java:1088)
+	at sun.security.action.LoadLibraryAction.run(LoadLibraryAction.java:67)
+	at sun.security.action.LoadLibraryAction.run(LoadLibraryAction.java:47)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.awt.Toolkit.loadLibraries(Toolkit.java:1653)
+	at java.awt.Toolkit.<clinit>(Toolkit.java:1682)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:191)
+	at randoop.util.Reflection.classForName(Unknown Source)
+	at randoop.util.Reflection.loadClassesFromReader(Unknown Source)
+	at randoop.util.Reflection.loadClassesFromFile(Unknown Source)
+	at randoop.main.GenInputsAbstract.findClassesFromArgs(Unknown Source)
+	at randoop.main.GenTests.handle(Unknown Source)
+	at randoop.main.Main.nonStaticMain(Unknown Source)
+	at randoop.main.Main.main(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"VM Thread" prio=5 tid=0x00007fd75e80d000 nid=0x2c03 runnable 
+
+"GC task thread#0 (ParallelGC)" prio=5 tid=0x00007fd75e00e800 nid=0x2007 runnable 
+
+"GC task thread#1 (ParallelGC)" prio=5 tid=0x00007fd75e00f000 nid=0x1d03 runnable 
+
+"GC task thread#2 (ParallelGC)" prio=5 tid=0x00007fd75d000800 nid=0x2a03 runnable 
+
+"GC task thread#3 (ParallelGC)" prio=5 tid=0x00007fd75d00c000 nid=0x5403 runnable 
+
+"VM Periodic Task Thread" prio=5 tid=0x00007fd75e835800 nid=0x3903 waiting on condition 
+
+JNI global references: 227
+

@@ -1,0 +1,7 @@
+sun.rmi.transport.proxy.RMIMasterSocketFactory
+com.sun.jndi.ldap.LdapClient
+com.sun.jndi.ldap.LdapCtx
+java.util.Vector
+java.util.Hashtable
+javax.naming.ldap.ControlFactory
+com.sun.naming.internal.ResourceManager

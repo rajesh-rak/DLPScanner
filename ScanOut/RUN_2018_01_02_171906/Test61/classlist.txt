@@ -1,0 +1,12 @@
+sun.awt.X11.XEmbedHelper
+java.io.ObjectInputStream
+com.sun.jndi.ldap.LdapClient
+sun.awt.X11.XToolkit
+com.sun.jndi.ldap.LdapCtx
+java.util.Vector
+java.util.Hashtable
+javax.naming.ldap.ControlFactory
+com.sun.naming.internal.ResourceManager
+com.sun.crypto.provider.JceKeyStore
+sun.rmi.server.Util
+java.lang.reflect.Proxy

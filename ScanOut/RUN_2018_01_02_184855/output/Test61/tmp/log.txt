@@ -1,0 +1,27 @@
+................E..............
+Time: 0.241
+There was 1 error:
+1) test15(RandoopTest0)java.lang.ExceptionInInitializerError
+	at sun.awt.X11.XAtom.get(XAtom.java:178)
+	at sun.awt.X11.XEmbedHelper.<init>(XEmbedHelper.java:84)
+	at sun.awt.X11.XEmbedServerTester.<init>(XEmbedServerTester.java:44)
+	at sun.awt.X11.XEmbedServerTester.getTester(XEmbedServerTester.java:88)
+	at RandoopTest0.test15(RandoopTest0.java:287)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RandoopTest.main(RandoopTest.java:8)
+Caused by: java.lang.ClassCastException: sun.awt.CGraphicsEnvironment cannot be cast to sun.awt.X11GraphicsEnvironment
+	at sun.awt.X11.XToolkit.<clinit>(XToolkit.java:120)
+	... 21 more
+
+FAILURES!!!
+Tests run: 30,  Failures: 0,  Errors: 1
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 21499
+Exiting analysis

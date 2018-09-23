@@ -1,0 +1,7 @@
+sun.awt.X11.XEmbedHelper
+sun.awt.X11.XToolkit
+com.sun.jndi.ldap.LdapClient
+com.sun.jndi.ldap.LdapCtx
+java.util.Vector
+javax.naming.ldap.ControlFactory
+com.sun.naming.internal.ResourceManager

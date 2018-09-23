@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	608
+NH Depth:	11
+NH Density:	6
+Classes	: [sun.font.FontManager, sun.java2d.SunGraphicsEnvironment, sun.font.TrueTypeFont, sun.font.TrueTypeGlyphMapper, sun.font.CompositeFont, sun.font.FileFont]

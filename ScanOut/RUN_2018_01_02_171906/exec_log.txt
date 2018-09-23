@@ -1,0 +1,20 @@
+Execution Summary
+-----------------
+Source Folder:	/Users/rajesh/code/DLPScanner/cycles/zb18
+Output Folder:	/Users/rajesh/code/DLPScanner/ScanOut
+Neighbourhood Depth:	20
+Neighbourhood Density:	20
+Total Files Processed:	1
+Total Lines Processed:	92,589
+Total Nodes Processed:	421
+Total Nodes Selected:	85
+Total Duplicates:	11
+Total Processing Time:	1,060ms
+-------------------------------------
+File:			zb18
+Lines Processed:	92,589
+Nodes Processed:	421
+Nodes Selected:		85
+Duplicates skipped:	11
+Processed in: 		1,054ms
+------

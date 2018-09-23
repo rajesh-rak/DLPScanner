@@ -1,0 +1,8 @@
+java.util.XMLUtils
+java.util.Properties
+javax.xml.transform.TransformerFactory
+java.util.Hashtable
+javax.xml.transform.FactoryFinder
+sun.misc.VM
+java.lang.System
+java.lang.ClassLoader

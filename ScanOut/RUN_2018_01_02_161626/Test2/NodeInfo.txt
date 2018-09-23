@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	37
+NH Depth:	8
+NH Density:	4
+Classes	: [sun.awt.AppContext, java.lang.Thread, com.sun.jmx.snmp.daemon.CommunicatorServer, java.lang.ThreadGroup]

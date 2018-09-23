@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	17930
+NH Depth:	14
+NH Density:	19
+Classes	: [sun.security.x509.AlgorithmId, java.security.AlgorithmParameters, java.util.Properties, java.security.MessageDigest, java.util.Hashtable, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.net.URI, sun.misc.VM, javax.xml.parsers.DocumentBuilderFactory, java.lang.System, java.lang.ClassLoader, java.util.XMLUtils, sun.security.provider.JavaKeyStore, java.security.Security, java.net.URL, java.security.cert.CertificateFactory, sun.security.jca.GetInstance, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder]

@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	101
+NH Depth:	8
+NH Density:	3
+Classes	: [com.sun.jndi.ldap.LdapClient, java.util.Vector, com.sun.jndi.ldap.Connection]

@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	19456
+NH Depth:	13
+NH Density:	6
+Classes	: [sun.reflect.annotation.AnnotationType, sun.reflect.annotation.AnnotationParser, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.Class, java.lang.reflect.Method, java.lang.Enum]

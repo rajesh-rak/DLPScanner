@@ -1,0 +1,3 @@
+com.sun.jndi.ldap.LdapClient
+java.util.Vector
+com.sun.jndi.ldap.Connection

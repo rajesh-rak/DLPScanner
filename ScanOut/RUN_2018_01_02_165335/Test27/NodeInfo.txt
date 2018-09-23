@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	4891
+NH Depth:	20
+NH Density:	8
+Classes	: [java.util.regex.Pattern, java.util.Hashtable, java.lang.String, javax.crypto.Cipher, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.SunJCE_z, com.sun.crypto.provider.SunJCE_ad, com.sun.crypto.provider.JceKeyStore]

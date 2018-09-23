@@ -1,0 +1,20 @@
+Execution Summary
+-----------------
+Source Folder:	/Users/rajesh/code/DLPScanner/cycles/zb14
+Output Folder:	/Users/rajesh/code/DLPScanner/ScanOut
+Neighbourhood Depth:	20
+Neighbourhood Density:	20
+Total Files Processed:	1
+Total Lines Processed:	39,231
+Total Nodes Processed:	143
+Total Nodes Selected:	42
+Total Duplicates:	6
+Total Processing Time:	506ms
+-------------------------------------
+File:			zb14
+Lines Processed:	39,231
+Nodes Processed:	143
+Nodes Selected:		42
+Duplicates skipped:	6
+Processed in: 		501ms
+------

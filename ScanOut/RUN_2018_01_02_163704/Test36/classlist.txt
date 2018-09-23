@@ -1,0 +1,7 @@
+java.awt.Component
+javax.swing.plaf.basic.BasicTreeUI
+javax.swing.SwingUtilities
+java.awt.dnd.DropTarget
+com.sun.java.swing.plaf.motif.MotifTreeUI
+javax.swing.JTree
+javax.swing.JComponent

@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	22621
+NH Depth:	16
+NH Density:	15
+Classes	: [sun.rmi.transport.tcp.TCPChannel, sun.awt.X11.XToolkit, sun.awt.X11.XWindowPeer, javax.swing.text.AsyncBoxView, javax.swing.text.LayoutQueue, sun.awt.X11.XPanelPeer, sun.awt.X11.XWindow, sun.awt.AppContext, javax.swing.text.html.HTMLDocument, javax.swing.text.DefaultStyledDocument, javax.swing.text.View, java.util.Vector, sun.rmi.transport.tcp.TCPTransport, sun.awt.X11.XFramePeer, sun.awt.X11.XEmbeddingContainer]

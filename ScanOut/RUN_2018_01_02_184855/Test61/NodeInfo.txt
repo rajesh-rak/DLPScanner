@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	57951
+NH Depth:	13
+NH Density:	12
+Classes	: [java.util.ArrayList, sun.awt.X11.XToolkit, java.util.Stack, java.net.InetAddress, java.net.URL, java.util.Vector, sun.awt.X11.XWindowPeer, sun.misc.URLClassPath, java.net.URLStreamHandler, sun.awt.X11.XEmbedServerTester, sun.awt.X11.XFramePeer, java.lang.ClassLoader]

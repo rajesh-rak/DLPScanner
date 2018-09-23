@@ -1,0 +1,12 @@
+com.sun.corba.se.impl.activation.ServerTableEntry
+java.io.ObjectInputStream
+java.util.regex.Pattern
+java.lang.Runtime
+com.sun.corba.se.impl.activation.ServerManagerImpl
+java.util.Hashtable
+java.lang.String
+java.lang.ConditionalSpecialCasing
+com.sun.crypto.provider.JceKeyStore
+java.lang.ProcessBuilder
+sun.rmi.server.Util
+java.lang.reflect.Proxy

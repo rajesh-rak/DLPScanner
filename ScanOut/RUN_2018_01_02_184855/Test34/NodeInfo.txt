@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	17329
+NH Depth:	14
+NH Density:	15
+Classes	: [java.util.Currency, java.util.Properties, java.util.Hashtable, com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl, java.lang.String, javax.xml.parsers.DocumentBuilderFactory, java.lang.System, java.lang.reflect.Proxy, java.util.XMLUtils, java.io.ObjectInputStream, com.sun.corba.se.impl.activation.ServerManagerImpl, java.util.Formatter, java.text.DecimalFormatSymbols, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder]

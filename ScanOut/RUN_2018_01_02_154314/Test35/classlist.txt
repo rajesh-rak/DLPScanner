@@ -1,0 +1,12 @@
+javax.crypto.ExemptionMechanism
+javax.crypto.SunJCE_b
+javax.crypto.SunJCE_c
+java.net.URL
+java.util.Hashtable
+javax.crypto.Cipher
+java.lang.String
+java.lang.ConditionalSpecialCasing
+com.sun.crypto.provider.SunJCE_z
+java.net.URLStreamHandler
+com.sun.crypto.provider.SunJCE_ad
+com.sun.crypto.provider.JceKeyStore

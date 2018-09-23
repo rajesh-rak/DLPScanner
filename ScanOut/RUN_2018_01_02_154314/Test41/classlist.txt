@@ -1,0 +1,17 @@
+sun.org.mozilla.javascript.internal.DefiningClassLoader
+java.util.Properties
+javax.swing.MultiUIDefaults
+java.util.Hashtable
+java.net.URI
+sun.misc.VM
+com.sun.crypto.provider.SunJCE_z
+java.lang.System
+java.lang.ClassLoader
+com.sun.crypto.provider.SunJCE
+javax.swing.UIDefaults
+java.net.URL
+java.security.cert.CertificateFactory
+sun.security.jca.GetInstance
+javax.swing.UIManager
+javax.swing.JList
+com.sun.crypto.provider.JceKeyStore

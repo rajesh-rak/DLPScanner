@@ -1,0 +1,9 @@
+java.util.Currency
+com.sun.jndi.ldap.pool.Pool
+java.lang.Package
+com.sun.jndi.ldap.LdapPoolManager
+java.util.Formatter
+java.text.DecimalFormatSymbols
+java.io.PrintStream
+java.lang.ClassLoader
+com.sun.jndi.ldap.pool.Connections

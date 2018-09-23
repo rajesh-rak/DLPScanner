@@ -1,0 +1,15 @@
+java.util.Properties
+java.security.MessageDigest
+java.util.Hashtable
+sun.misc.VM
+java.net.URI
+java.lang.System
+java.lang.ClassLoader
+sun.security.provider.JavaKeyStore
+java.security.Security
+java.net.URL
+com.sun.corba.se.impl.encoding.CDRInputStream_1_0
+java.security.cert.CertificateFactory
+sun.security.jca.GetInstance
+com.sun.corba.se.impl.util.Utility
+com.sun.crypto.provider.JceKeyStore

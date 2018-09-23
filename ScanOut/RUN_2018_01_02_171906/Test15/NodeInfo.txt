@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	1748
+NH Depth:	7
+NH Density:	4
+Classes	: [com.sun.jmx.snmp.daemon.SnmpAdaptorServer, java.net.DatagramSocket, java.net.DatagramPacket, com.sun.jndi.dns.DnsClient]

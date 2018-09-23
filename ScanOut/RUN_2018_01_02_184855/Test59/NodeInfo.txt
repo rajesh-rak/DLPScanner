@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	57749
+NH Depth:	13
+NH Density:	13
+Classes	: [java.util.Currency, sun.awt.X11.XToolkit, sun.awt.X11.XWindowPeer, javax.sound.midi.Track, java.io.PrintStream, javax.sound.midi.Sequence, java.util.Vector, java.lang.Throwable, java.util.Formatter, java.text.DecimalFormatSymbols, sun.awt.X11.XEmbedServerTester, com.sun.corba.se.impl.transport.ByteBufferPoolImpl, sun.awt.X11.XFramePeer]

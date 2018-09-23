@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	246
+NH Depth:	7
+NH Density:	3
+Classes	: [java.lang.Thread, sun.applet.AppletViewer, java.lang.ThreadGroup]

@@ -1,0 +1,8 @@
+sun.security.provider.JavaKeyStore
+java.security.Security
+java.security.MessageDigest
+java.util.Hashtable
+java.security.cert.CertificateFactory
+sun.security.jca.GetInstance
+com.sun.crypto.provider.JceKeyStore
+java.lang.ClassLoader

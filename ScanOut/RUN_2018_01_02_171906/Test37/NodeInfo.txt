@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	6895
+NH Depth:	9
+NH Density:	6
+Classes	: [sun.rmi.transport.proxy.RMIMasterSocketFactory, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, java.util.Hashtable, com.sun.jndi.ldap.EventSupport]

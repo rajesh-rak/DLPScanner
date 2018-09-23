@@ -1,0 +1,16 @@
+java.util.Properties
+sun.reflect.annotation.AnnotationParser
+java.util.Hashtable
+sun.font.FontManager
+java.lang.reflect.Method
+java.lang.String
+java.lang.System
+java.lang.reflect.Proxy
+java.io.ObjectInputStream
+com.sun.corba.se.impl.activation.ServerManagerImpl
+com.sun.xml.internal.ws.handler.HandlerChainsModel
+java.lang.Class
+java.lang.ConditionalSpecialCasing
+sun.font.FontFamily
+com.sun.crypto.provider.JceKeyStore
+java.lang.Enum

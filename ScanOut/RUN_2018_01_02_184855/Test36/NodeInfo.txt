@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	18716
+NH Depth:	12
+NH Density:	11
+Classes	: [java.util.XMLUtils, java.util.Properties, sun.reflect.annotation.AnnotationParser, javax.xml.transform.TransformerFactory, com.sun.corba.se.impl.activation.ServerManagerImpl, java.util.Hashtable, com.sun.xml.internal.ws.handler.HandlerChainsModel, javax.xml.transform.FactoryFinder, java.lang.reflect.Method, java.lang.System, java.lang.reflect.Proxy]

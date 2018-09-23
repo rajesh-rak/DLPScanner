@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	39431
+NH Depth:	12
+NH Density:	9
+Classes	: [java.util.Currency, com.sun.jndi.ldap.pool.Pool, java.lang.Package, com.sun.jndi.ldap.LdapPoolManager, java.util.Formatter, java.text.DecimalFormatSymbols, java.io.PrintStream, java.lang.ClassLoader, com.sun.jndi.ldap.pool.Connections]

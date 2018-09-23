@@ -1,0 +1,6 @@
+java.io.ObjectInputStream
+java.util.Hashtable
+com.sun.jmx.mbeanserver.Repository
+com.sun.crypto.provider.JceKeyStore
+java.lang.reflect.Proxy
+javax.management.ObjectName

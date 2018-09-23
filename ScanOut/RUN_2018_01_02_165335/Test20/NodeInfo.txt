@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	3420
+NH Depth:	15
+NH Density:	10
+Classes	: [java.io.ObjectStreamClass, java.io.ObjectOutputStream, sun.reflect.annotation.AnnotationParser, javax.management.MBeanOperationInfo, com.sun.jmx.mbeanserver.Introspector, com.sun.xml.internal.ws.handler.HandlerChainsModel, java.lang.reflect.Method, javax.management.MBeanConstructorInfo, java.lang.reflect.Proxy, java.beans.beancontext.BeanContextSupport]

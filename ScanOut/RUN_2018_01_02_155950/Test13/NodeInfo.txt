@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	570
+NH Depth:	10
+NH Density:	6
+Classes	: [sun.awt.X11.XToolkit, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager]

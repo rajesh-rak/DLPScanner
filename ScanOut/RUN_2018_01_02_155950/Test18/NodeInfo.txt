@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	2521
+NH Depth:	10
+NH Density:	4
+Classes	: [com.sun.jmx.snmp.daemon.SnmpAdaptorServer, java.net.DatagramSocket, java.net.DatagramPacket, com.sun.jndi.dns.DnsClient]

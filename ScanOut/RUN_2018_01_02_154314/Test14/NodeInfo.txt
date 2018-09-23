@@ -1,0 +1,5 @@
+File:		zb11
+Line No:	2875
+NH Depth:	10
+NH Density:	9
+Classes	: [sun.font.Type1Font, java.awt.GraphicsEnvironment, sun.font.FontManager, sun.java2d.SunGraphicsEnvironment, java.awt.Font, sun.font.CompositeFont, sun.font.FileFont, sun.font.Type1GlyphMapper, sun.font.NativeFont]

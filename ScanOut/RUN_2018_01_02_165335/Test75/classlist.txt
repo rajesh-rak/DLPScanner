@@ -1,0 +1,13 @@
+java.security.Permissions
+javax.crypto.SunJCE_h
+java.lang.SecurityManager
+java.security.ProtectionDomain
+java.util.Hashtable
+java.lang.Thread
+java.security.AccessController
+javax.crypto.Cipher
+java.security.Policy
+com.sun.crypto.provider.SunJCE_z
+com.sun.crypto.provider.SunJCE_ad
+com.sun.crypto.provider.JceKeyStore
+java.security.AccessControlContext

@@ -1,0 +1,5 @@
+File:		zb11
+Line No:	20152
+NH Depth:	17
+NH Density:	16
+Classes	: [sun.org.mozilla.javascript.internal.DefiningClassLoader, java.util.Properties, javax.swing.MultiUIDefaults, java.util.Hashtable, javax.crypto.Cipher, sun.misc.VM, java.net.URI, com.sun.crypto.provider.SunJCE_z, java.lang.System, java.lang.ClassLoader, javax.swing.UIDefaults, java.net.URL, com.sun.crypto.provider.SunJCE_ad, javax.swing.UIManager, javax.swing.JList, com.sun.crypto.provider.JceKeyStore]

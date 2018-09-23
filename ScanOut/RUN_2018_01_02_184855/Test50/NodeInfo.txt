@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	41268
+NH Depth:	15
+NH Density:	18
+Classes	: [sun.rmi.transport.tcp.TCPChannel, java.util.Properties, java.util.Hashtable, sun.font.FontManager, java.lang.String, javax.swing.text.AsyncBoxView, java.lang.System, javax.swing.text.LayoutQueue, java.lang.reflect.Proxy, sun.awt.AppContext, java.io.ObjectInputStream, javax.swing.text.View, com.sun.corba.se.impl.activation.ServerManagerImpl, javax.management.relation.RelationService, sun.rmi.transport.tcp.TCPTransport, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.JceKeyStore, sun.font.FontFamily]

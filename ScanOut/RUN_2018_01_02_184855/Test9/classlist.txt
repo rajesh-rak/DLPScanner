@@ -1,0 +1,10 @@
+sun.security.provider.JavaKeyStore
+java.util.XMLUtils
+java.security.Provider
+java.util.Properties
+java.security.SecureRandom
+com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl
+java.util.Hashtable
+javax.xml.parsers.DocumentBuilderFactory
+sun.security.provider.KeyProtector
+javax.xml.parsers.FactoryFinder

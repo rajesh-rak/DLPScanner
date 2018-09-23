@@ -1,0 +1,15 @@
+java.util.Properties
+sun.misc.VMSupport
+java.util.Hashtable
+com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl
+sun.misc.VM
+com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl
+com.sun.crypto.provider.SunJCE_z
+java.lang.System
+java.lang.ClassLoader
+com.sun.crypto.provider.SunJCE
+com.sun.corba.se.impl.orb.DataCollectorBase
+com.sun.corba.se.impl.orb.AppletDataCollector
+java.security.cert.CertificateFactory
+sun.security.jca.GetInstance
+com.sun.crypto.provider.JceKeyStore

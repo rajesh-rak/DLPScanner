@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	33010
+NH Depth:	9
+NH Density:	6
+Classes	: [com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, com.sun.jndi.ldap.Connection, com.sun.jndi.ldap.EventSupport, com.sun.jndi.ldap.sasl.LdapSasl]

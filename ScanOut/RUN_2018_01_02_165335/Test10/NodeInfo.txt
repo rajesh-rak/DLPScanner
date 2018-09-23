@@ -1,0 +1,5 @@
+File:		zb17
+Line No:	953
+NH Depth:	13
+NH Density:	5
+Classes	: [com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, com.sun.jndi.ldap.EventSupport, com.sun.jndi.ldap.NamingEventNotifier]

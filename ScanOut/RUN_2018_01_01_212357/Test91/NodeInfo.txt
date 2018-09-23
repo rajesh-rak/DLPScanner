@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	205857
+NH Depth:	17
+NH Density:	18
+Classes	: [com.sun.org.apache.xalan.internal.xsltc.trax.SmartTransformerFactoryImpl, java.util.Properties, java.util.Hashtable, java.net.URI, sun.misc.VM, javax.crypto.Cipher, javax.xml.parsers.DocumentBuilderFactory, com.sun.crypto.provider.SunJCE_z, java.lang.System, com.sun.org.apache.xalan.internal.utils.ObjectFactory, java.lang.ClassLoader, com.sun.corba.se.impl.resolver.FileResolverImpl, java.util.XMLUtils, com.sun.corba.se.impl.orb.DataCollectorBase, java.net.URL, com.sun.crypto.provider.SunJCE_ad, com.sun.crypto.provider.JceKeyStore, javax.xml.parsers.FactoryFinder]

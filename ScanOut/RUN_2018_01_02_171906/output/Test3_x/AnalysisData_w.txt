@@ -1,0 +1,24 @@
+--------------------
+Test generation Hung:
+Process Name: Main
+--------------------
+Test generation Hung:
+Process Name: Main
+--------------------
+Test execution Hung:
+Process Name: OmenDriver
+Process Name: RandoopTest
+--------------------
+Test generation Hung:
+Process Name: Main
+--------------------
+Test execution Hung:
+Process Name: OmenDriver
+Process Name: RandoopTest
+--------------------
+Test generation Hung:
+Process Name: Main
+--------------------
+Test execution Hung:
+Process Name: OmenDriver
+Process Name: RandoopTest

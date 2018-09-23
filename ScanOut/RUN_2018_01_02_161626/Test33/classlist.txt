@@ -1,0 +1,7 @@
+sun.rmi.transport.proxy.RMIMasterSocketFactory
+javax.swing.text.html.HTMLDocument
+javax.swing.text.DefaultStyledDocument
+java.util.Vector
+java.util.Hashtable
+com.sun.jmx.mbeanserver.Repository
+javax.management.ObjectName

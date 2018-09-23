@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	30093
+NH Depth:	20
+NH Density:	19
+Classes	: [sun.awt.X11.XEmbedHelper, sun.security.util.Debug, java.util.Currency, sun.awt.X11.XToolkit, java.lang.SecurityManager, java.lang.Thread, java.security.AccessController, java.io.PrintStream, java.security.AccessControlContext, java.lang.reflect.Proxy, javax.swing.text.DefaultStyledDocument, java.util.Vector, java.lang.Exception, java.lang.Throwable, java.lang.Class, java.math.BigDecimal, java.util.Formatter, java.text.DecimalFormatSymbols, sun.rmi.server.Util]

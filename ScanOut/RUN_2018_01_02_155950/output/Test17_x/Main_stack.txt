@@ -1,0 +1,204 @@
+2018-01-02 16:04:35
+Full thread dump Java HotSpot(TM) 64-Bit Server VM (24.79-b02 mixed mode):
+
+"DestroyJavaVM" prio=5 tid=0x00007f9c04802800 nid=0x2703 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007f9c05059000 nid=0xc1f in Object.wait() [0x0000700003b0e000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.font.Type1Font.<init>(Type1Font.java:177)
+	at sun.reflect.GeneratedConstructorAccessor4.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at randoop.util.ConstructorReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007f9c04985800 nid=0x4b1f in Object.wait() [0x0000700003a0b000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.font.Type1Font.<init>(Type1Font.java:177)
+	at sun.reflect.GeneratedConstructorAccessor4.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at randoop.util.ConstructorReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"Attach Listener" daemon prio=5 tid=0x00007f9c04967000 nid=0xe0b waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007f9c05058000 nid=0x5d0b in Object.wait() [0x0000700003805000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.font.Type1Font.<init>(Type1Font.java:177)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at randoop.util.ConstructorReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007f9c04917800 nid=0x8d2b in Object.wait() [0x0000700003702000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.font.Type1Font.<init>(Type1Font.java:177)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at randoop.util.ConstructorReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007f9c04094800 nid=0x8253 in Object.wait() [0x00007000035ff000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.font.Type1Font.<init>(Type1Font.java:177)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at randoop.util.ConstructorReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"AWT-Shutdown" prio=5 tid=0x00007f9c03915800 nid=0x952b in Object.wait() [0x0000700003479000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007ae80fc70> (a java.lang.Object)
+	at java.lang.Object.wait(Object.java:503)
+	at sun.awt.AWTAutoShutdown.run(AWTAutoShutdown.java:296)
+	- locked <0x00000007ae80fc70> (a java.lang.Object)
+	at java.lang.Thread.run(Thread.java:745)
+
+   Locked ownable synchronizers:
+	- None
+
+"AWT-AppKit" daemon prio=5 tid=0x00007f9c04094000 nid=0x307 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"" prio=5 tid=0x00007f9c038b5000 nid=0x3c1b runnable [0x00007000032f0000]
+   java.lang.Thread.State: RUNNABLE
+	at java.lang.ClassLoader$NativeLibrary.load(Native Method)
+	at java.lang.ClassLoader.loadLibrary1(ClassLoader.java:1965)
+	- locked <0x00000007aaa841c0> (a java.util.Vector)
+	- locked <0x00000007aaa84218> (a java.util.Vector)
+	at java.lang.ClassLoader.loadLibrary0(ClassLoader.java:1890)
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1851)
+	at java.lang.Runtime.load0(Runtime.java:795)
+	- locked <0x00000007aaa96c68> (a java.lang.Runtime)
+	at java.lang.System.load(System.java:1062)
+	at java.lang.ClassLoader$NativeLibrary.load(Native Method)
+	at java.lang.ClassLoader.loadLibrary1(ClassLoader.java:1965)
+	- locked <0x00000007aaa841c0> (a java.util.Vector)
+	- locked <0x00000007aaa84218> (a java.util.Vector)
+	at java.lang.ClassLoader.loadLibrary0(ClassLoader.java:1890)
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1872)
+	at java.lang.Runtime.loadLibrary0(Runtime.java:849)
+	- locked <0x00000007aaa96c68> (a java.lang.Runtime)
+	at java.lang.System.loadLibrary(System.java:1088)
+	at sun.security.action.LoadLibraryAction.run(LoadLibraryAction.java:67)
+	at sun.security.action.LoadLibraryAction.run(LoadLibraryAction.java:47)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.java2d.Disposer.<clinit>(Disposer.java:63)
+	at sun.font.Type1Font.<init>(Type1Font.java:177)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at randoop.util.ConstructorReflectionCode.runReflectionCodeRaw(Unknown Source)
+	at randoop.util.ReflectionCode.runReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.executeReflectionCode(Unknown Source)
+	at randoop.util.RunnerThread.run(Unknown Source)
+
+   Locked ownable synchronizers:
+	- None
+
+"Service Thread" daemon prio=5 tid=0x00007f9c0481c000 nid=0x4803 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"C2 CompilerThread1" daemon prio=5 tid=0x00007f9c04081800 nid=0x3703 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"C2 CompilerThread0" daemon prio=5 tid=0x00007f9c03811800 nid=0x3503 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"Signal Dispatcher" daemon prio=5 tid=0x00007f9c0407b800 nid=0x3307 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   Locked ownable synchronizers:
+	- None
+
+"Finalizer" daemon prio=5 tid=0x00007f9c0481a000 nid=0x5003 in Object.wait() [0x0000700002bde000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007aaa84858> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:135)
+	- locked <0x00000007aaa84858> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:151)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+
+   Locked ownable synchronizers:
+	- None
+
+"Reference Handler" daemon prio=5 tid=0x00007f9c04819800 nid=0x2c03 in Object.wait() [0x0000700002adb000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x00000007aaa84470> (a java.lang.ref.Reference$Lock)
+	at java.lang.Object.wait(Object.java:503)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:133)
+	- locked <0x00000007aaa84470> (a java.lang.ref.Reference$Lock)
+
+   Locked ownable synchronizers:
+	- None
+
+"VM Thread" prio=5 tid=0x00007f9c04816800 nid=0x5203 runnable 
+
+"GC task thread#0 (ParallelGC)" prio=5 tid=0x00007f9c04005000 nid=0x1d07 runnable 
+
+"GC task thread#1 (ParallelGC)" prio=5 tid=0x00007f9c04006000 nid=0x1b03 runnable 
+
+"GC task thread#2 (ParallelGC)" prio=5 tid=0x00007f9c04006800 nid=0x2a03 runnable 
+
+"GC task thread#3 (ParallelGC)" prio=5 tid=0x00007f9c04007000 nid=0x5303 runnable 
+
+"VM Periodic Task Thread" prio=5 tid=0x00007f9c0481e000 nid=0x4703 waiting on condition 
+
+JNI global references: 178
+

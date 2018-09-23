@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	119858
+NH Depth:	16
+NH Density:	14
+Classes	: [java.util.Properties, java.util.Hashtable, java.lang.String, javax.swing.text.AsyncBoxView, java.lang.System, javax.swing.text.LayoutQueue, java.lang.reflect.Proxy, sun.awt.AppContext, java.io.ObjectInputStream, javax.management.relation.RelationService, com.sun.corba.se.impl.activation.ServerManagerImpl, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.JceKeyStore, sun.font.FontFamily]

@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	161458
+NH Depth:	16
+NH Density:	11
+Classes	: [com.sun.crypto.provider.SunJCE_b, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, java.util.Hashtable, com.sun.jndi.ldap.EventSupport, com.sun.crypto.provider.SunJCE_z, java.util.jar.JarFile, java.util.zip.ZipFile, com.sun.crypto.provider.JceKeyStore, com.sun.crypto.provider.SunJCE]

@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	8473
+NH Depth:	20
+NH Density:	10
+Classes	: [java.io.ObjectInputStream, java.util.regex.Pattern, java.util.Hashtable, java.lang.String, java.util.Formatter, javax.crypto.Cipher, java.lang.ConditionalSpecialCasing, com.sun.crypto.provider.SunJCE_z, com.sun.crypto.provider.SunJCE_ad, com.sun.crypto.provider.JceKeyStore]

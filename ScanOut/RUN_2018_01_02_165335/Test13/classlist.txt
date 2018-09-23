@@ -1,0 +1,6 @@
+sun.util.calendar.LocalGregorianCalendar
+sun.util.calendar.CalendarSystem
+java.util.Properties
+java.util.Hashtable
+java.util.Date
+sun.net.www.MimeTable

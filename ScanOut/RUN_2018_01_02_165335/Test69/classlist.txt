@@ -1,0 +1,17 @@
+sun.reflect.annotation.AnnotationParser
+java.lang.Package
+java.util.Hashtable
+com.sun.jmx.mbeanserver.Repository
+java.lang.reflect.Method
+java.io.ObjectOutput
+com.sun.crypto.provider.SunJCE_z
+java.lang.ClassLoader
+javax.management.ObjectName
+java.lang.reflect.Proxy
+java.io.ObjectStreamClass
+java.io.ObjectOutputStream
+javax.management.MBeanOperationInfo
+com.sun.jmx.mbeanserver.Introspector
+com.sun.xml.internal.ws.handler.HandlerChainsModel
+javax.management.MBeanConstructorInfo
+com.sun.crypto.provider.JceKeyStore

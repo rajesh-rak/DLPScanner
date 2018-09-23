@@ -1,0 +1,5 @@
+File:		zb10
+Line No:	2076
+NH Depth:	14
+NH Density:	14
+Classes	: [java.util.Currency, java.util.Properties, java.util.Hashtable, sun.font.FontManager, java.lang.String, java.lang.System, java.lang.reflect.Proxy, java.io.ObjectInputStream, com.sun.corba.se.impl.activation.ServerManagerImpl, java.util.Formatter, java.text.DecimalFormatSymbols, java.lang.ConditionalSpecialCasing, sun.font.FontFamily, com.sun.crypto.provider.JceKeyStore]

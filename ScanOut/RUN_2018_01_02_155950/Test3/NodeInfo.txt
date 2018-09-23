@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	86
+NH Depth:	8
+NH Density:	3
+Classes	: [sun.font.FontManager, sun.java2d.SunGraphicsEnvironment, sun.font.CompositeFont]

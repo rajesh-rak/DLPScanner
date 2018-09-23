@@ -1,0 +1,5 @@
+com.sun.jndi.ldap.LdapClient
+com.sun.jndi.ldap.LdapCtx
+java.util.Vector
+com.sun.jndi.ldap.EventSupport
+com.sun.jndi.ldap.sasl.LdapSasl

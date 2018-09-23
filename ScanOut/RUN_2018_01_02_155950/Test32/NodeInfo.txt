@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	8600
+NH Depth:	16
+NH Density:	10
+Classes	: [sun.awt.AppContext, sun.awt.X11.XToolkit, javax.swing.text.View, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, com.sun.naming.internal.FactoryEnumeration, javax.swing.text.AsyncBoxView, javax.naming.ldap.ControlFactory, javax.swing.text.LayoutQueue]

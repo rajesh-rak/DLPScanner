@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	167
+NH Depth:	7
+NH Density:	2
+Classes	: [java.lang.Thread, java.lang.ThreadGroup]

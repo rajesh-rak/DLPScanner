@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	163473
+NH Depth:	14
+NH Density:	13
+Classes	: [java.util.ArrayList, sun.awt.X11.XToolkit, java.util.Stack, java.net.InetAddress, java.net.URL, java.util.Vector, sun.awt.X11.XWindowPeer, sun.misc.URLClassPath, sun.awt.X11.XEmbedCanvasPeer, java.net.URLStreamHandler, sun.awt.X11.XFramePeer, java.lang.ClassLoader, sun.awt.X11.XEmbeddingContainer]

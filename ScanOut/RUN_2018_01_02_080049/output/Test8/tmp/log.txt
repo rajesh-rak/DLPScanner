@@ -1,0 +1,14 @@
+.....java.lang.ThreadGroup[name=hi!,maxpri=10]
+..java.lang.ThreadGroup[name=hi!,maxpri=10]
+..........
+Time: 0.071
+
+OK (17 tests)
+
+Cycle length is4
+before
+after
+Reached this
+# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 12552
+Exiting analysis

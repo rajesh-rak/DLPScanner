@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	481
+NH Depth:	6
+NH Density:	4
+Classes	: [java.awt.Component, javax.swing.JTable, java.awt.dnd.DropTarget, javax.swing.JTree]

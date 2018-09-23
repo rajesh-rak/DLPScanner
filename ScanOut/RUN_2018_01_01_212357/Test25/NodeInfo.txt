@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	13913
+NH Depth:	11
+NH Density:	5
+Classes	: [com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, com.sun.jndi.ldap.Connection, com.sun.jndi.ldap.EventSupport, com.sun.jndi.ldap.sasl.LdapSasl]

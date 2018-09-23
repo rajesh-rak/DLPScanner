@@ -1,0 +1,5 @@
+File:		zb14
+Line No:	567
+NH Depth:	10
+NH Density:	9
+Classes	: [java.util.XMLUtils, java.util.Properties, java.util.Hashtable, sun.misc.VM, javax.xml.parsers.DocumentBuilderFactory, java.lang.System, javax.swing.plaf.basic.BasicTextFieldUI, java.lang.ClassLoader, javax.xml.parsers.FactoryFinder]

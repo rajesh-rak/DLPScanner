@@ -1,0 +1,16 @@
+.........
+Time: 0.089
+
+OK (9 tests)
+
+Cycle length is4
+bejava.io.FileNotFoundException: /Users/rajesh/code/DLPScanner/./tmp/OutputTable.txt (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io# of deadlocks detected 0
+THE SIZE OF THE TRACE OMEN 18072
+Exiting analysis
+ream.<init>(FileOutputStream.java:110)
+	at omen.cycleDetector.javato.activetesting.igoodlock.GoodlockDS.dumpDeadlocks(GoodlockDS.java:199)
+	at omen.cycleDetector.javato.activetesting.IGoodlockAnalysis.finish(IGoodlockAnalysis.java:188)
+	at omen.cycleDetector.javato.activetesting.analysis.AnalysisImpl.run(AnalysisImpl.java:42)
+Error while writing to /Users/rajesh/code/DLPScanner/./tmp/error.list

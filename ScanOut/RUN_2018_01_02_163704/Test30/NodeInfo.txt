@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	12225
+NH Depth:	9
+NH Density:	5
+Classes	: [com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, com.sun.jndi.ldap.EventSupport, com.sun.jndi.ldap.sasl.LdapSasl]

@@ -1,0 +1,5 @@
+File:		zb12
+Line No:	6955
+NH Depth:	16
+NH Density:	8
+Classes	: [sun.awt.AppContext, javax.swing.text.View, java.net.URLClassLoader, javax.management.relation.RelationService, java.lang.Package, javax.swing.text.AsyncBoxView, java.lang.ClassLoader, javax.swing.text.LayoutQueue]

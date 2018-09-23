@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	4287
+NH Depth:	10
+NH Density:	6
+Classes	: [sun.awt.X11.XEmbedHelper, javax.swing.text.DefaultStyledDocument, sun.awt.X11.XToolkit, java.util.Vector, sun.rmi.server.Util, java.lang.reflect.Proxy]

@@ -1,0 +1,5 @@
+File:		azb16
+Line No:	112622
+NH Depth:	13
+NH Density:	17
+Classes	: [sun.awt.X11.XToolkit, java.util.Hashtable, sun.awt.X11.XWindowPeer, javax.management.relation.RelationSupport, java.lang.reflect.Proxy, java.io.ObjectInputStream, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, javax.management.relation.RelationService, sun.awt.X11.XEmbedCanvasPeer, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, com.sun.crypto.provider.JceKeyStore, sun.rmi.server.Util, sun.awt.X11.XFramePeer, sun.awt.X11.XEmbeddingContainer]

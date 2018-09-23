@@ -1,0 +1,5 @@
+File:		zb15
+Line No:	2616
+NH Depth:	11
+NH Density:	10
+Classes	: [sun.awt.X11.XPopupMenuPeer, com.sun.jndi.ldap.LdapClient, sun.awt.X11.XToolkit, com.sun.jndi.ldap.LdapCtx, java.util.Vector, sun.awt.X11.XWindowPeer, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager, sun.awt.X11.XFramePeer, sun.awt.X11.XWindow]

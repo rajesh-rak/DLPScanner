@@ -1,0 +1,5 @@
+File:		zb18
+Line No:	269
+NH Depth:	10
+NH Density:	7
+Classes	: [sun.awt.X11.XEmbedHelper, sun.awt.X11.XToolkit, com.sun.jndi.ldap.LdapClient, com.sun.jndi.ldap.LdapCtx, java.util.Vector, javax.naming.ldap.ControlFactory, com.sun.naming.internal.ResourceManager]
