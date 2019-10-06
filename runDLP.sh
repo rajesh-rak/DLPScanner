@@ -271,3 +271,5 @@ done < $execFolder/$execLogFile
 
 nodesSkipped=$[$nodesParsed - $nodesShortlisted - $dupNodes]
 		echo "$runID,$testcount,$positives,$hungcount,$testhungcount,$nhDepth,$nhDensity,$nodesParsed,$nodesShortlisted,$dupNodes,$nodesSkipped,$timeStamp,$filenames" | tr -d '\t' >> $outFolder/$summaryOutFile
+
+
