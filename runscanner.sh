@@ -48,3 +48,4 @@ echo "Attempting to run the scanner..."
 java -Xms2048m -Xmx4096m org.iiitb.dlpscanner.ScanDLPredictions .
 cd ..
 echo "...done"
+

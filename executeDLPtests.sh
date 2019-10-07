@@ -37,3 +37,4 @@ do
   echo "Execution Completed: $txTCLine  $txTS"
   echo "Execution Completed: $txCount. $txTCLine  $txTS" >> $testrunlog
 done < $testcasefile
+
