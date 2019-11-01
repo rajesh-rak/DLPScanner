@@ -1,0 +1,4 @@
+sun.awt.im.InputMethodPopupMenu
+sun.awt.im.InputContext
+sun.awt.im.InputMethodManager
+sun.awt.im.ExecutableInputMethodManager

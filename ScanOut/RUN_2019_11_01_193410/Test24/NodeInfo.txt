@@ -1,0 +1,5 @@
+File:		1.4.2_04.NewerLst
+Line No:	4124
+NH Depth:	23
+NH Density:	14
+Classes	: [java.lang.Throwable, java.security.AccessControlContext, java.io.ObjectStreamClass, sun.reflect.Reflection, java.lang.SecurityManager, java.lang.FloatingDecimal, java.lang.StringBuffer, java.security.ProtectionDomain, java.io.ObjectOutputStream, java.lang.Class, java.security.AccessController, java.lang.reflect.Method, java.security.Policy, java.security.Permissions]

@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	14464
+NH Depth:	26
+NH Density:	12
+Classes	: [sun.rmi.log.ReliableLog, sun.rmi.server.MarshalInputStream, java.net.URLClassLoader, sun.rmi.server.Activation, sun.rmi.log.LogHandler, java.lang.Package, java.text.DecimalFormatSymbols, java.io.ObjectInputStream, java.lang.String, java.util.Currency, java.lang.ClassLoader, java.util.Formatter]

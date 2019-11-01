@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	17351
+NH Depth:	10
+NH Density:	7
+Classes	: [javax.swing.JComponent, java.awt.dnd.DropTarget, javax.swing.SwingUtilities, javax.swing.plaf.basic.BasicTreeUI, javax.swing.JFileChooser, javax.swing.JTree, java.awt.Component]

@@ -1,0 +1,20 @@
+Execution Summary
+-----------------
+Source Folder:	/Users/rajesh/code/git_clone/cycles/cycles*
+Output Folder:	/Users/rajesh/code/git_clone/ScanOut
+Neighbourhood Depth:	10
+Neighbourhood Density:	10
+Total Files Processed:	1
+Total Lines Processed:	76,341
+Total Nodes Processed:	144
+Total Nodes Selected:	13
+Total Duplicates:	39
+Total Processing Time:	278ms
+-------------------------------------
+File:			cycles.xml
+Lines Processed:	76,341
+Nodes Processed:	144
+Nodes Selected:		13
+Duplicates skipped:	39
+Processed in: 		274ms
+------

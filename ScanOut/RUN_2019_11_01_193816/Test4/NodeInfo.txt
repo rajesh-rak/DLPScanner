@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	437
+NH Depth:	8
+NH Density:	4
+Classes	: [sun.jkernel.DownloadManager, sun.misc.Launcher, java.lang.Class, java.lang.ClassLoader]

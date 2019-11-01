@@ -1,0 +1,5 @@
+File:		1.4.2_04.NewerLst
+Line No:	3826
+NH Depth:	11
+NH Density:	8
+Classes	: [java.lang.Throwable, sun.reflect.ReflectionFactory, java.lang.StringBuffer, sun.reflect.MethodAccessorGenerator, java.io.ObjectOutputStream, java.io.ObjectStreamClass, java.lang.String, java.lang.reflect.Method]

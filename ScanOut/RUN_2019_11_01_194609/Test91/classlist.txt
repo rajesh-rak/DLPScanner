@@ -1,0 +1,8 @@
+java.awt.dnd.DropTarget
+javax.swing.JComponent
+javax.swing.SwingUtilities
+javax.swing.JTable
+javax.swing.JFileChooser
+javax.swing.JTree
+java.awt.Component
+javax.swing.plaf.basic.BasicTableUI

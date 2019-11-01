@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	54948
+NH Depth:	29
+NH Density:	17
+Classes	: [java.util.Properties, sun.font.FontFamily, java.lang.System, java.util.logging.LogManager, sun.print.PathGraphics, sun.util.LocaleServiceProviderPool, sun.font.CompositeFont, java.util.logging.Logger, sun.font.Type1Font, sun.font.FontManager, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, java.text.BreakIterator, sun.misc.VM, java.lang.String, java.lang.ClassLoader, java.util.Hashtable]

@@ -1,0 +1,5 @@
+File:		1.4.2.10.NewLst
+Line No:	91700
+NH Depth:	23
+NH Density:	25
+Classes	: [java.security.AccessControlContext, java.lang.Throwable, java.io.ObjectInputStream, sun.reflect.Reflection, java.lang.reflect.Constructor, java.lang.Integer, java.lang.StringBuffer, java.lang.Thread, java.lang.String, java.security.Policy, java.security.Permissions, java.io.PrintStream, java.security.UnresolvedPermission, sun.reflect.MethodAccessorGenerator, java.lang.NumberFormatException, sun.security.provider.PolicyFile, sun.security.util.Debug, java.lang.SecurityManager, java.lang.Exception, sun.reflect.ReflectionFactory, java.security.ProtectionDomain, java.lang.reflect.Modifier, java.lang.Class, java.lang.Object, java.security.AccessController]

@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	1945
+NH Depth:	13
+NH Density:	9
+Classes	: [java.util.Properties, java.util.ResourceBundle, java.util.Date, java.util.TimeZone, java.util.logging.LogManager, sun.util.LocaleServiceProviderPool, java.util.logging.Logger, java.util.logging.Level, sun.util.TimeZoneNameUtility]

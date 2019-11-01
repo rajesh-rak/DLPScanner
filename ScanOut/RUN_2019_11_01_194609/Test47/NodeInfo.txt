@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	5082
+NH Depth:	27
+NH Density:	16
+Classes	: [java.security.AccessControlContext, java.util.Properties, javax.naming.spi.DirectoryManager, java.util.XMLUtils, java.lang.SecurityManager, com.sun.jndi.rmi.registry.RegistryContext, com.sun.naming.internal.ResourceManager, java.security.ProtectionDomain, javax.xml.parsers.FactoryFinder, java.lang.Class, javax.xml.parsers.DocumentBuilderFactory, java.security.AccessController, java.security.Policy, com.sun.jndi.ldap.Obj, java.util.Hashtable, javax.naming.spi.NamingManager]

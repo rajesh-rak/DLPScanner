@@ -1,0 +1,5 @@
+File:		1.4.2_12.NewLst
+Line No:	469
+NH Depth:	23
+NH Density:	21
+Classes	: [java.io.PrintStream, java.security.AccessControlContext, java.lang.Throwable, java.security.UnresolvedPermission, java.io.BufferedWriter, java.io.ObjectStreamClass, sun.reflect.Reflection, sun.security.util.Debug, java.lang.reflect.Constructor, java.lang.SecurityManager, java.lang.Exception, sun.reflect.ReflectionFactory, java.lang.Thread, java.security.ProtectionDomain, java.lang.Class, java.io.ObjectOutputStream, java.security.AccessController, java.lang.NoClassDefFoundError, java.security.Policy, java.lang.reflect.Method, java.security.Permissions]

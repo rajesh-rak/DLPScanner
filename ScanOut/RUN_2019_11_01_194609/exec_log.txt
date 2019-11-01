@@ -1,0 +1,27 @@
+Execution Summary
+-----------------
+Source Folder:	/Users/rajesh/code/git_clone/cycles/k*
+Output Folder:	/Users/rajesh/code/git_clone/ScanOut
+Neighbourhood Depth:	30
+Neighbourhood Density:	30
+Total Files Processed:	2
+Total Lines Processed:	39,999
+Total Nodes Processed:	227
+Total Nodes Selected:	124
+Total Duplicates:	45
+Total Processing Time:	633ms
+-------------------------------------
+File:			kkzb.xml
+Lines Processed:	2,832
+Nodes Processed:	37
+Nodes Selected:		11
+Duplicates skipped:	26
+Processed in: 		183ms
+------
+File:			k26.xml
+Lines Processed:	37,167
+Nodes Processed:	190
+Nodes Selected:		113
+Duplicates skipped:	19
+Processed in: 		446ms
+------

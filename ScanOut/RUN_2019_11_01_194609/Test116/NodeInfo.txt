@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	31029
+NH Depth:	30
+NH Density:	28
+Classes	: [java.lang.Throwable, java.security.AccessControlContext, java.util.Date, sun.util.calendar.CalendarSystem, sun.reflect.Reflection, java.util.Calendar, java.lang.Enum, javax.xml.transform.FactoryFinder, java.lang.Thread, java.lang.String, java.lang.reflect.Method, java.util.Hashtable, java.io.PrintStream, sun.rmi.server.UnicastServerRef, java.util.Properties, java.util.GregorianCalendar, javax.management.MBeanOperationInfo, com.sun.jmx.mbeanserver.Introspector, java.util.XMLUtils, sun.security.util.Debug, java.lang.SecurityManager, java.lang.Exception, java.lang.StringBuilder, java.lang.Class, javax.xml.transform.TransformerFactory, sun.reflect.annotation.AnnotationParser, java.security.AccessController, sun.util.calendar.LocalGregorianCalendar]

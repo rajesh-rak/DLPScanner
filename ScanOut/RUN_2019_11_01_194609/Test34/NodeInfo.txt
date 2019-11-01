@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	1739
+NH Depth:	7
+NH Density:	4
+Classes	: [sun.awt.im.InputMethodPopupMenu, sun.awt.im.InputContext, sun.awt.im.InputMethodManager, sun.awt.im.ExecutableInputMethodManager]

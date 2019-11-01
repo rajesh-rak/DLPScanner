@@ -1,0 +1,5 @@
+File:		1.5.0.NewLst
+Line No:	890
+NH Depth:	22
+NH Density:	15
+Classes	: [java.lang.Throwable, java.security.AccessControlContext, java.io.ObjectStreamClass, sun.misc.FloatingDecimal, sun.reflect.Reflection, java.lang.SecurityManager, java.security.ProtectionDomain, java.lang.AbstractStringBuilder, java.lang.StringBuilder, java.io.ObjectOutputStream, java.lang.Class, java.lang.String, java.security.AccessController, java.lang.reflect.Method, java.security.Policy]

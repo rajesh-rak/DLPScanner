@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	30648
+NH Depth:	21
+NH Density:	14
+Classes	: [java.io.PrintStream, com.sun.org.apache.xerces.internal.impl.xpath.regex.RangeToken, sun.rmi.server.UnicastServerRef, java.util.Properties, java.util.GregorianCalendar, java.util.Date, com.sun.org.apache.xerces.internal.impl.xpath.regex.Token, sun.util.calendar.CalendarSystem, com.sun.org.apache.xerces.internal.impl.xpath.regex.RegexParser, java.util.Calendar, java.lang.StringBuilder, java.lang.String, java.util.Hashtable, sun.util.calendar.LocalGregorianCalendar]

@@ -1,0 +1,5 @@
+File:		kkzb.xml
+Line No:	657
+NH Depth:	7
+NH Density:	3
+Classes	: [com.sun.jmx.snmp.daemon.SnmpQManager, com.sun.jmx.snmp.daemon.SendQ, com.sun.jmx.snmp.daemon.SnmpInformRequest]

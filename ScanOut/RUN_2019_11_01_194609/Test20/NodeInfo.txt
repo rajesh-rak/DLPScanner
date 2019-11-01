@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	358
+NH Depth:	6
+NH Density:	3
+Classes	: [java.awt.dnd.DropTarget, javax.swing.JDialog, java.awt.Component]

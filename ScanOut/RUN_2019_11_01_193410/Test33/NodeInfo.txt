@@ -1,0 +1,5 @@
+File:		1.5.0.NewerLst
+Line No:	1687
+NH Depth:	6
+NH Density:	3
+Classes	: [java.beans.Introspector, java.beans.PropertyDescriptor, java.beans.IndexedPropertyDescriptor]

@@ -1,3 +1,7 @@
 RunID,Tests,Dead_Locks,Progs_Hung,TestGen_Hung,NH_Depth,NH_Density,Nodes_Parsed,Nodes_Shortlisted,Duplicates,Skipped,Time_Stamp,Scan_Files
 RUN_2019_10_28_230141,3,0,0,0,3,3,145,3,14,128,2019.10.28-23.02.21,9;1.5.0.NewLst;1.4.2.NewLst;1.4.2.10.NewLst;1.4.2_04.NewerLst;1.4.2_12.NewLst;1.6.0.NewLst;1.5.0.NewerLst;1.5.0_08.NewLst;1.4.2_04.NewLst;
 RUN_2019_10_28_230221,16,1,1,1,10,10,145,16,68,61,2019.10.28-23.05.52,9;1.5.0.NewLst;1.4.2.NewLst;1.4.2.10.NewLst;1.4.2_04.NewerLst;1.4.2_12.NewLst;1.6.0.NewLst;1.5.0.NewerLst;1.5.0_08.NewLst;1.4.2_04.NewLst;
+RUN_2019_11_01_193410,36,1,1,1,25,25,145,36,84,25,2019.11.01-19.38.16,9;1.5.0.NewLst;1.4.2.NewLst;1.4.2.10.NewLst;1.4.2_04.NewerLst;1.4.2_12.NewLst;1.6.0.NewLst;1.5.0.NewerLst;1.5.0_08.NewLst;1.4.2_04.NewLst;
+RUN_2019_11_01_193816,13,2,2,2,10,10,144,13,39,92,2019.11.01-19.42.09,1;cycles.xml;
+RUN_2019_11_01_194609,124,4,4,4,30,30,227,124,45,58,2019.11.01-19.58.38,2;kkzb.xml;k26.xml;
+RUN_2019_11_01_195839,40,1,1,1,30,30,144,40,91,13,2019.11.01-20.03.45,1;cycles.xml;

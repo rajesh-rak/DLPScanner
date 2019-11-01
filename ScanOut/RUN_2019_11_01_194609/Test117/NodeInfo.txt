@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	31284
+NH Depth:	21
+NH Density:	24
+Classes	: [java.lang.Throwable, java.security.AccessControlContext, java.io.PrintStream, sun.rmi.server.UnicastServerRef, java.util.Properties, java.util.GregorianCalendar, java.util.Date, java.lang.System, sun.util.calendar.CalendarSystem, java.util.XMLUtils, sun.security.util.Debug, java.lang.SecurityManager, java.lang.Exception, java.util.Calendar, sun.misc.VM, java.lang.Thread, javax.xml.parsers.FactoryFinder, java.lang.StringBuilder, java.lang.String, javax.xml.parsers.DocumentBuilderFactory, java.lang.ClassLoader, java.security.AccessController, java.util.Hashtable, sun.util.calendar.LocalGregorianCalendar]

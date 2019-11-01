@@ -1,0 +1,2 @@
+java.awt.dnd.DropTarget
+java.awt.Component

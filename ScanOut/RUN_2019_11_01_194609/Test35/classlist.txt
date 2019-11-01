@@ -1,0 +1,8 @@
+java.security.SecureClassLoader
+java.net.InetAddress
+java.net.URLStreamHandler
+java.net.URLClassLoader
+java.net.URL
+java.util.HashMap
+java.security.CodeSource
+sun.reflect.misc.MethodUtil

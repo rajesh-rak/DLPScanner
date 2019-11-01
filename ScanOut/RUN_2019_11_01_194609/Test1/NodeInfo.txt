@@ -1,0 +1,5 @@
+File:		kkzb.xml
+Line No:	2
+NH Depth:	4
+NH Density:	3
+Classes	: [sun.reflect.annotation.AnnotationType, java.lang.Class, sun.reflect.annotation.AnnotationParser]

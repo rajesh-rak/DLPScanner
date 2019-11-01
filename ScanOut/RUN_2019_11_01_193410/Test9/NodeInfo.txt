@@ -1,0 +1,5 @@
+File:		1.5.0.NewLst
+Line No:	488
+NH Depth:	4
+NH Density:	3
+Classes	: [com.sun.jmx.snmp.daemon.SnmpQManager, com.sun.jmx.snmp.daemon.SendQ, com.sun.jmx.snmp.daemon.SnmpInformRequest]

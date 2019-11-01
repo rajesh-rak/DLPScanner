@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	22673
+NH Depth:	12
+NH Density:	18
+Classes	: [sun.awt.X11.XEmbeddingContainer, sun.awt.X11.XEmbedCanvasPeer, sun.awt.X11.XSelection, java.net.URL, sun.misc.URLClassPath, sun.awt.X11.XEmbedChildProxyPeer, java.util.Stack, java.util.ArrayList, sun.awt.X11.XMSelection, java.net.InetAddress, sun.awt.X11.XEmbedServerTester, sun.awt.X11.XWindowPeer, java.net.URLStreamHandler, java.util.Vector, sun.awt.X11.XPanelPeer, java.lang.ClassLoader, sun.awt.X11.XToolkit, sun.awt.X11.XEmbedHelper]

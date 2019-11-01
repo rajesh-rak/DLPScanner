@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	1083
+NH Depth:	23
+NH Density:	24
+Classes	: [java.util.Properties, java.security.cert.CertificateFactory, java.lang.System, java.security.MessageDigest, java.util.logging.LogManager, sun.security.jca.GetInstance, sun.print.PathGraphics, sun.util.LocaleServiceProviderPool, java.security.Security, java.util.logging.Logger, sun.font.CompositeFont, java.security.AlgorithmParameters, java.util.logging.Level, java.security.Provider, sun.font.FontManager, java.lang.ConditionalSpecialCasing, sun.security.provider.JavaKeyStore, java.util.ResourceBundle, sun.misc.VM, java.text.BreakIterator, java.lang.ClassLoader, java.lang.String, java.util.Hashtable, sun.security.x509.AlgorithmId]

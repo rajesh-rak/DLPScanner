@@ -1,0 +1,12 @@
+java.security.AccessControlContext
+java.security.ProtectionDomain
+java.util.Random
+java.io.ObjectOutputStream
+java.io.ObjectStreamClass
+java.lang.Class
+sun.reflect.Reflection
+java.security.AccessController
+java.lang.reflect.Method
+java.security.Policy
+sun.security.provider.PolicyFile
+java.lang.SecurityManager

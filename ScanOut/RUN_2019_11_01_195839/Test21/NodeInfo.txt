@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	18342
+NH Depth:	18
+NH Density:	11
+Classes	: [java.security.AccessControlContext, java.security.ProtectionDomain, java.util.Random, java.io.ObjectOutputStream, java.io.ObjectStreamClass, java.lang.Class, sun.reflect.Reflection, java.security.AccessController, java.security.Policy, java.lang.reflect.Method, java.lang.SecurityManager]

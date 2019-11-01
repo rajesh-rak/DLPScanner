@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	36429
+NH Depth:	25
+NH Density:	25
+Classes	: [java.security.AccessControlContext, java.lang.reflect.Proxy, javax.naming.spi.DirectoryManager, javax.xml.transform.FactoryFinder, com.sun.xml.internal.ws.server.EndpointFactory, java.lang.reflect.Method, java.security.Policy, java.util.Hashtable, javax.naming.spi.NamingManager, java.util.Properties, sun.reflect.annotation.AnnotationType, javax.management.MBeanOperationInfo, com.sun.jmx.mbeanserver.Introspector, java.util.XMLUtils, java.lang.SecurityManager, com.sun.jndi.rmi.registry.RegistryContext, com.sun.naming.internal.ResourceManager, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.security.ProtectionDomain, java.lang.Class, javax.xml.transform.TransformerFactory, com.sun.xml.internal.ws.handler.HandlerChainsModel, sun.reflect.annotation.AnnotationParser, java.security.AccessController, com.sun.jndi.ldap.Obj]

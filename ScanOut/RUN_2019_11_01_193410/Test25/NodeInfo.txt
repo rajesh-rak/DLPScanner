@@ -1,0 +1,5 @@
+File:		1.4.2_04.NewerLst
+Line No:	5947
+NH Depth:	22
+NH Density:	13
+Classes	: [java.security.AccessControlContext, java.io.ObjectInputStream, java.lang.Integer, java.lang.SecurityManager, java.lang.FloatingDecimal, java.lang.StringBuffer, java.security.ProtectionDomain, java.lang.Object, java.lang.Class, java.lang.String, java.security.AccessController, java.security.Policy, java.security.Permissions]

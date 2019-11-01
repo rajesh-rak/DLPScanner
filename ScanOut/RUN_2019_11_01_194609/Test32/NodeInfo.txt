@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	1277
+NH Depth:	19
+NH Density:	8
+Classes	: [java.util.Properties, java.util.Calendar, java.util.GregorianCalendar, sun.net.www.MimeTable, java.util.Date, sun.util.calendar.CalendarSystem, java.util.Hashtable, sun.util.calendar.LocalGregorianCalendar]

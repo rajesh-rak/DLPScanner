@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	58
+NH Depth:	6
+NH Density:	4
+Classes	: [java.awt.dnd.DropTarget, javax.swing.SwingUtilities, javax.swing.JTextField, java.awt.Component]

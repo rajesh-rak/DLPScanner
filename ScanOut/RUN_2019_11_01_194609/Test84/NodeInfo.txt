@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	14315
+NH Depth:	22
+NH Density:	14
+Classes	: [com.sun.org.apache.xml.internal.res.XMLErrorResources_sk, sun.misc.URLClassPath, sun.util.LocaleServiceProviderPool, java.util.logging.Logger, java.awt.Component, java.lang.ConditionalSpecialCasing, sun.net.util.URLUtil, java.util.ResourceBundle, java.text.BreakIterator, sun.jkernel.DownloadManager, sun.jkernel.Bundle, java.lang.Class, java.lang.ClassLoader, java.lang.String]

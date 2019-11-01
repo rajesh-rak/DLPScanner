@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	8405
+NH Depth:	16
+NH Density:	15
+Classes	: [java.awt.EventQueue, java.util.Properties, java.lang.System, javax.swing.plaf.basic.BasicDirectoryModel, javax.naming.ldap.ControlFactory, com.sun.jndi.ldap.LdapCtx, javax.swing.SwingUtilities, java.util.Vector, com.sun.jndi.ldap.LdapClient, com.sun.naming.internal.ResourceManager, sun.misc.VM, sun.rmi.transport.proxy.RMIMasterSocketFactory, java.lang.ClassLoader, java.util.Hashtable, java.awt.Toolkit]

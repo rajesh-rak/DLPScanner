@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	32570
+NH Depth:	21
+NH Density:	23
+Classes	: [java.security.AccessControlContext, java.util.Properties, java.util.GregorianCalendar, javax.naming.spi.DirectoryManager, java.util.Date, sun.util.calendar.CalendarSystem, sun.util.calendar.Gregorian, java.lang.SecurityManager, com.sun.jndi.rmi.registry.RegistryContext, java.util.Calendar, com.sun.naming.internal.ResourceManager, sun.util.calendar.ZoneInfo, sun.net.www.MimeTable, java.security.ProtectionDomain, sun.util.calendar.BaseCalendar, java.lang.Class, java.security.AccessController, java.util.SimpleTimeZone, java.security.Policy, com.sun.jndi.ldap.Obj, java.util.Hashtable, javax.naming.spi.NamingManager, sun.util.calendar.LocalGregorianCalendar]

@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	22003
+NH Depth:	23
+NH Density:	22
+Classes	: [java.util.Properties, java.lang.System, java.security.MessageDigest, java.util.logging.LogManager, sun.security.jca.GetInstance, java.security.Security, sun.util.LocaleServiceProviderPool, sun.security.provider.SecureRandom, java.util.logging.Logger, java.util.logging.Level, java.security.Provider, java.security.SecureRandom, sun.security.provider.KeyProtector, sun.security.provider.JavaKeyStore, java.lang.ConditionalSpecialCasing, java.util.ResourceBundle, sun.misc.VM, java.text.BreakIterator, java.lang.ClassLoader, java.lang.String, java.util.Hashtable, sun.security.provider.SeedGenerator]

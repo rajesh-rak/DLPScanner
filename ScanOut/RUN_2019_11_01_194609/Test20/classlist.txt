@@ -1,0 +1,3 @@
+java.awt.dnd.DropTarget
+javax.swing.JDialog
+java.awt.Component

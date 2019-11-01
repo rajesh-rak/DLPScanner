@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	80
+NH Depth:	13
+NH Density:	5
+Classes	: [sun.font.CompositeGlyphMapper, sun.font.FontManager, sun.font.TrueTypeFont, sun.font.CompositeFont, sun.font.TrueTypeGlyphMapper]

@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	9327
+NH Depth:	24
+NH Density:	21
+Classes	: [java.security.AccessControlContext, java.util.Properties, javax.swing.plaf.multi.MultiLookAndFeel, javax.naming.spi.DirectoryManager, java.lang.System, javax.swing.UIDefaults, java.util.XMLUtils, java.lang.SecurityManager, com.sun.jndi.rmi.registry.RegistryContext, com.sun.naming.internal.ResourceManager, sun.misc.VM, java.security.ProtectionDomain, javax.xml.parsers.FactoryFinder, javax.xml.parsers.DocumentBuilderFactory, java.lang.ClassLoader, java.security.AccessController, java.security.Policy, com.sun.jndi.ldap.Obj, javax.swing.plaf.multi.MultiComboBoxUI, java.util.Hashtable, javax.naming.spi.NamingManager]

@@ -1,0 +1,5 @@
+File:		cycles.xml
+Line No:	119
+NH Depth:	2
+NH Density:	3
+Classes	: [java.net.DatagramSocket, com.sun.jndi.dns.DnsClient, java.net.DatagramPacket]

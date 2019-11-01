@@ -1,0 +1,5 @@
+File:		1.4.2_04.NewerLst
+Line No:	2522
+NH Depth:	25
+NH Density:	22
+Classes	: [java.lang.Throwable, java.io.PrintStream, java.security.AccessControlContext, java.security.UnresolvedPermission, java.io.ObjectStreamClass, sun.reflect.Reflection, java.lang.reflect.Constructor, java.lang.Exception, java.lang.SecurityManager, sun.reflect.ReflectionFactory, java.util.StringTokenizer, java.lang.StringBuffer, java.lang.Thread, java.security.ProtectionDomain, java.lang.Class, java.io.ObjectOutputStream, java.lang.String, java.security.AccessController, java.lang.NoClassDefFoundError, java.security.Policy, java.lang.reflect.Method, java.security.Permissions]

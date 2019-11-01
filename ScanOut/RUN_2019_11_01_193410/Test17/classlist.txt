@@ -1,0 +1,13 @@
+java.security.AccessControlContext
+java.security.UnresolvedPermission
+sun.reflect.MethodAccessorGenerator
+java.io.ObjectInputStream
+java.lang.reflect.Constructor
+java.lang.SecurityManager
+sun.reflect.ReflectionFactory
+java.lang.StringBuffer
+java.security.ProtectionDomain
+java.lang.Class
+java.security.AccessController
+java.security.Policy
+java.security.Permissions

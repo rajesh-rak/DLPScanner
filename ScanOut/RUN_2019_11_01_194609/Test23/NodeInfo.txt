@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	423
+NH Depth:	6
+NH Density:	5
+Classes	: [java.awt.dnd.DropTarget, javax.swing.JTable, javax.swing.JTree, java.awt.Component, javax.swing.plaf.basic.BasicTableUI]

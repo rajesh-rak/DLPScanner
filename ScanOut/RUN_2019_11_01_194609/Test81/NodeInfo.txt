@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	13793
+NH Depth:	23
+NH Density:	22
+Classes	: [java.security.AccessControlContext, java.io.PrintStream, java.lang.Throwable, com.sun.org.apache.xml.internal.res.XMLErrorResources_sk, sun.rmi.server.UnicastServerRef, java.util.Date, java.util.TimeZone, sun.util.LocaleServiceProviderPool, java.util.logging.Logger, sun.security.util.Debug, java.awt.Component, java.lang.SecurityManager, java.lang.Exception, sun.util.TimeZoneNameUtility, java.util.ResourceBundle, sun.jkernel.Bundle, sun.jkernel.DownloadManager, java.lang.Thread, java.lang.StringBuilder, java.lang.String, java.lang.ClassLoader, java.security.AccessController]

@@ -24,3 +24,7 @@ Execution Completed: 5. zb*,100,100  2017-12-11 16:36:57
 
 Execution Completed: 1. *Lst,3,3  2019-10-28 23:02:21
 Execution Completed: 2. *Lst,10,10  2019-10-28 23:05:52
+Execution Completed: 1. *Lst,25,25  2019-11-01 19:38:16
+Execution Completed: 2. cycles*,10,10  2019-11-01 19:42:09
+Execution Completed: 1. k*,30,30  2019-11-01 19:58:38
+Execution Completed: 2. cycles*,30,30  2019-11-01 20:03:45

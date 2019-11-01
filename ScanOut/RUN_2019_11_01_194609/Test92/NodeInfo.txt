@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	17969
+NH Depth:	22
+NH Density:	29
+Classes	: [java.security.AccessControlContext, java.lang.Throwable, java.util.Date, sun.util.calendar.CalendarSystem, sun.util.TimeZoneNameUtility, sun.net.www.MimeTable, java.lang.Thread, java.lang.String, java.security.Policy, java.util.Hashtable, java.io.PrintStream, sun.rmi.server.UnicastServerRef, java.util.Properties, java.util.TimeZone, sun.util.LocaleServiceProviderPool, java.util.logging.Logger, sun.security.util.Debug, java.awt.Component, java.lang.SecurityManager, java.lang.Exception, sun.util.calendar.ZoneInfo, java.security.ProtectionDomain, sun.util.calendar.BaseCalendar, java.lang.Class, java.lang.StringBuilder, java.lang.ClassLoader, java.security.AccessController, java.util.SimpleTimeZone, sun.util.calendar.LocalGregorianCalendar]

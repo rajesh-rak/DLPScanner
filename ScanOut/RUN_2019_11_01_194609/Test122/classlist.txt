@@ -1,0 +1,16 @@
+java.util.Properties
+java.lang.reflect.Proxy
+sun.reflect.annotation.AnnotationType
+java.lang.System
+javax.management.MBeanOperationInfo
+com.sun.jmx.mbeanserver.Introspector
+com.sun.corba.se.impl.activation.ServerManagerImpl
+java.util.XMLUtils
+com.sun.xml.internal.ws.util.HandlerAnnotationProcessor
+javax.xml.transform.FactoryFinder
+javax.xml.transform.TransformerFactory
+com.sun.xml.internal.ws.server.EndpointFactory
+com.sun.xml.internal.ws.handler.HandlerChainsModel
+sun.reflect.annotation.AnnotationParser
+java.lang.reflect.Method
+java.util.Hashtable

@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	17142
+NH Depth:	18
+NH Density:	19
+Classes	: [java.util.Properties, java.lang.reflect.Proxy, javax.naming.spi.DirectoryManager, javax.management.MBeanOperationInfo, com.sun.jmx.mbeanserver.Introspector, java.util.XMLUtils, com.sun.jndi.rmi.registry.RegistryContext, com.sun.naming.internal.ResourceManager, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, javax.xml.transform.FactoryFinder, javax.xml.transform.TransformerFactory, com.sun.xml.internal.ws.server.EndpointFactory, com.sun.xml.internal.ws.handler.HandlerChainsModel, sun.reflect.annotation.AnnotationParser, com.sun.jndi.ldap.Obj, java.lang.reflect.Method, java.util.Hashtable, sun.rmi.transport.tcp.TCPTransport, javax.naming.spi.NamingManager]

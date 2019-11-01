@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	36726
+NH Depth:	28
+NH Density:	28
+Classes	: [java.security.MessageDigest, sun.security.jca.GetInstance, java.security.Security, java.util.HashMap, java.util.LinkedHashMap, java.security.SecureRandom, java.util.ResourceBundle, javax.xml.transform.FactoryFinder, java.util.Map, com.sun.xml.internal.ws.server.EndpointFactory, java.lang.String, java.lang.reflect.Method, java.util.Hashtable, java.util.Properties, javax.management.MBeanOperationInfo, com.sun.jmx.mbeanserver.Introspector, sun.util.LocaleServiceProviderPool, java.util.XMLUtils, sun.security.provider.SecureRandom, java.util.logging.Logger, java.awt.Component, java.security.Provider, java.lang.ConditionalSpecialCasing, com.sun.xml.internal.ws.util.HandlerAnnotationProcessor, java.text.BreakIterator, javax.xml.transform.TransformerFactory, com.sun.xml.internal.ws.handler.HandlerChainsModel, sun.reflect.annotation.AnnotationParser]

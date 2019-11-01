@@ -1,0 +1,5 @@
+File:		1.4.2.NewLst
+Line No:	1397
+NH Depth:	25
+NH Density:	13
+Classes	: [java.security.AccessControlContext, java.security.UnresolvedPermission, sun.reflect.MethodAccessorGenerator, java.io.ObjectInputStream, java.lang.reflect.Constructor, java.lang.SecurityManager, sun.reflect.ReflectionFactory, java.lang.StringBuffer, java.security.ProtectionDomain, java.lang.Class, java.security.AccessController, java.security.Policy, java.security.Permissions]

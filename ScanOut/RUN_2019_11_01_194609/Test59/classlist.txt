@@ -1,0 +1,16 @@
+java.security.AccessControlContext
+java.util.Properties
+javax.naming.spi.DirectoryManager
+java.util.Date
+sun.util.calendar.CalendarSystem
+java.lang.SecurityManager
+com.sun.jndi.rmi.registry.RegistryContext
+com.sun.naming.internal.ResourceManager
+sun.net.www.MimeTable
+java.security.ProtectionDomain
+java.lang.Class
+java.security.AccessController
+java.security.Policy
+com.sun.jndi.ldap.Obj
+java.util.Hashtable
+javax.naming.spi.NamingManager

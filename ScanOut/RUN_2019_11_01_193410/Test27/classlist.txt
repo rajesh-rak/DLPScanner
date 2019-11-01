@@ -1,0 +1,6 @@
+sun.reflect.ReflectionFactory
+java.lang.StringBuffer
+sun.reflect.MethodAccessorGenerator
+java.io.ObjectInputStream
+java.io.ObjectStreamClass
+java.lang.reflect.Constructor

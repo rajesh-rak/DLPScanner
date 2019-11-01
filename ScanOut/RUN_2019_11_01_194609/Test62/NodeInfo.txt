@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	8660
+NH Depth:	21
+NH Density:	20
+Classes	: [java.security.AccessControlContext, java.util.Properties, javax.naming.spi.DirectoryManager, java.util.Date, java.util.TimeZone, sun.util.LocaleServiceProviderPool, java.util.logging.Logger, java.awt.Component, java.lang.SecurityManager, sun.util.TimeZoneNameUtility, com.sun.jndi.rmi.registry.RegistryContext, com.sun.naming.internal.ResourceManager, sun.net.www.MimeTable, java.security.ProtectionDomain, java.lang.ClassLoader, java.security.AccessController, java.security.Policy, com.sun.jndi.ldap.Obj, java.util.Hashtable, javax.naming.spi.NamingManager]

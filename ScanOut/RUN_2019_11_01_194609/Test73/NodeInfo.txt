@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	12628
+NH Depth:	25
+NH Density:	22
+Classes	: [java.util.jar.Manifest, com.sun.org.apache.xml.internal.res.XMLErrorResources_sk, java.util.Properties, com.sun.corba.se.impl.logging.ORBUtilSystemException, java.util.Date, java.util.TimeZone, java.util.logging.LogManager, sun.util.LocaleServiceProviderPool, sun.util.calendar.CalendarSystem, java.util.logging.Logger, java.util.jar.Attributes, java.awt.Component, com.sun.corba.se.spi.orb.ORB, sun.util.TimeZoneNameUtility, java.util.ResourceBundle, sun.util.calendar.ZoneInfo, java.net.URLConnection, sun.net.www.MimeTable, sun.util.calendar.BaseCalendar, java.util.SimpleTimeZone, java.util.Hashtable, sun.util.calendar.LocalGregorianCalendar]

@@ -1,0 +1,5 @@
+File:		k26.xml
+Line No:	1235
+NH Depth:	14
+NH Density:	11
+Classes	: [java.util.Properties, javax.swing.plaf.multi.MultiLookAndFeel, sun.misc.VM, java.lang.System, javax.swing.UIDefaults, javax.xml.parsers.FactoryFinder, java.util.XMLUtils, javax.xml.parsers.DocumentBuilderFactory, java.lang.ClassLoader, javax.swing.plaf.multi.MultiComboBoxUI, java.util.Hashtable]
