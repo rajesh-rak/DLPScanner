@@ -1,0 +1,4 @@
+com.sun.jndi.ldap.LdapClient
+com.sun.jndi.ldap.Connection
+com.sun.jndi.ldap.EventSupport
+com.sun.jndi.ldap.LdapCtx

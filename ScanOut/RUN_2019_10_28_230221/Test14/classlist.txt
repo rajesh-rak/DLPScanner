@@ -1,0 +1,3 @@
+java.lang.Throwable
+java.io.ObjectOutputStream
+java.io.ObjectStreamClass

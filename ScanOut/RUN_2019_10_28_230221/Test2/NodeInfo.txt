@@ -1,0 +1,5 @@
+File:		1.5.0.NewLst
+Line No:	47
+NH Depth:	7
+NH Density:	3
+Classes	: [sun.font.FontManager, sun.java2d.SunGraphicsEnvironment, sun.font.Type1Font]

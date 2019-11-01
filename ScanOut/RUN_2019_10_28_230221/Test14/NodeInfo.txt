@@ -1,0 +1,5 @@
+File:		1.4.2.NewLst
+Line No:	381
+NH Depth:	8
+NH Density:	3
+Classes	: [java.lang.Throwable, java.io.ObjectOutputStream, java.io.ObjectStreamClass]

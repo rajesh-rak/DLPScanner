@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# @Author: Rajesh Kumar R (rajesh.rak@gmail.com) IIIT-B MS2013007
+# @Author: Rajesh Kumar R (rajesh.kumar@iiitb.org) IIIT-B MS2013007
 #
 # This script will run all the necessary programs and scripts to detect a
 # deadlock. Here are the things that will be done by this script:
@@ -33,7 +33,7 @@
 # This set of tools and automation provides a definitive way of detecting
 # deadlocks in large libraries which is otherwise not possible with the existing
 # methods and tools available in the industry and in the research community
-# (March - 2016)
+# 
 #
 # -------------------------------------------
 # Some things to take care:

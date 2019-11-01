@@ -1,0 +1,3 @@
+sun.font.FontManager
+sun.font.TrueTypeFont
+sun.java2d.SunGraphicsEnvironment

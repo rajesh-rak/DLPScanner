@@ -1,0 +1,76 @@
+Execution Summary
+-----------------
+Source Folder:	/Users/rajesh/code/git_clone/cycles/*Lst
+Output Folder:	/Users/rajesh/code/git_clone/ScanOut
+Neighbourhood Depth:	10
+Neighbourhood Density:	10
+Total Files Processed:	9
+Total Lines Processed:	117,281
+Total Nodes Processed:	145
+Total Nodes Selected:	16
+Total Duplicates:	68
+Total Processing Time:	329ms
+-------------------------------------
+File:			1.5.0.NewLst
+Lines Processed:	1,677
+Nodes Processed:	17
+Nodes Selected:		11
+Duplicates skipped:	0
+Processed in: 		70ms
+------
+File:			1.4.2.NewLst
+Lines Processed:	2,966
+Nodes Processed:	14
+Nodes Selected:		4
+Duplicates skipped:	5
+Processed in: 		26ms
+------
+File:			1.4.2.10.NewLst
+Lines Processed:	93,660
+Nodes Processed:	14
+Nodes Selected:		0
+Duplicates skipped:	9
+Processed in: 		93ms
+------
+File:			1.4.2_04.NewerLst
+Lines Processed:	6,116
+Nodes Processed:	17
+Nodes Selected:		0
+Duplicates skipped:	7
+Processed in: 		37ms
+------
+File:			1.4.2_12.NewLst
+Lines Processed:	2,848
+Nodes Processed:	14
+Nodes Selected:		0
+Duplicates skipped:	8
+Processed in: 		19ms
+------
+File:			1.6.0.NewLst
+Lines Processed:	2,214
+Nodes Processed:	19
+Nodes Selected:		0
+Duplicates skipped:	11
+Processed in: 		13ms
+------
+File:			1.5.0.NewerLst
+Lines Processed:	2,855
+Nodes Processed:	20
+Nodes Selected:		1
+Duplicates skipped:	9
+Processed in: 		22ms
+------
+File:			1.5.0_08.NewLst
+Lines Processed:	1,711
+Nodes Processed:	17
+Nodes Selected:		0
+Duplicates skipped:	11
+Processed in: 		14ms
+------
+File:			1.4.2_04.NewLst
+Lines Processed:	3,234
+Nodes Processed:	13
+Nodes Selected:		0
+Duplicates skipped:	8
+Processed in: 		24ms
+------
